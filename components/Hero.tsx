@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
@@ -12,6 +12,27 @@ const ROTATING_WORDS = ["GROWTH", "SEARCH", "ADS", "AI VISIBILITY", "REVENUE"];
 export default function Hero() {
   const { hero } = KF_DATA;
   const [wordIndex, setWordIndex] = useState(0);
+  const [widths, setWidths] = useState<Record<string, number>>({});
+  const measureRefs = useRef<Record<string, HTMLSpanElement | null>>({});
+
+  useEffect(() => {
+    const updateWidths = () => {
+      const newWidths: Record<string, number> = {};
+      for (const word of ROTATING_WORDS) {
+        const el = measureRefs.current[word];
+        if (el) {
+          newWidths[word] = el.getBoundingClientRect().width;
+        }
+      }
+      if (Object.keys(newWidths).length === ROTATING_WORDS.length) {
+        setWidths(newWidths);
+      }
+    };
+
+    updateWidths();
+    window.addEventListener("resize", updateWidths);
+    return () => window.removeEventListener("resize", updateWidths);
+  }, []);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -69,23 +90,51 @@ export default function Hero() {
           >
             
             <div className="space-y-2">
+              {/* Hidden measurement elements to obtain exact rendered width for each word across all screen sizes */}
+              <div
+                className="absolute top-0 left-0 invisible pointer-events-none -z-50 opacity-0 select-none font-serif text-4xl sm:text-5xl lg:text-[62px] font-bold tracking-tight whitespace-nowrap"
+                aria-hidden="true"
+              >
+                {ROTATING_WORDS.map((word) => (
+                  <span
+                    key={word}
+                    ref={(el) => {
+                      measureRefs.current[word] = el;
+                    }}
+                    className="inline-block"
+                  >
+                    {word}
+                  </span>
+                ))}
+              </div>
+
               <h1 className="font-serif text-4xl sm:text-5xl lg:text-[62px] font-bold text-[#1B1624] tracking-tight leading-[1.12]">
                 <span>We’re your partners in </span>
                 <br />
                 <motion.span
-                  className="relative inline-block text-[#1B1624] align-bottom"
-                  layout
-                  transition={{ layout: { duration: 0.5, ease: [0.22, 1, 0.36, 1] } }}
+                  className="relative inline-block text-[#1B1624] align-bottom overflow-visible"
+                  animate={{
+                    width: widths[ROTATING_WORDS[wordIndex]]
+                      ? widths[ROTATING_WORDS[wordIndex]]
+                      : "auto",
+                  }}
+                  transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
                 >
-                  {/* Fluid grid overlay: incoming and outgoing words animate simultaneously in the exact same cell */}
-                  <span className="relative inline-grid overflow-hidden pb-1">
+                  {/* Overflow clip container for the text glide */}
+                  <span className="relative block overflow-hidden pb-1 w-full">
                     <AnimatePresence initial={false}>
                       <motion.span
                         key={ROTATING_WORDS[wordIndex]}
-                        className="col-start-1 row-start-1 relative z-10 block whitespace-nowrap"
+                        className="block whitespace-nowrap relative z-10"
                         initial={{ y: "100%", opacity: 0 }}
                         animate={{ y: "0%", opacity: 1 }}
-                        exit={{ y: "-100%", opacity: 0 }}
+                        exit={{
+                          y: "-100%",
+                          opacity: 0,
+                          position: "absolute",
+                          top: 0,
+                          left: 0,
+                        }}
                         transition={{
                           y: { duration: 0.55, ease: [0.22, 1, 0.36, 1] },
                           opacity: { duration: 0.45, ease: "easeOut" },
@@ -96,7 +145,7 @@ export default function Hero() {
                     </AnimatePresence>
                   </span>
 
-                  {/* Exact double curved doodle underline matching reference */}
+                  {/* Exact double curved doodle underline synchronized with the animated width */}
                   <svg
                     className="absolute -bottom-2 left-0 w-full text-[#5DCDF1] -z-0 pointer-events-none"
                     viewBox="0 0 160 20"
