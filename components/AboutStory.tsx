@@ -77,7 +77,7 @@ export default function AboutStory() {
             <div className="relative w-full max-w-[420px] aspect-[4/5] rounded-[32px] overflow-hidden border border-[#ECE5E1] bg-white shadow-sm hover:shadow-md transition-all duration-300">
               <div className="absolute inset-0 bg-gradient-to-t from-[#F9F6F3]/40 via-transparent to-transparent z-10" />
               <Image
-                src="/assets/khalid-320.webp"
+                src="/assets/khalid-portrait.jpg"
                 alt="Khalid Farhan"
                 fill
                 priority

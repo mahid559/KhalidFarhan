@@ -62,7 +62,7 @@ export default function AboutPage() {
               <div className="lg:col-span-5 flex justify-center">
                 <div className="relative w-64 h-80 rounded-[28px] overflow-hidden border border-[#ECE5E1] bg-[#F9F6F3]">
                   <Image
-                    src="/assets/khalid-320.webp"
+                    src="/assets/khalid-portrait.jpg"
                     alt="Khalid Farhan"
                     fill
                     className="object-cover"
