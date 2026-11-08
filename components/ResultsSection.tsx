@@ -1,397 +1,356 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
-import { KF_DATA } from "@/data/content";
 
 export default function ResultsSection() {
-  const { results } = KF_DATA;
+  const sectionRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("in");
+          }
+        });
+      },
+      { threshold: 0.15 }
+    );
+
+    const tiles = sectionRef.current?.querySelectorAll(".rw-tile");
+    tiles?.forEach((tile) => observer.observe(tile));
+
+    return () => observer.disconnect();
+  }, []);
 
   return (
-    <section className="bg-[#F9F6F3] py-20 sm:py-24 border-b border-[#ECE5E1]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        {/* Section Header (No unauthorized 'Case Studies' label) */}
-        <motion.div
-          initial={{ opacity: 0, y: 24 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, amount: 0.2 }}
-          transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
-          className="flex flex-col sm:flex-row sm:items-end justify-between gap-6 mb-14"
-        >
-          <div className="space-y-2">
-            <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1B1624] tracking-tight">
-              {results.title}
-            </h2>
-          </div>
-
-          <Link
-            href="/work/case-studies"
-            className="ali-pill-btn bg-white hover:bg-[#F3EDE9] text-[#1B1624] border border-[#ECE5E1] font-semibold text-xs sm:text-sm px-6 py-3 transition-all shrink-0 inline-flex items-center gap-2"
-          >
-            <span>{results.cta}</span>
+    <section ref={sectionRef} className="rw" aria-labelledby="rw-h">
+      <div className="site-container">
+        {/* Section Header */}
+        <div className="rw-head">
+          <h2 id="rw-h" className="heading-xl">
+            Results that speak for themselves
+          </h2>
+          <Link className="btn btn-outline-white" href="/work/case-studies">
+            All case studies →
           </Link>
-        </motion.div>
+        </div>
 
-        {/* 8 Case Studies Grid with Individual Hover Reactions */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          
-          {/* Card 1: Cork B&B */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 0 * 0.08, ease: [0.16, 1, 0.3, 1] }}
+        {/* Exact 8 Case Study Tiles Grid */}
+        <div className="rw-grid">
+          {/* Tile 1 (rw-a, span 5): Cork B&B SEO */}
+          <Link
+            className="rw-tile rw-a rw-color-orange"
+            style={{ transitionDelay: "0ms" }}
+            href="/work/case-studies/cork-bnb-seo"
           >
-            <Link
-              href="/work/case-studies/cork-bnb-seo"
-              className="group ali-card hover-highlight-orange flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-4">
-                <div className="flex items-center justify-between text-xs">
-                  <span className="text-[#76737C]">Organic clicks</span>
-                  <span className="font-bold text-2xl font-serif text-[#1B1624] group-hover:text-[#FD976D] transition-colors">+180%</span>
+            <div className="rw-shot">
+              <div className="rw-pad">
+                <div className="rw-kv">
+                  <span>Organic clicks</span>
+                  <strong>+180%</strong>
                 </div>
-
-                {/* Exact SVG Chart from KF */}
-                <div className="h-28 w-full bg-[#F9F6F3] rounded-xl p-2 flex items-center justify-center overflow-hidden">
-                  <svg viewBox="0 0 320 150" className="w-full h-full" aria-hidden="true">
-                    <line x1="10" x2="310" y1="37.5" y2="37.5" stroke="#ECE5E1" strokeDasharray="3 3" />
-                    <line x1="10" x2="310" y1="75" y2="75" stroke="#ECE5E1" strokeDasharray="3 3" />
-                    <line x1="10" x2="310" y1="112.5" y2="112.5" stroke="#ECE5E1" strokeDasharray="3 3" />
-                    <path
-                      d="M10,126 L37,119 L64,122 L91,110 L119,103 L146,91 L173,81 L200,67 L228,56 L255,42 L282,34 L310,22 L310,150 L10,150 Z"
-                      fill="#FD976D"
-                      fillOpacity="0.15"
-                      className="transition-opacity group-hover:fill-opacity-25"
-                    />
-                    <path
-                      d="M10,126 L37,119 L64,122 L91,110 L119,103 L146,91 L173,81 L200,67 L228,56 L255,42 L282,34 L310,22"
-                      fill="none"
-                      stroke="#FD976D"
-                      strokeWidth="3"
-                      strokeLinecap="round"
-                    />
-                    <circle cx="310" cy="22" r="5" fill="#FD976D" className="group-hover:scale-125 origin-center transition-transform" />
-                  </svg>
-                </div>
-
-                <div className="flex justify-between text-[11px] text-[#76737C]">
+                <svg viewBox="0 0 320 150" className="rw-svg" aria-hidden="true">
+                  <line x1="10" x2="310" y1="37.5" y2="37.5" className="rw-grid" />
+                  <line x1="10" x2="310" y1="75" y2="75" className="rw-grid" />
+                  <line x1="10" x2="310" y1="112.5" y2="112.5" className="rw-grid" />
+                  <path
+                    d="M10,126.13 L37.27,119.2 L64.54,122.66 L91.81,110.53 L119.09,103.6 L146.36,91.46 L173.63,81.06 L200.9,67.2 L228.18,56.8 L255.45,42.93 L282.72,34.26 L310,22.13 L310,150 L10,150 Z"
+                    className="rw-area"
+                  />
+                  <path
+                    d="M10,126.13 L37.27,119.2 L64.54,122.66 L91.81,110.53 L119.09,103.6 L146.36,91.46 L173.63,81.06 L200.9,67.2 L228.18,56.8 L255.45,42.93 L282.72,34.26 L310,22.13"
+                    className="rw-line rw-draw"
+                  />
+                  <circle cx="310" cy="22.13" r="5" className="rw-dot" />
+                </svg>
+                <div className="rw-axis">
                   <span>Month 1</span>
                   <span>Month 9</span>
                 </div>
               </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A boutique B&B in Cork</span>
+              <span className="rw-what">
+                SEO rebuild{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
 
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A boutique B&B in Cork</span>
-                <span className="text-[#FD976D] font-semibold inline-flex items-center gap-1">
-                  SEO rebuild <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 2: Galway Roofer Local SEO */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 1 * 0.08, ease: [0.16, 1, 0.3, 1] }}
+          {/* Tile 2 (rw-b, span 4): Galway Roofer Local SEO */}
+          <Link
+            className="rw-tile rw-b rw-color-purple"
+            style={{ transitionDelay: "70ms" }}
+            href="/work/case-studies/galway-roofer-local-seo"
           >
-            <Link
-              href="/work/case-studies/galway-roofer-local-seo"
-              className="group ali-card hover-highlight-blue flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3">
-                <div className="flex items-center justify-between text-xs">
-                  <span className="text-[#76737C]">Rankings, 6 months</span>
-                  <span className="font-bold text-2xl font-serif text-[#1B1624] group-hover:text-[#5DCDF1] transition-colors">#1</span>
+            <div className="rw-shot">
+              <div className="rw-pad">
+                <div className="rw-kv">
+                  <span>Rankings, 6 months</span>
+                  <strong>#1</strong>
                 </div>
-
-                {/* Exact Keywords Table from KF */}
-                <div className="space-y-1.5 text-xs">
-                  <div className="flex justify-between items-center bg-[#F9F6F3] group-hover:bg-white transition-colors px-2.5 py-1.5 rounded-lg">
-                    <span className="text-[#54505B] truncate pr-2">roofer galway</span>
-                    <span className="text-[#76737C] line-through text-[11px]">14</span>
-                    <span className="font-bold text-[#1B1624] pl-2">→ 1</span>
-                  </div>
-                  <div className="flex justify-between items-center bg-[#F9F6F3] group-hover:bg-white transition-colors px-2.5 py-1.5 rounded-lg">
-                    <span className="text-[#54505B] truncate pr-2">roof repair galway</span>
-                    <span className="text-[#76737C] line-through text-[11px]">22</span>
-                    <span className="font-bold text-[#1B1624] pl-2">→ 2</span>
-                  </div>
-                  <div className="flex justify-between items-center bg-[#F9F6F3] group-hover:bg-white transition-colors px-2.5 py-1.5 rounded-lg">
-                    <span className="text-[#54505B] truncate pr-2">flat roof galway</span>
-                    <span className="text-[#76737C] line-through text-[11px]">31</span>
-                    <span className="font-bold text-[#1B1624] pl-2">→ 3</span>
-                  </div>
-                  <div className="flex justify-between items-center bg-[#F9F6F3] group-hover:bg-white transition-colors px-2.5 py-1.5 rounded-lg">
-                    <span className="text-[#54505B] truncate pr-2">emergency roofer</span>
-                    <span className="text-[#76737C] line-through text-[11px]">9</span>
-                    <span className="font-bold text-[#1B1624] pl-2">→ 1</span>
-                  </div>
-                </div>
+                <ul className="rw-ranks">
+                  <li>
+                    <span className="rw-kw">roofer galway</span>
+                    <span className="rw-from">14</span>
+                    <span className="rw-arrow" aria-hidden="true">→</span>
+                    <span className="rw-to">1</span>
+                  </li>
+                  <li>
+                    <span className="rw-kw">roof repair galway</span>
+                    <span className="rw-from">22</span>
+                    <span className="rw-arrow" aria-hidden="true">→</span>
+                    <span className="rw-to">2</span>
+                  </li>
+                  <li>
+                    <span className="rw-kw">flat roof galway</span>
+                    <span className="rw-from">31</span>
+                    <span className="rw-arrow" aria-hidden="true">→</span>
+                    <span className="rw-to">3</span>
+                  </li>
+                  <li>
+                    <span className="rw-kw">emergency roofer galway</span>
+                    <span className="rw-from">9</span>
+                    <span className="rw-arrow" aria-hidden="true">→</span>
+                    <span className="rw-to">1</span>
+                  </li>
+                </ul>
               </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A Galway-based roofer</span>
+              <span className="rw-what">
+                Local SEO{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
 
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A Galway-based roofer</span>
-                <span className="text-[#5DCDF1] font-semibold inline-flex items-center gap-1">
-                  Local SEO <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 3: Dog Daycare Maps */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 2 * 0.08, ease: [0.16, 1, 0.3, 1] }}
+          {/* Tile 3 (rw-c, span 3): Premium Dog Daycare */}
+          <Link
+            className="rw-tile rw-c rw-color-yellow"
+            style={{ transitionDelay: "140ms" }}
+            href="/work/case-studies/dog-daycare-meta-ads"
           >
-            <Link
-              href="/work/case-studies/dog-daycare-meta-ads"
-              className="group ali-card hover-highlight-purple flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3">
-                <div className="h-32 w-full bg-[#1B1624] rounded-xl relative overflow-hidden flex items-center justify-center p-3">
-                  <svg viewBox="0 0 320 180" className="w-full h-full" aria-hidden="true">
-                    <path d="M0 40 Q80 20 160 60 T320 50" stroke="#373142" strokeWidth="8" fill="none" strokeLinecap="round" />
-                    <path d="M30 0 Q60 90 20 180" stroke="#373142" strokeWidth="8" fill="none" strokeLinecap="round" />
-                    <path d="M200 0 Q180 100 260 180" stroke="#373142" strokeWidth="8" fill="none" strokeLinecap="round" />
-                    <circle cx="160" cy="80" r="14" fill="#C9B1FB" className="group-hover:scale-110 origin-center transition-transform" />
-                    <circle cx="160" cy="80" r="6" fill="#FFFFFF" />
-                    <circle cx="90" cy="110" r="8" fill="#76737C" />
-                    <circle cx="240" cy="100" r="8" fill="#76737C" />
+            <div className="rw-shot">
+              <div className="rw-map">
+                <svg viewBox="0 0 320 180" className="rw-svg" aria-hidden="true">
+                  <path d="M0 40 Q80 20 160 60 T320 50" className="rw-road" />
+                  <path d="M30 0 Q60 90 20 180" className="rw-road" />
+                  <path d="M200 0 Q180 100 260 180" className="rw-road" />
+                  <path d="M0 130 Q120 110 320 150" className="rw-road" />
+                  <g className="rw-pin rw-pin-1">
+                    <path d="M160 60 c-14 0 -22 10 -22 22 c0 16 22 38 22 38 s22 -22 22 -38 c0 -12 -8 -22 -22 -22z" />
+                    <circle cx="160" cy="82" r="7" />
+                  </g>
+                  <g className="rw-pin rw-pin-2">
+                    <path d="M90 110 c-10 0 -16 7 -16 16 c0 12 16 28 16 28 s16 -16 16 -28 c0 -9 -6 -16 -16 -16z" />
+                  </g>
+                  <g className="rw-pin rw-pin-2">
+                    <path d="M240 100 c-10 0 -16 7 -16 16 c0 12 16 28 16 28 s16 -16 16 -28 c0 -9 -6 -16 -16 -16z" />
+                  </g>
+                </svg>
+                <div className="rw-mapcard">
+                  <strong>Top 3 in Maps</strong>
+                  <span>★ 4.9 · 60+ reviews · Open now</span>
+                </div>
+              </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A premium dog daycare</span>
+              <span className="rw-what">
+                Google Maps + Meta Ads{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
+
+          {/* Tile 4 (rw-d, span 4): Educational Fintech in Germany */}
+          <Link
+            className="rw-tile rw-d rw-color-orange"
+            style={{ transitionDelay: "210ms" }}
+            href="/work/case-studies/german-fintech-google-ads"
+          >
+            <div className="rw-shot">
+              <div className="rw-pad">
+                <div className="rw-kv">
+                  <span>Cost per lead, 90 days</span>
+                  <strong>−40%</strong>
+                </div>
+                <div className="rw-bars" aria-hidden="true">
+                  <span style={{ height: "100%", animationDelay: "0ms" }} />
+                  <span style={{ height: "94%", animationDelay: "70ms" }} />
+                  <span style={{ height: "88%", animationDelay: "140ms" }} />
+                  <span style={{ height: "79%", animationDelay: "210ms" }} />
+                  <span style={{ height: "71%", animationDelay: "280ms" }} />
+                  <span style={{ height: "66%", animationDelay: "350ms" }} />
+                  <span
+                    style={{ height: "60%", animationDelay: "420ms" }}
+                    className="is-last"
+                  />
+                </div>
+                <div className="rw-chips">
+                  <span>Leads <b>+62%</b></span>
+                  <span>ROAS <b>3.2x</b></span>
+                  <span>Wasted spend <b>−€4.1k</b></span>
+                </div>
+              </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">An educational fintech in Germany</span>
+              <span className="rw-what">
+                Google Ads rebuild{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
+
+          {/* Tile 5 (rw-e, span 5): Dublin Music School */}
+          <Link
+            className="rw-tile rw-e rw-color-purple"
+            style={{ transitionDelay: "0ms" }}
+            href="/work/case-studies/dublin-music-school-seo"
+          >
+            <div className="rw-shot">
+              <div className="rw-browser">
+                <div className="rw-browser-bar">
+                  <span />
+                  <span />
+                  <span />
+                  <em>musicschool.ie/guitar-lessons-dublin</em>
+                </div>
+                <div className="rw-browser-body">
+                  <div className="rw-page">
+                    <div className="rw-page-nav">
+                      <span />
+                      <i />
+                      <i />
+                      <i />
+                    </div>
+                    <div className="rw-page-hero">
+                      <b style={{ width: "72%" }} />
+                      <b style={{ width: "54%" }} />
+                      <small style={{ width: "60%" }} />
+                      <small style={{ width: "46%" }} />
+                      <span className="rw-page-cta">Book a free trial lesson</span>
+                    </div>
+                    <div className="rw-page-cards">
+                      <span />
+                      <span />
+                      <span />
+                    </div>
+                  </div>
+                  <div className="rw-badge">Waiting list in 9 months</div>
+                </div>
+              </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A music school in Dublin</span>
+              <span className="rw-what">
+                Landing pages + SEO{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
+
+          {/* Tile 6 (rw-f, span 3): Roofer Google Reviews */}
+          <Link
+            className="rw-tile rw-f rw-color-yellow"
+            style={{ transitionDelay: "70ms" }}
+            href="/work/case-studies/galway-roofer-local-seo"
+          >
+            <div className="rw-shot">
+              <div className="rw-pad rw-center">
+                <div className="rw-stars" aria-hidden="true">★★★★★</div>
+                <div className="rw-big">
+                  60<span>+</span>
+                </div>
+                <p>Google reviews, up from 12 in six months</p>
+              </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A Galway-based roofer</span>
+              <span className="rw-what">
+                Review programme{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
+
+          {/* Tile 7 (rw-g, span 7): Beauty Brand Email Flows */}
+          <Link
+            className="rw-tile rw-g rw-color-orange"
+            style={{ transitionDelay: "140ms" }}
+            href="/work/case-studies/beauty-ecommerce-meta-ads"
+          >
+            <div className="rw-shot">
+              <div className="rw-pad">
+                <div className="rw-kv">
+                  <span>Abandoned-cart flow</span>
+                  <strong>+18% revenue</strong>
+                </div>
+                <ol className="rw-flow">
+                  <li style={{ animationDelay: "0ms" }}>
+                    <span className="rw-flow-t">1 hour</span>
+                    <span className="rw-flow-s">You left something behind</span>
+                    <span className="rw-flow-r">41% open</span>
+                  </li>
+                  <li style={{ animationDelay: "120ms" }}>
+                    <span className="rw-flow-t">24 hours</span>
+                    <span className="rw-flow-s">Still thinking it over?</span>
+                    <span className="rw-flow-r">33% open</span>
+                  </li>
+                  <li style={{ animationDelay: "240ms" }}>
+                    <span className="rw-flow-t">3 days</span>
+                    <span className="rw-flow-s">Last chance, 10% off</span>
+                    <span className="rw-flow-r">9.4% bought</span>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A premium beauty brand</span>
+              <span className="rw-what">
+                Email flows{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
+
+          {/* Tile 8 (rw-h, span 5): Beauty Brand ROAS */}
+          <Link
+            className="rw-tile rw-h rw-color-purple"
+            style={{ transitionDelay: "210ms" }}
+            href="/work/case-studies/beauty-ecommerce-meta-ads"
+          >
+            <div className="rw-shot">
+              <div className="rw-pad rw-center">
+                <div className="rw-roas">
+                  <span className="rw-roas-from">1.4x</span>
+                  <svg viewBox="0 0 60 24" aria-hidden="true">
+                    <path
+                      d="M4 12 H50 M40 4 l12 8 -12 8"
+                      className="rw-roas-arrow"
+                    />
                   </svg>
-                  <div className="absolute left-2.5 bottom-2.5 bg-white/95 backdrop-blur-xs px-3 py-1.5 rounded-lg border border-[#ECE5E1] shadow-xs">
-                    <div className="text-[11px] font-bold text-[#1B1624]">Top 3 in Maps</div>
-                    <div className="text-[9px] text-[#54505B]">★ 4.9 · 60+ reviews · Open now</div>
-                  </div>
+                  <span className="rw-roas-to">4.2x</span>
                 </div>
+                <p>Meta ROAS in 4 months, same budget</p>
               </div>
-
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A premium dog daycare</span>
-                <span className="text-[#7C3AED] font-semibold inline-flex items-center gap-1">
-                  Google Maps <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 4: German Fintech Google Ads */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 3 * 0.08, ease: [0.16, 1, 0.3, 1] }}
-          >
-            <Link
-              href="/work/case-studies/german-fintech-google-ads"
-              className="group ali-card hover-highlight-yellow flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3">
-                <div className="flex items-center justify-between text-xs">
-                  <span className="text-[#76737C]">Cost per lead, 90 days</span>
-                  <span className="font-bold text-2xl font-serif text-[#1B1624] group-hover:text-[#B45309] transition-colors">−40%</span>
-                </div>
-
-                {/* Exact bars visualization */}
-                <div className="flex items-end gap-1.5 h-20 bg-[#F9F6F3] rounded-xl p-3">
-                  <span className="flex-1 bg-[#5DCDF1] rounded-t-xs transition-all group-hover:brightness-110" style={{ height: "100%" }} />
-                  <span className="flex-1 bg-[#5DCDF1] rounded-t-xs transition-all group-hover:brightness-110" style={{ height: "94%" }} />
-                  <span className="flex-1 bg-[#5DCDF1] rounded-t-xs transition-all group-hover:brightness-110" style={{ height: "88%" }} />
-                  <span className="flex-1 bg-[#5DCDF1] rounded-t-xs transition-all group-hover:brightness-110" style={{ height: "79%" }} />
-                  <span className="flex-1 bg-[#5DCDF1] rounded-t-xs transition-all group-hover:brightness-110" style={{ height: "71%" }} />
-                  <span className="flex-1 bg-[#5DCDF1] rounded-t-xs transition-all group-hover:brightness-110" style={{ height: "66%" }} />
-                  <span className="flex-1 bg-[#FD976D] rounded-t-xs transition-all group-hover:scale-y-105 origin-bottom" style={{ height: "60%" }} />
-                </div>
-
-                {/* Exact chips */}
-                <div className="flex flex-wrap gap-1.5 text-[10px]">
-                  <span className="bg-[#F9F6F3] border border-[#ECE5E1] px-2 py-0.5 rounded-full text-[#54505B]">
-                    Leads <b>+62%</b>
-                  </span>
-                  <span className="bg-[#F9F6F3] border border-[#ECE5E1] px-2 py-0.5 rounded-full text-[#54505B]">
-                    ROAS <b>3.2x</b>
-                  </span>
-                  <span className="bg-[#F9F6F3] border border-[#ECE5E1] px-2 py-0.5 rounded-full text-[#54505B]">
-                    Wasted spend <b>−€4.1k</b>
-                  </span>
-                </div>
-              </div>
-
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624] truncate pr-2">An educational fintech in Germany</span>
-                <span className="text-[#B45309] font-semibold inline-flex items-center gap-1 shrink-0">
-                  Google Ads <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 5: Dublin Music School */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 4 * 0.08, ease: [0.16, 1, 0.3, 1] }}
-          >
-            <Link
-              href="/work/case-studies/dublin-music-school-seo"
-              className="group ali-card hover-highlight-orange flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3">
-                <div className="bg-[#F9F6F3] border border-[#ECE5E1] rounded-xl overflow-hidden group-hover:shadow-xs transition-shadow">
-                  <div className="bg-[#ECE5E1]/60 px-3 py-1.5 flex items-center gap-1 text-[10px] text-[#76737C]">
-                    <span className="w-2 h-2 rounded-full bg-[#1B1624]/20" />
-                    <span className="w-2 h-2 rounded-full bg-[#1B1624]/20" />
-                    <span className="w-2 h-2 rounded-full bg-[#1B1624]/20" />
-                    <span className="ml-2 bg-white px-2 py-0.5 rounded-sm truncate text-[#54505B]">
-                      musicschool.ie/guitar-lessons-dublin
-                    </span>
-                  </div>
-                  <div className="p-3 space-y-2">
-                    <div className="h-3 w-3/4 bg-[#1B1624] rounded-xs" />
-                    <div className="h-2 w-1/2 bg-[#76737C]/40 rounded-xs" />
-                    <div className="inline-block bg-[#FD976D] text-white text-[9px] font-bold px-2 py-1 rounded-full">
-                      Book a free trial lesson
-                    </div>
-                    <div className="text-[10px] font-bold text-[#1B1624] bg-white border border-[#ECE5E1] p-1.5 rounded-lg text-center mt-1">
-                      Waiting list in 9 months
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A music school in Dublin</span>
-                <span className="text-[#FD976D] font-semibold inline-flex items-center gap-1">
-                  SEO <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 6: Galway Roofer Review Programme */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 5 * 0.08, ease: [0.16, 1, 0.3, 1] }}
-          >
-            <Link
-              href="/work/case-studies/galway-roofer-local-seo"
-              className="group ali-card hover-highlight-yellow flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3 text-center py-2">
-                <div className="text-[#F3B344] text-lg tracking-widest group-hover:scale-105 transition-transform">
-                  ★★★★★
-                </div>
-                <div className="font-serif text-5xl font-extrabold text-[#1B1624] group-hover:text-[#B45309] transition-colors">
-                  60<span className="text-[#FD976D]">+</span>
-                </div>
-                <p className="text-xs text-[#54505B] max-w-[20ch] mx-auto font-sans">
-                  Google reviews, up from 12 in six months
-                </p>
-              </div>
-
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A Galway-based roofer</span>
-                <span className="text-[#B45309] font-semibold inline-flex items-center gap-1">
-                  Reviews <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 7: Beauty Ecommerce Email Flows */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 6 * 0.08, ease: [0.16, 1, 0.3, 1] }}
-          >
-            <Link
-              href="/work/case-studies/beauty-ecommerce-meta-ads"
-              className="group ali-card hover-highlight-purple flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3">
-                <div className="flex items-center justify-between text-xs">
-                  <span className="text-[#76737C]">Abandoned-cart flow</span>
-                  <span className="font-bold text-lg font-serif text-[#1B1624] group-hover:text-[#7C3AED] transition-colors">+18% revenue</span>
-                </div>
-
-                <div className="space-y-1.5 text-[11px]">
-                  <div className="bg-[#F9F6F3] group-hover:bg-white transition-colors p-2 rounded-lg border border-[#ECE5E1]">
-                    <div className="flex justify-between text-[10px] text-[#FD976D] font-bold uppercase">
-                      <span>1 hour</span>
-                      <span>41% open</span>
-                    </div>
-                    <div className="text-[#1B1624] font-medium">You left something behind</div>
-                  </div>
-                  <div className="bg-[#F9F6F3] group-hover:bg-white transition-colors p-2 rounded-lg border border-[#ECE5E1]">
-                    <div className="flex justify-between text-[10px] text-[#FD976D] font-bold uppercase">
-                      <span>24 hours</span>
-                      <span>33% open</span>
-                    </div>
-                    <div className="text-[#1B1624] font-medium">Still thinking it over?</div>
-                  </div>
-                  <div className="bg-[#F9F6F3] group-hover:bg-white transition-colors p-2 rounded-lg border border-[#ECE5E1]">
-                    <div className="flex justify-between text-[10px] text-[#FD976D] font-bold uppercase">
-                      <span>3 days</span>
-                      <span>9.4% bought</span>
-                    </div>
-                    <div className="text-[#1B1624] font-medium">Last chance, 10% off</div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A premium beauty brand</span>
-                <span className="text-[#7C3AED] font-semibold inline-flex items-center gap-1">
-                  Email flows <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
-          {/* Card 8: Beauty Ecommerce Meta Ads */}
-          <motion.div
-            initial={{ opacity: 0, y: 24 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.15 }}
-            transition={{ duration: 0.5, delay: 7 * 0.08, ease: [0.16, 1, 0.3, 1] }}
-          >
-            <Link
-              href="/work/case-studies/beauty-ecommerce-meta-ads"
-              className="group ali-card hover-highlight-blue flex flex-col justify-between p-6 bg-white border border-[#ECE5E1] rounded-[24px] h-full"
-            >
-              <div className="space-y-3 text-center py-4">
-                <div className="flex items-center justify-center gap-3">
-                  <span className="text-xl font-serif text-[#76737C] line-through">1.4x</span>
-                  <span className="text-lg text-[#5DCDF1] transition-transform group-hover:translate-x-1">→</span>
-                  <span className="text-4xl font-serif font-extrabold text-[#1B1624] group-hover:text-[#5DCDF1] transition-colors">4.2x</span>
-                </div>
-                <p className="text-xs text-[#54505B] max-w-[20ch] mx-auto font-medium font-sans">
-                  Meta ROAS in 4 months, same budget
-                </p>
-              </div>
-
-              <div className="pt-4 mt-2 border-t border-[#ECE5E1] flex items-center justify-between text-xs">
-                <span className="font-semibold text-[#1B1624]">A premium beauty brand</span>
-                <span className="text-[#5DCDF1] font-semibold inline-flex items-center gap-1">
-                  Meta Ads <ArrowUpRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-
+            </div>
+            <div className="rw-cap">
+              <span className="rw-who">A premium beauty brand</span>
+              <span className="rw-what">
+                Meta Ads restructure{" "}
+                <ArrowUpRight className="w-3.5 h-3.5" aria-hidden="true" />
+              </span>
+            </div>
+          </Link>
         </div>
-
       </div>
     </section>
   );

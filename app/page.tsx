@@ -13,10 +13,10 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col bg-white">
-      {/* Top Section: Header + Hero in contained rounded card frame matching Ali Abdaal reference */}
-      <div className="w-full bg-white pt-2 sm:pt-4 px-2 sm:px-4 lg:px-6">
-        <div className="max-w-[1440px] mx-auto bg-[#F9F6F3] rounded-[20px] overflow-hidden shadow-2xs border border-[#ECE5E1]/40">
+    <div className="min-h-screen flex flex-col bg-[#F9F6F3]">
+      {/* Top Section: Header + Hero matching Ali Abdaal reference */}
+      <div className="w-full bg-[#F9F6F3] pt-2 sm:pt-4 pb-2 sm:pb-4 px-2 sm:px-4 lg:px-6">
+        <div className="max-w-[1440px] mx-auto bg-[#F9F6F3] rounded-[20px] overflow-hidden shadow-2xs border border-[#ECE5E1]/60">
           <Navbar />
           <Hero />
         </div>

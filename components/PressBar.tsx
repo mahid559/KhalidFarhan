@@ -8,7 +8,7 @@ export default function PressBar() {
   const { ourClients } = KF_DATA;
 
   return (
-    <section className="bg-[#F9F6F3] text-[#1B1624] py-20 sm:py-24 border-b border-[#ECE5E1]">
+    <section className="bg-[#F9F6F3] text-[#1B1624] py-16 sm:py-20 border-b border-[#ECE5E1]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header (No 'Portfolio' label per instructions) */}

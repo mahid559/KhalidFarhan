@@ -7,9 +7,9 @@ import { ArrowRight, Clock, ArrowUpRight } from "lucide-react";
 import { KF_DATA } from "@/data/content";
 
 const articleHoverClasses = [
-  "hover-highlight-yellow",
-  "hover-highlight-blue",
+  "hover-highlight-orange",
   "hover-highlight-purple",
+  "hover-highlight-yellow",
 ];
 
 export default function ArticlesSection() {

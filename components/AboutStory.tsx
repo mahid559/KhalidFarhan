@@ -11,9 +11,9 @@ export default function AboutStory() {
   const { agencyStory } = KF_DATA;
 
   const statThemes = [
-    { hoverBg: "hover:bg-[#FFF2EB]", hoverBorder: "hover:border-[#FD976D]", textAccent: "text-[#FD976D]" },
-    { hoverBg: "hover:bg-[#EFF9FC]", hoverBorder: "hover:border-[#5DCDF1]", textAccent: "text-[#5DCDF1]" },
-    { hoverBg: "hover:bg-[#FFF9EA]", hoverBorder: "hover:border-[#FDD46B]", textAccent: "text-[#E8BA3E]" },
+    { hoverBg: "hover:bg-[#FD976D]", hoverBorder: "hover:border-[#FD976D]", textAccent: "text-[#FD976D]" },
+    { hoverBg: "hover:bg-[#C9B1FB]", hoverBorder: "hover:border-[#C9B1FB]", textAccent: "text-[#C9B1FB]" },
+    { hoverBg: "hover:bg-[#FDD46B]", hoverBorder: "hover:border-[#FDD46B]", textAccent: "text-[#FDD46B]" },
   ];
 
   return (

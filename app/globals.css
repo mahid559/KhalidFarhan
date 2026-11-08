@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./sections.css";
 
 :root {
   --bg-canvas: #F9F6F3;
