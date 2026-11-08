@@ -1,26 +1,253 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-canvas: #F9F6F3;
+  --bg-card: #FFFFFF;
+  --bg-subtle: #F3EDE9;
+  --border-color: #ECE5E1;
+  --text-primary: #1B1624;
+  --text-secondary: #54505B;
+  --text-muted: #76737C;
+  
+  --accent-blue: #5DCDF1;
+  --accent-orange: #FD976D;
+  --accent-yellow: #FDD46B;
+  --accent-purple: #C9B1FB;
+  --accent-green: #79D287;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@theme {
+  --color-canvas: #F9F6F3;
+  --color-card: #FFFFFF;
+  --color-subtle: #F3EDE9;
+  --color-border-subtle: #ECE5E1;
+  --color-ink: #1B1624;
+  --color-ink-muted: #54505B;
+  --color-ink-faint: #76737C;
+
+  --color-accent-blue: #5DCDF1;
+  --color-accent-orange: #FD976D;
+  --color-accent-yellow: #FDD46B;
+  --color-accent-purple: #C9B1FB;
+  --color-accent-green: #79D287;
+
+  --font-serif: var(--font-heading), Georgia, serif;
+  --font-sans: var(--font-body), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  background-color: #F9F6F3;
+  color: #1B1624;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F9F6F3;
+  color: #1B1624;
+  font-family: var(--font-body), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Ali Abdaal typography tokens */
+.font-recoleta {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+/* Continuous Infinite Marquee Scroll - 100% Mathematically Seamless */
+@keyframes marquee-scroll {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+.marquee-container {
+  display: flex;
+  overflow: hidden;
+  user-select: none;
+  width: 100%;
+}
+
+.marquee-content {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  gap: 64px;
+  padding-right: 64px;
+  animation: marquee-scroll 28s linear infinite;
+  will-change: transform;
+}
+
+.marquee-container:hover .marquee-content {
+  animation-play-state: paused;
+}
+
+@media (max-width: 767px) {
+  .marquee-content {
+    gap: 40px;
+    padding-right: 40px;
+    animation-duration: 20s;
+  }
+}
+
+/* Ali Abdaal Clickable Card Hover System (Exact match from aliabdaal.com) */
+.ali-card,
+.is-style-clickable-card {
+  position: relative;
+  background-color: #FFFFFF;
+  border: 1px solid #ECE5E1;
+  border-radius: 20px;
+  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, box-shadow;
+}
+
+.ali-card:hover,
+.is-style-clickable-card:hover {
+  transform: translateY(-12px);
+  box-shadow: 0px 30px 40px -15px rgba(194, 179, 164, 0.6);
+  background-color: #FDD46B;
+}
+
+.ali-card.hover-highlight-orange:hover,
+.is-style-clickable-card.hover-highlight-orange:hover,
+.hover-orange:hover {
+  background-color: #FD976D !important;
+  border-color: #FD976D !important;
+}
+
+.ali-card.hover-highlight-purple:hover,
+.is-style-clickable-card.hover-highlight-purple:hover,
+.hover-purple:hover {
+  background-color: #C9B1FB !important;
+  border-color: #C9B1FB !important;
+}
+
+.ali-card.hover-highlight-yellow:hover,
+.is-style-clickable-card.hover-highlight-yellow:hover,
+.hover-yellow:hover {
+  background-color: #FDD46B !important;
+  border-color: #FDD46B !important;
+}
+
+.ali-card.hover-highlight-blue:hover,
+.is-style-clickable-card.hover-highlight-blue:hover,
+.hover-blue:hover {
+  background-color: #5DCDF1 !important;
+  border-color: #5DCDF1 !important;
+}
+
+/* Category Pillar Cards (Ali Abdaal 12px elevation & colored glow) */
+.ali-pillar-card {
+  position: relative;
+  background-color: #FFFFFF;
+  border: 1px solid #ECE5E1;
+  border-radius: 24px;
+  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, box-shadow;
+}
+
+.ali-pillar-card:hover {
+  transform: translateY(-12px);
+  box-shadow: 0px 30px 45px -15px rgba(194, 179, 164, 0.6);
+}
+
+.ali-pillar-card.hover-orange:hover {
+  border-color: #FD976D;
+  background-color: #FD976D !important;
+}
+
+.ali-pillar-card.hover-purple:hover {
+  border-color: #C9B1FB;
+  background-color: #C9B1FB !important;
+}
+
+.ali-pillar-card.hover-yellow:hover {
+  border-color: #FDD46B;
+  background-color: #FDD46B !important;
+}
+
+.ali-pillar-card.hover-blue:hover {
+  border-color: #5DCDF1;
+  background-color: #5DCDF1 !important;
+}
+
+/* Client Wall Logo Marks - Dark monochrome on light canvas */
+.oc-mark {
+  display: inline-block;
+  background-color: #1B1624;
+  opacity: 0.65;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  transition: background-color 200ms ease, opacity 200ms ease, transform 200ms ease;
+}
+
+.oc-mark:hover {
+  background-color: #FD976D;
+  opacity: 1;
+  transform: scale(1.08);
+}
+
+/* Ali Abdaal Pill Button System */
+.ali-pill-btn {
+  border-radius: 9999px;
+  font-weight: 600;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.2s ease-in-out;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  will-change: transform;
+}
+
+.ali-pill-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -4px rgba(27, 22, 36, 0.2);
+}
+
+.ali-pill-btn:active {
+  transform: translateY(0);
+}
+
+/* Ali Abdaal Round Carousel Control Buttons */
+.cc-carousel-btn {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background-color: #FDD46B;
+  color: #1B1624;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+.cc-carousel-btn:hover {
+  transform: scale(1.1);
+  background-color: #1B1624;
+  color: #FFFFFF;
+}
+
+.cc-carousel-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+  transform: none;
+  background-color: #ECE5E1;
+  color: #76737C;
 }
