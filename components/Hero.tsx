@@ -1,14 +1,24 @@
 "use client";
 
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { KF_DATA } from "@/data/content";
 
+const ROTATING_WORDS = ["GROWTH", "SEARCH", "ADS", "AI VISIBILITY", "REVENUE"];
+
 export default function Hero() {
   const { hero } = KF_DATA;
+  const [wordIndex, setWordIndex] = useState(0);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setWordIndex((prev) => (prev + 1) % ROTATING_WORDS.length);
+    }, 2000);
+    return () => clearInterval(timer);
+  }, []);
 
   // Double the 7 press logos (14 logos) per track to ensure wide displays are completely covered
   const marqueeSet = [...hero.pressLogos, ...hero.pressLogos];
@@ -60,14 +70,32 @@ export default function Hero() {
             
             <div className="space-y-2">
               <h1 className="font-serif text-4xl sm:text-5xl lg:text-[62px] font-bold text-[#1B1624] tracking-tight leading-[1.12]">
-                <span>{hero.headlineLine1} </span>
-                <br className="hidden sm:inline" />
-                <span>{hero.headlineLine2} </span>
-                <span className="relative inline-block text-[#1B1624]">
-                  <span className="relative z-10">{hero.headlineHighlight}</span>
-                  {/* Exact double curved doodle underline under "Growth" matching Ali Abdaal reference screenshot */}
+                <span>We’re your partners in </span>
+                <br />
+                <motion.span
+                  className="relative inline-block text-[#1B1624] align-bottom"
+                  layout
+                  transition={{ layout: { duration: 0.35, ease: [0.16, 1, 0.3, 1] } }}
+                >
+                  {/* Overflow clip container for smooth vertical billboard transition */}
+                  <span className="relative block overflow-hidden pb-1">
+                    <AnimatePresence mode="popLayout" initial={false}>
+                      <motion.span
+                        key={ROTATING_WORDS[wordIndex]}
+                        initial={{ opacity: 0, y: "100%" }}
+                        animate={{ opacity: 1, y: "0%" }}
+                        exit={{ opacity: 0, y: "-100%" }}
+                        transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
+                        className="relative z-10 block whitespace-nowrap"
+                      >
+                        {ROTATING_WORDS[wordIndex]}
+                      </motion.span>
+                    </AnimatePresence>
+                  </span>
+
+                  {/* Exact double curved doodle underline matching reference */}
                   <svg
-                    className="absolute -bottom-2.5 left-0 w-full text-[#5DCDF1] -z-0 pointer-events-none"
+                    className="absolute -bottom-2 left-0 w-full text-[#5DCDF1] -z-0 pointer-events-none"
                     viewBox="0 0 160 20"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -85,7 +113,7 @@ export default function Hero() {
                       strokeLinecap="round"
                     />
                   </svg>
-                </span>
+                </motion.span>
               </h1>
             </div>
 
