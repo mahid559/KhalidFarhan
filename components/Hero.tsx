@@ -75,18 +75,21 @@ export default function Hero() {
                 <motion.span
                   className="relative inline-block text-[#1B1624] align-bottom"
                   layout
-                  transition={{ layout: { duration: 0.35, ease: [0.16, 1, 0.3, 1] } }}
+                  transition={{ layout: { duration: 0.5, ease: [0.22, 1, 0.36, 1] } }}
                 >
-                  {/* Overflow clip container for smooth vertical billboard transition */}
-                  <span className="relative block overflow-hidden pb-1">
-                    <AnimatePresence mode="popLayout" initial={false}>
+                  {/* Fluid grid overlay: incoming and outgoing words animate simultaneously in the exact same cell */}
+                  <span className="relative inline-grid overflow-hidden pb-1">
+                    <AnimatePresence initial={false}>
                       <motion.span
                         key={ROTATING_WORDS[wordIndex]}
-                        initial={{ opacity: 0, y: "100%" }}
-                        animate={{ opacity: 1, y: "0%" }}
-                        exit={{ opacity: 0, y: "-100%" }}
-                        transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
-                        className="relative z-10 block whitespace-nowrap"
+                        className="col-start-1 row-start-1 relative z-10 block whitespace-nowrap"
+                        initial={{ y: "100%", opacity: 0 }}
+                        animate={{ y: "0%", opacity: 1 }}
+                        exit={{ y: "-100%", opacity: 0 }}
+                        transition={{
+                          y: { duration: 0.55, ease: [0.22, 1, 0.36, 1] },
+                          opacity: { duration: 0.45, ease: "easeOut" },
+                        }}
                       >
                         {ROTATING_WORDS[wordIndex]}
                       </motion.span>
