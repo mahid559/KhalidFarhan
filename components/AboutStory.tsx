@@ -102,9 +102,13 @@ export default function AboutStory() {
                 transition={{ duration: 0.5, delay: idx * 0.12, ease: [0.16, 1, 0.3, 1] }}
                 className={`ali-card bg-white border border-[#ECE5E1] rounded-[24px] p-8 sm:p-10 text-center space-y-2 transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_20px_35px_-10px_rgba(194,179,164,0.5)] ${theme.hoverBg} ${theme.hoverBorder}`}
               >
-                <div className="ledger-num text-4xl sm:text-5xl font-normal text-[#1B1624] tracking-tight">
+                <div className="ledger-num text-4xl sm:text-5xl font-normal text-[#1B1624] tracking-tight flex items-baseline justify-center">
                   <span>{s.num}</span>
-                  {s.suffix && <span className={theme.textAccent}>{s.suffix}</span>}
+                  {s.suffix && (
+                    <span className="text-[#1B1624] text-[1.35em] leading-none inline-block align-baseline ml-1">
+                      {s.suffix}
+                    </span>
+                  )}
                 </div>
                 <div className="text-sm font-semibold text-[#54505B]">
                   {s.label}

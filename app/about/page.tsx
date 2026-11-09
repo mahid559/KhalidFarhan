@@ -42,8 +42,13 @@ export default function AboutPage() {
                 key={idx}
                 className="bg-white border border-[#ECE5E1] rounded-[22px] p-6 text-center space-y-1 shadow-2xs"
               >
-                <div className="ledger-num text-3xl sm:text-4xl font-normal text-[#1B1624]">
-                  {s.value}
+                <div className="ledger-num text-3xl sm:text-4xl font-normal text-[#1B1624] flex items-baseline justify-center">
+                  <span>{s.value.endsWith("+") ? s.value.slice(0, -1) : s.value}</span>
+                  {s.value.endsWith("+") && (
+                    <span className="text-[#1B1624] text-[1.35em] leading-none inline-block align-baseline ml-1">
+                      +
+                    </span>
+                  )}
                 </div>
                 <div className="text-xs sm:text-sm font-bold text-[#54505B]">
                   {s.label}
@@ -128,24 +133,24 @@ export default function AboutPage() {
           </div>
 
           {/* Bottom CTA */}
-          <div className="bg-[#1B1624] text-white rounded-[28px] p-8 sm:p-12 text-center space-y-6">
-            <h2 className="heading-lg text-3xl sm:text-4xl">
+          <div className="bg-white text-[#1B1624] border border-[#ECE5E1] rounded-[28px] p-8 sm:p-12 text-center space-y-6 shadow-xs hover:border-[#FD976D] transition-colors">
+            <h2 className="heading-lg text-3xl sm:text-4xl text-[#1B1624]">
               Ready to grow your business?
             </h2>
-            <p className="text-[#ECE5E1] max-w-xl mx-auto text-sm sm:text-base">
+            <p className="text-[#54505B] max-w-xl mx-auto text-sm sm:text-base">
               Work directly with an experienced marketing team invested in your commercial outcomes.
             </p>
             <div className="flex flex-wrap justify-center gap-4 pt-2">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn bg-white hover:bg-[#F9F6F3] text-[#1B1624] text-sm px-6 py-3 font-bold"
+                className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-6 py-3 font-bold shadow-sm transition-all inline-flex items-center gap-2 hover:-translate-y-0.5"
               >
                 <span>Get a Free Marketing Audit</span>
-                <ArrowRight className="w-4 h-4 text-[#FD976D]" />
+                <ArrowRight className="w-4 h-4 text-[#1B1624]" />
               </Link>
               <Link
                 href="/services"
-                className="ali-pill-btn bg-white/10 hover:bg-white/20 text-white text-sm px-6 py-3 font-semibold"
+                className="ali-pill-btn bg-[#F9F6F3] hover:bg-[#ECE5E1] text-[#1B1624] border border-[#ECE5E1] text-sm px-6 py-3 font-semibold transition-all"
               >
                 <span>Explore All 19 Services</span>
               </Link>

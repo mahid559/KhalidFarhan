@@ -6,12 +6,6 @@ import { motion } from "framer-motion";
 import { ArrowRight, Clock, ArrowUpRight } from "lucide-react";
 import { KF_DATA } from "@/data/content";
 
-const articleHoverClasses = [
-  "hover-highlight-orange",
-  "hover-highlight-purple",
-  "hover-highlight-yellow",
-];
-
 export default function ArticlesSection() {
   const { articles } = KF_DATA;
 
@@ -54,33 +48,33 @@ export default function ArticlesSection() {
           >
             <Link
               href={articles.lead.href}
-              className="group ali-card flex flex-col justify-between p-8 sm:p-12 !bg-[#1B1624] text-white rounded-[32px] border border-[#2D2638] hover:border-[#FD976D] w-full"
+              className="group ali-card ali-article-card flex flex-col justify-between p-8 sm:p-12 bg-white hover:bg-[#FD976D] text-[#1B1624] rounded-[32px] border border-[#ECE5E1] hover:border-[#FD976D] hover:shadow-[0_20px_35px_-10px_rgba(253,151,109,0.35)] hover:-translate-y-1.5 w-full shadow-2xs"
             >
               <div className="space-y-6">
                 <div className="flex flex-wrap items-center gap-3 text-xs">
-                  <span className="font-bold uppercase tracking-wider text-[#FDD46B]">
+                  <span className="font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
                     {articles.lead.cat}
                   </span>
-                  <span className="text-white/40">•</span>
-                  <span className="text-white/60">{articles.lead.date}</span>
-                  <span className="text-white/40">•</span>
-                  <span className="text-white/60 flex items-center gap-1">
+                  <span className="text-[#76737C] group-hover:text-[#1B1624]/60 transition-colors duration-300">•</span>
+                  <span className="text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300">{articles.lead.date}</span>
+                  <span className="text-[#76737C] group-hover:text-[#1B1624]/60 transition-colors duration-300">•</span>
+                  <span className="text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300 flex items-center gap-1">
                     <Clock className="w-3 h-3" /> {articles.lead.readTime}
                   </span>
                 </div>
 
-                <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white group-hover:text-[#FD976D] transition-colors leading-tight">
+                <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors duration-300 leading-tight">
                   {articles.lead.title}
                 </h3>
 
-                <p className="text-sm sm:text-base text-white/70 leading-relaxed max-w-xl">
+                <p className="text-sm sm:text-base text-[#54505B] group-hover:text-[#1B1624]/85 transition-colors duration-300 leading-relaxed max-w-xl">
                   {articles.lead.excerpt}
                 </p>
               </div>
 
-              <div className="pt-8 mt-6 border-t border-white/10 flex items-center gap-2 text-sm font-semibold text-white group-hover:text-[#FD976D] transition-colors">
+              <div className="pt-8 mt-6 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/20 flex items-center gap-2 text-sm font-semibold text-[#1B1624] group-hover:text-[#1B1624] transition-colors duration-300">
                 <span>{articles.lead.readText}</span>
-                <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1.5" />
+                <ArrowRight className="w-4 h-4 text-[#FD976D] group-hover:text-[#1B1624] transition-all duration-300 group-hover:translate-x-1.5" />
               </div>
             </Link>
           </motion.div>
@@ -98,27 +92,27 @@ export default function ArticlesSection() {
               >
                 <Link
                   href={art.href}
-                  className={`group ali-card ${articleHoverClasses[idx % articleHoverClasses.length]} w-full p-6 sm:p-7 bg-white border border-[#ECE5E1] rounded-[24px] flex flex-col justify-between space-y-3`}
+                  className="group ali-card ali-article-card w-full p-6 sm:p-7 bg-white hover:bg-[#FD976D] border border-[#ECE5E1] hover:border-[#FD976D] rounded-[24px] flex flex-col justify-between space-y-3 shadow-2xs hover:shadow-lg hover:-translate-y-1"
                 >
                   <div className="space-y-2">
                     <div className="flex items-center gap-2 text-xs">
-                      <span className="font-bold uppercase tracking-wider text-[#FD976D]">
+                      <span className="font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
                         {art.cat}
                       </span>
-                      <span className="text-[#76737C]">•</span>
-                      <span className="text-[#76737C] flex items-center gap-1">
+                      <span className="text-[#76737C] group-hover:text-[#1B1624]/60 transition-colors duration-300">•</span>
+                      <span className="text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300 flex items-center gap-1">
                         <Clock className="w-3 h-3" /> {art.readTime}
                       </span>
                     </div>
 
-                    <h4 className="text-lg sm:text-xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors leading-snug">
+                    <h4 className="text-lg sm:text-xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors duration-300 leading-snug">
                       {art.title}
                     </h4>
                   </div>
 
                   <div className="pt-2 flex items-center justify-end">
-                    <div className="w-8 h-8 rounded-full bg-[#F9F6F3] border border-[#ECE5E1] flex items-center justify-center group-hover:bg-[#1B1624] group-hover:border-[#1B1624] group-hover:text-white transition-all">
-                      <ArrowUpRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+                    <div className="w-8 h-8 rounded-full bg-[#F9F6F3] border border-[#ECE5E1] flex items-center justify-center group-hover:bg-[#1B1624] group-hover:border-[#1B1624] group-hover:text-white transition-all duration-300">
+                      <ArrowUpRight className="w-4 h-4 text-[#1B1624] group-hover:text-white transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
                     </div>
                   </div>
                 </Link>

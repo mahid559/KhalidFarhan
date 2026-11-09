@@ -217,6 +217,20 @@
 }
 
 /* ==========================================================================
+   LATEST ARTICLES CARDS HOVER - EXACT #FD976D WITH SAME SMOOTH TRANSITION
+   ========================================================================== */
+.ali-article-card {
+  transition: background-color 320ms cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 320ms cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 320ms cubic-bezier(0.16, 1, 0.3, 1),
+              transform 320ms cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+.ali-article-card:hover {
+  background-color: #FD976D !important;
+  border-color: #FD976D !important;
+}
+
+/* ==========================================================================
    RESULTS SECTION (RW) - STYLED TO MATCH THE LOCAL PALETTE:
    "Get found" (#FD976D), "Get leads from ads" (#C9B1FB), "Turn visitors into customers" (#FDD46B)
    ========================================================================== */
