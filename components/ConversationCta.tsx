@@ -19,7 +19,7 @@ export default function ConversationCta() {
           transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
           className="bg-[#1B1624] text-white rounded-[36px] py-16 sm:py-20 px-6 sm:px-12 text-center space-y-8 shadow-xl border border-[#2D2638]"
         >
-          <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight">
+          <h2 className="display-l text-3xl sm:text-5xl lg:text-6xl text-white tracking-tight leading-tight">
             {conversation.title}
           </h2>
 

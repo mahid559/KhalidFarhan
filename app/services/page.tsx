@@ -29,7 +29,7 @@ export default function ServicesPage() {
               <Sparkles className="w-3.5 h-3.5 text-[#FD976D]" />
               <span>Full-Stack Marketing Agency</span>
             </div>
-            <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-[#1B1624] tracking-tight">
+            <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
               All 19 Marketing Services
             </h1>
             <p className="text-lg text-[#54505B] leading-relaxed">
@@ -65,7 +65,7 @@ export default function ServicesPage() {
                   <div className="inline-block text-[11px] font-bold uppercase tracking-wider px-3 py-1 rounded-full bg-[#F3EDE9] text-[#54505B]">
                     {service.category}
                   </div>
-                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-[#1B1624] leading-snug">
+                  <h2 className="text-xl sm:text-2xl font-bold text-[#1B1624] leading-snug">
                     {service.name}
                   </h2>
                   <p className="text-sm text-[#54505B] leading-relaxed">
@@ -89,7 +89,7 @@ export default function ServicesPage() {
           {/* CTA Banner */}
           <div className="bg-white border border-[#ECE5E1] rounded-[28px] p-8 sm:p-12 flex flex-col md:flex-row items-center justify-between gap-6 shadow-xs">
             <div className="space-y-2 text-center md:text-left">
-              <h2 className="font-serif text-2xl sm:text-3xl font-bold text-[#1B1624]">
+              <h2 className="heading-lg text-2xl sm:text-3xl text-[#1B1624]">
                 Not sure where to start?
               </h2>
               <p className="text-sm text-[#54505B]">

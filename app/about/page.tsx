@@ -27,7 +27,7 @@ export default function AboutPage() {
             <div className="inline-flex items-center gap-1.5 bg-white border border-[#ECE5E1] px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider text-[#76737C]">
               About Khalid & Agency
             </div>
-            <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-[#1B1624] tracking-tight">
+            <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
               Built for results. Not for vanity.
             </h1>
             <p className="text-lg sm:text-xl text-[#54505B] leading-relaxed">
@@ -42,7 +42,7 @@ export default function AboutPage() {
                 key={idx}
                 className="bg-white border border-[#ECE5E1] rounded-[22px] p-6 text-center space-y-1 shadow-2xs"
               >
-                <div className="font-serif text-3xl sm:text-4xl font-extrabold text-[#1B1624]">
+                <div className="ledger-num text-3xl sm:text-4xl font-normal text-[#1B1624]">
                   {s.value}
                 </div>
                 <div className="text-xs sm:text-sm font-bold text-[#54505B]">
@@ -71,7 +71,7 @@ export default function AboutPage() {
               </div>
 
               <div className="lg:col-span-7 space-y-5">
-                <h2 className="font-serif text-2xl sm:text-3xl font-bold text-[#1B1624]">
+                <h2 className="heading-lg text-2xl sm:text-3xl text-[#1B1624]">
                   The story: From Bangladesh to Dublin, and back to building things.
                 </h2>
                 <p className="text-base text-[#54505B] leading-relaxed">
@@ -96,7 +96,7 @@ export default function AboutPage() {
           {/* Values Grid */}
           <div className="space-y-8">
             <div className="text-center max-w-xl mx-auto space-y-2">
-              <h2 className="font-serif text-3xl font-bold text-[#1B1624]">
+              <h2 className="heading-lg text-3xl text-[#1B1624]">
                 What We Believe: Our Values
               </h2>
               <p className="text-sm text-[#76737C]">
@@ -115,7 +115,7 @@ export default function AboutPage() {
                     <div className="w-12 h-12 rounded-2xl bg-[#F3EDE9] flex items-center justify-center text-[#1B1624]">
                       <Icon className="w-6 h-6 text-[#FD976D]" />
                     </div>
-                    <h3 className="font-serif text-xl font-bold text-[#1B1624]">
+                    <h3 className="text-xl font-bold text-[#1B1624]">
                       {v.title}
                     </h3>
                     <p className="text-sm text-[#54505B] leading-relaxed">
@@ -129,7 +129,7 @@ export default function AboutPage() {
 
           {/* Bottom CTA */}
           <div className="bg-[#1B1624] text-white rounded-[28px] p-8 sm:p-12 text-center space-y-6">
-            <h2 className="font-serif text-3xl sm:text-4xl font-bold">
+            <h2 className="heading-lg text-3xl sm:text-4xl">
               Ready to grow your business?
             </h2>
             <p className="text-[#ECE5E1] max-w-xl mx-auto text-sm sm:text-base">

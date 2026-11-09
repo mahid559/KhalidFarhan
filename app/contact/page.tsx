@@ -21,7 +21,7 @@ export default function ContactPage() {
             <div className="inline-flex items-center gap-1.5 bg-white border border-[#ECE5E1] px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider text-[#76737C]">
               Let's Talk
             </div>
-            <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-[#1B1624] tracking-tight">
+            <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
               Let's start a conversation.
             </h1>
             <p className="text-lg text-[#54505B] leading-relaxed">
@@ -36,7 +36,7 @@ export default function ContactPage() {
               <div className="bg-white border border-[#ECE5E1] rounded-[28px] p-8 space-y-6 shadow-xs">
                 
                 <div className="space-y-4">
-                  <h2 className="font-serif text-2xl font-bold text-[#1B1624]">
+                  <h2 className="heading-lg text-2xl text-[#1B1624]">
                     Direct Details
                   </h2>
                   <p className="text-sm text-[#54505B] leading-relaxed">
@@ -99,7 +99,7 @@ export default function ContactPage() {
                 {sent ? (
                   <div className="text-center py-12 space-y-4">
                     <CheckCircle2 className="w-12 h-12 text-[#79D287] mx-auto" />
-                    <h3 className="font-serif text-2xl font-bold text-[#1B1624]">
+                    <h3 className="text-2xl font-bold text-[#1B1624]">
                       Message Received!
                     </h3>
                     <p className="text-sm text-[#54505B]">

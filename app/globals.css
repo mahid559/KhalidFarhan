@@ -32,8 +32,19 @@
   --color-accent-purple: #C9B1FB;
   --color-accent-green: #79D287;
 
-  --font-serif: var(--font-heading), Georgia, serif;
-  --font-sans: var(--font-body), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: var(--font-anton), "Anton", sans-serif;
+  --font-serif: var(--font-fraunces), "Fraunces", serif;
+  --font-sans: var(--font-fraunces), "Fraunces", serif;
+  --font-heading: var(--font-anton), "Anton", sans-serif;
+  --font-body: var(--font-fraunces), "Fraunces", serif;
+}
+
+:root {
+  --font-display: var(--font-anton), "Anton", sans-serif;
+  --font-serif: var(--font-fraunces), "Fraunces", serif;
+  --font-sans: var(--font-fraunces), "Fraunces", serif;
+  --font-heading: var(--font-anton), "Anton", sans-serif;
+  --font-body: var(--font-fraunces), "Fraunces", serif;
 }
 
 html {
@@ -45,14 +56,70 @@ html {
 body {
   background-color: #F9F6F3;
   color: #1B1624;
-  font-family: var(--font-body), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-family: var(--font-serif);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Custom Ali Abdaal typography tokens */
-.font-recoleta {
-  font-family: var(--font-heading), Georgia, serif;
+/* ==========================================================================
+   GLOBAL TYPOGRAPHY CASCADE (Exact khalidfarhan.com architecture)
+   ========================================================================== */
+
+/* Base headings: Fraunces weight 500 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+
+/* Display & Section Headings: Anton weight 400 uppercase */
+.display-xl {
+  font-family: var(--font-display) !important;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 0.88;
+}
+
+.display-l {
+  font-family: var(--font-display) !important;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 0.92;
+}
+
+.heading-xl,
+.oc-h {
+  font-family: var(--font-display) !important;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 0.98;
+}
+
+.heading-lg {
+  font-family: var(--font-display) !important;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 1.02;
+}
+
+/* High-impact numbers, metrics, ledger */
+.metric-number,
+.ledger-num,
+.ledger-suffix {
+  font-family: var(--font-display) !important;
+  font-weight: 400;
+}
+
+/* Buttons & CTAs: Fraunces weight 600 */
+.btn,
+.ali-pill-btn,
+button {
+  font-family: var(--font-serif);
+  font-weight: 600;
 }
 
 /* Continuous Infinite Marquee Scroll - 100% Mathematically Seamless */

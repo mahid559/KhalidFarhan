@@ -28,7 +28,7 @@ export default function ArticlesSection() {
           className="flex flex-col sm:flex-row sm:items-end justify-between gap-6 mb-14"
         >
           <div className="space-y-2">
-            <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1B1624] tracking-tight">
+            <h2 className="heading-xl text-3xl sm:text-4xl lg:text-5xl text-[#1B1624] tracking-tight">
               {articles.title}
             </h2>
           </div>
@@ -69,11 +69,11 @@ export default function ArticlesSection() {
                   </span>
                 </div>
 
-                <h3 className="font-serif text-2xl sm:text-3xl lg:text-4xl font-bold text-white group-hover:text-[#FD976D] transition-colors leading-tight">
+                <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white group-hover:text-[#FD976D] transition-colors leading-tight">
                   {articles.lead.title}
                 </h3>
 
-                <p className="text-sm sm:text-base text-white/70 leading-relaxed font-sans max-w-xl">
+                <p className="text-sm sm:text-base text-white/70 leading-relaxed max-w-xl">
                   {articles.lead.excerpt}
                 </p>
               </div>
@@ -111,7 +111,7 @@ export default function ArticlesSection() {
                       </span>
                     </div>
 
-                    <h4 className="font-serif text-lg sm:text-xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors leading-snug">
+                    <h4 className="text-lg sm:text-xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors leading-snug">
                       {art.title}
                     </h4>
                   </div>

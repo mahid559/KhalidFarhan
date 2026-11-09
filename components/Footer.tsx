@@ -25,12 +25,12 @@ export default function Footer() {
           {/* Column 1: Agency Brand & Details (Cols 1-4) */}
           <div className="lg:col-span-4 space-y-6">
             <Link href="/" className="inline-block">
-              <span className="font-serif text-2xl font-bold tracking-tight text-[#1B1624]">
+              <span className="text-2xl font-bold tracking-tight text-[#1B1624]">
                 Khalid Farhan
               </span>
             </Link>
 
-            <p className="text-sm text-[#54505B] leading-relaxed max-w-sm font-sans">
+            <p className="text-sm text-[#54505B] leading-relaxed max-w-sm">
               {footer.description}
             </p>
 

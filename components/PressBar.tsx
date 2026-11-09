@@ -20,11 +20,11 @@ export default function PressBar() {
           className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-12 border-b border-[#ECE5E1]"
         >
           <div>
-            <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-[#1B1624]">
+            <h2 className="oc-h heading-xl text-3xl sm:text-4xl lg:text-5xl text-[#1B1624] tracking-tight">
               {ourClients.title}
             </h2>
           </div>
-          <p className="text-base sm:text-lg text-[#54505B] max-w-lg font-sans">
+          <p className="text-base sm:text-lg text-[#54505B] max-w-lg">
             {ourClients.subtitle}
           </p>
         </motion.div>

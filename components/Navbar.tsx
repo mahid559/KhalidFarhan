@@ -30,7 +30,7 @@ export default function Navbar() {
           {/* Logo with Ali Abdaal curved doodle underline */}
           <Link href="/" className="flex items-center gap-3 group">
             <div className="relative">
-              <span className="font-serif text-2xl sm:text-[26px] font-bold tracking-tight text-[#1B1624]">
+              <span className="text-2xl sm:text-[26px] font-bold tracking-tight text-[#1B1624]">
                 {header.brand}
               </span>
               <svg

@@ -34,7 +34,7 @@ export default function VideoSection() {
           className="flex flex-col sm:flex-row sm:items-end justify-between gap-6 mb-12"
         >
           <div className="space-y-2">
-            <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1B1624] tracking-tight">
+            <h2 className="heading-xl text-3xl sm:text-4xl lg:text-5xl text-[#1B1624] tracking-tight">
               <span>On my </span>
               <span className="relative inline-block text-[#1B1624]">
                 <span className="relative z-10">YouTube channel</span>
@@ -53,7 +53,7 @@ export default function VideoSection() {
                 </svg>
               </span>
             </h2>
-            <p className="text-sm sm:text-base text-[#54505B] font-sans">
+            <p className="text-sm sm:text-base text-[#54505B]">
               {youtube.subtitle}
             </p>
           </div>
@@ -126,7 +126,7 @@ export default function VideoSection() {
                 <div className="text-xs font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
                   {allVideos[currentIndex].guest}
                 </div>
-                <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#1B1624] leading-snug group-hover:text-[#1B1624] transition-colors duration-300">
+                <h3 className="text-2xl sm:text-3xl font-bold text-[#1B1624] leading-snug group-hover:text-[#1B1624] transition-colors duration-300">
                   {allVideos[currentIndex].title}
                 </h3>
                 <div className="text-xs text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300">
@@ -180,7 +180,7 @@ export default function VideoSection() {
                       <div className="text-[11px] font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
                         {vid.guest}
                       </div>
-                      <h4 className="font-serif text-base sm:text-lg font-bold text-[#1B1624] leading-snug group-hover:text-[#1B1624] transition-colors duration-300">
+                      <h4 className="text-base sm:text-lg font-bold text-[#1B1624] leading-snug group-hover:text-[#1B1624] transition-colors duration-300">
                         {vid.title}
                       </h4>
                     </div>

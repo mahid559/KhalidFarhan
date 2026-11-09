@@ -75,7 +75,11 @@ export default function Hero() {
                 height={988}
                 priority
                 unoptimized
-                className="w-full h-auto object-contain select-none pointer-events-none drop-shadow-sm"
+                className="w-full h-auto object-contain select-none pointer-events-none"
+                style={{
+                  WebkitMaskImage: "linear-gradient(to bottom, black 72%, transparent 86%)",
+                  maskImage: "linear-gradient(to bottom, black 72%, transparent 86%)",
+                }}
               />
             </div>
           </motion.div>
@@ -92,7 +96,7 @@ export default function Hero() {
             <div className="space-y-2">
               {/* Hidden measurement elements to obtain exact rendered width for each word across all screen sizes */}
               <div
-                className="absolute top-0 left-0 invisible pointer-events-none -z-50 opacity-0 select-none font-serif text-4xl sm:text-5xl lg:text-[62px] font-bold tracking-tight whitespace-nowrap"
+                className="display-l absolute top-0 left-0 invisible pointer-events-none -z-50 opacity-0 select-none text-4xl sm:text-5xl lg:text-[62px] whitespace-nowrap"
                 aria-hidden="true"
               >
                 {ROTATING_WORDS.map((word) => (
@@ -108,7 +112,7 @@ export default function Hero() {
                 ))}
               </div>
 
-              <h1 className="font-serif text-4xl sm:text-5xl lg:text-[62px] font-bold text-[#1B1624] tracking-tight leading-[1.12]">
+              <h1 className="display-l text-4xl sm:text-5xl lg:text-[62px] text-[#1B1624] leading-[1.08]">
                 <span>We’re your partners in </span>
                 <br />
                 <motion.span
@@ -170,12 +174,18 @@ export default function Hero() {
             </div>
 
             {/* Exact KF Section 1 Description */}
-            <p className="text-base sm:text-lg text-[#54505B] leading-relaxed max-w-xl font-sans">
+            <p className="text-base sm:text-lg text-[#54505B] leading-relaxed max-w-xl">
               {hero.description}
             </p>
 
-            {/* Exact KF Section 1 CTA: Watch our story (Get a Free Marketing Audit is exclusively in the navbar per instructions) */}
-            <div className="pt-2">
+            {/* CTA Button Group: Primary 'Get a free marketing audit' + Secondary 'Watch our story' */}
+            <div className="pt-2 flex flex-wrap items-center gap-3.5 sm:gap-4">
+              <Link
+                href="/agency/free-marketing-audit"
+                className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] font-semibold text-sm px-7 py-3.5 shadow-sm transition-all inline-flex items-center justify-center hover:-translate-y-0.5"
+              >
+                <span>Get a free marketing audit</span>
+              </Link>
               <Link
                 href="/about"
                 className="ali-pill-btn bg-[#1B1624] hover:bg-[#2D2638] text-white font-semibold text-sm px-7 py-3.5 shadow-sm transition-all inline-flex items-center gap-2"
@@ -220,7 +230,7 @@ export default function Hero() {
                   <img
                     src={logo.src}
                     alt={logo.name}
-                    className="h-7 sm:h-8 w-auto max-w-[140px] object-contain flex-shrink-0 grayscale opacity-60 hover:opacity-100 hover:grayscale-0 transition-all duration-300"
+                    className="h-7 sm:h-8 w-auto max-w-[140px] object-contain flex-shrink-0 transition-all duration-300"
                     loading="eager"
                   />
                 </div>
@@ -237,7 +247,7 @@ export default function Hero() {
                   <img
                     src={logo.src}
                     alt={logo.name}
-                    className="h-7 sm:h-8 w-auto max-w-[140px] object-contain flex-shrink-0 grayscale opacity-60 hover:opacity-100 hover:grayscale-0 transition-all duration-300"
+                    className="h-7 sm:h-8 w-auto max-w-[140px] object-contain flex-shrink-0 transition-all duration-300"
                     loading="eager"
                   />
                 </div>

@@ -29,7 +29,7 @@ export default function InsightsPage() {
               <BookOpen className="w-3.5 h-3.5 text-[#FD976D]" />
               <span>Articles & Thought Leadership</span>
             </div>
-            <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-[#1B1624] tracking-tight">
+            <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
               Marketing Insights & Guides
             </h1>
             <p className="text-lg text-[#54505B] leading-relaxed">
@@ -74,7 +74,7 @@ export default function InsightsPage() {
                     </span>
                   </div>
 
-                  <h2 className="font-serif text-2xl font-bold text-[#1B1624] leading-snug">
+                  <h2 className="text-2xl font-bold text-[#1B1624] leading-snug">
                     {art.title}
                   </h2>
 

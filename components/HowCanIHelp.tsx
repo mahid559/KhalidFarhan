@@ -74,6 +74,8 @@ export default function HowCanIHelp() {
                 <button
                   type="button"
                   onClick={() => setActiveTab(idx)}
+                  onMouseEnter={() => setActiveTab(idx)}
+                  onFocus={() => setActiveTab(idx)}
                   className={`wwd-tab ${isActive ? "is-active" : ""}`}
                   aria-expanded={isActive}
                   aria-controls="wwd-panel"

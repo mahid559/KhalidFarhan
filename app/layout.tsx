@@ -1,19 +1,19 @@
 import type { Metadata } from "next";
-import { Fraunces, Plus_Jakarta_Sans } from "next/font/google";
+import { Anton, Fraunces } from "next/font/google";
 import "./globals.css";
 
-const headingFont = Fraunces({
-  variable: "--font-heading",
+const anton = Anton({
+  variable: "--font-anton",
   subsets: ["latin"],
   display: "swap",
-  weight: ["500", "600", "700", "800"],
+  weight: "400",
 });
 
-const bodyFont = Plus_Jakarta_Sans({
-  variable: "--font-body",
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
   subsets: ["latin"],
   display: "swap",
-  weight: ["400", "500", "600", "700"],
+  weight: ["400", "500", "600", "700", "800"],
 });
 
 export const metadata: Metadata = {
@@ -33,7 +33,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${headingFont.variable} ${bodyFont.variable} scroll-smooth antialiased`}
+      className={`${anton.variable} ${fraunces.variable} scroll-smooth antialiased`}
     >
       <body className="min-h-screen bg-[#F9F6F3] text-[#1B1624] selection:bg-[#5DCDF1]/30 selection:text-[#1B1624]">
         {children}

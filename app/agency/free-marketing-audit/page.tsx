@@ -33,7 +33,7 @@ export default function FreeAuditPage() {
               <Sparkles className="w-3.5 h-3.5 text-[#FD976D]" />
               <span>Diagnostic Opportunity</span>
             </div>
-            <h1 className="font-serif text-4xl sm:text-5xl font-bold text-[#1B1624] tracking-tight">
+            <h1 className="heading-xl text-4xl sm:text-5xl text-[#1B1624] tracking-tight">
               Get a Free Marketing Audit
             </h1>
             <p className="text-base sm:text-lg text-[#54505B] leading-relaxed">
@@ -48,7 +48,7 @@ export default function FreeAuditPage() {
                 <div className="w-16 h-16 rounded-full bg-[#79D287]/20 flex items-center justify-center mx-auto text-[#79D287]">
                   <CheckCircle2 className="w-8 h-8" />
                 </div>
-                <h2 className="font-serif text-3xl font-bold text-[#1B1624]">
+                <h2 className="heading-lg text-3xl text-[#1B1624]">
                   Audit Request Received!
                 </h2>
                 <p className="text-base text-[#54505B] max-w-md mx-auto">

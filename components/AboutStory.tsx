@@ -32,7 +32,7 @@ export default function AboutStory() {
             transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
             className="lg:col-span-7 space-y-6"
           >
-            <h2 className="font-serif text-3xl sm:text-4xl lg:text-[46px] font-bold text-[#1B1624] tracking-tight leading-[1.18]">
+            <h2 className="heading-xl text-3xl sm:text-4xl lg:text-[46px] text-[#1B1624] tracking-tight leading-[1.18]">
               <span>Me and my team can help you get more </span>
               <span className="relative inline-block text-[#1B1624]">
                 <span className="relative z-10">customers.</span>
@@ -52,7 +52,7 @@ export default function AboutStory() {
               </span>
             </h2>
 
-            <p className="text-base sm:text-lg text-[#54505B] leading-relaxed max-w-xl font-sans">
+            <p className="text-base sm:text-lg text-[#54505B] leading-relaxed max-w-xl">
               {agencyStory.body}
             </p>
 
@@ -102,11 +102,11 @@ export default function AboutStory() {
                 transition={{ duration: 0.5, delay: idx * 0.12, ease: [0.16, 1, 0.3, 1] }}
                 className={`ali-card bg-white border border-[#ECE5E1] rounded-[24px] p-8 sm:p-10 text-center space-y-2 transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_20px_35px_-10px_rgba(194,179,164,0.5)] ${theme.hoverBg} ${theme.hoverBorder}`}
               >
-                <div className="font-serif text-4xl sm:text-5xl font-extrabold text-[#1B1624] tracking-tight">
+                <div className="ledger-num text-4xl sm:text-5xl font-normal text-[#1B1624] tracking-tight">
                   <span>{s.num}</span>
                   {s.suffix && <span className={theme.textAccent}>{s.suffix}</span>}
                 </div>
-                <div className="text-sm font-semibold text-[#54505B] font-sans">
+                <div className="text-sm font-semibold text-[#54505B]">
                   {s.label}
                 </div>
               </motion.div>

@@ -24,10 +24,10 @@ export default function NewsletterSection() {
           
           {/* Heading & Subtitle (Exact KF Section 8 copy) */}
           <div className="max-w-2xl mx-auto space-y-3">
-            <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1B1624] tracking-tight">
+            <h2 className="heading-lg text-3xl sm:text-4xl lg:text-5xl text-[#1B1624] tracking-tight">
               {newsletter.title}
             </h2>
-            <p className="text-base sm:text-lg text-[#54505B] leading-relaxed font-sans">
+            <p className="text-base sm:text-lg text-[#54505B] leading-relaxed">
               {newsletter.subtitle}
             </p>
           </div>
