@@ -23,7 +23,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <header className="w-full bg-[#F9F6F3] rounded-t-[20px] transition-colors">
+    <header className="w-full bg-[#F9F6F3] transition-colors">
       <div className="max-w-[1400px] mx-auto px-6 sm:px-10 lg:px-12">
         <div className="flex items-center justify-between h-24">
           

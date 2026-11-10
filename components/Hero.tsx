@@ -46,12 +46,12 @@ export default function Hero() {
 
   return (
     <section
-      className="relative overflow-hidden bg-[#F9F6F3] rounded-b-[20px] pt-4 sm:pt-8 pb-16 sm:pb-24"
+      className="relative overflow-hidden bg-[#F9F6F3] pt-4 sm:pt-8 pb-16 sm:pb-24"
       style={{
         backgroundImage: "url('/assets/wave.png')",
-        backgroundPosition: "52% 100%",
+        backgroundPosition: "center bottom",
         backgroundRepeat: "no-repeat",
-        backgroundSize: "contain",
+        backgroundSize: "100% 100%",
       }}
     >
       <div className="max-w-[1400px] mx-auto px-6 sm:px-10 lg:px-12">
