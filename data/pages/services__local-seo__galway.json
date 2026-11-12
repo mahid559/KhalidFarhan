@@ -1,0 +1,640 @@
+{
+  "route": "/services/local-seo/galway",
+  "title": "Local SEO Agency in Galway — Local SEO | Khalid Farhan",
+  "metaDesc": "Local SEO for businesses in Galway. Local SEO agency in Dublin. Google Business Profile optimisation, citation building, review management. Dominate local search in your area.",
+  "h1": "Local SEO in Galway\nDominate local search in your area",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Local SEO\n/",
+              "href": "/services/local-seo",
+              "imgs": []
+            },
+            {
+              "text": "Galway",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Local SEO in Galway\nDominate local search in your area"
+        },
+        {
+          "type": "p",
+          "text": "Local SEO is the work of getting a business into the Google Maps pack and local results for searches like \"plumber near me\" or \"solicitor in Galway\". Khalid Farhan is a Dublin agency that optimises Google Business Profiles, builds consistent citations, grows reviews and publishes location pages so local businesses get more calls and visits. We work with businesses in Galway and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Tradespeople and home services with a service area",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Clinics, salons, restaurants and shops with a premises",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Professional firms that win clients from their county or city",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Multi-location businesses that need every branch to rank",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Local SEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Local SEO results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Local SEO audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current local seo set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Local SEO audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT LOCAL SEO HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "HOSPITALITY\nCORK, IRELAND\n\n+180%\nOrganic traffic\n\nFrom invisible to fully booked\n\nA boutique B&B in Cork\n\nRead the case study",
+          "href": "/work/case-studies/cork-bnb-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PET CARE\nDUBLIN, IRELAND\n\n4.1x\nMeta Ads ROAS\n\nFrom empty spaces to a waiting list\n\nA premium dog daycare\n\nRead the case study",
+          "href": "/work/case-studies/dog-daycare-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR LOCAL SEO SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Local SEO puts your business at the top of Google Maps and local search results for the searches that matter most — the ones with buying intent from people in your area. We handle everything from Google Business Profile optimisation to hyper-local content."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Google Business Profile"
+        },
+        {
+          "type": "text",
+          "text": "Complete optimisation of your GBP listing — categories, attributes, posts, and Q&A."
+        },
+        {
+          "type": "text",
+          "text": "Review Management"
+        },
+        {
+          "type": "text",
+          "text": "Strategy and tools for generating more positive reviews and managing your reputation."
+        },
+        {
+          "type": "text",
+          "text": "Local Citations"
+        },
+        {
+          "type": "text",
+          "text": "Consistent NAP (Name, Address, Phone) citations across 50+ local directories."
+        },
+        {
+          "type": "text",
+          "text": "Local Content"
+        },
+        {
+          "type": "text",
+          "text": "Location-specific pages and blog content targeting your service area."
+        },
+        {
+          "type": "text",
+          "text": "Local Link Building"
+        },
+        {
+          "type": "text",
+          "text": "Links from local news, directories, and community websites."
+        },
+        {
+          "type": "text",
+          "text": "Local Rank Tracking"
+        },
+        {
+          "type": "text",
+          "text": "Grid-based rank tracking across your service area, not just a single postcode."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nGoogle Business Profile rebuilt: categories, services, photos, posts, Q&A",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nCitations corrected across the main Irish and UK directories",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nReview system running and first location pages live, with grid rank tracking",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Local SEO, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "review GBP health, citation consistency, and current local rankings"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Optimise GBP"
+        },
+        {
+          "type": "p",
+          "text": "complete all sections, add photos, enable all relevant features"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Citations"
+        },
+        {
+          "type": "p",
+          "text": "build and correct citations across all key directories"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Content"
+        },
+        {
+          "type": "p",
+          "text": "create location pages and blog posts targeting local intent"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Reviews"
+        },
+        {
+          "type": "p",
+          "text": "implement a systematic review generation programme"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY LOCAL SEO CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR LOCAL SEO"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does Local SEO cost in Galway?"
+        },
+        {
+          "type": "text",
+          "text": "Retainers from €1,500 a month. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Galway?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Galway and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "Do I need local SEO if I already have a website?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. A website alone doesn't guarantee Google Maps visibility. Local SEO ensures you appear in the map pack and local organic results — which often get more clicks than the regular results for local searches."
+        },
+        {
+          "type": "button",
+          "text": "How long does local SEO take?"
+        },
+        {
+          "type": "text",
+          "text": "Most clients see improvements in Google Maps rankings within 4–8 weeks of GBP optimisation. More competitive markets take longer."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses outside Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We deliver local SEO for businesses in the UK, Bangladesh, and globally."
+        },
+        {
+          "type": "button",
+          "text": "Can you manage multiple locations?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have multi-location programmes for businesses with 2–100+ locations."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Local SEO across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "Local SEO, all of Ireland",
+          "href": "/services/local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO in Dublin",
+          "href": "/services/local-seo/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO in Cork",
+          "href": "/services/local-seo/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO in Limerick",
+          "href": "/services/local-seo/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO in Waterford",
+          "href": "/services/local-seo/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO in Kilkenny",
+          "href": "/services/local-seo/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO in Ireland",
+          "href": "/services/local-seo/ireland",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with Local SEO"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO Audits",
+          "href": "/services/technical-seo-audits",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE LOCAL SEO AUDIT FOR YOUR GALWAY BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Local SEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

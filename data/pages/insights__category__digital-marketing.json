@@ -1,0 +1,248 @@
+{
+  "route": "/insights/category/digital-marketing",
+  "title": "Blog: Marketing Strategy, SEO, Ads & Growth | Khalid Farhan",
+  "metaDesc": "Articles on SEO, Google Ads, Meta Ads, GEO, content marketing, and digital business growth. Written by Khalid Farhan.",
+  "h1": "MARKETING THAT MAKES SENSE.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "BLOG"
+        },
+        {
+          "type": "h1",
+          "text": "MARKETING THAT MAKES SENSE."
+        },
+        {
+          "type": "p",
+          "text": "No fluff, no filler. Practical guides on SEO, paid media, GEO, and growing a business online, written from real client experience."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "FEATURED"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "ENTREPRENEURSHIP\nHow I Built a Personal Brand as a Bangladeshi Entrepreneur in Ireland\n\nThe honest story of how I went from new to Ireland to building an agency and content brand — and what I'd do differently.\n\n10 Mar 2026\n·\n11 min read",
+          "href": "/insights/building-personal-brand-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "ALL ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nRiverside Alternatives in 2026: What I Compared Before Building My Own\n\nI paid for Riverside for a long time. Here is how Zencastr, StreamYard, Descript, Zoom and my own recorder compare on price, local recording and free trials.\n\n22 Oct 2026\n·\n7 min read",
+          "href": "/insights/riverside-alternative",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nHow to Record a Podcast Remotely in Full Quality (Step by Step)\n\nThe setup and routine I use for remote podcast interviews: local recording, the right mic, a quiet room, a guest checklist and files that line up.\n\n22 Oct 2026\n·\n6 min read",
+          "href": "/insights/how-to-record-a-podcast-remotely",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nHow to Record a Podcast When Someone's Internet Is Bad\n\nA frozen call doesn't have to mean a ruined episode. How local recording works, what happens when the internet drops, and what to do about it.\n\n22 Oct 2026\n·\n5 min read",
+          "href": "/insights/record-podcast-bad-internet",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GOOGLE ADS\n7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)\n\nAfter auditing dozens of Irish Google Ads accounts, these are the seven mistakes I see over and over. If you're running ads, check these first.\n\n28 Mar 2026\n·\n7 min read",
+          "href": "/insights/google-ads-mistakes-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "META ADS\nHow to Fix Meta Ads Tracking After iOS Changes (2026 Guide)\n\niOS privacy changes broke Meta Ads attribution for millions of advertisers. Here's the complete guide to Conversions API and server-side tracking.\n\n20 Mar 2026\n·\n9 min read",
+          "href": "/insights/meta-ads-ios-tracking",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nThe Complete Google Business Profile Optimisation Guide for 2026\n\nGBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches.\n\n5 Mar 2026\n·\n14 min read",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nHow to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)\n\nMost marketers use AI tools for writing. But there are far more powerful use cases — here's how I use ChatGPT across my agency and my content work.\n\n28 Feb 2026\n·\n8 min read",
+          "href": "/insights/chatgpt-for-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nHow to Get Your Brand Cited in Perplexity AI\n\nPerplexity is one of the fastest-growing AI search engines. Here's the practical guide to getting your brand cited as a source.\n\n20 Feb 2026\n·\n9 min read",
+          "href": "/insights/perplexity-seo-guide",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?\n\nThe honest breakdown of when to hire a marketing agency, when to go with a freelancer, and when to try to do it in-house.\n\n15 Feb 2026\n·\n7 min read",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nEmail Marketing in 2026: What Still Works and What to Stop Doing\n\nEmail has been 'dead' for 20 years and still delivers the highest ROI of any channel. Here's what's working in 2026 and what's a waste of time.\n\n10 Feb 2026\n·\n8 min read",
+          "href": "/insights/email-marketing-2026",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nCore Web Vitals in 2026: LCP, INP, CLS Explained and How to Fix Them\n\nGoogle's page experience signals are more important than ever. Here's the complete practical guide to understanding and improving your Core Web Vitals.\n\n30 Jan 2026\n·\n11 min read",
+          "href": "/insights/core-web-vitals-guide-2026",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GOOGLE ADS\nSmart Campaigns vs Manual Campaigns: What Google Doesn't Tell You\n\nGoogle pushes you towards automated bidding and broad match for a reason. Here's when to listen and when to take back control.\n\n25 Jan 2026\n·\n9 min read",
+          "href": "/insights/google-ads-smart-campaigns-vs-manual",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Measure Content Marketing ROI (The Right Way)\n\nMost businesses track page views and stop there. Here's how to properly attribute business outcomes to your content marketing investment.\n\n20 Jan 2026\n·\n8 min read",
+          "href": "/insights/content-marketing-roi",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow Long Does SEO Take? Setting Real Expectations for 2026\n\nThe honest, data-backed answer to the question every client asks before they sign.\n\n10 Jan 2026\n·\n7 min read",
+          "href": "/insights/seo-timeline-expectations",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SOCIAL MEDIA\nThe LinkedIn Content Strategy That Gets My Posts Seen by Thousands\n\nWhat I've learned about LinkedIn's algorithm and how to create content that actually gets organic reach.\n\n20 Dec 2025\n·\n8 min read",
+          "href": "/insights/linkedin-content-strategy",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "BUSINESS GROWTH\nHow to Set a Digital Marketing Budget for Your Irish Business in 2026\n\nThe practical guide to allocating your marketing budget across channels — with real benchmarks from Irish businesses.\n\n15 Dec 2025\n·\n9 min read",
+          "href": "/insights/digital-marketing-budget-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nShopify SEO: The Complete Technical and Content Guide for 2026\n\nShopify has specific SEO challenges and opportunities. Here's the comprehensive guide for Irish and UK e-commerce stores.\n\n10 Dec 2025\n·\n14 min read",
+          "href": "/insights/shopify-seo-guide",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSchema Markup: The Complete Guide for SEO and GEO in 2026\n\nSchema markup is critical for both Google's rich results and AI answer engines. Here's everything you need to know.\n\n5 Dec 2025\n·\n12 min read",
+          "href": "/insights/schema-markup-guide",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nGoogle Analytics 4: A Practical Guide for Marketers in 2026\n\nGA4 is still confusing people two years after the switch. Here's the practical guide to making sense of your data.\n\n28 Nov 2025\n·\n10 min read",
+          "href": "/insights/google-analytics-4-guide",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "BUSINESS GROWTH\nConversion Rate Optimisation: Where to Start and What Actually Works\n\nCRO sounds complex but the biggest wins usually come from simple changes. Here's where to start.\n\n20 Nov 2025\n·\n9 min read",
+          "href": "/insights/conversion-rate-optimisation-basics",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SOCIAL MEDIA\nInstagram Marketing for Irish Businesses in 2026\n\nWhat's working on Instagram right now — organic growth, ads, and stories — with a focus on the Irish market.\n\n15 Nov 2025\n·\n8 min read",
+          "href": "/insights/instagram-marketing-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "BUSINESS GROWTH\nB2B Digital Marketing in Ireland: A Complete 2026 Guide\n\nB2B marketing in Ireland has its own dynamics. Here's the complete guide from LinkedIn to intent-based search.\n\n10 Nov 2025\n·\n11 min read",
+          "href": "/insights/b2b-digital-marketing-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nThe Technical SEO Checklist for 2026\n\nA comprehensive technical SEO checklist covering everything from crawlability to Core Web Vitals. Save this one.\n\n5 Nov 2025\n·\n10 min read",
+          "href": "/insights/technical-seo-checklist-2026",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nHow to Appear in Google AI Overviews (And Why It Matters)\n\nGoogle AI Overviews are changing how search results look. Here's how to optimise your content to appear in them.\n\n20 Oct 2025\n·\n9 min read",
+          "href": "/insights/ai-overview-seo",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "ABOUT THE AUTHOR"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Marketing agency owner, content creator, and host of the 2026 Challenge."
+        },
+        {
+          "type": "link",
+          "text": "Read more →",
+          "href": "/about",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT TO WORK TOGETHER?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "route": "/insights/google-ads-mistakes-ireland",
+  "title": "7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them) | Khalid Farhan",
+  "metaDesc": "After auditing dozens of Irish Google Ads accounts, these are the seven mistakes I see over and over. If you're running ads, check these first.",
+  "h1": "7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GOOGLE ADS"
+        },
+        {
+          "type": "h1",
+          "text": "7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "28 March 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "7 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "After auditing dozens of Irish Google Ads accounts, these are the seven mistakes I see over and over. If you're running ads, check these first."
+        },
+        {
+          "type": "p",
+          "text": "When I audit a Google Ads account, I can usually identify within ten minutes whether it has been actively managed or whether it has been largely set up and left to run. Most accounts I see from Irish SMEs fall into the second category. Money is leaving the account every month. The results are mediocre at best. And usually, the business owner has no idea why."
+        },
+        {
+          "type": "p",
+          "text": "These are the seven mistakes I see most often, with specific context for the Irish market where it's relevant."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 1: Sending All Traffic to the Homepage"
+        },
+        {
+          "type": "p",
+          "text": "This is probably the single most expensive mistake in Google Ads, and I see it in the majority of small business accounts. Someone searches \"emergency plumber Dublin 24 hours.\" They click your ad. They land on your homepage, which talks about your company history, your full range of services, and your commitment to quality. They leave."
+        },
+        {
+          "type": "p",
+          "text": "Your homepage is designed to explain who you are. A landing page for an ad should be designed to convert one specific type of visitor who arrived with one specific intent."
+        },
+        {
+          "type": "p",
+          "text": "Why it happens: Building dedicated landing pages takes time and sometimes budget. It feels easier to just point the ad at the website that already exists."
+        },
+        {
+          "type": "p",
+          "text": "The cost: In Ireland, CPCs for service-based keywords can range from €2 to €20 or more depending on the industry. A legal services keyword might cost €15 per click. If your homepage converts at 1% instead of a dedicated landing page converting at 5%, you're paying five times as much per lead. On a €1,500/month budget, that's the difference between 10 leads and 50 leads from the same spend."
+        },
+        {
+          "type": "p",
+          "text": "The fix: For each distinct service or product you're advertising, create a specific landing page that matches the intent of the ad. The headline on the landing page should directly reflect what the ad promised. The page should have one clear call to action. Everything on the page should serve one purpose: getting the visitor to take that action."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 2: Not Using Negative Keywords"
+        },
+        {
+          "type": "p",
+          "text": "Negative keywords are the words or phrases you tell Google you don't want your ads to show for. Without them, your ad budget gets eaten by irrelevant searches."
+        },
+        {
+          "type": "p",
+          "text": "A real example: A solicitor's firm in Cork was running ads for \"commercial property solicitor Cork.\" Without negative keywords, their ads were showing for \"commercial property solicitor Cork salary,\" \"commercial property solicitor Cork jobs,\" \"commercial property law degree Cork,\" and various other searches from people who had absolutely no intention of hiring them. They were paying for every click."
+        },
+        {
+          "type": "p",
+          "text": "Why it happens: Setting up negative keywords requires actively looking at the search terms report and making decisions. It's not exciting work. Many campaign managers, particularly those managing many accounts, skip it or only do it occasionally."
+        },
+        {
+          "type": "p",
+          "text": "The cost: In competitive Irish markets like financial services, legal, and property, even 20-30% of your budget going to irrelevant clicks is a substantial waste. I've seen accounts where over 40% of spend was going to searches with no commercial intent whatsoever."
+        },
+        {
+          "type": "p",
+          "text": "The fix: Check your search terms report every week, particularly in the first few months of a campaign. Any search that your ad showed for that is clearly not from a potential customer should be added as a negative keyword. Build a negative keyword list specific to your business. At minimum, add general irrelevants: jobs, salary, careers, free, DIY, course, how to (if you're not a tutorial business), and any competitor names you don't want to appear for."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 3: Using Broad Match Keywords Without Managing Them Properly"
+        },
+        {
+          "type": "p",
+          "text": "Google's broad match keyword type has changed significantly. Where it used to match fairly closely to variations of your keyword, it now uses machine learning to match to what Google considers \"semantically related\" searches, which can be very loosely related indeed."
+        },
+        {
+          "type": "p",
+          "text": "Why it happens: Google actively recommends broad match, particularly in Smart Bidding campaigns. The recommendation is presented as a way to \"find more customers.\" What it can actually do is find many irrelevant customers."
+        },
+        {
+          "type": "p",
+          "text": "The cost: I've seen broad match campaigns in Ireland spending significant budget on searches that were conceptually in the same category as the intended keyword but were targeting a completely different intent. An insurance broker running broad match on \"business insurance Ireland\" might find their ad showing for \"business insurance Ireland explained,\" \"what is business insurance,\" or various informational queries from students or researchers, not buyers."
+        },
+        {
+          "type": "p",
+          "text": "The fix: If you use broad match, you must commit to weekly search term reviews and a robust negative keyword list. Alternatively, use phrase match as your primary match type, which gives Google some flexibility while keeping you in control of the core intent. For smaller budgets, exact match for your most important keywords is often the most efficient approach, particularly when CPCs are high and every click counts."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 4: Running Ads Without Conversion Tracking"
+        },
+        {
+          "type": "p",
+          "text": "This is the most fundamental mistake and it's alarmingly common. If you don't have conversion tracking set up properly, you genuinely do not know which clicks are turning into leads or sales. You can see clicks, impressions, and spend. But you cannot see what those clicks produced."
+        },
+        {
+          "type": "p",
+          "text": "Why it happens: Conversion tracking requires either setting up Google tag properly on a \"thank you\" page, or using enhanced conversions, or connecting a phone call tracking system. It requires some technical work and clear thinking about what a \"conversion\" means for your business."
+        },
+        {
+          "type": "p",
+          "text": "The cost: Without conversion data, every bidding and budget decision you make is based on incomplete information. You can't tell if campaign A is outperforming campaign B because you don't know which one is generating leads. You can't use Smart Bidding effectively (it needs conversion data to optimise). You're essentially driving blind."
+        },
+        {
+          "type": "p",
+          "text": "The fix: Before spending a single euro on Google Ads, make sure you have conversion tracking in place. For a service business, this typically means: tracking form submissions (fire a conversion when someone reaches the thank-you page after submitting your contact form), tracking phone calls (Google has a phone call tracking feature that counts calls from ads), and potentially tracking specific page visits that indicate high intent (e.g., visiting your pricing page). Test the tracking before you launch. This is non-negotiable."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 5: Ignoring Quality Score"
+        },
+        {
+          "type": "p",
+          "text": "Quality Score is Google's rating of the relevance and quality of your keywords, ads, and landing pages. It's scored from 1 to 10. A higher Quality Score means you pay less per click and can achieve higher ad positions than competitors who bid more but have lower quality."
+        },
+        {
+          "type": "p",
+          "text": "Why it happens: Quality Score is not the most visible metric in Google Ads. Many account managers don't monitor it or don't understand its impact on costs."
+        },
+        {
+          "type": "p",
+          "text": "The cost: The relationship between Quality Score and CPC is significant. A Quality Score of 10 versus a Quality Score of 5 can mean paying 50% less per click for the same position. In competitive Irish markets where CPCs are already high, this is a meaningful cost difference over a year."
+        },
+        {
+          "type": "p",
+          "text": "What drives Quality Score: Three factors. Expected click-through rate (does your ad text compel people to click?). Ad relevance (does your ad match what someone searched for?). Landing page experience (does the page you send people to match what the ad promised, load quickly, and provide a good experience on mobile?)."
+        },
+        {
+          "type": "p",
+          "text": "The fix: Write ad copy that closely reflects the exact search terms you're bidding on. Use the keyword in your headline. Make sure the landing page headline matches the ad promise. Improve your landing page load speed. These are the three levers that move Quality Score."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 6: Letting Google's \"Recommendations\" Run Unchecked"
+        },
+        {
+          "type": "p",
+          "text": "Google Ads has a Recommendations tab that regularly suggests changes to your campaigns. These can include: adding more keywords (often broad match), increasing your budget, switching to Smart Bidding, enabling more ad types, and various other suggestions. Google also has an \"Optimisation Score\" that goes up when you accept recommendations and down when you dismiss them."
+        },
+        {
+          "type": "p",
+          "text": "Here is the thing: Google's recommendations are not made in your interest. They are made to increase Google's revenue from your account. Accepting them uncritically often results in broader targeting, higher spend, and lower efficiency."
+        },
+        {
+          "type": "p",
+          "text": "A specific example: Google regularly recommends adding broad match versions of your existing keywords. For a small Irish business with a €800/month budget, accepting this recommendation can cause the budget to be spread across far more irrelevant searches and reduce the efficiency of your spend significantly."
+        },
+        {
+          "type": "p",
+          "text": "The fix: Review recommendations critically. Never accept anything without understanding exactly what it will do and why it might benefit you specifically. Some recommendations are genuinely useful. Many are not. The Optimisation Score is a Google metric, not a measure of how well your campaign performs for your business. Dismiss it as a performance indicator."
+        },
+        {
+          "type": "h2",
+          "text": "Mistake 7: Not Separating Branded and Non-Branded Campaigns"
+        },
+        {
+          "type": "p",
+          "text": "Branded keywords are people searching for your company by name: \"Murphy Solicitors Dublin,\" \"Brennan Accountants Cork.\" Non-branded keywords are people searching for what you do without knowing your name: \"solicitor Dublin commercial property,\" \"accountant Cork small business.\""
+        },
+        {
+          "type": "p",
+          "text": "These two types of searches behave completely differently. Branded searches have extremely high intent and very high conversion rates, because the person already knows who you are and is actively looking for you. Non-branded searches are where you're competing for new customers."
+        },
+        {
+          "type": "p",
+          "text": "Why it matters: If you run both in the same campaign, your overall numbers look better than they are, because the branded traffic is converting well and masking poor performance from non-branded spend. You also can't optimise bids separately, and you lose clarity on what your actual customer acquisition cost is for genuinely new customers."
+        },
+        {
+          "type": "p",
+          "text": "The fix: Run branded and non-branded keywords in completely separate campaigns. Use your branded campaign to protect your own name in search results (competitors can and do bid on your brand name in Ireland). Use your non-branded campaigns to understand your true cost of customer acquisition and optimise accordingly. Report on them separately so you have a clear picture of performance."
+        },
+        {
+          "type": "h2",
+          "text": "A Final Note on the Irish Context"
+        },
+        {
+          "type": "p",
+          "text": "CPCs in Ireland for service-based keywords are notably higher than in the UK in many categories, partly because the market is smaller and competition is concentrated among fewer advertisers fighting over fewer searches. This makes efficiency even more important. In a market where a B2B services click can cost €8 to €15, these seven mistakes compound quickly. A well-managed account at €1,500/month should significantly outperform a poorly-managed account at €3,000/month."
+        },
+        {
+          "type": "p",
+          "text": "If you're running Google Ads and haven't had an independent audit done recently, it's worth doing. In my experience, almost every account I review has at least three of these seven issues present, and fixing them meaningfully improves performance without increasing spend. We offer a free Google Ads audit if you want an honest assessment of your current account."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Google Ads"
+        },
+        {
+          "type": "text",
+          "text": "PPC"
+        },
+        {
+          "type": "text",
+          "text": "Ireland"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Entrepreneurship\n\nHow I Built a Personal Brand as a Bangladeshi Entrepreneur in Ireland",
+          "href": "/insights/building-personal-brand-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "ENTREPRENEURSHIP\nHow I Built a Personal Brand as a Bangladeshi Entrepreneur in Ireland\n\nThe honest story of how I went from new to Ireland to building an agency and content brand — and what I'd do differently.\n\n10 Mar 2026\n·\n11 min read",
+          "href": "/insights/building-personal-brand-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

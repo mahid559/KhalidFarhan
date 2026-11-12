@@ -1,0 +1,227 @@
+{
+  "route": "/about",
+  "title": "About, Khalid Farhan | Khalid Farhan",
+  "metaDesc": "The story behind khalidfarhan.com. From Bangladesh to Ireland, building a marketing agency and teaching others to grow online.",
+  "h1": "Built for results. Not for vanity.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "About"
+        },
+        {
+          "type": "h1",
+          "text": "Built for results. Not for vanity."
+        },
+        {
+          "type": "p",
+          "text": "A marketing agency that started as a one-person consultancy in Dublin, grew to 400+ clients in 10+ countries over 12 years. Working closely to help you win."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "400+"
+        },
+        {
+          "type": "p",
+          "text": "Clients served"
+        },
+        {
+          "type": "p",
+          "text": "12"
+        },
+        {
+          "type": "p",
+          "text": "Years in business"
+        },
+        {
+          "type": "p",
+          "text": "10+"
+        },
+        {
+          "type": "p",
+          "text": "Countries"
+        },
+        {
+          "type": "p",
+          "text": "5500+"
+        },
+        {
+          "type": "p",
+          "text": "Challenge members"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The story"
+        },
+        {
+          "type": "h2",
+          "text": "From Bangladesh to Dublin, and back to building things."
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan moved from Bangladesh to Ireland and spent years working in and around digital marketing, first as a freelancer, then building campaigns for clients across hospitality, professional services, e-commerce, and more."
+        },
+        {
+          "type": "p",
+          "text": "The agency grew organically, no funding, no agency network, just results that made clients refer other clients. Over 12 years we have worked with 400+ businesses across Ireland, the UK, Bangladesh, and 10+ countries."
+        },
+        {
+          "type": "p",
+          "text": "What we believe"
+        },
+        {
+          "type": "h2",
+          "text": "Our values."
+        },
+        {
+          "type": "p",
+          "text": "Honesty over hype"
+        },
+        {
+          "type": "p",
+          "text": "We don't promise results we can't deliver. Before every engagement, we tell you honestly what's achievable and in what timeframe."
+        },
+        {
+          "type": "p",
+          "text": "Results or nothing"
+        },
+        {
+          "type": "p",
+          "text": "Every piece of work we do is tied to a business outcome. Traffic is not a result. Revenue is a result."
+        },
+        {
+          "type": "p",
+          "text": "Permanent education"
+        },
+        {
+          "type": "p",
+          "text": "Marketing changes faster than any other industry. We invest heavily in staying ahead, and we share everything we learn."
+        },
+        {
+          "type": "p",
+          "text": "Specificity wins"
+        },
+        {
+          "type": "p",
+          "text": "Generic strategies produce generic results. Every client gets a strategy built for their specific business, market, and budget."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid-320.webp",
+          "alt": "Khalid Farhan"
+        },
+        {
+          "type": "h3",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder & CEO"
+        },
+        {
+          "type": "p",
+          "text": "Dublin-based digital marketer, entrepreneur, and content creator. 8+ years of hands-on experience growing businesses across SEO, Google Ads, Meta Ads, and content marketing. Host of the 2026 Challenge and creator of free marketing education on YouTube and LinkedIn."
+        },
+        {
+          "type": "link",
+          "text": "LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "YouTube",
+          "href": "https://youtube.com/@khalidfarhan",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Articles",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "What we do:"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Google Ads"
+        },
+        {
+          "type": "text",
+          "text": "Meta Ads"
+        },
+        {
+          "type": "text",
+          "text": "GEO"
+        },
+        {
+          "type": "text",
+          "text": "Content Marketing"
+        },
+        {
+          "type": "text",
+          "text": "Email Marketing"
+        },
+        {
+          "type": "text",
+          "text": "CRO"
+        },
+        {
+          "type": "link",
+          "text": "All 19 services →",
+          "href": "/services",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Ready to work together?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

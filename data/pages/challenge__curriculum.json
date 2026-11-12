@@ -1,0 +1,188 @@
+{
+  "route": "/challenge/curriculum",
+  "title": "2026 Challenge, Curriculum | Khalid Farhan",
+  "metaDesc": "The full 6-week curriculum for the 2026 Challenge. Week-by-week breakdown of what you'll learn and do.",
+  "h1": "6 WEEKS. 6 TASKS. 1 INCOME.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE / CURRICULUM"
+        },
+        {
+          "type": "h1",
+          "text": "6 WEEKS. 6 TASKS. 1 INCOME."
+        },
+        {
+          "type": "p",
+          "text": "The full curriculum for the 2026 Challenge. Every week builds on the last. The task is non-negotiable."
+        },
+        {
+          "type": "link",
+          "text": "Join the Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "6 Weeks"
+        },
+        {
+          "type": "p",
+          "text": "DURATION"
+        },
+        {
+          "type": "p",
+          "text": "6 Included"
+        },
+        {
+          "type": "p",
+          "text": "LIVE SESSIONS"
+        },
+        {
+          "type": "p",
+          "text": "Required"
+        },
+        {
+          "type": "p",
+          "text": "WEEKLY TASK"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h3",
+          "text": "Week 1: Foundations — Pick Your Business Model"
+        },
+        {
+          "type": "p",
+          "text": "Understand the landscape of online income and choose a model that fits your situation, skills, and timeline."
+        },
+        {
+          "type": "text",
+          "text": "Task: Write a one-page business brief for your chosen model"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h3",
+          "text": "Week 2: Market Research — Find a Real Opportunity"
+        },
+        {
+          "type": "p",
+          "text": "Stop guessing. Learn the exact process to find a niche that has real buyers willing to pay."
+        },
+        {
+          "type": "text",
+          "text": "Task: Validate your niche using the 3-source method"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h3",
+          "text": "Week 3: Your Offer — Build Something People Actually Want"
+        },
+        {
+          "type": "p",
+          "text": "Learn how to build an offer that sells before you even create it. Positioning, packaging, pricing."
+        },
+        {
+          "type": "text",
+          "text": "Task: Create your offer one-pager and get 3 pieces of feedback"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h3",
+          "text": "Week 4: Traffic — Get Your First Visitors"
+        },
+        {
+          "type": "p",
+          "text": "Organic-first traffic strategy. No ad spend required. Learn to use Facebook, YouTube Shorts, and SEO basics."
+        },
+        {
+          "type": "text",
+          "text": "Task: Post 7 pieces of content in 7 days and report results"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h3",
+          "text": "Week 5: Conversion — Turn Visitors into Buyers"
+        },
+        {
+          "type": "p",
+          "text": "The difference between traffic and income is your conversion system. Build it this week."
+        },
+        {
+          "type": "text",
+          "text": "Task: Build your landing page and get your first opt-in"
+        },
+        {
+          "type": "text",
+          "text": "06"
+        },
+        {
+          "type": "h3",
+          "text": "Week 6: Operations — Deliver and Scale"
+        },
+        {
+          "type": "p",
+          "text": "How to fulfil, automate, and build systems so you can grow without burning out."
+        },
+        {
+          "type": "text",
+          "text": "Task: Document your fulfillment process and identify one thing to automate"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "JOIN THE 12 MONTH JOURNEY"
+        },
+        {
+          "type": "h2",
+          "text": "5,000 BDT. Everything above. 12-month journey."
+        },
+        {
+          "type": "p",
+          "text": "No subscriptions. No upsells. Pay once and access every class, live session, and task, past and future."
+        },
+        {
+          "type": "link",
+          "text": "Join the 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

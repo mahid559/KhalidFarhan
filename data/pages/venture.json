@@ -1,0 +1,932 @@
+{
+  "route": "/venture",
+  "title": "Venture Build with Khalid Farhan — Build a Real Business in 12 Months | Khalid Farhan",
+  "metaDesc": "A 12-month done-with-you venture build. We take you from idea to a running business — and we invest in you. Application only, 10–20 founders a year.",
+  "h1": "IN 12 MONTHS, YOU’LL HAVE A REAL BUSINESS.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "IN 12 MONTHS, YOU’LL HAVE A REAL BUSINESS."
+        },
+        {
+          "type": "p",
+          "text": "We will help you build a business — and partner with you to launch it."
+        },
+        {
+          "type": "text",
+          "text": "12"
+        },
+        {
+          "type": "text",
+          "text": "Months, idea to revenue"
+        },
+        {
+          "type": "text",
+          "text": "৳1,00,000"
+        },
+        {
+          "type": "text",
+          "text": "We invest in your business"
+        },
+        {
+          "type": "text",
+          "text": "20%"
+        },
+        {
+          "type": "text",
+          "text": "Our stake — we win together"
+        },
+        {
+          "type": "text",
+          "text": "10–20"
+        },
+        {
+          "type": "text",
+          "text": "Founders we take a year"
+        },
+        {
+          "type": "link",
+          "text": "Apply now →",
+          "href": "#apply",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See the 12 months",
+          "href": "#journey",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "bg-white border-t border-b border-gray-100",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "FEATURED IN"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "THE DIFFERENCE"
+        },
+        {
+          "type": "h2",
+          "text": "WE WILL INVEST 100,000 BDT TO LAUNCH YOUR BUSINESS"
+        },
+        {
+          "type": "p",
+          "text": "We don’t just give you advice and guidance. We work with you. We invest 100,000 BDT in your business and become true partners."
+        },
+        {
+          "type": "p",
+          "text": "That means our reach, our network, our designers, developers and marketers, and our capital are all working for your business. We want you to win — because we win when you win."
+        },
+        {
+          "type": "p",
+          "text": "This is an incubation program, to launch more businesses in the ecosystem."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHAT YOU GET"
+        },
+        {
+          "type": "h2",
+          "text": "EVERYTHING YOU NEED TO BUILD A COMPANY — IN ONE PLACE"
+        },
+        {
+          "type": "p",
+          "text": "Hire a team, an agency, and a consultant separately and you’d spend far more — and still have no one with money in the game. Here it’s all under one roof, with partners who are invested."
+        },
+        {
+          "type": "p",
+          "text": "Access to our private idea bank"
+        },
+        {
+          "type": "p",
+          "text": "Detailed, vetted idea docs we normally keep to ourselves. Pick one, or bring your own and we pressure-test it together."
+        },
+        {
+          "type": "p",
+          "text": "My team builds your brand, website & identity"
+        },
+        {
+          "type": "p",
+          "text": "Logo, brand, full website, digital identity — designed and built by the same team behind our own companies. Not advice. Done."
+        },
+        {
+          "type": "p",
+          "text": "We build or source your product"
+        },
+        {
+          "type": "p",
+          "text": "Whether it's a physical product to import or a digital product to build, we get it made and ready to sell."
+        },
+        {
+          "type": "p",
+          "text": "Done-with-you go-to-market & marketing"
+        },
+        {
+          "type": "p",
+          "text": "Positioning, offer, pricing, content, ads, SEO — the same growth engine we use to grow our own ventures, pointed at yours."
+        },
+        {
+          "type": "p",
+          "text": "Direct line to us — all 12 months"
+        },
+        {
+          "type": "p",
+          "text": "Email and WhatsApp access throughout. Stuck at 11pm? Message us. You're never building alone."
+        },
+        {
+          "type": "p",
+          "text": "We invest in you and become partners"
+        },
+        {
+          "type": "p",
+          "text": "We put 100,000 BDT of our own money into your business and take 20%. Real skin in the game — we only win when you win."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHY PARTNER WITH US"
+        },
+        {
+          "type": "h2",
+          "text": "WE HAVE SUPPORTED THESE BUSINESSES ALREADY"
+        },
+        {
+          "type": "p",
+          "text": "We’re not coaches who read a book. We own and operate real companies across cafes, food, tech, consultancy and education — with a team that designs, builds and markets every one of them. That same machine goes to work on your business."
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa Consultancy"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume / Vibee"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa Consultancy"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume / Vibee"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa Consultancy"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume / Vibee"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "Business School"
+        },
+        {
+          "type": "text",
+          "text": "SecondPassport.ai"
+        },
+        {
+          "type": "text",
+          "text": "The Room of Recording"
+        },
+        {
+          "type": "text",
+          "text": "Business School"
+        },
+        {
+          "type": "text",
+          "text": "SecondPassport.ai"
+        },
+        {
+          "type": "text",
+          "text": "The Room of Recording"
+        },
+        {
+          "type": "text",
+          "text": "Business School"
+        },
+        {
+          "type": "text",
+          "text": "SecondPassport.ai"
+        },
+        {
+          "type": "text",
+          "text": "The Room of Recording"
+        },
+        {
+          "type": "p",
+          "text": "A few of the ventures we’ve built or backed. Yours could be next."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "THE 12-MONTH BUILD"
+        },
+        {
+          "type": "h2",
+          "text": "FROM IDEA TO A RUNNING BUSINESS, MONTH BY MONTH"
+        },
+        {
+          "type": "p",
+          "text": "A clear, twelve-month path we walk together. No guesswork about what comes next."
+        },
+        {
+          "type": "text",
+          "text": "Month 1"
+        },
+        {
+          "type": "p",
+          "text": "Lock the idea"
+        },
+        {
+          "type": "p",
+          "text": "We choose what you'll build. Use our private idea bank or bring your own — we pressure-test it until it's something worth a year of your life. If you don't have an idea, we bring you one."
+        },
+        {
+          "type": "text",
+          "text": "Months 2–3"
+        },
+        {
+          "type": "p",
+          "text": "Build or import the product"
+        },
+        {
+          "type": "p",
+          "text": "We get the actual product made. Source and import it, or build it — so by month three you have something real to sell, not a slide deck."
+        },
+        {
+          "type": "text",
+          "text": "Month 4"
+        },
+        {
+          "type": "p",
+          "text": "Branding, website & digital identity"
+        },
+        {
+          "type": "p",
+          "text": "My team creates the whole thing for you — brand, logo, website, digital presence. You show up looking like a serious company from day one."
+        },
+        {
+          "type": "text",
+          "text": "Month 5"
+        },
+        {
+          "type": "p",
+          "text": "Go-to-market strategy"
+        },
+        {
+          "type": "p",
+          "text": "We finalise exactly how you enter the market: who you sell to, your offer, your pricing, your channels, and the precise sequence of first moves."
+        },
+        {
+          "type": "text",
+          "text": "Month 6"
+        },
+        {
+          "type": "p",
+          "text": "Marketing strategy"
+        },
+        {
+          "type": "p",
+          "text": "We build the growth engine — content, ads, SEO, partnerships — using what's worked across our own ventures, tailored to your business."
+        },
+        {
+          "type": "text",
+          "text": "Months 7–9"
+        },
+        {
+          "type": "p",
+          "text": "Launch & first revenue"
+        },
+        {
+          "type": "p",
+          "text": "We go live and chase the hardest milestone there is: your first paying customers. This is where most people get stuck. With us, you don't."
+        },
+        {
+          "type": "text",
+          "text": "Months 10–12"
+        },
+        {
+          "type": "p",
+          "text": "Scale what works"
+        },
+        {
+          "type": "p",
+          "text": "We double down on what's working, cut what isn't, and build momentum — so you finish the year with a business you can actually run."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "This is for you if…"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "✓\nYou're serious about building a real business and will do the work",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "✓\nYou can invest in yourself and commit to a full 12 months",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "✓\nYou're early (an idea) or stuck (launched but not growing)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "✓\nYou want real partners with money, a team, and a network behind you",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "This is not for you if…"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "✕\nYou want a get-rich-quick shortcut or passive income",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "✕\nYou can't commit time, money, or follow-through for a year",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "✕\nYou're not open to honest, direct feedback",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "✕\nYou want to keep 100% and just buy a few hours of advice",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "THE INVESTMENT"
+        },
+        {
+          "type": "h2",
+          "text": "WHAT IT COSTS"
+        },
+        {
+          "type": "p",
+          "text": "You pay 300,000 BDT. We pay 100,000 BDT — plus our time, our effort, our resources, our guidance, and everything else. You own 80% of the business, we own 20%. We become partners and do it together."
+        },
+        {
+          "type": "p",
+          "text": "Our guarantee"
+        },
+        {
+          "type": "p",
+          "text": "If you do the work and we haven’t started a running business together in 12 months, we keep going for another 12 months — completely free. We don’t stop until you have a business."
+        },
+        {
+          "type": "link",
+          "text": "Apply for one of 10–20 spots →",
+          "href": "#apply",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "APPLY"
+        },
+        {
+          "type": "h2",
+          "text": "APPLY FOR THE VENTURE BUILD"
+        },
+        {
+          "type": "p",
+          "text": "Only 10 to 20 founders a year. Fill this out honestly — the more we understand about you and your goals, the better we can tell if we’re a fit. A short video really helps you stand out."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "firstName",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "lastName",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "phone",
+              "placeholder": "+880...",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "linkedin",
+              "placeholder": "https://linkedin.com/in/...",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "stage",
+              "placeholder": "",
+              "required": true,
+              "options": [
+                "Select one…",
+                "No idea yet",
+                "I have an idea",
+                "I have a business already"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "idea",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "about",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "priorAttempts",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "whyNow",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "challenge",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "success12mo",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "commitment",
+              "placeholder": "",
+              "required": true,
+              "options": [
+                "Select one…",
+                "Less than 10 hours",
+                "10–20 hours",
+                "20–40 hours",
+                "Full-time — this is my main focus"
+              ]
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "feeOk",
+              "placeholder": "",
+              "required": true,
+              "options": [
+                "Select one…",
+                "Yes",
+                "No"
+              ]
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "commOk",
+              "placeholder": "",
+              "required": true,
+              "options": [
+                "Select one…",
+                "Yes",
+                "No"
+              ]
+            }
+          ],
+          "submitText": "Submit my application →"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS"
+        },
+        {
+          "type": "p",
+          "text": "What exactly is this?"
+        },
+        {
+          "type": "p",
+          "text": "A 12-month done-with-you venture build. We work directly with you to take you from idea to a running business — we help lock the idea, build the product, create the brand and website, plan go-to-market, run the marketing, and push to revenue. It's not a course and it's not just calls. We build it with you."
+        },
+        {
+          "type": "p",
+          "text": "How much does it cost?"
+        },
+        {
+          "type": "p",
+          "text": "300,000 BDT for the full 12-month build. On top of that, we invest 100,000 BDT of our own money into your business and become 20% partners — so we're financially tied to your success, not just collecting a fee."
+        },
+        {
+          "type": "p",
+          "text": "Why would I give up 20% of my business?"
+        },
+        {
+          "type": "p",
+          "text": "Because of what comes with it. You get our reach, our network, our team of designers, developers and marketers, and our money in the business. Most founders would pay just for the introductions. You're not losing 20% — you're trading it for the partners who make the other 80% actually worth something."
+        },
+        {
+          "type": "p",
+          "text": "What's the guarantee?"
+        },
+        {
+          "type": "p",
+          "text": "If you do the work and we haven't started a running business together in 12 months, we keep going for another 12 months — free. We don't stop until you have a business."
+        },
+        {
+          "type": "p",
+          "text": "Why is it application only?"
+        },
+        {
+          "type": "p",
+          "text": "We take on only 10 to 20 founders at a time. This is hands-on — our team and our money are involved — so we can't do it at scale. We personally read every application and only reach out if it's a genuine fit."
+        },
+        {
+          "type": "p",
+          "text": "How much time do I need to put in?"
+        },
+        {
+          "type": "p",
+          "text": "This is your business, so you lead it. Expect to commit real, consistent hours every week. We bring the team, the systems and the experience — but nobody can build your company without you in it."
+        },
+        {
+          "type": "p",
+          "text": "What if I already have a business?"
+        },
+        {
+          "type": "p",
+          "text": "That's fine — if you're launched but stuck, we can take what you have and rebuild the strategy, brand and growth around it. Apply and tell us where you are."
+        },
+        {
+          "type": "p",
+          "text": "Is there a refund option?"
+        },
+        {
+          "type": "p",
+          "text": "No. Only join if you genuinely want to try building a business. Building a business is one of the riskiest things you will ever do in life — it's not possible to offer a guarantee, unfortunately."
+        },
+        {
+          "type": "p",
+          "text": "What happens after I apply?"
+        },
+        {
+          "type": "p",
+          "text": "You'll get an instant confirmation email. We review your application personally and, if it's a fit, we reach out to you directly to take the next step."
+        },
+        {
+          "type": "link",
+          "text": "Apply for the Venture Build →",
+          "href": "#apply",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "route": "/work/case-studies/furniture-manufacturer-google-ads",
+  "title": "Showroom visits booked online, 240% more of them — Case Study | Khalid Farhan",
+  "metaDesc": "Search ads and a rebuilt enquiry flow for a national furniture brand with 70 showrooms.",
+  "h1": "SHOWROOM VISITS BOOKED ONLINE, 240% MORE OF THEM",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A furniture manufacturer in Bangladesh · Dhaka, Bangladesh"
+        },
+        {
+          "type": "h1",
+          "text": "SHOWROOM VISITS BOOKED ONLINE, 240% MORE OF THEM"
+        },
+        {
+          "type": "p",
+          "text": "Search ads and a rebuilt enquiry flow for a national furniture brand with 70 showrooms."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Manufacturing and retail"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "6 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "+240%"
+        },
+        {
+          "type": "text",
+          "text": "Showroom enquiries"
+        },
+        {
+          "type": "text",
+          "text": "-56%"
+        },
+        {
+          "type": "text",
+          "text": "Cost per enquiry"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Form fields, down from 11"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Enquiries a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Enquiries a month",
+              "210",
+              "714"
+            ],
+            [
+              "Cost per enquiry",
+              "৳890",
+              "৳392"
+            ],
+            [
+              "Form completion rate",
+              "6%",
+              "24%"
+            ],
+            [
+              "Follow-up time",
+              "3 days",
+              "Same day"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "furniture-brand.com/sofas/book-a-showroom-visit"
+        },
+        {
+          "type": "text",
+          "text": "Book a showroom visit"
+        },
+        {
+          "type": "text",
+          "text": "24% form completion"
+        },
+        {
+          "type": "text",
+          "text": "ENQUIRIES BY MONTH"
+        },
+        {
+          "type": "text",
+          "text": "+240%"
+        },
+        {
+          "type": "text",
+          "text": "−56%"
+        },
+        {
+          "type": "text",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A furniture manufacturer in Bangladesh with a large showroom network and a website that sent every visitor to a generic contact form."
+        },
+        {
+          "type": "p",
+          "text": "Google Ads sent people to the home page. The enquiry form asked eleven questions. Nobody knew which showroom a lead was near, so follow-up took days."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Campaigns split by product line and city, each landing on the right range page",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Showroom finder with 'book a visit' on every product page",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Enquiry form cut from eleven fields to four, with the nearest showroom chosen for the visitor",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Call tracking by campaign",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Weekly reporting by showroom so the sales team saw its own leads",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Showroom visit bookings and enquiries rose 240% in six months, and the cost per enquiry fell by more than half."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "B2B SOFTWARE\nIRELAND AND THE UK\n\n+190%\nDemo requests\n\nDemo requests up 190% and cited by AI search\n\nA workforce management SaaS\n\nRead the case study",
+          "href": "/work/case-studies/workforce-saas-linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nIRELAND\n\n+120%\nOrders\n\nA new store, page one for forty searches, orders up 120%\n\nA memorial card printer in Ireland\n\nRead the case study",
+          "href": "/work/case-studies/memorial-card-printer-ecommerce",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

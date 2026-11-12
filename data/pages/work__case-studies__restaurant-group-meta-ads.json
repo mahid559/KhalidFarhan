@@ -1,0 +1,274 @@
+{
+  "route": "/work/case-studies/restaurant-group-meta-ads",
+  "title": "Online orders up 86%, 6.3x return on ads — Case Study | Khalid Farhan",
+  "metaDesc": "Food-led social campaigns and an ordering page for a restaurant group that was paying aggregators for its own regulars.",
+  "h1": "ONLINE ORDERS UP 86%, 6.3X RETURN ON ADS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A kebab restaurant group · Ireland"
+        },
+        {
+          "type": "h1",
+          "text": "ONLINE ORDERS UP 86%, 6.3X RETURN ON ADS"
+        },
+        {
+          "type": "p",
+          "text": "Food-led social campaigns and an ordering page for a restaurant group that was paying aggregators for its own regulars."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Food and hospitality"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "5 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Landing Page Design",
+          "href": "/services/landing-page-design",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "+86%"
+        },
+        {
+          "type": "text",
+          "text": "Direct online orders"
+        },
+        {
+          "type": "text",
+          "text": "6.3x"
+        },
+        {
+          "type": "text",
+          "text": "Meta ROAS"
+        },
+        {
+          "type": "text",
+          "text": "-22%"
+        },
+        {
+          "type": "text",
+          "text": "Aggregator commission paid"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Direct orders a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Direct orders a month",
+              "1,350",
+              "2,510"
+            ],
+            [
+              "Meta ROAS",
+              "1.9x",
+              "6.3x"
+            ],
+            [
+              "Aggregator share of orders",
+              "71%",
+              "49%"
+            ],
+            [
+              "Cost per new customer",
+              "€6.40",
+              "€2.10"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "1.9x"
+        },
+        {
+          "type": "text",
+          "text": "6.3x"
+        },
+        {
+          "type": "p",
+          "text": "Meta ROAS in 5 months"
+        },
+        {
+          "type": "text",
+          "text": "restaurantgroup.ie/order"
+        },
+        {
+          "type": "text",
+          "text": "Order direct, 15% off your first order"
+        },
+        {
+          "type": "text",
+          "text": "2,510 direct orders a month"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A kebab restaurant group with several locations, a loyal following and an online ordering channel owned by delivery apps."
+        },
+        {
+          "type": "p",
+          "text": "Thirty percent of every delivery order went to the apps. The group's own ordering site was hard to find, and its social pages posted offers nobody saw."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Weekly food photography and short video, shot in the kitchens",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Meta campaigns by location, radius-targeted, with the offer in the first frame",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A direct ordering landing page with a first-order discount",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Retargeting to anyone who had ordered through the apps and visited the site",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Festival and match-day campaigns planned a month ahead",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Direct online orders grew 86% in five months at a 6.3x return on ad spend, taking a chunk of volume back from the aggregators."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PET CARE\nDUBLIN, IRELAND\n\n4.1x\nMeta Ads ROAS\n\nFrom empty spaces to a waiting list\n\nA premium dog daycare\n\nRead the case study",
+          "href": "/work/case-studies/dog-daycare-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nDHAKA, BANGLADESH\n\n4.2x\nMeta Ads ROAS\n\n3x ROAS on Meta, without increasing spend\n\nA premium beauty e-commerce brand\n\nRead the case study",
+          "href": "/work/case-studies/beauty-ecommerce-meta-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

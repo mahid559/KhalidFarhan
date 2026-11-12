@@ -1,0 +1,144 @@
+{
+  "route": "/industries/financial-services",
+  "title": "Financial Services Marketing Agency Ireland | Khalid Farhan",
+  "metaDesc": "From fintech startups to established lenders, we build SEO and paid campaigns that generate qualified leads within the strict compliance boundaries of financial services marketing. Working with financial services businesses across Ireland.",
+  "h1": "COMPLIANT DIGITAL MARKETING FOR FINANCE BRANDS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "INDUSTRIES / FINANCIAL SERVICES"
+        },
+        {
+          "type": "h1",
+          "text": "COMPLIANT DIGITAL MARKETING FOR FINANCE BRANDS"
+        },
+        {
+          "type": "p",
+          "text": "From fintech startups to established lenders, we build SEO and paid campaigns that generate qualified leads within the strict compliance boundaries of financial services marketing."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "HOW WE HELP"
+        },
+        {
+          "type": "h2",
+          "text": "MARKETING BUILT FOR FINANCIAL SERVICES BUSINESSES"
+        },
+        {
+          "type": "p",
+          "text": "From fintech startups to established lenders, we build SEO and paid campaigns that generate qualified leads within the strict compliance boundaries of financial services marketing."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SERVICES FOR FINANCIAL SERVICES"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation\n\nFrom technical foundations to content strategy, we build sustainable organic growth that compounds over time.",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\nSearch, Shopping, Performance Max, and YouTube campaigns built for measurable return — not vanity metrics.",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing\n\nStrategy-led content programmes that build authority, drive organic traffic, and generate leads over time.",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking\n\nGA4, GTM, server-side tracking, and custom dashboards — so every marketing decision is data-driven.",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "blockquote",
+          "text": "“Our cost per lead dropped dramatically while lead quality went up. Khalid's approach to Google Ads is data-first and results-driven.”\n\nAn educational fintech company in Germany\n\nCEO, Financial services"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FAQS"
+        },
+        {
+          "type": "button",
+          "text": "What digital marketing services work best for financial services businesses?"
+        },
+        {
+          "type": "text",
+          "text": "For financial services businesses, we typically recommend seo, google-ads, content-marketing. The right mix depends on your specific goals, budget, and competitive landscape — which is why we start every engagement with a free audit."
+        },
+        {
+          "type": "button",
+          "text": "How long before we see results?"
+        },
+        {
+          "type": "text",
+          "text": "For paid channels (Google Ads, Meta Ads), you can expect to see results within 4–8 weeks. For SEO and content, meaningful results typically come within 3–6 months. We'll give you realistic, channel-specific projections during the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you specialise in financial services?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have hands-on experience with financial services businesses, including an educational fintech company in Germany. This means we understand the specific challenges, customer journey, and competitive dynamics in your sector."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "READY TO GROW YOUR FINANCIAL SERVICES BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

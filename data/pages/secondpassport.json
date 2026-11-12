@@ -1,0 +1,438 @@
+{
+  "route": "/secondpassport",
+  "title": "SecondPassport: your university shortlist, picked by hand | Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Tell SecondPassport about your degree, English and budget, and get universities picked by hand for your profile, in your email within 7 business days. Master's in the UK and Ireland, by Khalid Farhan.",
+  "h1": "YOUR SECOND PASSPORT\nIS A DEGREE ABROAD",
+  "sections": [
+    {
+      "index": 1,
+      "className": "spx-hero",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/kf-logo.png",
+          "alt": "Khalid Farhan"
+        },
+        {
+          "type": "h1",
+          "text": "YOUR SECOND PASSPORT\nIS A DEGREE ABROAD"
+        },
+        {
+          "type": "p",
+          "text": "Tell us about your degree, English and budget. We pick the universities that fit you, by hand, and send you the list."
+        },
+        {
+          "type": "link",
+          "text": "Check if I qualify",
+          "href": "#check",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Log in",
+          "href": "https://secondpassport.khalidfarhan.com/login",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "Takes 3 minutes"
+        },
+        {
+          "type": "text",
+          "text": "6,449"
+        },
+        {
+          "type": "text",
+          "text": "Eligibility checks"
+        },
+        {
+          "type": "text",
+          "text": "1000+"
+        },
+        {
+          "type": "text",
+          "text": "Shortlists"
+        },
+        {
+          "type": "text",
+          "text": "178+"
+        },
+        {
+          "type": "text",
+          "text": "University admissions"
+        },
+        {
+          "type": "video",
+          "src": "/secondpassport/story.mp4"
+        },
+        {
+          "type": "button",
+          "text": "HOW I MOVED FROM BANGLADESH TO IRELAND\nWatch · 9:18"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "spx-sec",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "PROCESS"
+        },
+        {
+          "type": "h2",
+          "text": "FOUR STEPS. THAT'S IT."
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "01\nCheck if you qualify\n\nAbout three minutes: your degree, English, budget and what matters to you.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "02\nPay ৳900\n\nYour dashboard opens and your login arrives by email.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "03\nUpload the essentials\n\nPassport, SSC, HSC and Bachelor's certificates and transcripts, English result.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "04\nGet your shortlist\n\nUniversities picked by hand, in your email within 7 business days.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "spx-sec spx-dark",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/secondpassport/trinity.webp",
+          "alt": "Khalid Farhan in front of the campanile at Trinity College Dublin"
+        },
+        {
+          "type": "text",
+          "text": "TRINITY COLLEGE DUBLIN"
+        },
+        {
+          "type": "img",
+          "src": "/secondpassport/ireland-cliffs.webp",
+          "alt": "Khalid at the Cliffs of Moher"
+        },
+        {
+          "type": "text",
+          "text": "CLIFFS OF MOHER"
+        },
+        {
+          "type": "img",
+          "src": "/secondpassport/ireland-west.webp",
+          "alt": "Khalid on a stone wall in the west of Ireland"
+        },
+        {
+          "type": "text",
+          "text": "WEST OF IRELAND"
+        },
+        {
+          "type": "text",
+          "text": "OUR STORY"
+        },
+        {
+          "type": "h2",
+          "text": "WHY WE CALL IT SECONDPASSPORT"
+        },
+        {
+          "type": "p",
+          "text": "I finished my BSc at North South University in 2016. A year later I moved to Dublin for a Master's at Trinity College Dublin. That degree changed what I could do with my life. It worked like a second passport."
+        },
+        {
+          "type": "p",
+          "text": "Most of the process was guesswork: which university, how much money to show, what the visa officer wanted to see. SecondPassport is the help I wish I had: someone who looks at your real profile and tells you where you can actually get in."
+        },
+        {
+          "type": "p",
+          "text": "We start with the UK and Ireland, where I know the system first hand, and we are adding more countries."
+        },
+        {
+          "type": "text",
+          "text": "2017"
+        },
+        {
+          "type": "text",
+          "text": "Moved from Dhaka to Dublin"
+        },
+        {
+          "type": "text",
+          "text": "MSc"
+        },
+        {
+          "type": "text",
+          "text": "Trinity College Dublin"
+        },
+        {
+          "type": "text",
+          "text": "6,449"
+        },
+        {
+          "type": "text",
+          "text": "Students used our eligibility check"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "spx-sec",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "YOUR SHORTLIST"
+        },
+        {
+          "type": "h2",
+          "text": "KNOW EXACTLY WHERE TO APPLY"
+        },
+        {
+          "type": "p",
+          "text": "Every university is picked for you and marked as a reach, a good match or a safe option, with a note on why."
+        },
+        {
+          "type": "text",
+          "text": "University shortlist for Tanvir, BSc CSE, CGPA 3.4, IELTS 7.0"
+        },
+        {
+          "type": "text",
+          "text": "EXAMPLE"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "01\nUniversity College Dublin\nREACH\n\nMSc Business Analytics · Dublin, Ireland\n\nTop ranked in Ireland. Your CGPA is competitive; your IELTS is the risk.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "02\nUniversity of Galway\nGOOD MATCH\n\nMSc Data Analytics · Galway, Ireland\n\nFits your grades and budget, strong industry links in the west.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "03\nSheffield Hallam University\nSAFE\n\nMSc Data Analytics · Sheffield, United Kingdom\n\nLower tuition and a January intake if you want to start sooner.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Sent to your email as a PDF, and kept in your dashboard"
+        },
+        {
+          "type": "link",
+          "text": "Check if I qualify",
+          "href": "#check",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "spx-sec spx-soft",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "WHY US"
+        },
+        {
+          "type": "h2",
+          "text": "WE DON'T JUST CONSULT.\nWE GET YOU THERE."
+        },
+        {
+          "type": "p",
+          "text": "Most students pick universities from a Facebook group or an agent's list. We look at your actual grades, English and budget, and tell you honestly where you can get in."
+        },
+        {
+          "type": "img",
+          "src": "/secondpassport/khalid-speaking.webp",
+          "alt": "Khalid Farhan speaking on stage"
+        },
+        {
+          "type": "text",
+          "text": "Khalid Farhan on stage"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Universities picked by hand for your grades, English, budget and priorities",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Reach, good match and safe options, so you know where you stand",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A note on each university explaining why it fits you",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "In your email within 7 business days of your documents",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A PDF you keep",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Run by Khalid Farhan, Trinity College Dublin graduate",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "spx-sec",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "COURSES"
+        },
+        {
+          "type": "h2",
+          "text": "POPULAR FIELDS OF STUDY"
+        },
+        {
+          "type": "button",
+          "text": "Business & Management"
+        },
+        {
+          "type": "button",
+          "text": "Computer Science & IT"
+        },
+        {
+          "type": "button",
+          "text": "Data Science & Analytics"
+        },
+        {
+          "type": "button",
+          "text": "Finance & Accounting"
+        },
+        {
+          "type": "button",
+          "text": "Public Health & Nursing"
+        },
+        {
+          "type": "button",
+          "text": "Engineering"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "spx-sec spx-soft",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "QUESTIONS"
+        },
+        {
+          "type": "h2",
+          "text": "WHAT STUDENTS ASK US MOST"
+        },
+        {
+          "type": "faq",
+          "summary": "How much does the shortlist cost?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "What exactly do I get?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Which countries can I apply to?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "I have not taken IELTS yet. Can I still get a shortlist?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "My CGPA is low. Is it worth trying?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "I have a gap after my Bachelor's. Is that a problem?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "I had a visa refusal before. Can I still apply?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Do you help with Bachelor's or PhD?",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "spx-sec spx-close",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/secondpassport/ireland-sea.webp",
+          "alt": ""
+        },
+        {
+          "type": "h2",
+          "text": "READY TO GO?"
+        },
+        {
+          "type": "p",
+          "text": "Answer a few questions and get universities picked for you, in your email within 7 business days of your documents."
+        },
+        {
+          "type": "link",
+          "text": "Check if I qualify",
+          "href": "#check",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "✓ Takes 3 minutes"
+        },
+        {
+          "type": "text",
+          "text": "✓ Shortlist in 7 business days"
+        },
+        {
+          "type": "text",
+          "text": "✓ A PDF you keep"
+        }
+      ]
+    }
+  ]
+}

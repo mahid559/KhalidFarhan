@@ -1,0 +1,305 @@
+{
+  "route": "/shobdo",
+  "title": "Shobdo: free Bangla voice typing for Mac and Windows | Khalid Farhan",
+  "metaDesc": "Hold one key, speak Bangla or English, and Shobdo types it in any app. Free, works offline, by Khalid Farhan.",
+  "h1": "SPEAK BANGLA.\nSHOBDO TYPES IT.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "sbp-hero",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "SPEAK BANGLA.\nSHOBDO TYPES IT."
+        },
+        {
+          "type": "p",
+          "text": "Free voice typing for Mac and Windows. Hold one key, talk, and your words appear in any app."
+        },
+        {
+          "type": "link",
+          "text": "DOWNLOAD FOR MAC",
+          "href": "https://github.com/khalidfarhanfarlu/shobdo-releases/releases/latest/download/Shobdo-mac-apple-silicon.dmg",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "WINDOWS",
+          "href": "https://github.com/khalidfarhanfarlu/shobdo-releases/releases/latest/download/Shobdo-windows-x64-setup.exe",
+          "imgs": []
+        },
+        {
+          "type": "img",
+          "src": "/shobdo/app-home.webp",
+          "alt": "The Shobdo window: the last Bangla sentence built in large grid letters, the Bangla and English keys, and earlier dictations"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sbp-hold",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOLD. SPEAK. LET GO."
+        },
+        {
+          "type": "p",
+          "text": "That is the whole app. Try the hold here: in Shobdo you hold a key instead of this button, and your own words appear."
+        },
+        {
+          "type": "button",
+          "text": "HOLD TO SPEAK"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sbp-keys",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "ONE KEY FOR EACH LANGUAGE."
+        },
+        {
+          "type": "text",
+          "text": "বাংলা"
+        },
+        {
+          "type": "text",
+          "text": "RIGHT COMMAND"
+        },
+        {
+          "type": "p",
+          "text": "Bangla in Bangla script. Mixed Bangla and English works too."
+        },
+        {
+          "type": "text",
+          "text": "English"
+        },
+        {
+          "type": "text",
+          "text": "FN"
+        },
+        {
+          "type": "p",
+          "text": "Clean English with punctuation, for your emails and messages."
+        },
+        {
+          "type": "p",
+          "text": "On Windows: Right Alt for Bangla, Right Ctrl for English. You can change both in Settings."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sbp-why",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "OTHER TOOLS WERE NOT MADE FOR BANGLA."
+        },
+        {
+          "type": "p",
+          "text": "I dictate a lot, in English and in Bangla. Every voice typing app I tried got my Bangla wrong. So I tested 13 speech engines on 110 Bangla recordings and built Shobdo on the ones that did best."
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "text",
+          "text": "Whisper large-v3-turbo, the model most dictation apps run"
+        },
+        {
+          "type": "text",
+          "text": "42 wrong letters in 100"
+        },
+        {
+          "type": "text",
+          "text": "Shobdo offline, on your computer"
+        },
+        {
+          "type": "text",
+          "text": "10 wrong letters in 100"
+        },
+        {
+          "type": "text",
+          "text": "Shobdo cloud, with Google Gemini"
+        },
+        {
+          "type": "text",
+          "text": "8 wrong letters in 100"
+        },
+        {
+          "type": "p",
+          "text": "Our test, October 2026: 110 clips of read Bangla, Bangladeshi phone recordings and Bangla mixed with English. Lower is better."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sbp-modes",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FREE ON YOUR COMPUTER, OR SHARPER IN THE CLOUD."
+        },
+        {
+          "type": "h3",
+          "text": "OFFLINE"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Works without internet.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your voice never leaves your computer.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "One-time download of the Bangla model, about 830 MB.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "CLOUD"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "The most accurate, best for Bangla mixed with English.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Uses your own free Google Gemini key.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Recordings go to Google to be written out, never to me.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Switch between them any time with one click in the app."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "sbp-setup",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "SET UP IN TWO MINUTES."
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "DOWNLOAD\n\nPick Mac or Windows below and open the file.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "ALLOW\n\nLet Shobdo use the microphone and type for you.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "HOLD\n\nHold Right Command, speak Bangla, let go.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sbp-faq",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS"
+        },
+        {
+          "type": "faq",
+          "summary": "Is it really free?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Which computers does it run on?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Windows says “Windows protected your PC”. Is that safe?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Where do my recordings go?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Does it work in every app?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Can I change the keys?",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "sbp-final",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "START WRITING BANGLA WITH YOUR VOICE."
+        },
+        {
+          "type": "link",
+          "text": "MAC\nApple Silicon, M1 or newer",
+          "href": "https://github.com/khalidfarhanfarlu/shobdo-releases/releases/latest/download/Shobdo-mac-apple-silicon.dmg",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "MAC\nIntel",
+          "href": "https://github.com/khalidfarhanfarlu/shobdo-releases/releases/latest/download/Shobdo-mac-intel.dmg",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "WINDOWS\nWindows 10 or 11, 64-bit",
+          "href": "https://github.com/khalidfarhanfarlu/shobdo-releases/releases/latest/download/Shobdo-windows-x64-setup.exe",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "Free, made by Khalid Farhan. Built on the open-source app Handy. The offline Bangla model is by Bengali.AI."
+        }
+      ]
+    }
+  ]
+}

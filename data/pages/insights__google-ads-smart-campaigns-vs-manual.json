@@ -1,0 +1,393 @@
+{
+  "route": "/insights/google-ads-smart-campaigns-vs-manual",
+  "title": "Smart Campaigns vs Manual Campaigns: What Google Doesn't Tell You | Khalid Farhan",
+  "metaDesc": "Google pushes you towards automated bidding and broad match for a reason. Here's when to listen and when to take back control.",
+  "h1": "Smart Campaigns vs Manual Campaigns: What Google Doesn't Tell You",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GOOGLE ADS"
+        },
+        {
+          "type": "h1",
+          "text": "Smart Campaigns vs Manual Campaigns: What Google Doesn't Tell You"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "25 January 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "9 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google pushes you towards automated bidding and broad match for a reason. Here's when to listen and when to take back control."
+        },
+        {
+          "type": "p",
+          "text": "Google has been on a multi-year push to get advertisers off manual campaign control and onto automated bidding, broad match keywords, and AI-driven targeting. The pitch is that Google's machine learning knows better than you how to reach the right people at the right time. In some cases, this is true. In many cases, particularly for smaller businesses with limited budgets and data, it is not."
+        },
+        {
+          "type": "p",
+          "text": "Understanding when to trust Google's automation and when to keep manual control is one of the most important skills in paid search management in 2026."
+        },
+        {
+          "type": "h2",
+          "text": "Google's Incentives vs Yours"
+        },
+        {
+          "type": "p",
+          "text": "Before discussing tactics, it's worth understanding the structural misalignment. Google generates revenue when you spend money on ads, regardless of whether those ads are profitable for you. Automated bidding, broader match types, and recommendations that expand your campaigns generally result in more spend. This is not a conspiracy theory. It's a structural incentive that should inform how critically you evaluate every recommendation Google makes about your own account."
+        },
+        {
+          "type": "p",
+          "text": "Your incentive is to maximise ROI from your ad spend. Google's incentive is to maximise spend. These are often aligned, but not always."
+        },
+        {
+          "type": "h2",
+          "text": "What Smart Bidding Actually Does"
+        },
+        {
+          "type": "p",
+          "text": "Smart Bidding is Google's umbrella term for automated bid strategies that use machine learning. The main options:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Target CPA: Aims to get as many conversions as possible at a target cost per acquisition you set.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Target ROAS: Aims to achieve a target return on ad spend (for e-commerce where conversion values are tracked).",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Maximise Conversions: Spends your full budget to get as many conversions as possible, without a specific CPA target.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Maximise Conversion Value: Spends your full budget to maximise total conversion value, without a ROAS target.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Smart Bidding works by analysing dozens of real-time signals at the auction level: the user's device, location, time of day, browsing history, the query they searched, how the query relates to past converting queries, and more. It then adjusts your bid for that specific auction moment."
+        },
+        {
+          "type": "p",
+          "text": "In theory, this is more sophisticated than any human can do manually. And with sufficient data, it often is. The critical variable is \"sufficient data.\""
+        },
+        {
+          "type": "h2",
+          "text": "When Automated Bidding Works"
+        },
+        {
+          "type": "p",
+          "text": "Smart Bidding performs well when:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "You have enough conversion data: Google recommends at least 30-50 conversions per month at the campaign level for Target CPA to work effectively, and ideally more. Without sufficient historical conversion data, the algorithm has nothing meaningful to learn from and defaults to essentially random bidding.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your conversions are tracked correctly: If your conversion tracking is missing events, double-counting, or tracking low-quality signals, Smart Bidding will optimise toward the wrong thing. Garbage in, garbage out.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your budget is substantial enough: Smart Bidding's learning period requires spending without overly constraining the algorithm. Very tight budgets limit what the algorithm can learn.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your goals are clear and consistent: If what counts as a \"conversion\" changes frequently, or if you have very different value conversions mixed together, the algorithm struggles.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "When Manual Bidding Is Better"
+        },
+        {
+          "type": "p",
+          "text": "Manual bidding (or Enhanced CPC as a middle ground) makes more sense when:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "You're launching a new campaign: No conversion history means Smart Bidding has no data to work with. Start with Manual CPC to gather initial data, then switch once you have 30-50 conversions.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your budget is limited: A €500/month budget in a competitive market often doesn't generate enough conversion volume for Smart Bidding to work. Manual bidding at least keeps you in control of where you spend.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You have very specific targeting requirements: Manual control lets you set different bids for different times of day, devices, locations, and match types. Smart Bidding handles this automatically, but sometimes your specific business knowledge (we know calls after 6pm don't convert) should override the algorithm.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your niche is unusual: The algorithm is trained on broad patterns. For very specialised B2B products or unusual buying cycles, human insight may genuinely outperform the algorithm's assumptions.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Performance Max: When to Use It, When to Avoid It"
+        },
+        {
+          "type": "p",
+          "text": "Performance Max (PMax) campaigns are Google's latest automation push. A single PMax campaign can show ads across Search, Display, YouTube, Gmail, Discover, and Maps simultaneously, managed by Google's AI."
+        },
+        {
+          "type": "p",
+          "text": "The appeal: full funnel coverage from one campaign, automated placement optimisation, asset-based format (you provide text, images, videos and Google assembles them)."
+        },
+        {
+          "type": "p",
+          "text": "The problem: opacity. PMax gives you very little visibility into where your ads are showing, what search terms triggered them, or why specific asset combinations are being served. You're essentially handing control to Google's black box."
+        },
+        {
+          "type": "p",
+          "text": "PMax works better for: e-commerce businesses with product feeds and clear conversion tracking, businesses with large budgets that can afford to let the algorithm learn, and campaigns where you genuinely want cross-channel reach."
+        },
+        {
+          "type": "p",
+          "text": "PMax is harder to justify for: service businesses with complex conversions, businesses with tight budgets where transparency matters, and businesses where brand safety and placement control are important."
+        },
+        {
+          "type": "p",
+          "text": "If you run PMax, at minimum: add brand exclusions (so PMax doesn't cannibalise your branded search campaigns), check your asset group performance regularly, and use the search term insights report (limited but better than nothing) to verify the campaign isn't wasting budget on irrelevant queries."
+        },
+        {
+          "type": "h2",
+          "text": "The Black Box Problem"
+        },
+        {
+          "type": "p",
+          "text": "The more automation you use in Google Ads, the less you can see about what's actually happening. With broad match and Smart Bidding, you lose granular search term data. With PMax, you lose placement and targeting transparency. With automated asset testing, you lose control over ad copy."
+        },
+        {
+          "type": "p",
+          "text": "This matters for several reasons. You can't identify specific high-performing keywords to invest in further. You can't spot specific irrelevant placements to exclude. You can't understand why performance changes month to month. And you can't use insights from Google Ads to inform other marketing decisions."
+        },
+        {
+          "type": "p",
+          "text": "A reasonable middle ground: use Smart Bidding for campaigns that have sufficient data, but maintain specific exact or phrase match campaigns for your highest-value keywords with more manual control, so you always have a clear, legible view of performance on your most important terms."
+        },
+        {
+          "type": "h2",
+          "text": "A Practical Recommendation"
+        },
+        {
+          "type": "p",
+          "text": "For most small and medium Irish businesses:"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Start new campaigns with Manual CPC (or Enhanced CPC) and phrase/exact match keywords to gather clean conversion data.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Once you have 50+ conversions per month, test Target CPA with a sensible target based on your actual CPA data.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Keep a close eye on search terms. Even with Smart Bidding, check your search terms report weekly and add negatives aggressively.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Be very cautious with PMax if budget is limited. If you run it, set tight brand exclusions.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Never accept Google's recommendations uncritically. Evaluate each one individually against your specific situation.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "How to Audit a Smart Campaign That Isn't Performing"
+        },
+        {
+          "type": "p",
+          "text": "If a Smart Bidding campaign is underperforming, check these in order:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Conversion tracking: Is it firing correctly? Are conversions real and complete? Run through the conversion journey yourself and verify the tracking fires.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Conversion volume: Is there enough data for the algorithm? Less than 20-30 conversions/month suggests the algorithm is in permanent learning mode.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Target CPA or ROAS: Is your target realistic based on historical data? Setting an unrealistic target causes the algorithm to show ads very rarely because it can't find opportunities that meet the target.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Search terms: What queries are actually triggering your ads? Add negatives for anything irrelevant.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Budget constraints: Is the campaign \"limited by budget\"? If so, budget limitations are preventing the algorithm from learning efficiently.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The honest answer on automation is that it's a tool, not a strategy. Applied correctly, with the right data, it can genuinely improve performance. Applied prematurely or without understanding, it transfers control from you to an algorithm that's optimising for Google's revenue as much as yours. Know what you're doing and why before you hand over the keys."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Google Ads"
+        },
+        {
+          "type": "text",
+          "text": "Smart Campaigns"
+        },
+        {
+          "type": "text",
+          "text": "Performance Max"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\n7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)",
+          "href": "/insights/google-ads-mistakes-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GOOGLE ADS\n7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)\n\nAfter auditing dozens of Irish Google Ads accounts, these are the seven mistakes I see over and over. If you're running ads, check these first.\n\n28 Mar 2026\n·\n7 min read",
+          "href": "/insights/google-ads-mistakes-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

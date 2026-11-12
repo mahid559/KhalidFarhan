@@ -1,0 +1,1046 @@
+{
+  "route": "/reviews",
+  "title": "Success Stories | Khalid Farhan",
+  "metaDesc": "Real results from students, clients, and community members across courses, marketing, and coaching.",
+  "h1": "Real results from\nreal people.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SUCCESS STORIES"
+        },
+        {
+          "type": "h1",
+          "text": "Real results from\nreal people."
+        },
+        {
+          "type": "p",
+          "text": "200+ reviews from students, clients, and community members across everything I've built over the years."
+        },
+        {
+          "type": "link",
+          "text": "Join the Challenge →",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/1-768x310-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/100-768x395-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/106-768x303-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/107-768x325-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/11-768x440-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/111-768x118-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/114-768x364-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/116-768x296-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/117-768x306-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/118-768x413-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/119-768x370-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/121-768x334-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/122-768x360-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/123-768x383-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/124-768x385-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/125-768x463-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/127-768x333-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/128-768x310-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/13-768x610-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/130-768x280-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/131-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/135-768x371-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/140-768x401-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/145-768x339-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/146-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/15-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/150-768x323-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/151-768x206-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/154-768x256-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/155-768x346-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/156-768x238-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/157-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/158-768x373-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/159-768x362-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/16-768x272-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/16-768x373-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/161-768x254-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/162-768x260-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/163-768x446-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/164-768x262-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/166-768x340-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/167-768x296-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/168-768x340-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/17-768x612-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/17-768x87-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/171-768x365-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/173-768x296-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/176-768x378-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/18-768x360-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/180-768x316-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/182-768x331-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/185-768x326-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/186-768x297-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/187-768x371-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/189-768x281-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/19-768x295-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/19-768x366-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/19.2-full-ss-with-info-768x360-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/190-768x365-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/194-768x362-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/195-768x393-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/196-768x428-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/199-768x336-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/2-768x326-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/2-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/20-768x570-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/201-768x310-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/202-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/203-768x436-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/209-768x338-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/21-768x784-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/213-768x448-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/216-768x400-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/218-768x391-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/22-768x283-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/22-768x298-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/220-768x369-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/223-768x399-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/225-768x424-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/23-768x408-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/230-768x384-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/233-768x375-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/234-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/235-768x406-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/236-768x388-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/238-768x311-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/239-768x357-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/24-768x510-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/240-768x371-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/241-768x378-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/242-768x224-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/243-768x397-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/245-768x354-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/25-768x412-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/250-768x360-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/251-768x335-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/26-768x333-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/26-768x352-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/262-768x311-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/263-768x389-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/264-768x247-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/265-768x426-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/268-768x394-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/27-768x585-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/271-768x381-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/273-768x279-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/274-768x383-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/278-768x442-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/28-768x160-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/28-768x346-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/281-768x347-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/286-768x277-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/287-768x317-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/288-768x369-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/289-768x256-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/29-768x371-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/290-768x343-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/292-768x322-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/293-768x325-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/294-768x492-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/296-768x392-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/297-768x327-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/299-768x442-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/3-768x285-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/3-768x574-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/30-768x655-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/300-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/301-768x269-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/302-768x301-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/31-768x415-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/312-768x362-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/316-768x347-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/319-768x186-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/32-768x370-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/32-768x515-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/321-768x345-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/322-768x272-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/324-768x415-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/326-768x322-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/33-768x148-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/33-768x417-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/330-768x315-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/334-768x298-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/34-768x358-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/34-768x522-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/340-768x343-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/35-768x380-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/35-768x398-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/35.2-768x317-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/36-768x188-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/36-768x305-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/37-768x85-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/37-768x379-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/38-768x571-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/39-768x436-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/40-768x443-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/41-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/41-768x491-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/42-768x428-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/43-768x531-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/44-768x468-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/45-768x682-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/46-768x265-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/46-768x327-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/47-768x307-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/47-768x333-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/48-768x300-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/49-768x492-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/5-768x482-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/50-768x265-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/51-768x539-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/53-768x380-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/54-768x467-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/55-768x144-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/56-768x275-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/56-768x415-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/57-768x290-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/58-768x418-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/58-768x544-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/59-768x94-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/6-768x263-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/6-768x373-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/60-768x577-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/61-768x409-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/62-768x372-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/63-768x723-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/64-768x240-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/66-768x591-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/67-768x362-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/67-768x862-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/68-768x342-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/68-768x835-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/7-768x329-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/70-768x297-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/70-768x473-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/71-768x388-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/72-768x369-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/72-768x393-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/73-768x330-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/74-768x392-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "p",
+          "text": "READY TO JOIN THEM?"
+        },
+        {
+          "type": "h2",
+          "text": "Build your income in 2026"
+        },
+        {
+          "type": "link",
+          "text": "JOIN FOR ৳5,000 →",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

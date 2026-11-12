@@ -1,0 +1,355 @@
+{
+  "route": "/insights/seo-timeline-expectations",
+  "title": "How Long Does SEO Take? Setting Real Expectations for 2026 | Khalid Farhan",
+  "metaDesc": "The honest, data-backed answer to the question every client asks before they sign.",
+  "h1": "How Long Does SEO Take? Setting Real Expectations for 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "How Long Does SEO Take? Setting Real Expectations for 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "10 January 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "7 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The honest, data-backed answer to the question every client asks before they sign."
+        },
+        {
+          "type": "p",
+          "text": "The most common question I get from businesses thinking about investing in SEO is: \"How long before we see results?\" It is also the question that gets the most misleading answers from agencies trying to close a deal."
+        },
+        {
+          "type": "p",
+          "text": "Here is the honest answer."
+        },
+        {
+          "type": "h2",
+          "text": "The Real Timeline"
+        },
+        {
+          "type": "p",
+          "text": "For a typical business starting from a relatively clean slate (existing website, no major penalties, some existing content), here is what a realistic SEO timeline looks like:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Months 1-3: Technical foundation, keyword research, on-page optimisation, initial content. Minimal ranking changes visible. Crawl improvements may show up in Search Console.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Months 3-6: First keyword movements. Typically, lower-competition, longer-tail terms start to rank. Some early organic traffic increases. Not yet at a level that meaningfully moves business metrics for most.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Months 6-12: Meaningful ranking gains on mid-competition terms. Organic traffic growing noticeably. For local businesses, map pack appearances improving. Business is starting to feel the benefit.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Months 12-24: Competitive terms gaining real traction. For businesses in genuinely competitive sectors (financial services, legal, e-commerce), this is when the investment starts to look compelling on a spreadsheet.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "This is a general shape. The actual curve varies enormously based on the factors below."
+        },
+        {
+          "type": "h2",
+          "text": "What Affects the Timeline"
+        },
+        {
+          "type": "h3",
+          "text": "Domain age and existing authority"
+        },
+        {
+          "type": "p",
+          "text": "A site that has been online for ten years with some existing content and links will see results faster than a brand-new domain. Google trusts older, established sites more. This isn't something you can shortcut; it's simply a function of history."
+        },
+        {
+          "type": "p",
+          "text": "If you're building a new site, this is an argument for starting SEO immediately rather than waiting until the site feels \"ready.\" Every month the domain exists and accumulates signals is a month toward the results you're looking for."
+        },
+        {
+          "type": "h3",
+          "text": "Competition level"
+        },
+        {
+          "type": "p",
+          "text": "Ranking for \"solicitor Dublin\" takes years and is dominated by firms that have been investing in SEO for a long time. Ranking for \"employment solicitor Drogheda\" is achievable in months. The competitive landscape of your target keywords directly determines how long results take."
+        },
+        {
+          "type": "p",
+          "text": "Part of good SEO strategy is identifying which battles can be won quickly and which require longer campaigns. Targeting a mix of lower-competition, longer-tail terms (quicker results, real traffic) alongside more competitive terms (longer timeline, bigger prize) is typically the right approach for businesses that need to justify the investment along the way."
+        },
+        {
+          "type": "h3",
+          "text": "Content quality and quantity"
+        },
+        {
+          "type": "p",
+          "text": "Websites with more genuinely useful, well-optimised content rank better and faster than thin sites. This is not just about volume. A site with 50 high-quality, expert, well-structured pages will outperform a site with 200 thin, generic pages every time."
+        },
+        {
+          "type": "p",
+          "text": "If your site currently has very little content, there's more work to do before results come, but there's also more opportunity. Every well-executed piece of content is a new potential entry point from Google."
+        },
+        {
+          "type": "h3",
+          "text": "Technical health"
+        },
+        {
+          "type": "p",
+          "text": "A site with serious technical problems (broken pages, slow load times, crawl errors, redirect chains, duplicate content) will see its results limited until those problems are fixed. Technical SEO is the foundation. If the foundation is broken, building on top of it produces slower results."
+        },
+        {
+          "type": "h3",
+          "text": "Link profile"
+        },
+        {
+          "type": "p",
+          "text": "Links from other reputable websites remain one of the strongest ranking signals in Google's algorithm. A site with no links, or with links only from low-quality directories, needs link building investment before competitive terms become achievable. Building a genuine link profile takes time, which adds to the timeline."
+        },
+        {
+          "type": "h2",
+          "text": "Month-by-Month: What Good SEO Actually Looks Like"
+        },
+        {
+          "type": "p",
+          "text": "Month 1: Technical audit completed. Google Search Console and GA4 set up and working correctly. Baseline report of current rankings, traffic, and backlinks. Keyword research and content strategy documented. Priority technical fixes identified and either fixed or handed to developers."
+        },
+        {
+          "type": "p",
+          "text": "Month 2: Technical fixes implemented. Priority existing pages optimised (title tags, meta descriptions, heading structure, content improvements). First new content pieces published. Initial link-building outreach begun."
+        },
+        {
+          "type": "p",
+          "text": "Month 3: Second round of content live. Search Console starting to show some new impressions on target terms. First ranking movements (even if pages moving from position 40 to position 20, they are moving). Link building producing early results."
+        },
+        {
+          "type": "p",
+          "text": "Months 4-6: Content programme in full stride. Ranking gains accelerating on lower-competition terms. First meaningful organic traffic increases appear in Search Console. For local businesses, map pack appearances increasing. First tangible business leads from organic search."
+        },
+        {
+          "type": "p",
+          "text": "Months 7-12: More competitive terms starting to move into the top 20, then top 10. Organic traffic becomes a meaningful, measurable channel. Content from earlier months continues to accumulate impressions and clicks. The compounding effect becomes visible in the data."
+        },
+        {
+          "type": "h2",
+          "text": "Why Google Takes Time to Trust New Content"
+        },
+        {
+          "type": "p",
+          "text": "Google is extremely conservative about promoting new content for competitive queries. There are good reasons for this. If Google ranked newly-published content highly immediately, the system would be easy to game. Anyone could publish pages to rank quickly, collect traffic, and then remove or change the content."
+        },
+        {
+          "type": "p",
+          "text": "Instead, Google watches how content performs over time. Do users who visit from Google find it useful? Do they spend time on the page or immediately go back to search? Does the content accumulate links from other sites? Does the author build a broader body of work that establishes expertise? All of these signals develop over months, not days."
+        },
+        {
+          "type": "p",
+          "text": "This is often called the \"Google sandbox\" for new sites. It's not a deliberate penalty. It's simply what trust accumulation looks like."
+        },
+        {
+          "type": "h2",
+          "text": "The Compounding Effect"
+        },
+        {
+          "type": "p",
+          "text": "The reason experienced SEO practitioners believe so strongly in the channel, despite the slow start, is what happens at the 12-24 month mark. Content published in month two is still ranking and driving traffic. Content published in month six is performing better than it did in month seven. Each new piece of content adds to a growing body of work that collectively builds authority. Each new link strengthens the domain's credibility for future content."
+        },
+        {
+          "type": "p",
+          "text": "Unlike paid search, which stops entirely when the budget stops, organic search results continue to deliver after the initial investment. A business that consistently invested in SEO for two years has an asset that will continue to generate leads and traffic even if they reduce their SEO spend significantly."
+        },
+        {
+          "type": "p",
+          "text": "The analogy I use: SEO is more like buying a rental property than renting one. The upfront investment is higher and the payoff takes longer. But the asset keeps producing value long after the initial cost is paid off."
+        },
+        {
+          "type": "h2",
+          "text": "Red Flags When Agencies Promise Faster"
+        },
+        {
+          "type": "p",
+          "text": "If an agency is promising significant ranking results within 60 or 90 days, ask specifically how. For genuinely low-competition, very specific long-tail terms, this is possible. For anything with meaningful search volume in a competitive sector, it is not possible through legitimate means."
+        },
+        {
+          "type": "p",
+          "text": "The ways \"fast results\" get delivered in SEO are often dangerous: buying links from link farms, creating thin content at scale, using private blog networks. These can produce short-term ranking gains followed by penalties that can take years to recover from. I've seen Irish businesses dealing with manual penalties from link-building practices their previous agency used in 2019 that were supposed to \"get fast results.\""
+        },
+        {
+          "type": "h2",
+          "text": "What to Expect at Specific Milestones"
+        },
+        {
+          "type": "p",
+          "text": "At 3 months: You should be able to see evidence that work is being done. Content published. Technical issues addressed. Search Console showing new keyword impressions. If you can't see any of this, ask hard questions."
+        },
+        {
+          "type": "p",
+          "text": "At 6 months: You should see measurable organic traffic growth over baseline. Rankings moving on target terms. For local businesses, a clear improvement in GBP performance. If the data shows no movement at all from baseline, something is wrong with the strategy or execution."
+        },
+        {
+          "type": "p",
+          "text": "At 12 months: A well-executed campaign should be producing enough organic traffic and leads that the ROI case is becoming clear. Not necessarily that you've outranked all competitors, but that the channel is contributing meaningfully to your business and the trajectory is positive."
+        },
+        {
+          "type": "p",
+          "text": "SEO requires patience and trust in the process. The businesses that commit to it properly and stay consistent are the ones that end up with a sustainable, compounding competitive advantage. The ones that give up at month four because they haven't seen enough yet, or that keep switching agencies, rarely get there."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Timeline"
+        },
+        {
+          "type": "text",
+          "text": "Expectations"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

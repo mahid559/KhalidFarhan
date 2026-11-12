@@ -1,0 +1,176 @@
+{
+  "route": "/contact",
+  "title": "Khalid Farhan — Marketing Agency & Founder",
+  "metaDesc": "Dublin-based marketing agency helping businesses grow through SEO, GEO, Google Ads, Meta Ads, and content. Also home of the 2026 Challenge — watch Khalid build a business live.",
+  "h1": "LET'S TALK.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "CONTACT"
+        },
+        {
+          "type": "h1",
+          "text": "LET'S TALK."
+        },
+        {
+          "type": "p",
+          "text": "Book a free audit, ask a question, or just say hello. We respond within one business day."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "EMAIL"
+        },
+        {
+          "type": "link",
+          "text": "khalid@khalidfarhan.com",
+          "href": "mailto:khalid@khalidfarhan.com",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "OFFICE"
+        },
+        {
+          "type": "p",
+          "text": "Dublin, Ireland\nDhaka, Bangladesh"
+        },
+        {
+          "type": "p",
+          "text": "RESPONSE TIME"
+        },
+        {
+          "type": "p",
+          "text": "Within 1 business day"
+        },
+        {
+          "type": "p",
+          "text": "SOCIAL"
+        },
+        {
+          "type": "link",
+          "text": "LinkedIn →",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "YouTube →",
+          "href": "https://youtube.com/@khalidfarhan",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Facebook Community →",
+          "href": "https://www.facebook.com/groups/2026challenge",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "Want a free audit instead?"
+        },
+        {
+          "type": "p",
+          "text": "Complete our 3-minute audit form and we’ll send you a personalised report within 2 business days."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "Your name",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@company.com",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "Your company name",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Select a service",
+                "SEO",
+                "Google Ads",
+                "Meta Ads",
+                "GEO",
+                "Content Marketing",
+                "Email Marketing",
+                "CRO",
+                "Social Media",
+                "Web Design",
+                "Other"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "",
+              "placeholder": "Tell us about your business and what you need help with...",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Send Message"
+        }
+      ]
+    }
+  ]
+}

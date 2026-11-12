@@ -1,0 +1,411 @@
+{
+  "route": "/insights/content-marketing-roi",
+  "title": "How to Measure Content Marketing ROI (The Right Way) | Khalid Farhan",
+  "metaDesc": "Most businesses track page views and stop there. Here's how to properly attribute business outcomes to your content marketing investment.",
+  "h1": "How to Measure Content Marketing ROI (The Right Way)",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "How to Measure Content Marketing ROI (The Right Way)"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "20 January 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "8 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Most businesses track page views and stop there. Here's how to properly attribute business outcomes to your content marketing investment."
+        },
+        {
+          "type": "p",
+          "text": "Content marketing is the most under-measured area in most marketing budgets. Businesses invest in blog posts, guides, videos, and case studies, check how many page views they're getting, and conclude either that content is working (lots of views) or that it isn't (few views). Both conclusions are usually wrong because page views are a vanity metric that tells you almost nothing about business impact."
+        },
+        {
+          "type": "p",
+          "text": "Here is how to actually measure whether your content marketing is producing a return."
+        },
+        {
+          "type": "h2",
+          "text": "Why Content ROI Is Hard to Measure"
+        },
+        {
+          "type": "p",
+          "text": "The attribution problem in content marketing is real. Someone reads your blog post in January, signs up for your newsletter in February, attends your webinar in March, and books a discovery call in April. Which touchpoint gets credit for that client? Last-click attribution (the default in most analytics) would give it to whatever happened right before they booked the call, probably a direct visit or a search for your brand name, completely ignoring the blog post that started the relationship."
+        },
+        {
+          "type": "p",
+          "text": "This means content marketing is systematically undercounted in standard analytics setups. The actual contribution is higher than the data suggests, but proving it requires more sophisticated measurement."
+        },
+        {
+          "type": "p",
+          "text": "A second challenge: content ROI takes time to materialise. A piece of content published today typically takes three to twelve months to reach its peak traffic, build links, and start appearing in AI-generated answers. Evaluating content ROI at the 60-day mark will almost always produce discouraging numbers that don't represent the long-term value."
+        },
+        {
+          "type": "h2",
+          "text": "The Wrong Way: Just Looking at Page Views"
+        },
+        {
+          "type": "p",
+          "text": "Page views tell you that your hosting is working. They tell you that people visited your page. They tell you nothing about whether those visitors became leads or customers, whether the content influenced a purchasing decision, or whether the investment was justified."
+        },
+        {
+          "type": "p",
+          "text": "I've seen businesses with content getting 50,000 monthly page views generating fewer leads than a competitor with 3,000 monthly page views, because the high-traffic content was attracting the wrong audience (people searching informational queries with no purchasing intent) while the competitor's content was specifically targeting buyers at decision points."
+        },
+        {
+          "type": "h2",
+          "text": "Setting Up Proper Tracking"
+        },
+        {
+          "type": "h3",
+          "text": "GA4 assisted conversions"
+        },
+        {
+          "type": "p",
+          "text": "Google Analytics 4's path to conversion reports (under Advertising, then Attribution) let you see which pages appeared in the conversion paths of people who ultimately converted. This is different from last-click attribution. A blog post that appeared in the path of 40 conversions, even if it wasn't the last touchpoint, deserves credit in your content evaluation."
+        },
+        {
+          "type": "p",
+          "text": "For this to work, you need conversion events set up properly in GA4: form submissions, purchases, phone calls, whatever constitutes a conversion for your business. Without these events, the assisted conversion reports are empty."
+        },
+        {
+          "type": "h3",
+          "text": "UTM parameters"
+        },
+        {
+          "type": "p",
+          "text": "Every link in your newsletter, every social media post linking to content, every email campaign should have UTM parameters so GA4 can attribute the resulting traffic and conversions to the correct source. Without UTMs, traffic from your newsletter appears as \"direct\" traffic in GA4, making your email programme look invisible."
+        },
+        {
+          "type": "h3",
+          "text": "CRM-level attribution"
+        },
+        {
+          "type": "p",
+          "text": "The most accurate content ROI measurement requires asking new clients or customers where they first heard about you, or better yet, tracking the specific content pieces in their journey through CRM data. If your CRM captures the first touchpoint and you can link that to specific content pieces, you can calculate actual revenue attributed to content."
+        },
+        {
+          "type": "h2",
+          "text": "Content Metrics That Actually Matter"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Organic traffic to content: Traffic from Google to specific content pieces, segmented by the intent of the query (informational vs. transactional). Informational traffic is building awareness. Transactional traffic is more directly revenue-adjacent.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Time on page and scroll depth: A piece that gets 500 visits with an average time on page of 4 minutes is performing better than one with 500 visits and 30 seconds average. GA4's engagement metrics (engaged sessions) are more useful than raw bounce rate.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Assisted conversions: How many conversions included this content in the journey.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Leads generated (first touch): For content with forms or CTAs, how many leads can be directly attributed.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Email subscribers acquired: If content drives newsletter signups, those subscribers have a calculable lifetime value.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Backlinks acquired: Quality content attracts links from other sites, which strengthens your domain authority and future ranking potential. This is an indirect but real ROI mechanism.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The Content-to-Revenue Pipeline"
+        },
+        {
+          "type": "p",
+          "text": "Think of content as a pipeline with stages:"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Content attracts relevant visitors from organic search, social, or referral",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Some visitors convert to email subscribers or newsletter readers",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Email nurturing builds the relationship over time",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Some subscribers become leads (enquire or book a call)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Some leads become clients",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "To calculate content ROI properly, you need to know the conversion rates at each stage of this pipeline. If your content attracts 1,000 relevant visitors per month, 5% become subscribers (50 subscribers), 10% of subscribers eventually become leads (5 leads per month from content-driven subscribers), and 30% of leads close (1.5 new clients per month), and your average client value is €5,000, content is generating €7,500 in new client value per month from these content-driven leads alone."
+        },
+        {
+          "type": "p",
+          "text": "These numbers are illustrative, but the framework is sound. Map your own conversion rates at each stage and the content ROI calculation becomes much more concrete than \"how many page views did we get.\""
+        },
+        {
+          "type": "h2",
+          "text": "Long-Form vs Short-Form ROI"
+        },
+        {
+          "type": "p",
+          "text": "In my experience, long-form, comprehensive content (1,500+ words, properly researched, specific and practical) significantly outperforms short, thin content for both SEO and conversion purposes. Long-form content ranks for more keyword variations, earns more backlinks, keeps visitors on the page longer, and positions the author as a genuine expert."
+        },
+        {
+          "type": "p",
+          "text": "Short-form content (social media posts, short blog posts) has a role in distribution and community building, but it rarely produces the compounding organic traffic and lead generation that long-form content does. The investment in producing a genuinely excellent 2,500-word guide on a topic your target clients care about will typically outperform ten 250-word posts on similar topics, both in total traffic over time and in lead generation."
+        },
+        {
+          "type": "h2",
+          "text": "Realistic Timeline for Content Payoff"
+        },
+        {
+          "type": "p",
+          "text": "A newly published piece of content typically follows this curve:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Months 1-3: Minimal organic traffic. Google is crawling and indexing, but hasn't yet established how to rank the content.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Months 3-6: Initial ranking positions appear. Traffic starts to trickle in from long-tail variations of the target keyword.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Months 6-12: Rankings consolidate. For well-executed content on moderate competition keywords, meaningful traffic establishes.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12 months+: Content has often moved to its peak position. If links have been earned, it may continue to improve. The content is now generating steady organic traffic with no additional investment.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "This is why evaluating content performance at 60 or 90 days is misleading. The evaluation should happen at 6 and 12 months, with the understanding that a 12-month timeline is often needed to see the full picture."
+        },
+        {
+          "type": "h2",
+          "text": "A Simple Content ROI Framework"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Define what conversions you're tracking and make sure they're set up in GA4",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Tag all content links with UTM parameters",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Check GA4 assisted conversions monthly to see which content pieces are in conversion paths",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Track organic traffic to content pieces in Search Console monthly",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "At 6-month and 12-month reviews, calculate leads generated per content piece where possible",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Compare content production cost to the value of leads and clients generated through content-influenced journeys",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Even a rough version of this framework will give you far better information than page views alone. And the businesses that measure content ROI properly are the ones that invest in it consistently, because they can see what it's producing."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Content Marketing"
+        },
+        {
+          "type": "text",
+          "text": "ROI"
+        },
+        {
+          "type": "text",
+          "text": "Analytics"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nThe Complete Google Business Profile Optimisation Guide for 2026",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nThe Complete Google Business Profile Optimisation Guide for 2026\n\nGBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches.\n\n5 Mar 2026\n·\n14 min read",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

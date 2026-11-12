@@ -1,0 +1,337 @@
+{
+  "route": "/mugglememo",
+  "title": "Muggle Memo: Khalid Farhan's Friday newsletter | Khalid Farhan",
+  "metaDesc": "One email every Friday from Khalid Farhan: business ideas, AI, marketing and productivity, for people who want to build something. 100 BDT a year.",
+  "h1": "MUGGLE MEMO",
+  "sections": [
+    {
+      "index": 1,
+      "className": "mm-hero",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "MUGGLE MEMO"
+        },
+        {
+          "type": "p",
+          "text": "Every Friday I send one email about the most useful thing I found that week. One week it is a business idea, the next it is AI, a marketing strategy or a habit worth building. For people who want to start something and keep getting better."
+        },
+        {
+          "type": "img",
+          "src": "/team/khalid-avatar.webp",
+          "alt": ""
+        },
+        {
+          "type": "p",
+          "text": "Written by Khalid Farhan\n1.9M on YouTube. Runs an agency in Dublin. 10+ years building businesses."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "EVERY FRIDAY\none email",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "60+\nissues sent so far",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "18,000+\nreaders",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Bangladesh"
+        },
+        {
+          "type": "button",
+          "text": "Outside Bangladesh"
+        },
+        {
+          "type": "text",
+          "text": "100 BDT"
+        },
+        {
+          "type": "text",
+          "text": "a year"
+        },
+        {
+          "type": "p",
+          "text": "Less than 2 taka a week.\nbKash, Nagad, Rocket or card."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "Join for 100 BDT a year"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "mm-issues",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "SOME PAST ISSUES"
+        },
+        {
+          "type": "p",
+          "text": "Real subject lines from emails I have already sent."
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Khalid Farhan\nLaunch a Mango Delivery Business & Make 500,000 BDT in 3 months\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nHow Pinin makes $2k/month\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nLivestreaming Funerals: yes, there's a business there\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nStarting an agency with only \"cold emails\"\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nThis guy built a $26k/month business alone\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\n3 Easy Business Ideas You Can Start With AI\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nThis 800 member FB Group Makes $5k/Month\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nCan you create an experience business in Bangladesh?\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nThis mom created an app using AI in 3 days\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nHow to use Twitter/X to Find a Client in 24 Hours\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nThis 1 year old tool makes $92k/month\nFri",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Khalid Farhan\nA Dog Grooming Business On The Side\nFri",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "mm-inside",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "NO TWO FRIDAYS ARE THE SAME"
+        },
+        {
+          "type": "p",
+          "text": "Every Friday I sit down and decide what this week's email should be about. Even I don't know what next Friday will bring. Any week could be about:"
+        },
+        {
+          "type": "text",
+          "text": "BUSINESS IDEAS"
+        },
+        {
+          "type": "text",
+          "text": "A cool business I came across, how it makes money, and whether you could start something like it."
+        },
+        {
+          "type": "text",
+          "text": "AI"
+        },
+        {
+          "type": "text",
+          "text": "What changed in AI this week and how you can use it to work faster or earn more."
+        },
+        {
+          "type": "text",
+          "text": "MARKETING"
+        },
+        {
+          "type": "text",
+          "text": "A strategy I think everyone should try, explained so you can do it yourself."
+        },
+        {
+          "type": "text",
+          "text": "PRODUCTIVITY"
+        },
+        {
+          "type": "text",
+          "text": "Things you should be doing that you probably are not, to get more out of your week."
+        },
+        {
+          "type": "img",
+          "src": "/team/khalid-avatar.webp",
+          "alt": ""
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan <khalid@news.khalidfarhan.com>"
+        },
+        {
+          "type": "p",
+          "text": "to me"
+        },
+        {
+          "type": "p",
+          "text": "Heloo! Happy Friday."
+        },
+        {
+          "type": "p",
+          "text": "STORY"
+        },
+        {
+          "type": "p",
+          "text": "Two years ago, bored software engineer Tony Dinh walked away from his Singapore job with two years of savings and a single goal: find $1000 in monthly revenue."
+        },
+        {
+          "type": "p",
+          "text": "Three days after the ChatGPT API came out, Tony registered TypingMind.com at breakfast, shipped the MVP that weekend, and made $22k in seven days."
+        },
+        {
+          "type": "p",
+          "text": "Lessons to take away:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Build in public. Go to X and search \"buildinpublic\" to understand the ecosystem.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Launch more things if you are new.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "TECH"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Perplexity received 780 million queries last month.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Thank you for reading today's email. I will see you next Friday."
+        },
+        {
+          "type": "p",
+          "text": "Farhan"
+        },
+        {
+          "type": "text",
+          "text": "From a past issue, shortened."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "mm-faq bg-abyss on-dark",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS"
+        },
+        {
+          "type": "p",
+          "text": "100 BDT a year.\nLess than 2 taka a week."
+        },
+        {
+          "type": "link",
+          "text": "Join Muggle Memo",
+          "href": "#join",
+          "imgs": []
+        },
+        {
+          "type": "faq",
+          "summary": "How do I pay?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Does it renew by itself?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "When does the first issue come?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Is it in English or Bangla?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Can I stop it?",
+          "body": ""
+        }
+      ]
+    }
+  ]
+}

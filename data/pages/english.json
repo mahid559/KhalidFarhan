@@ -1,0 +1,702 @@
+{
+  "route": "/english",
+  "title": "EnglishAi: প্রতিদিন 20 মিনিটে ইংরেজি বলতে শিখুন",
+  "metaDesc": "পার্সোনাল টিচারের সাথে প্রতিদিন 20 মিনিট কথা বলার প্র্যাকটিস, আপনার লেভেল থেকে। 24 লেভেল, 2,000+ লেসন। মাসে 900 টাকা, বা লাইফটাইম 10,000 টাকা। আগে 5 মিনিটের লেভেল টেস্ট দিন।",
+  "h1": "YOUR PERSONAL\nENGLISH TEACHER\nFOR INTERVIEWS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "eg-wrap eg-hero",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "YOUR PERSONAL\nENGLISH TEACHER\nFOR INTERVIEWS"
+        },
+        {
+          "type": "p",
+          "text": "Cambridge Curriculum দিয়ে সাজানো, 100% আপনার জন্য পার্সোনালাইজড। আপনার পার্সোনাল টিচার, প্রতিদিন 20 মিনিট।"
+        },
+        {
+          "type": "link",
+          "text": "Best value\n10,000 BDT / Lifetime",
+          "href": "#lifetime",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "900 BDT / month",
+          "href": "#monthly",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "আগে 5 মিনিটের লেভেল টেস্ট দিন"
+        },
+        {
+          "type": "video",
+          "src": "/english/home/dashboard.webm"
+        },
+        {
+          "type": "text",
+          "text": "ভিতরের আসল স্ক্রিন: আজকের লেসন, পথ, লেসন, লিগ, ডুয়েল।"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "eg-wrap eg-hero",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "YOUR PERSONAL\nENGLISH TEACHER\nFOR INTERVIEWS"
+        },
+        {
+          "type": "p",
+          "text": "Cambridge Curriculum দিয়ে সাজানো, 100% আপনার জন্য পার্সোনালাইজড। আপনার পার্সোনাল টিচার, প্রতিদিন 20 মিনিট।"
+        },
+        {
+          "type": "link",
+          "text": "Best value\n10,000 BDT / Lifetime",
+          "href": "#lifetime",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "900 BDT / month",
+          "href": "#monthly",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "আগে 5 মিনিটের লেভেল টেস্ট দিন"
+        },
+        {
+          "type": "video",
+          "src": "/english/home/dashboard.webm"
+        },
+        {
+          "type": "text",
+          "text": "ভিতরের আসল স্ক্রিন: আজকের লেসন, পথ, লেসন, লিগ, ডুয়েল।"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "eg-press",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Featured in"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/prothom-alo.svg",
+                  "alt": "Prothom Alo"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/daily-star.svg",
+                  "alt": "The Daily Star"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/jamuna-tv.svg",
+                  "alt": "Jamuna TV"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/channel-i.png",
+                  "alt": "Channel I"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/new-age.png",
+                  "alt": "New Age Bangladesh"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/niche-pursuits.jpg",
+                  "alt": "Niche Pursuits"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/search-engine-journal.png",
+                  "alt": "Search Engine Journal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "eg-clients",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Our clients"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/grameenphone.svg",
+                  "alt": "Grameenphone"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/teletalk.png",
+                  "alt": "Teletalk"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/taptapsend.png",
+                  "alt": "Taptap Send"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/shanta-holdings.svg",
+                  "alt": "Shanta Holdings"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/hostinger-wordmark.svg",
+                  "alt": "Hostinger"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/notion.svg",
+                  "alt": "Notion"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/hatil.svg",
+                  "alt": "Hatil"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/skybuy.svg",
+                  "alt": "Skybuy BD"
+                }
+              ]
+            },
+            {
+              "text": "and many more",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "eg-wrap eg-paths",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "আপনি কেন ইংরেজি শিখছেন?"
+        },
+        {
+          "type": "p",
+          "text": "কাজ, ফ্রিল্যান্সিং, ক্যারিয়ার"
+        },
+        {
+          "type": "h3",
+          "text": "প্রতিদিনের ইংরেজি"
+        },
+        {
+          "type": "p",
+          "text": "অফিসে, ক্লায়েন্টের সাথে, ইন্টারভিউতে, বা এমনিই ভালো ইংরেজি বলতে চান।"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "ইন্টারভিউ আর চাকরির কথা",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "ক্লায়েন্ট কল, মেসেজ আর ইমেইল",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "অফিস মিটিং আর সহকর্মীর সাথে কথা",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "দোকান, ডাক্তার, ফোন, প্রতিদিনের সব",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "লেভেল টেস্ট দিন",
+          "href": "/english/test",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "বিদেশে পড়তে যাবেন"
+        },
+        {
+          "type": "h3",
+          "text": "উচ্চশিক্ষা আর IELTS"
+        },
+        {
+          "type": "p",
+          "text": "UK, Ireland, Canada, Australia বা অন্য কোথাও পড়তে যাবেন। IELTS-এর চারটা অংশ আর বিদেশের জীবনের ইংরেজি।"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "IELTS Speaking, এক্সামিনারের সাথে প্র্যাকটিস",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Listening, Reading আর Writing টাস্ক",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "মাসে মক টেস্ট",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "ভার্সিটি, ভিসা ইন্টারভিউ আর বিদেশের জীবন",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "IELTS লেভেল টেস্ট দিন",
+          "href": "/english/test?goal=ielts",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "eg-wrap eg-day",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "প্রতিদিন 20 মিনিটে যা হয়"
+        },
+        {
+          "type": "p",
+          "text": "আমরা স্কুলে 12 বছর ইংরেজি পড়ি, বাট কারো সাথে কথা বলি না। ভুল করলে মানুষ হাসবে, এই ভয়ে মুখই খুলি না। পার্সোনাল টিচারের সামনে সেই ভয় নেই।"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "h3",
+          "text": "কথা বলা"
+        },
+        {
+          "type": "p",
+          "text": "পার্সোনাল টিচারের সাথে রোল-প্লে। ভুল করলে কেউ হাসবে না। টিচার আগে উত্তর বলে দেয় না, কোথায় ভুল সেটা দেখায়, ঠিক করেন আপনি।"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "রোল-প্লে, 5 মিনিট",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "উচ্চারণের স্কোর, শব্দ ধরে ধরে",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "দ্বিতীয়বারে ঠিক বাক্যটা",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2"
+        },
+        {
+          "type": "h3",
+          "text": "বুঝে শেখা"
+        },
+        {
+          "type": "p",
+          "text": "একবারে একটা জিনিস, বাংলায় বুঝিয়ে দেওয়া। গ্রামারের কঠিন নাম ছাড়া। যেটা ভুলে যাচ্ছেন সেটা রিভিউতে ফিরে আসে।"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "রিভিউ, 3 মিনিট",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "নতুন প্যাটার্ন, শুনে শুনে বলা",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "শোনা আর ছোট লেখা, AI ঠিক করে দেয়",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "3"
+        },
+        {
+          "type": "h3",
+          "text": "প্রতিদিন ফেরা"
+        },
+        {
+          "type": "p",
+          "text": "ইংরেজি শেখা হয় প্রতিদিনের প্র্যাকটিসে। পরের দিন ফেরার কারণ রাখা আছে।"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "স্ট্রিক, মিস হলে ফ্রিজ বাঁচায়",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "ডুয়েল, আপনার লেভেলের একজনের সাথে",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "লিগ, 30 জনের সাপ্তাহিক গ্রুপ",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "eg-screens",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "ভিতরে যা দেখবেন"
+        },
+        {
+          "type": "img",
+          "src": "/english/home/test-result-v2.png",
+          "alt": "টেস্টের আসল রেজাল্ট স্ক্রিন"
+        },
+        {
+          "type": "text",
+          "text": "আপনার রেজাল্ট"
+        },
+        {
+          "type": "text",
+          "text": "লেভেল, স্কোর, আর আপনার কথা শুনে একটা টিপস।"
+        },
+        {
+          "type": "img",
+          "src": "/english/home/tutor-v2.png",
+          "alt": "লেসনে টিচারের ভুল ধরিয়ে দেওয়ার আসল স্ক্রিন"
+        },
+        {
+          "type": "text",
+          "text": "পার্সোনাল টিচার"
+        },
+        {
+          "type": "text",
+          "text": "আগে ভুলের জায়গাটা দেখায়। দ্বিতীয়বারে ঠিক বাক্যটা বলে দেয়।"
+        },
+        {
+          "type": "img",
+          "src": "/english/home/today-v2.png",
+          "alt": "অ্যাপের আসল হোম স্ক্রিন"
+        },
+        {
+          "type": "text",
+          "text": "আপনার হোম"
+        },
+        {
+          "type": "text",
+          "text": "আজকের লেসন, স্ট্রিক, লিগ, সব এক জায়গায়।"
+        },
+        {
+          "type": "text",
+          "text": "2,367"
+        },
+        {
+          "type": "text",
+          "text": "লেসন লাইভ"
+        },
+        {
+          "type": "text",
+          "text": "24"
+        },
+        {
+          "type": "text",
+          "text": "লেভেল, A1 থেকে B2"
+        },
+        {
+          "type": "text",
+          "text": "2,218"
+        },
+        {
+          "type": "text",
+          "text": "জন লেভেল টেস্ট দিয়েছেন"
+        },
+        {
+          "type": "text",
+          "text": "20"
+        },
+        {
+          "type": "text",
+          "text": "মিনিট, প্রতিদিন"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "eg-offer",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "900 BDT/month or 10,000 BDT/Lifetime"
+        },
+        {
+          "type": "h3",
+          "text": "EnglishAi-তে যোগ দিন"
+        },
+        {
+          "type": "p",
+          "text": "প্রথম দিন থেকেই সব।"
+        },
+        {
+          "type": "button",
+          "text": "Lifetime Access\n(Limited Time Deal)\nBest value\n10,000 BDT"
+        },
+        {
+          "type": "button",
+          "text": "Monthly\n900 BDT"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "নাম",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "password",
+              "name": "",
+              "placeholder": "••••••••",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "Pay 10,000 BDT"
+        },
+        {
+          "type": "p",
+          "text": "bKash, Nagad, Rocket, কার্ড, ব্যাংক। SSLCommerz-এর মাধ্যমে।"
+        },
+        {
+          "type": "p",
+          "text": "আগেই অ্যাকাউন্ট আছে? লগইন করুন"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "className": "eg-wrap eg-faq",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "প্রশ্ন"
+        },
+        {
+          "type": "button",
+          "text": "কত দিনে ইংরেজি শিখে ফেলবো?"
+        },
+        {
+          "type": "text",
+          "text": "Cambridge-এর হিসাবে শূন্য থেকে মাঝারি লেভেলে যেতে কয়েকশো ঘণ্টা লাগে। আমরা যেভাবে সবকিছু সাজিয়েছি, তাতে একদম শূন্য থেকে শুরু করলে দুই বছরের মধ্যে আপনি সুন্দর করে ইংরেজি বলতে পারবেন। বেশিরভাগ মানুষ শূন্য থেকে শুরু করে না, সুতরাং আপনার সময় আরও কম লাগার কথা।"
+        },
+        {
+          "type": "button",
+          "text": "আমি কিছুই পারি না। পারবো?"
+        },
+        {
+          "type": "text",
+          "text": "আমাদের লেসনগুলো এমনভাবে সাজানো যে আপনি যত শিখবেন, লেসন তত কঠিন হবে। না পারলে সহজই থাকবে, যতদিন না আপনি ইম্প্রুভ করছেন।"
+        },
+        {
+          "type": "button",
+          "text": "চাকরি বা IELTS-এর জন্য কাজে লাগবে?"
+        },
+        {
+          "type": "text",
+          "text": "হ্যাঁ, এটা দুই ধরনের মানুষের জন্যই বানানো। প্রতিদিনের ইংরেজিতে ইন্টারভিউ, ক্লায়েন্ট আর অফিসের কথা মেশানো আছে। উচ্চশিক্ষার পথে IELTS-এর চারটা অংশ, মক টেস্ট আর বিদেশের জীবনের ইংরেজি। টেস্টের শুরুতে বেছে নেবেন, পরে প্রোফাইল থেকে বদলাতেও পারবেন।"
+        },
+        {
+          "type": "button",
+          "text": "ফোন থেকে করা যাবে?"
+        },
+        {
+          "type": "text",
+          "text": "হ্যাঁ। কোনো অ্যাপ নামাতে হবে না, ব্রাউজারেই চলবে। চাইলে হোম স্ক্রিনে রেখে দিতে পারবেন। মাইক্রোফোন লাগবে।"
+        },
+        {
+          "type": "button",
+          "text": "মাসের মেয়াদ শেষ হলে কী হবে?"
+        },
+        {
+          "type": "text",
+          "text": "মেয়াদ শেষের আগে ইমেইলে রিমাইন্ডার পাবেন। ইচ্ছা হলে আরেক মাসের জন্য আবার কিনতে পারবেন। না কিনলেও কোনো সমস্যা নেই।"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "className": "eg-end",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "আজ থেকে প্রতিদিন 20 মিনিট"
+        },
+        {
+          "type": "p",
+          "text": "900 BDT/month or 10,000 BDT/Lifetime."
+        },
+        {
+          "type": "link",
+          "text": "10,000 BDT / Lifetime",
+          "href": "#lifetime",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "900 BDT / month",
+          "href": "#monthly",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "আগে লেভেল টেস্ট দিন",
+          "href": "/english/test",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

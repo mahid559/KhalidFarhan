@@ -1,0 +1,62 @@
+{
+  "route": "/masterclass/portal/login",
+  "title": "Khalid Farhan — Marketing Agency & Founder",
+  "metaDesc": "Dublin-based marketing agency helping businesses grow through SEO, GEO, Google Ads, Meta Ads, and content. Also home of the 2026 Challenge — watch Khalid build a business live.",
+  "h1": "MASTERCLASS PORTAL",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "KHALID FARHAN",
+          "href": "/",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "AGENCY MASTERCLASS"
+        },
+        {
+          "type": "h1",
+          "text": "MASTERCLASS PORTAL"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "password",
+              "name": "",
+              "placeholder": "From your confirmation email",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "Log In"
+        },
+        {
+          "type": "p",
+          "text": "Can't find your login or forgot your password? Email me a new one."
+        },
+        {
+          "type": "p",
+          "text": "One device only. Your account locks if it's used on a second device. Pick one device and use the same one each time, especially on class day."
+        },
+        {
+          "type": "p",
+          "text": "← Back to the masterclass page"
+        }
+      ]
+    }
+  ]
+}

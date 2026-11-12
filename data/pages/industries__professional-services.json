@@ -1,0 +1,134 @@
+{
+  "route": "/industries/professional-services",
+  "title": "Professional Services Marketing Agency Ireland | Khalid Farhan",
+  "metaDesc": "Professional services firms win clients through credibility. We build the content and SEO programmes that establish thought leadership and generate qualified enquiries. Working with professional services businesses across Ireland.",
+  "h1": "MARKETING FOR CONSULTANTS, AGENCIES, AND PROFESSIONALS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "INDUSTRIES / PROFESSIONAL SERVICES"
+        },
+        {
+          "type": "h1",
+          "text": "MARKETING FOR CONSULTANTS, AGENCIES, AND PROFESSIONALS"
+        },
+        {
+          "type": "p",
+          "text": "Professional services firms win clients through credibility. We build the content and SEO programmes that establish thought leadership and generate qualified enquiries."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "HOW WE HELP"
+        },
+        {
+          "type": "h2",
+          "text": "MARKETING BUILT FOR PROFESSIONAL SERVICES BUSINESSES"
+        },
+        {
+          "type": "p",
+          "text": "Professional services firms win clients through credibility. We build the content and SEO programmes that establish thought leadership and generate qualified enquiries."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SERVICES FOR PROFESSIONAL SERVICES"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation\n\nFrom technical foundations to content strategy, we build sustainable organic growth that compounds over time.",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing\n\nStrategy-led content programmes that build authority, drive organic traffic, and generate leads over time.",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "LinkedIn Ads\n\nB2B advertising that puts your brand in front of the exact titles, companies, and industries you want to reach.",
+          "href": "/services/linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Email Marketing\n\nFrom welcome sequences to weekly newsletters, we build email programmes that turn subscribers into customers.",
+          "href": "/services/email-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FAQS"
+        },
+        {
+          "type": "button",
+          "text": "What digital marketing services work best for professional services businesses?"
+        },
+        {
+          "type": "text",
+          "text": "For professional services businesses, we typically recommend seo, content-marketing, linkedin-ads. The right mix depends on your specific goals, budget, and competitive landscape — which is why we start every engagement with a free audit."
+        },
+        {
+          "type": "button",
+          "text": "How long before we see results?"
+        },
+        {
+          "type": "text",
+          "text": "For paid channels (Google Ads, Meta Ads), you can expect to see results within 4–8 weeks. For SEO and content, meaningful results typically come within 3–6 months. We'll give you realistic, channel-specific projections during the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you specialise in professional services?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have hands-on experience with professional services businesses, including IQ Branding Solutions. This means we understand the specific challenges, customer journey, and competitive dynamics in your sector."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "READY TO GROW YOUR PROFESSIONAL SERVICES BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

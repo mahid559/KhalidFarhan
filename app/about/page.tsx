@@ -1,166 +1,156 @@
 import React from "react";
-import Image from "next/image";
+import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { ArrowRight, CheckCircle2, ShieldCheck, Target, BookOpen, Award } from "lucide-react";
-import { SITE_DATA } from "@/data/content";
 
-export const metadata = {
-  title: "About Khalid Farhan | Founder & Marketing Agency",
-  description: "Built for results, not vanity. The story of Khalid Farhan and his Dublin-based marketing agency.",
+export const metadata: Metadata = {
+  title: "About Khalid Farhan — Agency & Founder | Khalid Farhan",
+  description:
+    "Built for results, not for vanity. A founder-led digital marketing agency and entrepreneurship education platform operating from Dublin and Dhaka.",
 };
 
-const valueIcons = [ShieldCheck, Target, BookOpen, Award];
+const STATS = [
+  { num: "10+", label: "YEARS IN MARKETING" },
+  { num: "1.9M+", label: "YOUTUBE SUBSCRIBERS" },
+  { num: "30,000+", label: "STUDENTS TAUGHT" },
+  { num: "400+", label: "CLIENTS SERVED" },
+];
+
+const PRESS_LOGOS = [
+  { src: "/logos/press/prothom-alo.svg", alt: "Prothom Alo" },
+  { src: "/logos/press/daily-star.svg", alt: "The Daily Star" },
+  { src: "/logos/press/jamuna-tv.svg", alt: "Jamuna TV" },
+  { src: "/logos/press/channel-i.png", alt: "Channel I" },
+  { src: "/logos/press/new-age.png", alt: "New Age Bangladesh" },
+  { src: "/logos/press/niche-pursuits.jpg", alt: "Niche Pursuits" },
+  { src: "/logos/press/search-engine-journal.png", alt: "Search Engine Journal" },
+];
 
 export default function AboutPage() {
-  const { profile } = SITE_DATA;
-
   return (
-    <div className="min-h-screen flex flex-col bg-[#F9F6F3]">
+    <div className="min-h-screen bg-[#F9F6F3] text-[#1B1624]">
       <Navbar />
-      <main className="flex-grow py-16 sm:py-24">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
-          
-          {/* Header */}
-          <div className="space-y-4 text-center max-w-3xl mx-auto">
-            <div className="inline-flex items-center gap-1.5 bg-white border border-[#ECE5E1] px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider text-[#76737C]">
-              About Khalid & Agency
-            </div>
-            <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
-              Built for results. Not for vanity.
+
+      <main>
+        {/* 1. HERO */}
+        <section className="border-b border-[#ECE5E1] py-16 sm:py-24 text-center">
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#76737C]">
+              ABOUT
+            </p>
+            <h1 className="display-l mt-4 text-[44px] sm:text-[58px] lg:text-[66px] text-[#1B1624]">
+              BUILT FOR RESULTS. NOT FOR VANITY.
             </h1>
-            <p className="text-lg sm:text-xl text-[#54505B] leading-relaxed">
-              A marketing agency that started as a one-person consultancy in Dublin, grew to 400+ clients in 10+ countries over 12 years. Working closely to help you win.
+            <p className="mt-5 mx-auto max-w-2xl text-[17px] sm:text-[18px] leading-[1.65] text-[#54505B]">
+              A founder-led digital marketing agency and entrepreneurship education platform operating from Dublin and Dhaka.
             </p>
           </div>
+        </section>
 
-          {/* Stats Bar */}
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
-            {profile.stats.map((s, idx) => (
-              <div
-                key={idx}
-                className="bg-white border border-[#ECE5E1] rounded-[22px] p-6 text-center space-y-1 shadow-2xs"
-              >
-                <div className="ledger-num text-3xl sm:text-4xl font-normal text-[#1B1624] flex items-baseline justify-center">
-                  <span>{s.value.endsWith("+") ? s.value.slice(0, -1) : s.value}</span>
-                  {s.value.endsWith("+") && (
-                    <span className="text-[#1B1624] text-[1.35em] leading-none inline-block align-baseline ml-1">
-                      +
-                    </span>
-                  )}
+        {/* 2. DARK STATS BAR */}
+        <section className="bg-[#1B1624] text-white py-14">
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-2 lg:grid-cols-4 gap-6 text-center">
+            {STATS.map((s) => (
+              <div key={s.label}>
+                <div className="ledger-num text-[38px] sm:text-[46px] leading-none text-[#FD976D]">
+                  {s.num}
                 </div>
-                <div className="text-xs sm:text-sm font-bold text-[#54505B]">
+                <div className="mt-2 text-[12px] font-bold uppercase tracking-[0.08em] text-white/75">
                   {s.label}
-                </div>
-                <div className="text-[11px] text-[#76737C]">
-                  {s.detail}
                 </div>
               </div>
             ))}
           </div>
+        </section>
 
-          {/* Story Narrative Box */}
-          <div className="bg-white border border-[#ECE5E1] rounded-[32px] p-8 sm:p-14 shadow-xs space-y-8">
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
-              
-              <div className="lg:col-span-5 flex justify-center">
-                <div className="relative w-64 h-80 rounded-[28px] overflow-hidden border border-[#ECE5E1] bg-[#F9F6F3]">
-                  <Image
-                    src="/assets/khalid-portrait.jpg"
-                    alt="Khalid Farhan"
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-              </div>
-
-              <div className="lg:col-span-7 space-y-5">
-                <h2 className="heading-lg text-2xl sm:text-3xl text-[#1B1624]">
-                  The story: From Bangladesh to Dublin, and back to building things.
-                </h2>
-                <p className="text-base text-[#54505B] leading-relaxed">
-                  Khalid Farhan moved from Bangladesh to Ireland and spent years working in and around digital marketing, first as a freelancer, then building campaigns for clients across hospitality, professional services, e-commerce, and more.
-                </p>
-                <p className="text-base text-[#54505B] leading-relaxed">
-                  The agency grew organically: no outside funding, no agency conglomerate, just results that made clients refer other clients. Over 12 years we have worked with 400+ businesses across Ireland, the UK, Bangladesh, and 10+ countries.
-                </p>
-                <div className="pt-2">
-                  <div className="text-sm font-bold text-[#1B1624]">
-                    Khalid Farhan
-                  </div>
-                  <div className="text-xs text-[#76737C]">
-                    Founder & CEO · Digital Marketer, Entrepreneur & Content Creator
-                  </div>
-                </div>
-              </div>
-
-            </div>
-          </div>
-
-          {/* Values Grid */}
-          <div className="space-y-8">
-            <div className="text-center max-w-xl mx-auto space-y-2">
-              <h2 className="heading-lg text-3xl text-[#1B1624]">
-                What We Believe: Our Values
+        {/* 3. STORY & VALUES */}
+        <section className="border-b border-[#ECE5E1] py-16 sm:py-24">
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+            <div className="lg:col-span-6 space-y-5">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+                THE STORY
+              </p>
+              <h2 className="heading-xl text-[32px] sm:text-[42px] text-[#1B1624]">
+                FROM BANGLADESH TO DUBLIN, AND BACK TO BUILDING THINGS.
               </h2>
-              <p className="text-sm text-[#76737C]">
-                Honesty over hype. Revenue over vanity metrics.
+              <p className="text-[16px] leading-relaxed text-[#54505B]">
+                I got my first client in 2011 at age 16, writing articles for $1 each. Over the last 12+ years, that turned into a digital marketing agency in Dublin, Ireland serving 400+ clients across 10+ countries, alongside Business School and products built for creators and founders.
               </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              {profile.values.map((v, i) => {
-                const Icon = valueIcons[i] || ShieldCheck;
-                return (
-                  <div
-                    key={i}
-                    className="bg-white border border-[#ECE5E1] rounded-[24px] p-8 space-y-4 hover:border-[#FD976D]/60 transition-all shadow-2xs"
-                  >
-                    <div className="w-12 h-12 rounded-2xl bg-[#F3EDE9] flex items-center justify-center text-[#1B1624]">
-                      <Icon className="w-6 h-6 text-[#FD976D]" />
-                    </div>
-                    <h3 className="text-xl font-bold text-[#1B1624]">
-                      {v.title}
-                    </h3>
-                    <p className="text-sm text-[#54505B] leading-relaxed">
-                      {v.description}
-                    </p>
-                  </div>
-                );
-              })}
+            <div className="lg:col-span-6 rounded-[28px] border border-[#ECE5E1] bg-white p-8 sm:p-10 space-y-6">
+              <h3 className="heading-lg text-[26px] text-[#1B1624]">OUR VALUES.</h3>
+              <ul className="space-y-4 text-[15px] text-[#54505B]">
+                <li>
+                  <strong className="text-[#1B1624]">Honest numbers:</strong> We report revenue, leads, and real ROI — never vanity impressions.
+                </li>
+                <li>
+                  <strong className="text-[#1B1624]">Direct access:</strong> Agency clients talk directly to the people doing the work, not layers of account managers.
+                </li>
+                <li>
+                  <strong className="text-[#1B1624]">Build in public:</strong> Everything we teach in Business School and YouTube comes from businesses and campaigns we run ourselves.
+                </li>
+              </ul>
             </div>
           </div>
+        </section>
 
-          {/* Bottom CTA */}
-          <div className="bg-white text-[#1B1624] border border-[#ECE5E1] rounded-[28px] p-8 sm:p-12 text-center space-y-6 shadow-xs hover:border-[#FD976D] transition-colors">
-            <h2 className="heading-lg text-3xl sm:text-4xl text-[#1B1624]">
-              Ready to grow your business?
+        {/* 4. FOUNDER BIO */}
+        <section className="border-b border-[#ECE5E1] bg-[#F3EDE9]/60 py-16 sm:py-24">
+          <div className="max-w-[920px] mx-auto px-4 sm:px-6 flex flex-col sm:flex-row gap-8 items-center">
+            <img
+              src="/team/khalid-avatar.webp"
+              alt="Khalid Farhan"
+              className="h-40 w-40 rounded-full object-cover border border-[#ECE5E1] shrink-0"
+            />
+            <div className="space-y-3 text-center sm:text-left">
+              <h2 className="heading-lg text-[28px] text-[#1B1624]">Khalid Farhan</h2>
+              <p className="text-[16px] leading-relaxed text-[#54505B]">
+                Founder of khalidfarhan.com. MSc from Trinity College Dublin. Host to 1.9M+ subscribers on YouTube and 30,000+ students in Business School. Leading SEO, Paid Media, GEO, and Web Growth campaigns from Dublin and Dhaka.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* 5. FEATURED IN */}
+        <section className="border-b border-[#ECE5E1] py-8" aria-label="Featured in">
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-wrap items-center justify-between gap-6">
+            <span className="text-[12px] font-semibold uppercase tracking-[0.1em] text-[#76737C]">
+              Featured in
+            </span>
+            <div className="flex flex-wrap items-center gap-6 sm:gap-9">
+              {PRESS_LOGOS.map((logo) => (
+                <img
+                  key={logo.alt}
+                  src={logo.src}
+                  alt={logo.alt}
+                  className="h-[26px] w-auto object-contain opacity-80"
+                />
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* 6. BOTTOM CTA */}
+        <section className="bg-[#1B1624] text-white py-16 sm:py-24 text-center">
+          <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="heading-xl text-[34px] sm:text-[48px] text-white">
+              READY TO WORK TOGETHER?
             </h2>
-            <p className="text-[#54505B] max-w-xl mx-auto text-sm sm:text-base">
-              Work directly with an experienced marketing team invested in your commercial outcomes.
-            </p>
-            <div className="flex flex-wrap justify-center gap-4 pt-2">
+            <div className="mt-8">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-6 py-3 font-bold shadow-sm transition-all inline-flex items-center gap-2 hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
-                <span>Get a Free Marketing Audit</span>
-                <ArrowRight className="w-4 h-4 text-[#1B1624]" />
-              </Link>
-              <Link
-                href="/services"
-                className="ali-pill-btn bg-[#F9F6F3] hover:bg-[#ECE5E1] text-[#1B1624] border border-[#ECE5E1] text-sm px-6 py-3 font-semibold transition-all"
-              >
-                <span>Explore All 19 Services</span>
+                Get a Free Marketing Audit →
               </Link>
             </div>
           </div>
-
-        </div>
+        </section>
       </main>
+
       <Footer />
     </div>
   );
 }
-

@@ -1,0 +1,40 @@
+{
+  "route": "/yapcorder/login",
+  "title": "Sign in to Yapcorder | Khalid Farhan",
+  "metaDesc": "Dublin-based marketing agency helping businesses grow through SEO, GEO, Google Ads, Meta Ads, and content. Also home of the 2026 Challenge — watch Khalid build a business live.",
+  "h1": "SIGN IN TO YAPCORDER",
+  "sections": [
+    {
+      "index": 1,
+      "className": "ycp-auth",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "SIGN IN TO YAPCORDER"
+        },
+        {
+          "type": "p",
+          "text": "Enter your email and I will send you a sign-in link. No password to remember."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "EMAIL ME A SIGN-IN LINK"
+        },
+        {
+          "type": "p",
+          "text": "No account yet? Try it free for 60 minutes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "route": "/services",
+  "title": "Digital Marketing Services — SEO, Ads, GEO, Web Development | Khalid Farhan",
+  "metaDesc": "Full-service digital marketing agency in Dublin. SEO, GEO, AI search optimisation, Google Ads, Meta Ads, email marketing, web development, CRO, and analytics.",
+  "h1": "EVERY CHANNEL. ONE TEAM.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SERVICES"
+        },
+        {
+          "type": "h1",
+          "text": "EVERY CHANNEL. ONE TEAM."
+        },
+        {
+          "type": "p",
+          "text": "From SEO and GEO to Google Ads, Meta Ads, email, and web development — we build and run the marketing programmes that drive real business growth."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEARCH"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation\n\nFrom technical foundations to content strategy, we build sustainable organic growth that compounds over time.",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation\n\nGEO is the new SEO. We optimise your brand to appear in ChatGPT, Perplexity, Google AI Overviews, and every major AI answer engine.",
+          "href": "/services/geo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "AI Search Optimisation\n\nPerplexity, ChatGPT Search, Gemini. We make sure your brand is found on every AI-powered search platform.",
+          "href": "/services/ai-search-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO\n\nGoogle Business Profile, local citations, review management, and geo-targeted content — all in one programme.",
+          "href": "/services/local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO Audits\n\nDeep technical audits that uncover crawlability, indexation, speed, and schema issues — with a prioritised fix roadmap.",
+          "href": "/services/technical-seo-audits",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PAID MEDIA"
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\nSearch, Shopping, Performance Max, and YouTube campaigns built for measurable return — not vanity metrics.",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads\n\nFacebook and Instagram advertising built for real results — new customer acquisition, retargeting, and catalogue campaigns.",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "LinkedIn Ads\n\nB2B advertising that puts your brand in front of the exact titles, companies, and industries you want to reach.",
+          "href": "/services/linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TikTok Ads\n\nNative-feeling creative campaigns that reach younger, high-intent audiences at competitive CPMs.",
+          "href": "/services/tiktok-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "YouTube Ads\n\nThe world's second-largest search engine is a massively underutilised advertising channel — we help you capitalise.",
+          "href": "/services/youtube-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GROWTH & BUILD"
+        },
+        {
+          "type": "link",
+          "text": "Email Marketing\n\nFrom welcome sequences to weekly newsletters, we build email programmes that turn subscribers into customers.",
+          "href": "/services/email-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Marketing Automation\n\nNurture leads, onboard customers, and recover revenue — all on autopilot.",
+          "href": "/services/marketing-automation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Development\n\nPerformance-first, SEO-ready, conversion-optimised websites — built to rank and built to convert.",
+          "href": "/services/web-development",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Landing Page Design\n\nHigh-converting landing pages designed and tested to maximise the return on your paid and organic traffic.",
+          "href": "/services/landing-page-design",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation\n\nCRO is the highest-ROI investment you can make — it multiplies the return on every other channel.",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking\n\nGA4, GTM, server-side tracking, and custom dashboards — so every marketing decision is data-driven.",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing\n\nStrategy-led content programmes that build authority, drive organic traffic, and generate leads over time.",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Copywriting\n\nWebsite copy, ad copy, email copy, and landing pages — all written to convert.",
+          "href": "/services/copywriting",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "YouTube Channel Management\n\nFrom video SEO to community management — we help brands and creators build audiences that convert.",
+          "href": "/services/youtube-channel-management",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "NOT SURE WHERE TO START?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

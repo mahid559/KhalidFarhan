@@ -1,0 +1,230 @@
+{
+  "route": "/resources/free-seo-checklist",
+  "title": "Khalid Farhan — Marketing Agency & Founder",
+  "metaDesc": "Dublin-based marketing agency helping businesses grow through SEO, GEO, Google Ads, Meta Ads, and content. Also home of the 2026 Challenge — watch Khalid build a business live.",
+  "h1": "FREE SEO CHECKLIST.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "RESOURCES / SEO CHECKLIST"
+        },
+        {
+          "type": "h1",
+          "text": "FREE SEO CHECKLIST."
+        },
+        {
+          "type": "p",
+          "text": "50 points across technical, on-page, off-page, and GEO. Use it as an interactive checklist or download the PDF."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "TECHNICAL SEO"
+        },
+        {
+          "type": "button",
+          "text": "HTTPS enabled and no mixed content warnings"
+        },
+        {
+          "type": "button",
+          "text": "XML sitemap submitted to Google Search Console"
+        },
+        {
+          "type": "button",
+          "text": "Robots.txt file present and not blocking important pages"
+        },
+        {
+          "type": "button",
+          "text": "Canonical tags set correctly on all pages"
+        },
+        {
+          "type": "button",
+          "text": "No duplicate content issues"
+        },
+        {
+          "type": "button",
+          "text": "Hreflang tags set if multilingual"
+        },
+        {
+          "type": "button",
+          "text": "Core Web Vitals: LCP under 2.5s, INP under 200ms, CLS under 0.1"
+        },
+        {
+          "type": "button",
+          "text": "Mobile-responsive design confirmed in Search Console"
+        },
+        {
+          "type": "button",
+          "text": "Structured data / schema markup on key page types"
+        },
+        {
+          "type": "button",
+          "text": "No broken internal links (404s)"
+        },
+        {
+          "type": "h2",
+          "text": "ON-PAGE SEO"
+        },
+        {
+          "type": "button",
+          "text": "Primary keyword in title tag (under 60 characters)"
+        },
+        {
+          "type": "button",
+          "text": "Primary keyword in meta description (under 160 characters)"
+        },
+        {
+          "type": "button",
+          "text": "H1 tag present and unique per page"
+        },
+        {
+          "type": "button",
+          "text": "H2/H3 headings used logically"
+        },
+        {
+          "type": "button",
+          "text": "Primary keyword in first 100 words"
+        },
+        {
+          "type": "button",
+          "text": "Image alt text filled for all images"
+        },
+        {
+          "type": "button",
+          "text": "Internal links to related content"
+        },
+        {
+          "type": "button",
+          "text": "Outbound links to credible sources"
+        },
+        {
+          "type": "button",
+          "text": "URL structure: short, descriptive, hyphen-separated"
+        },
+        {
+          "type": "button",
+          "text": "Page word count appropriate for the topic"
+        },
+        {
+          "type": "h2",
+          "text": "OFF-PAGE & AUTHORITY"
+        },
+        {
+          "type": "button",
+          "text": "Google Business Profile claimed and fully optimised"
+        },
+        {
+          "type": "button",
+          "text": "NAP (Name, Address, Phone) consistent across all citations"
+        },
+        {
+          "type": "button",
+          "text": "Listed in relevant local/industry directories"
+        },
+        {
+          "type": "button",
+          "text": "Active review generation programme"
+        },
+        {
+          "type": "button",
+          "text": "Backlink profile reviewed (no toxic links)"
+        },
+        {
+          "type": "button",
+          "text": "At least 10 quality referring domains"
+        },
+        {
+          "type": "button",
+          "text": "Social profiles linked to and from website"
+        },
+        {
+          "type": "h2",
+          "text": "CONTENT & GEO"
+        },
+        {
+          "type": "button",
+          "text": "Target keyword research document exists"
+        },
+        {
+          "type": "button",
+          "text": "Content calendar for next 90 days"
+        },
+        {
+          "type": "button",
+          "text": "FAQ sections on key service/product pages"
+        },
+        {
+          "type": "button",
+          "text": "Author bios on blog posts"
+        },
+        {
+          "type": "button",
+          "text": "E-E-A-T signals present (experience, expertise, authority, trust)"
+        },
+        {
+          "type": "button",
+          "text": "FAQPage schema on FAQ content"
+        },
+        {
+          "type": "button",
+          "text": "HowTo schema on tutorial content"
+        },
+        {
+          "type": "button",
+          "text": "Brand mentions tracked in AI search tools"
+        },
+        {
+          "type": "p",
+          "text": "GET THE PDF VERSION"
+        },
+        {
+          "type": "h3",
+          "text": "Download the full SEO checklist as a PDF."
+        },
+        {
+          "type": "p",
+          "text": "Enter your email and we’ll send it straight to your inbox. No spam."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "Send me the PDF"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

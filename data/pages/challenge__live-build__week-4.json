@@ -1,0 +1,115 @@
+{
+  "route": "/challenge/live-build/week-4",
+  "title": "Live Build Week 4 — Getting Traffic — First 100 Visitors | Khalid Farhan",
+  "metaDesc": "The content machine starts. Watch 7 pieces of content created in one session and see early traffic results.",
+  "h1": "Getting Traffic — First 100 Visitors",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LIVE BUILD · WEEK 4"
+        },
+        {
+          "type": "h1",
+          "text": "Getting Traffic — First 100 Visitors"
+        },
+        {
+          "type": "p",
+          "text": "Published 2026-02-05"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Members only"
+        },
+        {
+          "type": "p",
+          "text": "Join the 2026 Challenge to watch this episode."
+        },
+        {
+          "type": "link",
+          "text": "Join Now",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "THE CONTENT MACHINE STARTS. WATCH 7 PIECES OF CONTENT CREATED IN ONE SESSION AND SEE EARLY TRAFFIC RESULTS."
+        },
+        {
+          "type": "h3",
+          "text": "WHAT’S COVERED"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Content creation workflow",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Facebook page vs. group strategy",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "First analytics review",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Week 4 results revealed",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-sm",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "← Week 3: Building the Offer — From Idea to Sales Page",
+          "href": "/challenge/live-build/week-3",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE"
+        },
+        {
+          "type": "h2",
+          "text": "Watch every episode. Do every task. Build income."
+        },
+        {
+          "type": "p",
+          "text": "5,000 BDT. Join the 12 month journey — all episodes, classes, and content included."
+        },
+        {
+          "type": "link",
+          "text": "Join the 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "route": "/work/case-studies/electrical-contractor-dublin-local-seo",
+  "title": "Top three on Maps in fourteen Dublin suburbs — Case Study | Khalid Farhan",
+  "metaDesc": "A new website and a local SEO programme for an electrical contractor that wanted the whole city, not one postcode.",
+  "h1": "TOP THREE ON MAPS IN FOURTEEN DUBLIN SUBURBS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An electrical contractor in Dublin · Dublin, Ireland"
+        },
+        {
+          "type": "h1",
+          "text": "TOP THREE ON MAPS IN FOURTEEN DUBLIN SUBURBS"
+        },
+        {
+          "type": "p",
+          "text": "A new website and a local SEO programme for an electrical contractor that wanted the whole city, not one postcode."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Construction and trades"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "7 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Local SEO",
+          "href": "/services/local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Development",
+          "href": "/services/web-development",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "14"
+        },
+        {
+          "type": "text",
+          "text": "Suburbs in Maps top 3"
+        },
+        {
+          "type": "text",
+          "text": "+210%"
+        },
+        {
+          "type": "text",
+          "text": "Phone calls"
+        },
+        {
+          "type": "text",
+          "text": "0.9s"
+        },
+        {
+          "type": "text",
+          "text": "New site load time"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Suburbs in map top 3"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Suburbs in map top 3",
+              "1",
+              "14"
+            ],
+            [
+              "Calls a month",
+              "38",
+              "118"
+            ],
+            [
+              "Pages on site",
+              "4",
+              "41"
+            ],
+            [
+              "Google reviews",
+              "22",
+              "96"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Google Maps, Dublin: top 3"
+        },
+        {
+          "type": "text",
+          "text": "★ 4.9 · 96 reviews · Open now"
+        },
+        {
+          "type": "text",
+          "text": "CALLS A MONTH"
+        },
+        {
+          "type": "text",
+          "text": "+210%"
+        },
+        {
+          "type": "text",
+          "text": "Month 1"
+        },
+        {
+          "type": "text",
+          "text": "Month 7"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "An electrical contractor in Dublin with a strong reputation in its own suburb and no visibility anywhere else."
+        },
+        {
+          "type": "p",
+          "text": "One Google Business Profile, a four-page website, and competitors with a page for every area. The contractor could only win jobs within walking distance."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "A fast new website with a page for every service and every suburb served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Business Profile rebuilt with services, photos and weekly posts",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Citations and local links across Dublin directories",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A review routine built into the invoicing email",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Small Google Ads budget for emergency electrician searches at night",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "The contractor is in the Google Maps top three in fourteen Dublin suburbs and phone calls are up 210%."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "HOSPITALITY\nCORK, IRELAND\n\n+180%\nOrganic traffic\n\nFrom invisible to fully booked\n\nA boutique B&B in Cork\n\nRead the case study",
+          "href": "/work/case-studies/cork-bnb-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "EDUCATION\nDUBLIN, IRELAND\n\n+213%\nOrganic traffic in 9 months\n\nFrom +213% organic traffic to a waiting list\n\nA music school in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/dublin-music-school-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

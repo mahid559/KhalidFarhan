@@ -1,0 +1,142 @@
+{
+  "route": "/challenge/pricing",
+  "title": "2026 Challenge — Pricing | Khalid Farhan",
+  "metaDesc": "Join the 12 month journey of building a business. 5,000 BDT or $40 USD. No subscriptions, no upsells.",
+  "h1": "ONE PRICE. EVERYTHING INCLUDED.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE / PRICING"
+        },
+        {
+          "type": "h1",
+          "text": "ONE PRICE. EVERYTHING INCLUDED."
+        },
+        {
+          "type": "p",
+          "text": "No subscriptions, no upsells, no hidden fees. Pay once and access everything — forever."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "BANGLADESH"
+        },
+        {
+          "type": "text",
+          "text": "৳5,000"
+        },
+        {
+          "type": "p",
+          "text": "৳25,000"
+        },
+        {
+          "type": "p",
+          "text": "Join the 12 Month Journey"
+        },
+        {
+          "type": "p",
+          "text": "Payment via bKash, Nagad, Rocket, or card"
+        },
+        {
+          "type": "link",
+          "text": "Join — ৳5,000",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "INTERNATIONAL"
+        },
+        {
+          "type": "text",
+          "text": "$40"
+        },
+        {
+          "type": "text",
+          "text": "USD"
+        },
+        {
+          "type": "p",
+          "text": "Join the 12 Month Journey"
+        },
+        {
+          "type": "p",
+          "text": "Payment via credit or debit card (Stripe)"
+        },
+        {
+          "type": "link",
+          "text": "Join — $40 USD",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "BOTH PLANS INCLUDE"
+        },
+        {
+          "type": "h2",
+          "text": "EVERYTHING."
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        },
+        {
+          "type": "text",
+          "text": "✓"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Have questions before joining?"
+        },
+        {
+          "type": "link",
+          "text": "Read the FAQ →",
+          "href": "/challenge/faq",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

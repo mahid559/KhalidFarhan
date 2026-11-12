@@ -1,0 +1,552 @@
+{
+  "route": "/services/landing-page-design",
+  "title": "Landing Page Design Agency Ireland — High-Converting Landing Pages | Khalid Farhan",
+  "metaDesc": "Landing page design and CRO agency in Dublin. High-converting pages for PPC and organic traffic. A/B testing, heatmaps, fast load times.",
+  "h1": "Landing Page Design\nLanding pages that convert more of your traffic",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Landing Page Design",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Landing Page Design\nLanding pages that convert more of your traffic"
+        },
+        {
+          "type": "p",
+          "text": "Landing page design is the creation of single-purpose pages built to convert paid or organic traffic into leads or sales. Khalid Farhan is a Dublin agency that writes, designs and builds landing pages, then tests them, so Google Ads and Meta Ads budgets produce more enquiries for the same spend."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Advertisers sending paid traffic to a generic homepage",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Businesses launching a new offer or service",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Campaigns where cost per lead is too high",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Landing Pages audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Landing Pages results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Landing Pages audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current landing pages set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Landing Pages audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT LANDING PAGES HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "EDUCATION\nDUBLIN, IRELAND\n\n+213%\nOrganic traffic in 9 months\n\nFrom +213% organic traffic to a waiting list\n\nA music school in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/dublin-music-school-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "COMMERCIAL PROPERTY\nDUBLIN, IRELAND\n\n3x\nOffice tours booked\n\nThree times more office tours booked\n\nA serviced office provider in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/serviced-offices-dublin-local-seo",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR LANDING PAGES SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "A great landing page can double the performance of your paid campaigns without increasing spend. We design, build, and test landing pages using proven conversion principles, real user data, and continuous A/B testing."
+        },
+        {
+          "type": "p",
+          "text": "Quoted per page after a free review. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "CRO-First Design"
+        },
+        {
+          "type": "text",
+          "text": "Every element — headline, hero, social proof, CTA — is designed to convert."
+        },
+        {
+          "type": "text",
+          "text": "Build & Deploy"
+        },
+        {
+          "type": "text",
+          "text": "Fast, mobile-first landing pages on your domain."
+        },
+        {
+          "type": "text",
+          "text": "A/B Testing"
+        },
+        {
+          "type": "text",
+          "text": "Headline, CTA, hero image, and layout variants tested for statistical significance."
+        },
+        {
+          "type": "text",
+          "text": "Heatmaps & Session Replay"
+        },
+        {
+          "type": "text",
+          "text": "Clarity and Hotjar data to understand real user behaviour."
+        },
+        {
+          "type": "text",
+          "text": "Page Speed"
+        },
+        {
+          "type": "text",
+          "text": "Sub-2s load time on mobile — critical for both conversion and Quality Score."
+        },
+        {
+          "type": "text",
+          "text": "SEO-Friendly"
+        },
+        {
+          "type": "text",
+          "text": "Landing pages that can rank organically as well as serve paid traffic."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nOffer, audience and message agreed from your ad data",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nPage written, designed, built and connected to tracking",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nFirst A/B test running, with results reported in cost per lead",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Landing Pages, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Research"
+        },
+        {
+          "type": "p",
+          "text": "competitive analysis and user research for your audience"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Wireframe"
+        },
+        {
+          "type": "p",
+          "text": "structure based on proven conversion frameworks"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Design"
+        },
+        {
+          "type": "p",
+          "text": "high-fidelity mockup with conversion-first thinking"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Build"
+        },
+        {
+          "type": "p",
+          "text": "responsive, fast page build"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Test"
+        },
+        {
+          "type": "p",
+          "text": "A/B or multivariate testing to optimise performance"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY LANDING PAGES CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR LANDING PAGES"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "Do landing pages need to be separate from the main site?"
+        },
+        {
+          "type": "text",
+          "text": "Not necessarily. We build landing pages that live on your domain and can rank organically. Subdomain landing pages are also an option for paid-only campaigns."
+        },
+        {
+          "type": "button",
+          "text": "How many variants do you test?"
+        },
+        {
+          "type": "text",
+          "text": "We typically run 2–4 variants per test, with headline and hero as the first things we test. Each test runs until statistical significance (95% confidence)."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with Landing Pages"
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Development",
+          "href": "/services/web-development",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT LANDING PAGES COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Landing Pages audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "route": "/privacy-policy",
+  "title": "Privacy Policy — Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Privacy policy for khalidfarhan.com. How we collect, use, and protect your data.",
+  "h1": "PRIVACY POLICY.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LEGAL"
+        },
+        {
+          "type": "h1",
+          "text": "PRIVACY POLICY."
+        },
+        {
+          "type": "p",
+          "text": "Last updated: 22 October 2026"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Who we are"
+        },
+        {
+          "type": "p",
+          "text": "This website is operated by Khalid Farhan (trading as khalidfarhan.com), a digital marketing agency based in Dublin, Ireland. Our registered email is khalid@khalidfarhan.com."
+        },
+        {
+          "type": "h2",
+          "text": "What data we collect"
+        },
+        {
+          "type": "p",
+          "text": "We may collect the following types of personal data:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Contact information: Name, email address, phone number — when you submit a contact form, book an audit, or purchase a product.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Payment information: Processed by Stripe (international) or SSLCommerz (Bangladesh). We do not store card details.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Usage data: Pages visited, time on site, and referring URLs via Google Analytics 4. This data is anonymised.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Cookie data: See our Cookie Policy for details.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "How we use your data"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "To fulfil orders and process payments",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "To send order confirmations and receipts",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "To respond to enquiries and support requests",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "To send marketing emails (with your consent, opt-out available in every email)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "To improve our website and services through analytics",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Legal basis for processing (GDPR)"
+        },
+        {
+          "type": "p",
+          "text": "For users in the EU/EEA, we process data based on: (1) contract performance — to deliver services you’ve purchased; (2) legitimate interest — to improve our services and communicate with clients; (3) consent — for marketing communications."
+        },
+        {
+          "type": "h2",
+          "text": "Data sharing"
+        },
+        {
+          "type": "p",
+          "text": "We do not sell your personal data. We share data only with:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Payment processors (Stripe, SSLCommerz) for transaction processing",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Email service providers (Resend) for transactional and marketing emails",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Analytics tools (Google Analytics 4) — data is anonymised",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "For Yapcorder only: DigitalOcean (recording storage), LiveKit (live calls), Neon (database) and Vercel (hosting)",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Data retention"
+        },
+        {
+          "type": "p",
+          "text": "We retain customer data for 7 years for accounting and legal purposes. Marketing consent data is retained until you withdraw consent."
+        },
+        {
+          "type": "h2",
+          "text": "Yapcorder (podcast recording)"
+        },
+        {
+          "type": "p",
+          "text": "Yapcorder, at khalidfarhan.com/yapcorder, records podcasts and calls. When you use it, as a subscriber (the host) or as a guest, this is what happens to your data:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Recordings: video and audio of each person in a session, recorded on that person’s own device. The recording is kept on the device only until it has uploaded, then removed from the device.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Account data: the host’s email address, the name each person types when joining, and session titles.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Technical data: browser type and upload status for each file, used only to make recordings reliable and to fix problems.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Who can see recordings: only the host who created the session. Guests are told before joining that the session is recorded and shared with the host.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Where it is stored: recordings in DigitalOcean Spaces storage in Amsterdam, in the EU; account data in a Neon database; the app is hosted on Vercel; live calls pass through LiveKit and are not recorded by LiveKit.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "How long we keep recordings: 7 days on the Starter plan and 30 days on the Pro plan after a recording finishes, then they are deleted automatically. Account and billing records follow the retention rules below.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Hosts are responsible for telling their guests they are being recorded and for having their agreement, as the law where they record requires.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Your rights"
+        },
+        {
+          "type": "p",
+          "text": "Under GDPR, you have the right to: access your data, correct inaccurate data, request deletion, restrict processing, and object to processing. Email khalid@khalidfarhan.com to exercise any of these rights."
+        },
+        {
+          "type": "h2",
+          "text": "Cookies"
+        },
+        {
+          "type": "p",
+          "text": "See our Cookie Policy for full details."
+        },
+        {
+          "type": "h2",
+          "text": "Contact"
+        },
+        {
+          "type": "p",
+          "text": "For privacy enquiries: khalid@khalidfarhan.com"
+        }
+      ]
+    }
+  ]
+}

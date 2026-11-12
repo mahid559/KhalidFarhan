@@ -1,0 +1,144 @@
+{
+  "route": "/industries/tourism",
+  "title": "Tourism & Leisure Marketing Agency Ireland | Khalid Farhan",
+  "metaDesc": "Tourism businesses need to capture interest at the research stage and convert it at booking. SEO and paid campaigns built around the full tourism customer journey. Working with tourism & leisure businesses across Ireland.",
+  "h1": "DIGITAL MARKETING FOR TOURISM AND LEISURE BUSINESSES",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "INDUSTRIES / TOURISM & LEISURE"
+        },
+        {
+          "type": "h1",
+          "text": "DIGITAL MARKETING FOR TOURISM AND LEISURE BUSINESSES"
+        },
+        {
+          "type": "p",
+          "text": "Tourism businesses need to capture interest at the research stage and convert it at booking. SEO and paid campaigns built around the full tourism customer journey."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "HOW WE HELP"
+        },
+        {
+          "type": "h2",
+          "text": "MARKETING BUILT FOR TOURISM & LEISURE BUSINESSES"
+        },
+        {
+          "type": "p",
+          "text": "Tourism businesses need to capture interest at the research stage and convert it at booking. SEO and paid campaigns built around the full tourism customer journey."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SERVICES FOR TOURISM & LEISURE"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation\n\nFrom technical foundations to content strategy, we build sustainable organic growth that compounds over time.",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\nSearch, Shopping, Performance Max, and YouTube campaigns built for measurable return — not vanity metrics.",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads\n\nFacebook and Instagram advertising built for real results — new customer acquisition, retargeting, and catalogue campaigns.",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO\n\nGoogle Business Profile, local citations, review management, and geo-targeted content — all in one programme.",
+          "href": "/services/local-seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "blockquote",
+          "text": "“Bookings up year on year since working with Khalid's team. They understand local tourism marketing better than anyone.”\n\nAn Irish caravan park\n\nOwner, Tourism"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FAQS"
+        },
+        {
+          "type": "button",
+          "text": "What digital marketing services work best for tourism & leisure businesses?"
+        },
+        {
+          "type": "text",
+          "text": "For tourism & leisure businesses, we typically recommend seo, google-ads, meta-ads. The right mix depends on your specific goals, budget, and competitive landscape — which is why we start every engagement with a free audit."
+        },
+        {
+          "type": "button",
+          "text": "How long before we see results?"
+        },
+        {
+          "type": "text",
+          "text": "For paid channels (Google Ads, Meta Ads), you can expect to see results within 4–8 weeks. For SEO and content, meaningful results typically come within 3–6 months. We'll give you realistic, channel-specific projections during the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you specialise in tourism & leisure?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have hands-on experience with tourism & leisure businesses, including an Irish caravan park. This means we understand the specific challenges, customer journey, and competitive dynamics in your sector."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "READY TO GROW YOUR TOURISM & LEISURE BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "route": "/insights/record-podcast-bad-internet",
+  "title": "How to Record a Podcast When Someone's Internet Is Bad | Khalid Farhan",
+  "metaDesc": "A frozen call doesn't have to mean a ruined episode. How local recording works, what happens when the internet drops, and what to do about it.",
+  "h1": "How to Record a Podcast When Someone's Internet Is Bad",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PODCASTING"
+        },
+        {
+          "type": "h1",
+          "text": "How to Record a Podcast When Someone's Internet Is Bad"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "22 October 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "5 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A frozen call doesn't have to mean a ruined episode. How local recording works, what happens when the internet drops, and what to do about it."
+        },
+        {
+          "type": "p",
+          "text": "A question I see a lot from people starting a podcast: \"My guest's internet is terrible. Will the episode be ruined?\""
+        },
+        {
+          "type": "p",
+          "text": "If you record the call, yes, it might be. If you record each person on their own computer, mostly no. Here is why, and what to do when the connection is genuinely bad."
+        },
+        {
+          "type": "h2",
+          "text": "Why the call and the recording are two different things"
+        },
+        {
+          "type": "p",
+          "text": "A video call is built to keep moving. When the internet slows down, the call lowers the quality, drops frames and squeezes the audio so you can keep talking. That is great for a meeting and terrible for a podcast, because if you record the call, every one of those drops ends up in your episode."
+        },
+        {
+          "type": "p",
+          "text": "Local recording separates the two. Each person's computer records their own camera and microphone at full quality, straight from the device. The call still happens so you can see each other, but the recording never passes through it. A frozen call does not mean a frozen recording."
+        },
+        {
+          "type": "p",
+          "text": "Podcasters used to call this a \"double-ender\": each side recorded on their own machine and sent the file over afterwards. Tools like Riverside, Zencastr and Yapcorder do the same thing automatically in the browser."
+        },
+        {
+          "type": "h2",
+          "text": "What happens when the internet drops completely"
+        },
+        {
+          "type": "p",
+          "text": "With a good local recorder, here is what you should expect when your guest's connection cuts out for 30 seconds:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "You lose each other on the call for those 30 seconds.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Their recording keeps going on their own computer the whole time.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "When the connection comes back, the recorder uploads what it saved while offline.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "In the edit, their track is complete. You cut the bit where you were both saying \"can you hear me?\"",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "I tested exactly this when I built Yapcorder: I cut the internet for 30 seconds mid-recording, and also force-closed the browser, then reopened it. Nothing was lost in either case. The pieces were saved on the computer and uploaded when the person came back."
+        },
+        {
+          "type": "h2",
+          "text": "Things that help on a bad connection"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Use a cable. A wired ethernet connection is far steadier than Wi-Fi. If that's not possible, sit in the same room as the router.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Stop everything else using the internet. Pause Dropbox, Google Drive, iCloud and OneDrive syncing. Ask others in the house not to stream video for the hour.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Turn off video on the call if you have to. In most local recorders, hiding your camera from the call doesn't stop it recording. In Yapcorder, muting or hiding your camera only affects the call, the recording keeps everything, so your editor decides what to cut.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Use a phone hotspot as a backup. If home internet gives up, switch the laptop to a phone hotspot and rejoin.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Keep talking through freezes. If you can still hear each other, carry on. The recording is fine even when the picture is stuck.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Plug in the charger. Laptops on battery sometimes slow down the camera and processor to save power.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Before your guest leaves, check the uploads"
+        },
+        {
+          "type": "p",
+          "text": "On a slow connection, the upload may fall behind the conversation. That's normal. It catches up after you stop recording. The mistake is letting your guest close the tab too early. Before you say goodbye, check that their files have finished uploading. Yapcorder shows a running log of every piece that arrived, and the files page tells you if anything is incomplete, so you never find out at the edit."
+        },
+        {
+          "type": "h2",
+          "text": "When the connection is too bad for a call at all"
+        },
+        {
+          "type": "p",
+          "text": "If you truly can't hold a conversation, reschedule. Local recording protects the quality of what's recorded, but it can't make a conversation flow when people can't hear each other. A 10-minute check the day before saves the awkward version of this."
+        },
+        {
+          "type": "h2",
+          "text": "The short version"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Record each person on their own computer, not the call.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Cable over Wi-Fi, and stop other uploads.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Hide video on the call if it helps, the recording keeps going.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Wait for uploads to finish before anyone leaves.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If you want the full setup, I wrote up how I record remote podcasts step by step."
+        },
+        {
+          "type": "p",
+          "text": "Try it yourself: Yapcorder has a free 60-minute trial. No card, no watermark. Send a friend the guest link and record a five-minute test tonight."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Podcasting"
+        },
+        {
+          "type": "text",
+          "text": "Remote Recording"
+        },
+        {
+          "type": "text",
+          "text": "Yapcorder"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Podcasting\n\nRiverside Alternatives in 2026: What I Compared Before Building My Own",
+          "href": "/insights/riverside-alternative",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Podcasting\n\nHow to Record a Podcast Remotely in Full Quality (Step by Step)",
+          "href": "/insights/how-to-record-a-podcast-remotely",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nRiverside Alternatives in 2026: What I Compared Before Building My Own\n\nI paid for Riverside for a long time. Here is how Zencastr, StreamYard, Descript, Zoom and my own recorder compare on price, local recording and free trials.\n\n22 Oct 2026\n·\n7 min read",
+          "href": "/insights/riverside-alternative",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nHow to Record a Podcast Remotely in Full Quality (Step by Step)\n\nThe setup and routine I use for remote podcast interviews: local recording, the right mic, a quiet room, a guest checklist and files that line up.\n\n22 Oct 2026\n·\n6 min read",
+          "href": "/insights/how-to-record-a-podcast-remotely",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

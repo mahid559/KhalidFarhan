@@ -1,0 +1,282 @@
+{
+  "route": "/work/case-studies/workforce-saas-linkedin-ads",
+  "title": "Demo requests up 190% and cited by AI search — Case Study | Khalid Farhan",
+  "metaDesc": "LinkedIn campaigns and answer-first content for a scheduling and workforce platform selling to operations managers.",
+  "h1": "DEMO REQUESTS UP 190% AND CITED BY AI SEARCH",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A workforce management SaaS · Ireland and the UK"
+        },
+        {
+          "type": "h1",
+          "text": "DEMO REQUESTS UP 190% AND CITED BY AI SEARCH"
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn campaigns and answer-first content for a scheduling and workforce platform selling to operations managers."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "B2B software"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "9 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "LinkedIn Ads",
+          "href": "/services/linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation",
+          "href": "/services/geo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "+190%"
+        },
+        {
+          "type": "text",
+          "text": "Demo requests"
+        },
+        {
+          "type": "text",
+          "text": "-35%"
+        },
+        {
+          "type": "text",
+          "text": "Cost per lead"
+        },
+        {
+          "type": "text",
+          "text": "Cited"
+        },
+        {
+          "type": "text",
+          "text": "In ChatGPT and Google AI"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Demo requests a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Demo requests a month",
+              "21",
+              "61"
+            ],
+            [
+              "Cost per lead",
+              "€214",
+              "€139"
+            ],
+            [
+              "AI answer mentions (tracked prompts)",
+              "0 of 40",
+              "23 of 40"
+            ],
+            [
+              "Organic sign-up share",
+              "12%",
+              "38%"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "What's the best workforce scheduling software for staffing agencies in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "✦"
+        },
+        {
+          "type": "p",
+          "text": "Options that come up often include [the platform], which focuses on shift scheduling, compliance and timesheets for agencies and event teams…"
+        },
+        {
+          "type": "text",
+          "text": "23 of 40 prompts"
+        },
+        {
+          "type": "text",
+          "text": "DEMO REQUESTS BY QUARTER"
+        },
+        {
+          "type": "text",
+          "text": "+190%"
+        },
+        {
+          "type": "text",
+          "text": "−35%"
+        },
+        {
+          "type": "text",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A workforce management SaaS for staffing agencies and event operators, with a good product and a pipeline that depended on the founder's network."
+        },
+        {
+          "type": "p",
+          "text": "Operations managers do not search for software until a shift goes wrong. LinkedIn spend was going to the wrong titles, and when buyers asked ChatGPT for options the platform was never mentioned."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "LinkedIn campaigns by job title and company size, with a comparison guide as the offer",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Fourteen answer-first guides on scheduling, compliance and timesheets, written to be quoted",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Comparison pages against the three platforms buyers shortlist",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Structured data, clear definitions and an llms.txt so AI tools could read the site",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Demo booking straight from the content, no form gate",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Demo requests rose 190% in nine months, cost per lead fell 35% and the platform now appears in AI search answers for its category."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "MANUFACTURING AND RETAIL\nDHAKA, BANGLADESH\n\n+240%\nShowroom enquiries\n\nShowroom visits booked online, 240% more of them\n\nA furniture manufacturer in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/furniture-manufacturer-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nIRELAND\n\n+120%\nOrders\n\nA new store, page one for forty searches, orders up 120%\n\nA memorial card printer in Ireland\n\nRead the case study",
+          "href": "/work/case-studies/memorial-card-printer-ecommerce",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

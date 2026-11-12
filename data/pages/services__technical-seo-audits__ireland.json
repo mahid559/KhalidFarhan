@@ -1,0 +1,635 @@
+{
+  "route": "/services/technical-seo-audits/ireland",
+  "title": "Technical SEO Agency in Ireland — Technical SEO Audits | Khalid Farhan",
+  "metaDesc": "Technical SEO Audits for businesses in Ireland. Professional technical SEO audits in Dublin. Crawl analysis, Core Web Vitals, schema review, and prioritised fix roadmaps for websites of all sizes.",
+  "h1": "Technical SEO Audits in Ireland\nFind what's holding your rankings back",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Technical SEO Audits\n/",
+              "href": "/services/technical-seo-audits",
+              "imgs": []
+            },
+            {
+              "text": "Ireland",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Technical SEO Audits in Ireland\nFind what's holding your rankings back"
+        },
+        {
+          "type": "p",
+          "text": "A technical SEO audit is a full inspection of how search engines crawl, render and index a website: speed, broken pages, duplicate content, schema, redirects and site structure. Khalid Farhan audits sites of any size and delivers a prioritised fix list that a developer can act on, or implements the fixes directly. We work with businesses in Ireland and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Sites that lost rankings and do not know why",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Businesses planning a migration or redesign",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Large or e-commerce sites with crawl and indexing problems",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Technical SEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Technical SEO results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Technical SEO audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current technical seo set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Technical SEO audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT TECHNICAL SEO HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "HOSPITALITY\nCORK, IRELAND\n\n+180%\nOrganic traffic\n\nFrom invisible to fully booked\n\nA boutique B&B in Cork\n\nRead the case study",
+          "href": "/work/case-studies/cork-bnb-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "EDUCATION\nDUBLIN, IRELAND\n\n+213%\nOrganic traffic in 9 months\n\nFrom +213% organic traffic to a waiting list\n\nA music school in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/dublin-music-school-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR TECHNICAL SEO SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Technical SEO is the foundation everything else sits on. Our audits go beyond surface-level recommendations — we crawl your entire site, analyse Core Web Vitals, map your information architecture, and deliver a prioritised fix list your dev team can action immediately."
+        },
+        {
+          "type": "p",
+          "text": "Quoted per audit after a free review. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Full Site Crawl"
+        },
+        {
+          "type": "text",
+          "text": "Screaming Frog and custom crawl identifying broken links, redirect chains, and crawl blocks."
+        },
+        {
+          "type": "text",
+          "text": "Core Web Vitals"
+        },
+        {
+          "type": "text",
+          "text": "LCP, INP, CLS analysis with specific fixes for each metric."
+        },
+        {
+          "type": "text",
+          "text": "Schema Audit"
+        },
+        {
+          "type": "text",
+          "text": "Review of all structured data against current Google guidelines."
+        },
+        {
+          "type": "text",
+          "text": "Architecture Review"
+        },
+        {
+          "type": "text",
+          "text": "Internal linking, URL structure, and information architecture analysis."
+        },
+        {
+          "type": "text",
+          "text": "Indexation Audit"
+        },
+        {
+          "type": "text",
+          "text": "Identifying pages that should and shouldn't be indexed."
+        },
+        {
+          "type": "text",
+          "text": "Prioritised Fix List"
+        },
+        {
+          "type": "text",
+          "text": "Every issue ranked by impact and effort — so your team knows exactly where to start."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nFull crawl, log and Search Console review within the first two weeks",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nPrioritised roadmap: what to fix first and what it is worth",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nFixes implemented or handed over, then a re-crawl to confirm",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Technical SEO, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Crawl"
+        },
+        {
+          "type": "p",
+          "text": "automated and manual crawl of your entire site"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Analyse"
+        },
+        {
+          "type": "p",
+          "text": "Core Web Vitals, schema, architecture, and indexation review"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Benchmark"
+        },
+        {
+          "type": "p",
+          "text": "compare against top-ranking competitors in your space"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Prioritise"
+        },
+        {
+          "type": "p",
+          "text": "all issues ranked by SEO impact vs development effort"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Handover"
+        },
+        {
+          "type": "p",
+          "text": "detailed fix documentation for your development team"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY TECHNICAL SEO CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR TECHNICAL SEO"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does Technical SEO cost in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Quoted per audit after a free review. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Ireland and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "What does a technical SEO audit include?"
+        },
+        {
+          "type": "text",
+          "text": "Our audits cover crawlability, indexation, page speed, Core Web Vitals, structured data, URL structure, internal linking, duplicate content, canonicalisation, hreflang (if applicable), robots.txt, XML sitemaps, and mobile usability."
+        },
+        {
+          "type": "button",
+          "text": "How long does an audit take?"
+        },
+        {
+          "type": "text",
+          "text": "A comprehensive audit for a typical site takes 5–10 business days from kickoff to delivery. Larger sites (10,000+ pages) take 2–4 weeks."
+        },
+        {
+          "type": "button",
+          "text": "Do you fix the issues too?"
+        },
+        {
+          "type": "text",
+          "text": "We can handle fixes ourselves or work with your development team. Audit-only engagements are available, or we can move into a full SEO retainer after the audit."
+        },
+        {
+          "type": "button",
+          "text": "How much does a technical SEO audit cost?"
+        },
+        {
+          "type": "text",
+          "text": "Audits start at €750 for smaller sites and scale with site size and complexity. Enterprise audits are quoted individually."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Technical SEO across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO, all of Ireland",
+          "href": "/services/technical-seo-audits",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO in Dublin",
+          "href": "/services/technical-seo-audits/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO in Cork",
+          "href": "/services/technical-seo-audits/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO in Galway",
+          "href": "/services/technical-seo-audits/galway",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO in Limerick",
+          "href": "/services/technical-seo-audits/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO in Waterford",
+          "href": "/services/technical-seo-audits/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO in Kilkenny",
+          "href": "/services/technical-seo-audits/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with Technical SEO"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation",
+          "href": "/services/geo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Development",
+          "href": "/services/web-development",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE TECHNICAL SEO AUDIT FOR YOUR IRELAND BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Technical SEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

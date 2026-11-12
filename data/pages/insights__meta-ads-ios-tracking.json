@@ -1,0 +1,351 @@
+{
+  "route": "/insights/meta-ads-ios-tracking",
+  "title": "How to Fix Meta Ads Tracking After iOS Changes (2026 Guide) | Khalid Farhan",
+  "metaDesc": "iOS privacy changes broke Meta Ads attribution for millions of advertisers. Here's the complete guide to Conversions API and server-side tracking.",
+  "h1": "How to Fix Meta Ads Tracking After iOS Changes (2026 Guide)",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "META ADS"
+        },
+        {
+          "type": "h1",
+          "text": "How to Fix Meta Ads Tracking After iOS Changes (2026 Guide)"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "20 March 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "9 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "iOS privacy changes broke Meta Ads attribution for millions of advertisers. Here's the complete guide to Conversions API and server-side tracking."
+        },
+        {
+          "type": "p",
+          "text": "If you were running Facebook or Instagram ads before 2021 and you're running them now, the tracking data you're looking at has fundamentally changed. iOS 14 and its successors forced Apple to give users the ability to opt out of cross-app tracking, and the majority of iPhone users did exactly that. For Meta Ads advertisers, this broke the primary mechanism that attributed conversions back to ad clicks."
+        },
+        {
+          "type": "p",
+          "text": "This is not a problem that resolves itself. And it's not something you can just accept and move on from. Understanding what changed and how to work within the new reality is essential if you want to run profitable Meta Ads in 2026."
+        },
+        {
+          "type": "h2",
+          "text": "What iOS 14+ Actually Did"
+        },
+        {
+          "type": "p",
+          "text": "Before iOS 14, when someone clicked your Facebook ad on their iPhone, visited your website, and then bought something or submitted a form, the Facebook Pixel on your website could track that entire journey. It could see the click, the page visit, and the conversion. It then matched that conversion back to the specific ad and user, allowing Facebook to optimise its delivery algorithm toward people likely to convert."
+        },
+        {
+          "type": "p",
+          "text": "iOS 14 introduced App Tracking Transparency, which required apps (including the Facebook app) to ask users permission before tracking them across other apps and websites. When users say no to this prompt, and most do, the Pixel can no longer follow them from the Facebook app to your website and report the conversion back."
+        },
+        {
+          "type": "p",
+          "text": "The result: a substantial portion of your conversions became invisible to Facebook's reporting. Campaigns that were profitable continued to be profitable, but the data said they weren't. Campaigns that were losing money looked acceptable because the system wasn't seeing the losses clearly either. Attribution became unreliable."
+        },
+        {
+          "type": "h2",
+          "text": "Why Your Reported Conversions Dropped"
+        },
+        {
+          "type": "p",
+          "text": "It's important to understand that in many cases, your actual conversions didn't drop as dramatically as your reported conversions. What dropped was Meta's ability to see and report them. If you were generating 50 leads a month from Meta Ads and your Meta Ads Manager suddenly showed 25, the real lead volume might have been 40. The gap between what actually happened and what was reported widened substantially."
+        },
+        {
+          "type": "p",
+          "text": "This created two dangerous situations. Some businesses cut campaigns that were actually working because the reported results looked terrible. Others kept running campaigns that had genuinely stopped working because they couldn't tell the difference. Both outcomes cost money."
+        },
+        {
+          "type": "h2",
+          "text": "What the Conversions API Is and Why It Matters"
+        },
+        {
+          "type": "p",
+          "text": "The Conversions API (CAPI) is Meta's solution to the iOS attribution problem. Instead of relying solely on browser-based pixel tracking (which gets blocked by iOS privacy settings and browser-based ad blockers), CAPI sends conversion data directly from your server to Meta's servers."
+        },
+        {
+          "type": "p",
+          "text": "The key difference: browser-side tracking (the Pixel) happens in the user's browser and can be blocked by privacy settings, ad blockers, or browser policies. Server-side tracking (CAPI) happens on your server and cannot be blocked by the user's browser settings. It's a direct communication between two servers."
+        },
+        {
+          "type": "p",
+          "text": "When you have both the Pixel and CAPI running (which is the recommended setup), you get what Meta calls \"redundant signals.\" The system matches events from both sources, deduplicates them (so you don't count the same conversion twice), and gives the algorithm much better data to work with than either alone."
+        },
+        {
+          "type": "h2",
+          "text": "Server-Side vs Browser-Side: The Practical Difference"
+        },
+        {
+          "type": "p",
+          "text": "Browser-side tracking (Pixel only): Easy to implement, needs no server infrastructure, but increasingly blocked. Misses conversions from opted-out iOS users, browsers with ad blockers (Firefox blocks tracking by default, Safari has ITP), and incognito sessions."
+        },
+        {
+          "type": "p",
+          "text": "Server-side tracking (CAPI): Requires server infrastructure or a partner integration. More complex to set up. But it captures events that the browser Pixel misses and sends them directly to Meta with matching information (hashed email addresses, phone numbers) that helps Meta attribute conversions to users more accurately."
+        },
+        {
+          "type": "h2",
+          "text": "Setting Up CAPI: Your Options"
+        },
+        {
+          "type": "h3",
+          "text": "Direct API integration"
+        },
+        {
+          "type": "p",
+          "text": "Your development team sends conversion events directly to Meta's server-to-server API when a conversion happens (a purchase is completed, a form is submitted). This is the most flexible but most technically demanding option. Best for businesses with development resources and specific, complex conversion events."
+        },
+        {
+          "type": "h3",
+          "text": "Partner integration"
+        },
+        {
+          "type": "p",
+          "text": "If you're using Shopify, WooCommerce, or certain CRMs, Meta has native integrations that handle CAPI setup with minimal technical work. Shopify's Meta integration, for example, has CAPI built in and can be enabled in a few clicks. This is the easiest path for most e-commerce businesses."
+        },
+        {
+          "type": "h3",
+          "text": "Google Tag Manager server-side"
+        },
+        {
+          "type": "p",
+          "text": "A server-side GTM container can act as the intermediary between your website and Meta's API. Events fire from your website to the server-side GTM container, which then forwards them to Meta. This requires setting up a server-side GTM container (Google Cloud or another host) but gives you flexibility and control without custom API development."
+        },
+        {
+          "type": "h2",
+          "text": "Attribution Window: What to Use"
+        },
+        {
+          "type": "p",
+          "text": "Meta allows you to set attribution windows for how conversions are counted. The options include 1-day click, 7-day click, 1-day view, and 7-day view, in various combinations."
+        },
+        {
+          "type": "p",
+          "text": "The recommended setting in 2026 for most businesses is 7-day click, 1-day view. This means a conversion is attributed to an ad if the user clicked within 7 days or viewed the ad within 1 day before converting. This captures the realistic decision window for most purchases while not over-attributing to ad impressions."
+        },
+        {
+          "type": "p",
+          "text": "View-through attribution (counting a conversion even when someone only saw the ad but didn't click) is worth being cautious about. It inflates reported performance. Many conversions attributed to \"1-day view\" would have happened anyway. If your goal is accurate ROI measurement, focus on click-based attribution."
+        },
+        {
+          "type": "h2",
+          "text": "What Metrics You Can Still Trust"
+        },
+        {
+          "type": "p",
+          "text": "In 2026, these Meta Ads metrics are still reliable indicators:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Reach and impressions: How many people saw your ads. This is measured on Meta's side and is not affected by iOS changes.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Clicks and click-through rate: Clicks are measured by Meta when someone clicks in the app. Still reliable.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Cost per click: Derived from reliable metrics, still accurate.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Video views and engagement: Measured within the Meta platform, reliable.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Treat these with more caution:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Reported conversions and ROAS: Will be understated compared to reality if CAPI is not set up. Will be higher (but more accurate) once CAPI is running. Never rely on Meta's reported ROAS alone. Cross-reference with your actual sales or CRM data.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Audience insights: iOS privacy changes have reduced the precision of demographic reporting.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Aggregated Event Measurement"
+        },
+        {
+          "type": "p",
+          "text": "Meta introduced Aggregated Event Measurement (AEM) partly in response to iOS changes. AEM allows Meta to measure web events for iOS users in a privacy-preserving way, but it limits you to tracking a maximum of eight conversion events per domain, prioritised in order of importance."
+        },
+        {
+          "type": "p",
+          "text": "You need to configure your events in Events Manager under \"Aggregated Event Measurement\" and prioritise them from most to least important. A purchase event should be ranked above an \"add to cart\" event, which ranks above a \"view content\" event. Only events ranked 1-8 will be measured for iOS users."
+        },
+        {
+          "type": "p",
+          "text": "This is a step many advertisers skip and then wonder why certain events aren't tracking for iOS users. Configure it in Events Manager."
+        },
+        {
+          "type": "h2",
+          "text": "What Good Meta Ads Tracking Looks Like in 2026"
+        },
+        {
+          "type": "p",
+          "text": "A properly set-up Meta Ads tracking system in 2026 has:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "The Meta Pixel installed correctly on all website pages",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "CAPI sending server-side events for all key conversion points (purchase, lead, contact)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Event deduplication set up so the same conversion isn't counted twice from Pixel and CAPI",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Aggregated Event Measurement configured with events prioritised correctly",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Domain verification completed in Meta Business Manager",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A parallel attribution check in place: comparing Meta-reported conversions to actual CRM or Shopify orders",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The parallel attribution check is worth emphasising. Never manage Meta Ads performance purely based on what Meta Ads Manager reports. Always cross-reference with your actual business data. If Meta says you got 30 purchases and Shopify says you got 45, the real number is 45 and your CAPI setup needs improvement. If Meta says 30 and Shopify says 28, your tracking is roughly accurate."
+        },
+        {
+          "type": "p",
+          "text": "Getting tracking right is not the most glamorous part of running Meta Ads. But it's the part that determines whether every optimisation and budget decision you make is based on real data or fiction. If your Meta Ads tracking is currently Pixel-only with no CAPI, fixing that is the single highest-impact thing you can do for your campaign performance right now."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Meta Ads"
+        },
+        {
+          "type": "text",
+          "text": "Facebook Ads"
+        },
+        {
+          "type": "text",
+          "text": "Tracking"
+        },
+        {
+          "type": "text",
+          "text": "iOS"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

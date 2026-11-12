@@ -1,0 +1,396 @@
+{
+  "route": "/insights/riverside-alternative",
+  "title": "Riverside Alternatives in 2026: What I Compared Before Building My Own | Khalid Farhan",
+  "metaDesc": "I paid for Riverside for a long time. Here is how Zencastr, StreamYard, Descript, Zoom and my own recorder compare on price, local recording and free trials.",
+  "h1": "Riverside Alternatives in 2026: What I Compared Before Building My Own",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PODCASTING"
+        },
+        {
+          "type": "h1",
+          "text": "Riverside Alternatives in 2026: What I Compared Before Building My Own"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "22 October 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "7 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "I paid for Riverside for a long time. Here is how Zencastr, StreamYard, Descript, Zoom and my own recorder compare on price, local recording and free trials."
+        },
+        {
+          "type": "p",
+          "text": "I record a podcast, and for a long time I paid for Riverside to do it. Riverside is good. It records each person on their own computer, so a bad connection doesn't ruin the episode, and you get a clean file for every speaker. But I only ever used the recording part. I was paying for AI editing, clips and transcripts I never opened."
+        },
+        {
+          "type": "p",
+          "text": "So I looked at every alternative I could find, and in the end I built my own recorder, Yapcorder. This post is what I learned along the way. I'll be honest about where Riverside and the others are better, because the right choice depends on what you actually need."
+        },
+        {
+          "type": "h2",
+          "text": "What makes a good remote podcast recorder"
+        },
+        {
+          "type": "p",
+          "text": "Before comparing prices, it helps to know what you are paying for. A remote recorder has one job: give you a clean, full-quality file for every person, no matter what the internet does during the call."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Local recording. Each person is recorded on their own computer, not through the call. The call can freeze and stutter while the recording stays perfect. This is the single most important feature. If a tool records the call itself, you get the call's quality.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Uploading while you talk. The file should go up in pieces during the conversation, so you are not stuck waiting 20 minutes at the end while your guest's laptop uploads.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Crash recovery. Laptops crash and browser tabs get closed by accident. A good recorder keeps what it has and finishes the upload when the person comes back.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Easy for guests. Your guest should open a link and be in. No account, no download.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Files your editor can use. Separate tracks per person that start in sync.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The main Riverside alternatives compared"
+        },
+        {
+          "type": "p",
+          "text": "These are the figures from each tool's own pricing page, checked on 22 October 2026. Prices change, so check before you buy."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Tool",
+            "What it is",
+            "Paid plans from",
+            "Each person recorded locally",
+            "Free to try"
+          ],
+          "rows": [
+            [
+              "Tool",
+              "What it is",
+              "Paid plans from",
+              "Each person recorded locally",
+              "Free to try"
+            ],
+            [
+              "Riverside",
+              "Recorder and AI video editor",
+              "$29 a month ($24 billed yearly) for 5 hours",
+              "Yes",
+              "2 hours, 720p, with a watermark"
+            ],
+            [
+              "Zencastr",
+              "Recorder, editor and podcast hosting",
+              "Free plan, Enterprise by quote",
+              "Yes, on the free plan",
+              "Free plan"
+            ],
+            [
+              "StreamYard",
+              "Live streaming studio",
+              "$18.99 a month ($14.99 yearly)",
+              "2 hours a month free, more from $44.99",
+              "2 hours of local recording a month"
+            ],
+            [
+              "Descript",
+              "Video editor with a recording room",
+              "$24 a month ($16 yearly)",
+              "Separate tracks on paid plans",
+              "1 hour, 720p, with a watermark"
+            ],
+            [
+              "Zoom",
+              "Video meetings",
+              "$16.99 a month ($14.16 yearly)",
+              "No, it records the call",
+              "Meetings up to 40 minutes"
+            ],
+            [
+              "Yapcorder",
+              "A podcast recorder, nothing else",
+              "$2 a month (2 hours), $10 a month (10 hours)",
+              "Yes, every plan",
+              "60 minutes, no card, no watermark"
+            ]
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Riverside: best if you want everything in one place"
+        },
+        {
+          "type": "p",
+          "text": "If you want to record, edit, cut clips and get transcripts in one tool, Riverside is still the one to beat. It records up to 4K, and the editor is genuinely useful if you don't already have one. The catch is the price for recording hours. The Pro plan gives you 5 hours a month, and the Grow plan ($39, or $34 billed yearly) gives you 15. If you record a weekly hour-long show with a few retakes, you are already near the Pro limit."
+        },
+        {
+          "type": "h2",
+          "text": "Zencastr: best free option"
+        },
+        {
+          "type": "p",
+          "text": "Zencastr's free plan records each person locally, which is rare for a free plan. It also bundles podcast hosting. If budget is the only thing that matters and you are happy inside their ecosystem, try it first."
+        },
+        {
+          "type": "h2",
+          "text": "StreamYard: best if you stream live"
+        },
+        {
+          "type": "p",
+          "text": "StreamYard is built for live streaming to YouTube, LinkedIn and Facebook. Local recording exists, but the free plan gives you 2 hours a month and more local recording sits on its higher plans. If your show goes out live, it is a great fit. If you only record, you are paying for streaming you don't use."
+        },
+        {
+          "type": "h2",
+          "text": "Descript: best if editing is your real problem"
+        },
+        {
+          "type": "p",
+          "text": "Descript is an editor first. You edit video by editing the transcript, which is brilliant for people who hate timelines. Its recording room works, but you buy Descript for the editing."
+        },
+        {
+          "type": "h2",
+          "text": "Zoom: fine for meetings, not for podcasts"
+        },
+        {
+          "type": "p",
+          "text": "A lot of people start with Zoom because their guests already have it. The problem is that Zoom records the call. If your guest's internet dips for ten seconds, those ten seconds are blurry and robotic in your final episode, and nothing can fix that afterwards."
+        },
+        {
+          "type": "h2",
+          "text": "Why I built Yapcorder, and what it doesn't do"
+        },
+        {
+          "type": "p",
+          "text": "I wanted exactly one thing: Riverside-style local recording without paying for the parts I didn't use. Yapcorder records every person in their own browser, uploads in pieces while you talk, keeps recording if someone's internet drops, and recovers if a browser crashes. You get one video file and one audio file per person, plus a timeline file so your editor can line everyone up in Premiere Pro or DaVinci Resolve."
+        },
+        {
+          "type": "p",
+          "text": "To be fair about the limits:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "It records up to 1080p, not 4K.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "It only works in Google Chrome on a laptop or desktop, for you and your guests.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "There is no editor, no AI clips and no live streaming. It records. That's it.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "It is new. If something goes wrong, email me and I fix it.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Pro is $10 a month for 10 hours, up to 4 people and files kept for 30 days. Starter is $2 a month for 2 hours with 2 people at 720p."
+        },
+        {
+          "type": "h2",
+          "text": "How to choose"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "You want recording, editing and clips in one tool, and the price is fine: Riverside.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You want free and don't mind their hosting ecosystem: Zencastr.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You go live every week: StreamYard.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Editing is the hard part for you: Descript.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You already have an editor and just need clean separate files, cheaply: Yapcorder.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Whichever you pick, do one thing before your first real episode: record a five-minute test with a friend and open the files. You will learn more from that than from any comparison table, including this one."
+        },
+        {
+          "type": "p",
+          "text": "Try it yourself: Yapcorder has a free 60-minute trial. No card, no watermark. Send a friend the guest link and record a five-minute test tonight."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Podcasting"
+        },
+        {
+          "type": "text",
+          "text": "Riverside"
+        },
+        {
+          "type": "text",
+          "text": "Yapcorder"
+        },
+        {
+          "type": "text",
+          "text": "Remote Recording"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Podcasting\n\nHow to Record a Podcast Remotely in Full Quality (Step by Step)",
+          "href": "/insights/how-to-record-a-podcast-remotely",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Podcasting\n\nHow to Record a Podcast When Someone's Internet Is Bad",
+          "href": "/insights/record-podcast-bad-internet",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nHow to Record a Podcast Remotely in Full Quality (Step by Step)\n\nThe setup and routine I use for remote podcast interviews: local recording, the right mic, a quiet room, a guest checklist and files that line up.\n\n22 Oct 2026\n·\n6 min read",
+          "href": "/insights/how-to-record-a-podcast-remotely",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nHow to Record a Podcast When Someone's Internet Is Bad\n\nA frozen call doesn't have to mean a ruined episode. How local recording works, what happens when the internet drops, and what to do about it.\n\n22 Oct 2026\n·\n5 min read",
+          "href": "/insights/record-podcast-bad-internet",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

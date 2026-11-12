@@ -1,0 +1,393 @@
+{
+  "route": "/insights/schema-markup-guide",
+  "title": "Schema Markup: The Complete Guide for SEO and GEO in 2026 | Khalid Farhan",
+  "metaDesc": "Schema markup is critical for both Google's rich results and AI answer engines. Here's everything you need to know.",
+  "h1": "Schema Markup: The Complete Guide for SEO and GEO in 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "Schema Markup: The Complete Guide for SEO and GEO in 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "5 December 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "12 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Schema markup is critical for both Google's rich results and AI answer engines. Here's everything you need to know."
+        },
+        {
+          "type": "p",
+          "text": "Schema markup is one of those topics that most business owners have heard about vaguely but very few have implemented properly. That's a competitive opportunity. Businesses that implement schema correctly are eligible for rich results in Google search (star ratings, FAQ dropdowns, event listings, product prices) and are more likely to be cited by AI answer engines. Both are meaningful advantages that are sitting unclaimed by most of your competitors."
+        },
+        {
+          "type": "h2",
+          "text": "What Schema Markup Is and Why It Matters"
+        },
+        {
+          "type": "p",
+          "text": "Schema markup (formally called structured data, using the Schema.org vocabulary) is code you add to your web pages that tells search engines and AI systems what type of content is on the page and what specific information it contains."
+        },
+        {
+          "type": "p",
+          "text": "Without schema, Google reads your HTML and makes inferences about your content. With schema, you're telling Google explicitly: \"This page is about a local business. The business name is X, it's located at Y, it's open Monday to Friday from 9am to 6pm, and its primary business category is Z.\" Google doesn't have to guess. It knows."
+        },
+        {
+          "type": "p",
+          "text": "For search results, this enables rich results: enhanced search listings that display additional information directly in Google's results page. A recipe with a star rating, a product with a price and availability indicator, an FAQ with expandable answers below the main result. These rich results have higher visibility and typically higher click-through rates than plain blue links."
+        },
+        {
+          "type": "p",
+          "text": "For GEO (Generative Engine Optimisation), schema markup helps AI answer engines understand and extract your content more precisely. When your FAQ is marked up with FAQPage schema, an AI system can identify it as a structured set of questions and answers. When your business is marked up with Organization schema, AI systems can more confidently identify who you are, what you do, and where you operate."
+        },
+        {
+          "type": "h2",
+          "text": "How to Implement Schema: JSON-LD"
+        },
+        {
+          "type": "p",
+          "text": "Google recommends JSON-LD format for structured data, and it's the right choice. JSON-LD is placed in a <script type=\"application/ld+json\"> block in your page's <head> section (or body). It's completely separate from your visible HTML content, which means it's clean, easy to edit, and doesn't risk breaking your page layout."
+        },
+        {
+          "type": "p",
+          "text": "The alternative methods (Microdata and RDFa, where schema attributes are embedded directly in HTML) are more complex to maintain and more likely to cause errors when the page design changes. JSON-LD is unambiguously the right approach."
+        },
+        {
+          "type": "h2",
+          "text": "The Most Important Schema Types"
+        },
+        {
+          "type": "h3",
+          "text": "Organization"
+        },
+        {
+          "type": "p",
+          "text": "Every business website should have Organization schema on the homepage (or a dedicated About page). This establishes your business identity for search engines and AI systems."
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Your Business Name\",\n  \"url\": \"https://yourbusiness.ie\",\n  \"logo\": \"https://yourbusiness.ie/logo.png\",\n  \"contactPoint\": {\n    \"@type\": \"ContactPoint\",\n    \"telephone\": \"+353-1-234-5678\",\n    \"contactType\": \"customer service\"\n  },\n  \"sameAs\": [\n    \"https://www.linkedin.com/company/yourbusiness\",\n    \"https://www.facebook.com/yourbusiness\"\n  ]\n}"
+        },
+        {
+          "type": "p",
+          "text": "The sameAs property, linking to your social profiles and other authoritative mentions of your business, helps AI systems build a confident, consolidated picture of your brand across the web."
+        },
+        {
+          "type": "h3",
+          "text": "LocalBusiness"
+        },
+        {
+          "type": "p",
+          "text": "For businesses with a physical location or a defined service area, LocalBusiness schema (which extends Organization) provides specific local signals. The key fields: name, address (with PostalAddress type including all address components), telephone, openingHours, geo (latitude/longitude), and priceRange."
+        },
+        {
+          "type": "p",
+          "text": "Choose the most specific LocalBusiness subtype available. A dental practice should use Dentist, not just LocalBusiness. A restaurant should use Restaurant. There are over 200 LocalBusiness subtypes in the Schema.org vocabulary. Using the most specific one available improves the precision of your structured data."
+        },
+        {
+          "type": "h3",
+          "text": "Article"
+        },
+        {
+          "type": "p",
+          "text": "Every blog post and article page should have Article schema (or its more specific subtypes: BlogPosting, NewsArticle). The key fields for GEO purposes are author (with a full Person schema including the author's credentials and social profiles), datePublished, dateModified, and publisher."
+        },
+        {
+          "type": "p",
+          "text": "The author schema is particularly important for E-E-A-T signals. An article marked up with an author who has a complete Person schema, including their job title, credentials, and LinkedIn profile, signals genuine expertise in a way that anonymous content doesn't."
+        },
+        {
+          "type": "h3",
+          "text": "FAQPage"
+        },
+        {
+          "type": "p",
+          "text": "FAQPage schema makes your FAQ sections explicitly parseable as structured question-answer pairs. This is one of the highest-value schema implementations for GEO purposes, because it provides AI systems with clean, extractable Q&A content they can cite directly."
+        },
+        {
+          "type": "p",
+          "text": "FAQ schema can produce rich results in Google search: expandable FAQ sections appearing directly below your main result, significantly increasing the visual footprint of your listing in the search results page."
+        },
+        {
+          "type": "p",
+          "text": "Important: Google has tightened its requirements for FAQ rich results. The content must genuinely be in FAQ format on the page, the answers must be complete and accurate, and the schema must match the visible content precisely. Don't markup content as FAQ if it isn't actually displayed as Q&A on the page."
+        },
+        {
+          "type": "h3",
+          "text": "Product"
+        },
+        {
+          "type": "p",
+          "text": "For e-commerce, Product schema is essential. It enables rich results showing product name, image, price, availability, and review ratings directly in search results. Required fields: name, image, description. Recommended fields: brand, sku, offers (with price and availability), aggregateRating."
+        },
+        {
+          "type": "h3",
+          "text": "BreadcrumbList"
+        },
+        {
+          "type": "p",
+          "text": "Breadcrumb schema marks up your breadcrumb navigation so Google can display it in search results, showing the page's position in your site hierarchy. This helps users understand where the page sits before clicking and can improve click-through rates, particularly for deeper content pages."
+        },
+        {
+          "type": "h3",
+          "text": "Review and AggregateRating"
+        },
+        {
+          "type": "p",
+          "text": "If you display customer reviews or aggregate ratings on your pages, marking them up with Review and AggregateRating schema enables star ratings to appear in search results. Note: Google is strict about this. Ratings can only appear for reviews written by actual customers about your products or services. Self-created reviews or reviews of the business itself on the same business's page are not eligible."
+        },
+        {
+          "type": "h2",
+          "text": "Testing Schema"
+        },
+        {
+          "type": "p",
+          "text": "Use Google's Rich Results Test (search.google.com/test/rich-results) to validate your schema and check whether it's eligible for rich results. The tool shows any errors or warnings and provides a preview of what the rich result would look like in search."
+        },
+        {
+          "type": "p",
+          "text": "After implementing schema, check Google Search Console's Enhancements section (typically appears within a few days to a few weeks after implementation). This shows which pages Google has detected schema on, whether it's valid, and any errors or warnings at scale."
+        },
+        {
+          "type": "h2",
+          "text": "FAQ Schema: Using It for Both Rich Results and AI Citation"
+        },
+        {
+          "type": "p",
+          "text": "FAQPage schema serves two purposes simultaneously. For Google search, it can trigger the expandable FAQ rich results. For AI systems, it provides explicitly structured Q&A content that is easy to extract and cite."
+        },
+        {
+          "type": "p",
+          "text": "The optimal FAQ schema strategy for 2026: add FAQ sections and FAQPage schema to every service page, every product category page, and every important blog post. The questions should be the genuine questions your customers ask, written in natural language. The answers should be comprehensive but direct, leading with the actual answer rather than building up to it."
+        },
+        {
+          "type": "h2",
+          "text": "Schema for GEO: Helping AI Answer Engines"
+        },
+        {
+          "type": "p",
+          "text": "AI answer engines that use real-time web retrieval (like Perplexity) and those that process structured data (like some features of Google's AI Overviews) benefit from schema in specific ways:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Author and publisher schema: Establishes who created the content and their credentials. AI systems weight this for trust and expertise signals.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "FAQPage schema: Makes Q&A content explicitly extractable. AI systems can cite individual Q&As with confidence about the structure.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Speakable schema: Marks content sections suitable for AI voice assistants and text-to-speech. Increasingly relevant as voice interfaces grow.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Dataset schema: If you publish original data or research, this schema explicitly identifies it as a citable data source.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Common Schema Mistakes"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Schema that doesn't match visible content: Google requires that schema markup reflects content actually visible on the page. Hidden schema for content that doesn't appear is a policy violation.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Errors in the JSON structure: Missing commas, incorrect nesting, or invalid property values cause schema to be ignored. Always test with the Rich Results Test.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Using the wrong type: Using Organization when LocalBusiness or a more specific subtype is more accurate reduces the value of the markup.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Outdated or inaccurate information: Schema with wrong opening hours, disconnected phone numbers, or outdated prices can mislead users and damage trust.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Ignoring errors in Search Console: Schema errors reported in Search Console should be addressed. Unresolved errors mean those schema implementations are being ignored by Google.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The Relationship Between Schema and E-E-A-T"
+        },
+        {
+          "type": "p",
+          "text": "Schema markup doesn't directly boost your E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) scores in a direct ranking sense. But it helps search engines and AI systems verify and confirm the information that supports your E-E-A-T evaluation. Author schema that links to an expert's external profiles helps Google confirm that the person claiming expertise is genuinely an expert. Organization schema that matches your Google Business Profile information helps confirm business legitimacy. The schema is corroborating evidence for the authority and expertise you're demonstrating through your content."
+        },
+        {
+          "type": "p",
+          "text": "If you need help implementing schema across your website, or want a technical SEO audit that includes a schema evaluation, get in touch. Proper schema implementation is one of those technical improvements that produces results in both organic search and in AI search citation, often with a relatively modest investment of time and effort."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Schema"
+        },
+        {
+          "type": "text",
+          "text": "Structured Data"
+        },
+        {
+          "type": "text",
+          "text": "Technical SEO"
+        },
+        {
+          "type": "text",
+          "text": "GEO"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

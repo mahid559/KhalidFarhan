@@ -1,0 +1,158 @@
+{
+  "route": "/affiliates",
+  "title": "Affiliate Programme | Khalid Farhan",
+  "metaDesc": "Earn 10% commission on every Business School sale you refer. Join the Khalid Farhan affiliate programme.",
+  "h1": "Earn 10% on every sale you refer",
+  "sections": [
+    {
+      "index": 1,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "AFFILIATE PROGRAMME"
+        },
+        {
+          "type": "h1",
+          "text": "Earn 10% on every sale you refer"
+        },
+        {
+          "type": "p",
+          "text": "Share Business School with your audience. Every time someone joins through your link, you earn 10% — paid directly to your bKash or bank account."
+        },
+        {
+          "type": "link",
+          "text": "Join as an Affiliate",
+          "href": "/affiliates/signup",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Log In",
+          "href": "/affiliates/login",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "10%"
+        },
+        {
+          "type": "p",
+          "text": "Commission per sale"
+        },
+        {
+          "type": "p",
+          "text": "26,000+"
+        },
+        {
+          "type": "p",
+          "text": "Business School students"
+        },
+        {
+          "type": "p",
+          "text": "৳1,000"
+        },
+        {
+          "type": "p",
+          "text": "Minimum payout"
+        },
+        {
+          "type": "p",
+          "text": "Free"
+        },
+        {
+          "type": "p",
+          "text": "To join"
+        },
+        {
+          "type": "p",
+          "text": "Minimum payout is ৳1,000. As soon as you hit ৳1,000 in pending commission, you can request a payout by emailing khalid@khalidfarhan.com from the same email you signed up with. Balances below ৳1,000 roll over."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "How it works"
+        },
+        {
+          "type": "p",
+          "text": "01"
+        },
+        {
+          "type": "h3",
+          "text": "Sign up"
+        },
+        {
+          "type": "p",
+          "text": "Create your free affiliate account in under 2 minutes."
+        },
+        {
+          "type": "p",
+          "text": "02"
+        },
+        {
+          "type": "h3",
+          "text": "Get your link"
+        },
+        {
+          "type": "p",
+          "text": "You'll receive a unique referral link for Business School."
+        },
+        {
+          "type": "p",
+          "text": "03"
+        },
+        {
+          "type": "h3",
+          "text": "Share & earn"
+        },
+        {
+          "type": "p",
+          "text": "Every paying customer through your link earns you 10% commission."
+        },
+        {
+          "type": "p",
+          "text": "04"
+        },
+        {
+          "type": "h3",
+          "text": "Get paid"
+        },
+        {
+          "type": "p",
+          "text": "Once your balance reaches ৳1,000, email us from your signup address to request a payout."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Ready to start earning?"
+        },
+        {
+          "type": "p",
+          "text": "No upfront costs. No monthly fees. Just commissions when you deliver results."
+        },
+        {
+          "type": "link",
+          "text": "Create Your Affiliate Account",
+          "href": "/affiliates/signup",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

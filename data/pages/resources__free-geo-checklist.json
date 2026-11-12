@@ -1,0 +1,214 @@
+{
+  "route": "/resources/free-geo-checklist",
+  "title": "Khalid Farhan — Marketing Agency & Founder",
+  "metaDesc": "Dublin-based marketing agency helping businesses grow through SEO, GEO, Google Ads, Meta Ads, and content. Also home of the 2026 Challenge — watch Khalid build a business live.",
+  "h1": "FREE GEO CHECKLIST.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "RESOURCES / GEO CHECKLIST"
+        },
+        {
+          "type": "h1",
+          "text": "FREE GEO CHECKLIST."
+        },
+        {
+          "type": "p",
+          "text": "Get your brand cited in ChatGPT, Perplexity, and Google AI Overviews. 30 checkpoints for 2026."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BRAND PRESENCE & ENTITY SETUP"
+        },
+        {
+          "type": "button",
+          "text": "Wikipedia or Wikidata entity page (if applicable)"
+        },
+        {
+          "type": "button",
+          "text": "LinkedIn company page fully completed"
+        },
+        {
+          "type": "button",
+          "text": "Google Business Profile claimed and optimised"
+        },
+        {
+          "type": "button",
+          "text": "Crunchbase or similar business profile"
+        },
+        {
+          "type": "button",
+          "text": "Consistent NAP across all directories"
+        },
+        {
+          "type": "button",
+          "text": "Official website clearly states: who you are, what you do, and who you serve"
+        },
+        {
+          "type": "h2",
+          "text": "CONTENT FOR AI CITATION"
+        },
+        {
+          "type": "button",
+          "text": "Clear, factual 'About' page that AI can summarise"
+        },
+        {
+          "type": "button",
+          "text": "Dedicated pages for each service/product with structured content"
+        },
+        {
+          "type": "button",
+          "text": "FAQ sections with direct, quotable answers"
+        },
+        {
+          "type": "button",
+          "text": "Statistics and data points cited (with sources)"
+        },
+        {
+          "type": "button",
+          "text": "Original research or data you can own"
+        },
+        {
+          "type": "button",
+          "text": "Author bios with credentials and real expertise signals"
+        },
+        {
+          "type": "button",
+          "text": "Case studies with specific, verifiable metrics"
+        },
+        {
+          "type": "h2",
+          "text": "SCHEMA & STRUCTURED DATA"
+        },
+        {
+          "type": "button",
+          "text": "Organisation schema on all pages"
+        },
+        {
+          "type": "button",
+          "text": "FAQPage schema on FAQ content"
+        },
+        {
+          "type": "button",
+          "text": "Article schema on blog posts"
+        },
+        {
+          "type": "button",
+          "text": "LocalBusiness schema (if applicable)"
+        },
+        {
+          "type": "button",
+          "text": "Person schema for author pages"
+        },
+        {
+          "type": "button",
+          "text": "Review/Rating schema where appropriate"
+        },
+        {
+          "type": "h2",
+          "text": "THIRD-PARTY MENTIONS & AUTHORITY"
+        },
+        {
+          "type": "button",
+          "text": "Featured in or mentioned by reputable publications"
+        },
+        {
+          "type": "button",
+          "text": "Press releases distributed to industry media"
+        },
+        {
+          "type": "button",
+          "text": "Guest posts on authoritative sites in your niche"
+        },
+        {
+          "type": "button",
+          "text": "Podcast appearances (AI often cites podcast transcripts)"
+        },
+        {
+          "type": "button",
+          "text": "Forum and community contributions (Reddit, Quora, industry groups)"
+        },
+        {
+          "type": "button",
+          "text": "Mentions on .edu or .gov domains"
+        },
+        {
+          "type": "h2",
+          "text": "AI SEARCH MONITORING"
+        },
+        {
+          "type": "button",
+          "text": "Track brand mentions in ChatGPT (manual testing)"
+        },
+        {
+          "type": "button",
+          "text": "Monitor Perplexity citations for branded queries"
+        },
+        {
+          "type": "button",
+          "text": "Set up alerts for brand + competitor queries in AI tools"
+        },
+        {
+          "type": "button",
+          "text": "Check Google AI Overviews for your target keywords"
+        },
+        {
+          "type": "button",
+          "text": "Review accuracy of AI-generated summaries about your brand"
+        },
+        {
+          "type": "p",
+          "text": "GET THE PDF VERSION"
+        },
+        {
+          "type": "h3",
+          "text": "Download the GEO checklist as a PDF."
+        },
+        {
+          "type": "p",
+          "text": "Enter your email and we’ll send it straight to your inbox."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "Send me the PDF"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

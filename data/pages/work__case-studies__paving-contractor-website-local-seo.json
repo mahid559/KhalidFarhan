@@ -1,0 +1,270 @@
+{
+  "route": "/work/case-studies/paving-contractor-website-local-seo",
+  "title": "A new site and 31 leads in the first 60 days — Case Study | Khalid Farhan",
+  "metaDesc": "A website built from nothing for a paving contractor, with local SEO and ads switched on the day it went live.",
+  "h1": "A NEW SITE AND 31 LEADS IN THE FIRST 60 DAYS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A driveway and paving contractor · Dublin and Kildare"
+        },
+        {
+          "type": "h1",
+          "text": "A NEW SITE AND 31 LEADS IN THE FIRST 60 DAYS"
+        },
+        {
+          "type": "p",
+          "text": "A website built from nothing for a paving contractor, with local SEO and ads switched on the day it went live."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Construction and trades"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "First 60 days"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Web Development",
+          "href": "/services/web-development",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO",
+          "href": "/services/local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "31"
+        },
+        {
+          "type": "text",
+          "text": "Leads in 60 days"
+        },
+        {
+          "type": "text",
+          "text": "3 weeks"
+        },
+        {
+          "type": "text",
+          "text": "From brief to live"
+        },
+        {
+          "type": "text",
+          "text": "Booked out"
+        },
+        {
+          "type": "text",
+          "text": "Following season"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Website"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Website",
+              "None",
+              "Live, 0.8s load"
+            ],
+            [
+              "Quote requests a month",
+              "0 online",
+              "15"
+            ],
+            [
+              "Photos online",
+              "0",
+              "200"
+            ],
+            [
+              "Google reviews",
+              "7",
+              "44"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "pavingcontractor.ie/driveways-kildare"
+        },
+        {
+          "type": "text",
+          "text": "Request a free quote"
+        },
+        {
+          "type": "text",
+          "text": "31 leads in 60 days"
+        },
+        {
+          "type": "text",
+          "text": "Google Maps: top 3"
+        },
+        {
+          "type": "text",
+          "text": "★ 5.0 · 44 reviews · Open now"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A driveway and paving contractor with twenty years of work, a Facebook page and no website at all."
+        },
+        {
+          "type": "p",
+          "text": "Every job came from word of mouth. Customers who heard the name could not find a website, a gallery or a way to request a quote without calling during the working day."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "A fast, photo-led website built in three weeks: services, gallery, areas, quote form",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Two hundred job photos sorted by material and area",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Business Profile with the same photos and a review routine",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Service area pages for Dublin and Kildare towns",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A small Google Ads campaign on 'driveway' and 'patio' searches from launch day",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "The site brought thirty-one quote requests in its first sixty days, and the contractor booked out the following season."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "MANUFACTURING AND RETAIL\nDHAKA, BANGLADESH\n\n+240%\nShowroom enquiries\n\nShowroom visits booked online, 240% more of them\n\nA furniture manufacturer in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/furniture-manufacturer-google-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

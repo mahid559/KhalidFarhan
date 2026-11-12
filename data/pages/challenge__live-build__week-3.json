@@ -1,0 +1,121 @@
+{
+  "route": "/challenge/live-build/week-3",
+  "title": "Live Build Week 3 — Building the Offer — From Idea to Sales Page | Khalid Farhan",
+  "metaDesc": "Turning the validated niche into a real offer. Watch the offer built live — pricing, positioning, and the first sales page.",
+  "h1": "Building the Offer — From Idea to Sales Page",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LIVE BUILD · WEEK 3"
+        },
+        {
+          "type": "h1",
+          "text": "Building the Offer — From Idea to Sales Page"
+        },
+        {
+          "type": "p",
+          "text": "Published 2026-01-29"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Members only"
+        },
+        {
+          "type": "p",
+          "text": "Join the 2026 Challenge to watch this episode."
+        },
+        {
+          "type": "link",
+          "text": "Join Now",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "TURNING THE VALIDATED NICHE INTO A REAL OFFER. WATCH THE OFFER BUILT LIVE — PRICING, POSITIONING, AND THE FIRST SALES PAGE."
+        },
+        {
+          "type": "h3",
+          "text": "WHAT’S COVERED"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Offer structure and pricing",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Sales page copy live",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Checkout setup",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "First test order",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-sm",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "← Week 2: Finding the Niche — Live Validation",
+          "href": "/challenge/live-build/week-2",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Week 4: Getting Traffic — First 100 Visitors →",
+          "href": "/challenge/live-build/week-4",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE"
+        },
+        {
+          "type": "h2",
+          "text": "Watch every episode. Do every task. Build income."
+        },
+        {
+          "type": "p",
+          "text": "5,000 BDT. Join the 12 month journey — all episodes, classes, and content included."
+        },
+        {
+          "type": "link",
+          "text": "Join the 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "route": "/insights/ai-overview-seo",
+  "title": "How to Appear in Google AI Overviews (And Why It Matters) | Khalid Farhan",
+  "metaDesc": "Google AI Overviews are changing how search results look. Here's how to optimise your content to appear in them.",
+  "h1": "How to Appear in Google AI Overviews (And Why It Matters)",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GEO & AI SEARCH"
+        },
+        {
+          "type": "h1",
+          "text": "How to Appear in Google AI Overviews (And Why It Matters)"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "20 October 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "9 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google AI Overviews are changing how search results look. Here's how to optimise your content to appear in them."
+        },
+        {
+          "type": "p",
+          "text": "Google AI Overviews (previously called Search Generative Experience or SGE) are the AI-generated summaries that appear at the top of search results for a growing range of queries. They sit above the organic results, are sometimes longer than several paragraphs, and may include links to source content. For some queries, they're changing how users interact with search results significantly."
+        },
+        {
+          "type": "p",
+          "text": "Understanding how to optimise your content to appear in AI Overviews is increasingly important SEO work, distinct from but related to traditional organic ranking optimisation."
+        },
+        {
+          "type": "h2",
+          "text": "What Google AI Overviews Are"
+        },
+        {
+          "type": "p",
+          "text": "When Google AI Overviews appeared widely in 2024, it represented a fundamental change in how Google presents search results for certain query types. Rather than just showing a list of ranked pages, Google generates a synthesised answer at the top of the results page, drawing from multiple sources and citing them in the body of the overview."
+        },
+        {
+          "type": "p",
+          "text": "They appear most commonly for: informational queries (\"how does X work\"), comparison queries (\"X vs Y\"), how-to queries, definitions, and complex questions that benefit from a synthesised answer. They appear less for highly transactional queries (\"buy X\"), navigational queries (\"YouTube login\"), and queries where Google has high confidence a single authoritative source is the best answer."
+        },
+        {
+          "type": "p",
+          "text": "The presence of AI Overviews varies significantly by query type and by country. Not all searches trigger them, and the queries that do trigger them have shifted over time as Google has refined the system."
+        },
+        {
+          "type": "h2",
+          "text": "How Google Selects Sources for AI Overviews"
+        },
+        {
+          "type": "p",
+          "text": "Google's source selection for AI Overviews is not entirely separate from its regular ranking algorithm. Research and practical observation suggest several consistent patterns:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "The sources cited in AI Overviews often come from pages that also rank in the top 10 organic results for that query. This means ranking well in traditional search is still a prerequisite for most AI Overview citations.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "E-E-A-T signals matter: Experience, Expertise, Authoritativeness, and Trustworthiness. Pages with strong author credentials, external citations, and established domain authority are preferred sources.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Content that directly answers the query: Similar to featured snippets, AI Overviews prefer content that states the answer clearly and early, rather than content that builds up to it over many paragraphs.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Structured, well-organised content: Clear headings, short paragraphs that each cover a distinct point, and logical information architecture make content easier for Google to extract and synthesise.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Technical quality: Fast, mobile-friendly, technically sound pages.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The Difference Between Ranking and Appearing in AI Overviews"
+        },
+        {
+          "type": "p",
+          "text": "A page can rank position three in organic results and not appear in the AI Overview. A page can rank position eight and be cited in the AI Overview. The selection is not purely positional."
+        },
+        {
+          "type": "p",
+          "text": "The distinction matters because optimising for AI Overview citation may require different content decisions than optimising purely for organic rank position. Content that is highly comprehensive but structured in a way that makes it hard to extract specific answers may rank well but not get cited. Content that is more focused and direct may do better in AI Overviews even with a slightly lower overall rank."
+        },
+        {
+          "type": "h2",
+          "text": "Content Signals That Help"
+        },
+        {
+          "type": "h3",
+          "text": "E-E-A-T and the Experience dimension"
+        },
+        {
+          "type": "p",
+          "text": "The \"Experience\" in E-E-A-T (added in 2022's quality rater guidelines update) specifically values content written by someone with real first-hand experience with the subject. A doctor writing about a medical procedure. An accountant writing about Irish tax rules. A construction professional writing about building regulations."
+        },
+        {
+          "type": "p",
+          "text": "Content that signals genuine first-hand experience, through specific examples, nuanced insights that only come from practice, and honest acknowledgment of complexity and exceptions, performs better than generic overview content that could have been written by anyone who read a few articles."
+        },
+        {
+          "type": "h3",
+          "text": "Direct answers to specific questions"
+        },
+        {
+          "type": "p",
+          "text": "The best format for AI Overview inclusion is content that directly answers a clearly defined question. The ideal structure:"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "State the direct answer in the first paragraph, concisely",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Provide the qualification, context, and nuance in subsequent paragraphs",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Support with specific examples or data",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "FAQ sections are particularly effective because each Q&A pair is a self-contained, extractable unit. Google can pull a specific Q&A and attribute it cleanly."
+        },
+        {
+          "type": "h3",
+          "text": "Structured content with clear headings"
+        },
+        {
+          "type": "p",
+          "text": "Use descriptive H2 and H3 headings that reflect the specific questions or subtopics covered in each section. A section headed \"What are the main causes of X?\" is more useful to Google's AI extraction than a section headed \"Background.\""
+        },
+        {
+          "type": "h2",
+          "text": "Technical Signals"
+        },
+        {
+          "type": "p",
+          "text": "Technical health is a prerequisite. Google is unlikely to feature content in AI Overviews from slow, mobile-unfriendly, or technically problematic pages. Ensure:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Core Web Vitals in the Good range for the pages you're targeting",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Mobile-responsive design with good usability",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "HTTPS",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Appropriate schema markup (Article, FAQPage, HowTo where relevant)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "No crawlability or indexing issues",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Schema markup is worth specific attention. FAQPage schema explicitly marks content as structured Q&A, which aligns well with how AI Overviews source content. HowTo schema for instructional content. Article schema with full author markup for editorial content."
+        },
+        {
+          "type": "h2",
+          "text": "The Traffic Impact: Does Appearing in AI Overviews Drive Clicks?"
+        },
+        {
+          "type": "p",
+          "text": "Honest assessment: appearing in AI Overviews does not consistently drive more clicks than a strong organic result would have. Studies published in 2024 and 2025 show that AI Overviews often reduce click-through rates to organic results because users get their answer without needing to visit a site."
+        },
+        {
+          "type": "p",
+          "text": "However, being cited as a source in an AI Overview has brand awareness value. Your domain name appears at the top of the results page, visible to every user who sees the Overview, whether or not they click through. This creates brand impressions, particularly for your expertise in the topic area, even without a click."
+        },
+        {
+          "type": "p",
+          "text": "The implication: optimising for AI Overview citation is more of a brand authority play than a direct traffic play, at least for many query types. It keeps your brand visible in a landscape where traditional click-through rates are declining."
+        },
+        {
+          "type": "h2",
+          "text": "How to Monitor Your Presence in AI Overviews"
+        },
+        {
+          "type": "p",
+          "text": "Google Search Console doesn't yet have a specific AI Overviews report. Monitoring requires manual checking: run target queries in Google and observe whether an AI Overview appears and whether your content is cited."
+        },
+        {
+          "type": "p",
+          "text": "There are third-party tools beginning to track AI Overview presence. As the ecosystem matures, more reliable monitoring will become available. For now, a spreadsheet tracking which target queries trigger AI Overviews, which sources are cited, and whether your brand appears is the practical approach."
+        },
+        {
+          "type": "h2",
+          "text": "Practical Steps to Improve Your Chances"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Identify your target queries: Which of your most important keywords tend to trigger AI Overviews? Check manually and note which currently include your content.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Audit your key pages for directness: Does the most important answer appear in the first paragraph? If not, restructure it.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Add FAQ sections: For every important service or topic page, add 5-10 specific, directly-answered FAQs and implement FAQPage schema.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Strengthen E-E-A-T signals: Add author bios with credentials, link to external sources that validate claims, ensure your About page clearly establishes your expertise and experience.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Improve technical quality: Focus on the pages most important to your business. Ensure they're fast, mobile-friendly, and technically clean.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Build authoritative backlinks: Domain authority still matters for AI Overview source selection. Pages from domains with strong, legitimate link profiles are preferred.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "AI Overviews are not a stable target. Google's systems continue to evolve and the queries that trigger them, and the criteria for source selection, will shift. The best long-term strategy is investing in the underlying quality signals: genuine expertise, well-structured content, technical excellence, and earned authority. These serve you in AI Overviews, in traditional organic results, and in Perplexity and other AI search tools simultaneously."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "AI Overviews"
+        },
+        {
+          "type": "text",
+          "text": "Google"
+        },
+        {
+          "type": "text",
+          "text": "GEO"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

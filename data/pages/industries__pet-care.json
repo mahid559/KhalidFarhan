@@ -1,0 +1,144 @@
+{
+  "route": "/industries/pet-care",
+  "title": "Pet Care Marketing Agency Ireland | Khalid Farhan",
+  "metaDesc": "Pet care businesses thrive on local trust. We combine local SEO, Meta Ads, and review management to fill your calendar with the pet owners in your area. Working with pet care businesses across Ireland.",
+  "h1": "DIGITAL MARKETING FOR DOG DAYCARES, GROOMERS, AND VETS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "INDUSTRIES / PET CARE"
+        },
+        {
+          "type": "h1",
+          "text": "DIGITAL MARKETING FOR DOG DAYCARES, GROOMERS, AND VETS"
+        },
+        {
+          "type": "p",
+          "text": "Pet care businesses thrive on local trust. We combine local SEO, Meta Ads, and review management to fill your calendar with the pet owners in your area."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "HOW WE HELP"
+        },
+        {
+          "type": "h2",
+          "text": "MARKETING BUILT FOR PET CARE BUSINESSES"
+        },
+        {
+          "type": "p",
+          "text": "Pet care businesses thrive on local trust. We combine local SEO, Meta Ads, and review management to fill your calendar with the pet owners in your area."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SERVICES FOR PET CARE"
+        },
+        {
+          "type": "link",
+          "text": "Local SEO\n\nGoogle Business Profile, local citations, review management, and geo-targeted content — all in one programme.",
+          "href": "/services/local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads\n\nFacebook and Instagram advertising built for real results — new customer acquisition, retargeting, and catalogue campaigns.",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\nSearch, Shopping, Performance Max, and YouTube campaigns built for measurable return — not vanity metrics.",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Email Marketing\n\nFrom welcome sequences to weekly newsletters, we build email programmes that turn subscribers into customers.",
+          "href": "/services/email-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "blockquote",
+          "text": "“We went from struggling to fill spots to having a waiting list. Meta Ads handled by this team are a different level.”\n\nA premium dog daycare\n\nOwner, Pet care"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FAQS"
+        },
+        {
+          "type": "button",
+          "text": "What digital marketing services work best for pet care businesses?"
+        },
+        {
+          "type": "text",
+          "text": "For pet care businesses, we typically recommend local-seo, meta-ads, google-ads. The right mix depends on your specific goals, budget, and competitive landscape — which is why we start every engagement with a free audit."
+        },
+        {
+          "type": "button",
+          "text": "How long before we see results?"
+        },
+        {
+          "type": "text",
+          "text": "For paid channels (Google Ads, Meta Ads), you can expect to see results within 4–8 weeks. For SEO and content, meaningful results typically come within 3–6 months. We'll give you realistic, channel-specific projections during the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you specialise in pet care?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have hands-on experience with pet care businesses, including a premium dog daycare. This means we understand the specific challenges, customer journey, and competitive dynamics in your sector."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "READY TO GROW YOUR PET CARE BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

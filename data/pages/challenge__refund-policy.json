@@ -1,0 +1,135 @@
+{
+  "route": "/challenge/refund-policy",
+  "title": "2026 Challenge, Refund Policy | Khalid Farhan",
+  "metaDesc": "Refund policy for the 2026 Challenge. No refunds, read before joining.",
+  "h1": "REFUND POLICY.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE / REFUND POLICY"
+        },
+        {
+          "type": "h1",
+          "text": "REFUND POLICY."
+        },
+        {
+          "type": "p",
+          "text": "Read this before you join. We want you to make an informed decision."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Our refund policy"
+        },
+        {
+          "type": "p",
+          "text": "No refunds are offered on the 2026 Challenge."
+        },
+        {
+          "type": "p",
+          "text": "This is not a decision we take lightly. Here is the reasoning, and what it means for you:"
+        },
+        {
+          "type": "h3",
+          "text": "Why no refunds?"
+        },
+        {
+          "type": "p",
+          "text": "The 2026 Challenge is a commitment-based programme. The moment you join, you gain full and immediate access to all content, every recorded class, every live build episode, every community resource. There is nothing to “try before you buy” in the traditional sense, because everything is available instantly."
+        },
+        {
+          "type": "p",
+          "text": "Offering refunds in this context would mean someone could access all the content and then simply ask for their money back. We don’t think that’s fair to the 5,500+ other members who joined in good faith and are doing the work."
+        },
+        {
+          "type": "h3",
+          "text": "What to do before joining"
+        },
+        {
+          "type": "p",
+          "text": "If you have any doubts, we strongly encourage you to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Read the full curriculum, you know exactly what you’re getting.",
+              "href": "/challenge/curriculum",
+              "imgs": []
+            },
+            {
+              "text": "Read real member results, see what others have built.",
+              "href": "/challenge/testimonials",
+              "imgs": []
+            },
+            {
+              "text": "Read the FAQ, common questions answered.",
+              "href": "/challenge/faq",
+              "imgs": []
+            },
+            {
+              "text": "Email us at khalid@khalidfarhan.com before joining if you have specific questions. We will answer honestly.",
+              "href": "mailto:khalid@khalidfarhan.com",
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "What happens if something goes wrong?"
+        },
+        {
+          "type": "p",
+          "text": "If you paid and didn’t receive access (no email confirmation, can’t access the community), email us immediately at khalid@khalidfarhan.com. Technical issues are resolved within 24 hours."
+        },
+        {
+          "type": "p",
+          "text": "If a class is cancelled or significantly different from what was described, we will address it on a case-by-case basis. We stand behind the quality of what we deliver."
+        },
+        {
+          "type": "h3",
+          "text": "Payment disputes"
+        },
+        {
+          "type": "p",
+          "text": "Filing a chargeback or payment dispute for content you have already accessed is fraud. We will contest all invalid chargebacks and provide full access logs as evidence."
+        },
+        {
+          "type": "h3",
+          "text": "Still have questions?"
+        },
+        {
+          "type": "p",
+          "text": "Email khalid@khalidfarhan.com. We respond within 24 hours during business days."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "Join the Challenge",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Read the FAQ",
+          "href": "/challenge/faq",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "route": "/challenge/testimonials",
+  "title": "Course Testimonials — Real Student Results | Khalid Farhan",
+  "metaDesc": "Real results from students across all my courses and programmes. See what people are saying and achieving.",
+  "h1": "THOUSANDS OF STUDENTS. REAL RESULTS.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "TESTIMONIALS"
+        },
+        {
+          "type": "h1",
+          "text": "THOUSANDS OF STUDENTS. REAL RESULTS."
+        },
+        {
+          "type": "p",
+          "text": "These are the people who joined, did the work, and built something real. Across every course and programme I've run."
+        },
+        {
+          "type": "link",
+          "text": "Join 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/testimonials/1-768x310-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/11-768x440-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/131-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/155-768x346-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/166-768x340-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/180-768x316-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/195-768x393-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/209-768x338-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/23-768x408-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/241-768x378-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/263-768x389-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/281-768x347-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/1-768x310-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/11-768x440-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/131-768x374-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/155-768x346-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/166-768x340-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/180-768x316-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/195-768x393-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/209-768x338-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/23-768x408-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/241-768x378-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/263-768x389-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/281-768x347-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/107-768x325-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/125-768x463-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/146-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/16-768x373-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/171-768x365-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/187-768x371-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/2-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/220-768x369-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/236-768x388-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/250-768x360-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/271-768x381-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/289-768x256-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/107-768x325-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/125-768x463-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/146-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/16-768x373-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/171-768x365-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/187-768x371-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/2-768x376-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/220-768x369-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/236-768x388-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/250-768x360-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/271-768x381-1.png",
+          "alt": "Member review"
+        },
+        {
+          "type": "img",
+          "src": "/testimonials/289-768x256-1.png",
+          "alt": "Member review"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "YOUR NAME COULD BE NEXT."
+        },
+        {
+          "type": "p",
+          "text": "The same framework used by every student above. Join the community and start building."
+        },
+        {
+          "type": "link",
+          "text": "Join the Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

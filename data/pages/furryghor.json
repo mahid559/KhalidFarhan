@@ -1,0 +1,449 @@
+{
+  "route": "/furryghor",
+  "title": "FurryGhor — Bangladesh's First Pet Hotel | Khalid Farhan | Khalid Farhan",
+  "metaDesc": "FurryGhor is Bangladesh's first dog and cat boarding hotel, founded by Khalid Farhan. Two branches in Mirpur and Gulshan, Dhaka — 24/7 care, private cabins, and a home away from home for your pets.",
+  "h1": "Bangladesh's First Pet Hotel",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A KHALID FARHAN VENTURE · DHAKA, BANGLADESH"
+        },
+        {
+          "type": "h1",
+          "text": "Bangladesh's First Pet Hotel"
+        },
+        {
+          "type": "p",
+          "text": "FurryGhor is a home away from home for your cats and dogs. Two branches across Dhaka — professional care, private cabins, and 24/7 monitoring for every animal that stays with us."
+        },
+        {
+          "type": "link",
+          "text": "Visit FurryGhor.com →",
+          "href": "https://furryghor.com",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See our locations",
+          "href": "#branches",
+          "imgs": []
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/facility.jpeg",
+          "alt": "FurryGhor pet hotel facility in Dhaka"
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/logo.png",
+          "alt": "FurryGhor logo"
+        },
+        {
+          "type": "text",
+          "text": "BRANCHES"
+        },
+        {
+          "type": "text",
+          "text": "2 — Mirpur & Gulshan"
+        },
+        {
+          "type": "text",
+          "text": "ANIMALS"
+        },
+        {
+          "type": "text",
+          "text": "Dogs & Cats"
+        },
+        {
+          "type": "text",
+          "text": "OPERATING HOURS"
+        },
+        {
+          "type": "text",
+          "text": "24 hours, 7 days"
+        },
+        {
+          "type": "text",
+          "text": "SERVICES"
+        },
+        {
+          "type": "text",
+          "text": "Boarding, Day Stay, Passport"
+        },
+        {
+          "type": "link",
+          "text": "furryghor.com ↗",
+          "href": "https://furryghor.com",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "furryghor-photo-break",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/furryghor/dog-bd.jpeg",
+          "alt": "Dogs at FurryGhor dog hostel Bangladesh"
+        },
+        {
+          "type": "p",
+          "text": "“A home for pets away from home.”"
+        },
+        {
+          "type": "p",
+          "text": "FurryGhor — Dhaka, Bangladesh"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "THE STORY"
+        },
+        {
+          "type": "h2",
+          "text": "A problem every pet owner in Dhaka knew too well."
+        },
+        {
+          "type": "p",
+          "text": "Before FurryGhor, pet owners leaving Dhaka had nowhere safe to turn. You'd leave your dog or cat with a neighbour, a relative who wasn't sure what to do, or simply cancel your trip. There was no professional solution."
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/interior.jpeg",
+          "alt": "FurryGhor interior — pet boarding facility Dhaka"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "p",
+          "text": "Built by pet owners, for pet owners"
+        },
+        {
+          "type": "p",
+          "text": "FurryGhor was founded by a group of pet owners who faced the same problem firsthand. When you love your animals, leaving them behind is the hardest part of any trip. We built the place we always wished existed."
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "p",
+          "text": "Bangladesh's first — and still the best"
+        },
+        {
+          "type": "p",
+          "text": "When FurryGhor opened, there was no such thing as a pet hotel in Bangladesh. We created the category. Since then we've grown to two branches, served hundreds of animals, and helped pet owners travel without guilt."
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "p",
+          "text": "More than just a place to stay"
+        },
+        {
+          "type": "p",
+          "text": "Every animal that comes to FurryGhor gets attention, play, structure, and care. We send photo updates. We follow feeding routines. We treat your pet the way you would if you were home."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHAT WE OFFER"
+        },
+        {
+          "type": "h2",
+          "text": "Every kind of care your pet might need."
+        },
+        {
+          "type": "p",
+          "text": "From overnight stays to international relocation paperwork — FurryGhor handles it all under one roof."
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/cat-hostel.jpeg",
+          "alt": "Cat staying at FurryGhor pet hostel Dhaka"
+        },
+        {
+          "type": "text",
+          "text": "🐱"
+        },
+        {
+          "type": "p",
+          "text": "Cat Boarding"
+        },
+        {
+          "type": "p",
+          "text": "Short and long-term stays for cats in private, comfortable cabins with dedicated litter stations, play areas, and attentive care."
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/dog-hotel.jpeg",
+          "alt": "Dog boarding at FurryGhor dog hostel Dhaka"
+        },
+        {
+          "type": "text",
+          "text": "🐶"
+        },
+        {
+          "type": "p",
+          "text": "Dog Boarding"
+        },
+        {
+          "type": "p",
+          "text": "Sky-view mini apartments for dogs with buddy play programmes, 24/7 monitoring, and expert attendants — built for dogs who love company."
+        },
+        {
+          "type": "text",
+          "text": "☀️"
+        },
+        {
+          "type": "p",
+          "text": "Day Stay"
+        },
+        {
+          "type": "p",
+          "text": "Hourly care for when you need a few hours out. Drop your pet off, run your day, come back to a happy animal."
+        },
+        {
+          "type": "text",
+          "text": "✈️"
+        },
+        {
+          "type": "p",
+          "text": "Passport & Relocation"
+        },
+        {
+          "type": "p",
+          "text": "Handling pet authorisation, airport transfers, and veterinary documentation for owners relocating abroad with their pets."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "furryghor-strip",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/furryghor/dog-hostel.jpeg",
+          "alt": "Dog hostel Dhaka — FurryGhor"
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/cat-hostel.jpeg",
+          "alt": "Cat hostel Dhaka — FurryGhor"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHAT'S INCLUDED"
+        },
+        {
+          "type": "h2",
+          "text": "The standard isn't standard anywhere else in Dhaka."
+        },
+        {
+          "type": "p",
+          "text": "Every animal — cat or dog, one night or three weeks — gets the same level of care."
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "p",
+          "text": "24/7 Staff Monitoring"
+        },
+        {
+          "type": "p",
+          "text": "A trained team is present around the clock — nights included. Your pet is never left unattended."
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "p",
+          "text": "Private Cabin Accommodations"
+        },
+        {
+          "type": "p",
+          "text": "Each pet gets their own space. No shared enclosures, no unnecessary stress."
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "p",
+          "text": "2+ Dedicated Attendants Per Pet"
+        },
+        {
+          "type": "p",
+          "text": "Expert hands-on care with multiple attendants assigned to every animal."
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "p",
+          "text": "Photo & Video Updates"
+        },
+        {
+          "type": "p",
+          "text": "Regular updates sent directly to you so you can check in from anywhere in the world."
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "p",
+          "text": "Buddy Play Programme"
+        },
+        {
+          "type": "p",
+          "text": "Structured social play sessions for dogs who thrive with company."
+        },
+        {
+          "type": "text",
+          "text": "06"
+        },
+        {
+          "type": "p",
+          "text": "Stress-Free Environment"
+        },
+        {
+          "type": "p",
+          "text": "Designed around animal psychology — calm spaces, familiar routines, and constant attention."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "OUR LOCATIONS"
+        },
+        {
+          "type": "h2",
+          "text": "Two branches across Dhaka."
+        },
+        {
+          "type": "p",
+          "text": "Whether you're in Mirpur or heading through Gulshan — there's a FurryGhor close to you."
+        },
+        {
+          "type": "p",
+          "text": "BRANCH 01"
+        },
+        {
+          "type": "p",
+          "text": "Mirpur Branch"
+        },
+        {
+          "type": "p",
+          "text": "ADDRESS"
+        },
+        {
+          "type": "p",
+          "text": "80 Zoo Road, Mirpur 1216, Dhaka"
+        },
+        {
+          "type": "p",
+          "text": "The original location. Situated near Mirpur Zoo, easy access from across Dhaka."
+        },
+        {
+          "type": "p",
+          "text": "BRANCH 02"
+        },
+        {
+          "type": "p",
+          "text": "Gulshan Branch"
+        },
+        {
+          "type": "p",
+          "text": "ADDRESS"
+        },
+        {
+          "type": "p",
+          "text": "205/1 Tejgaon Link Road, Dhaka"
+        },
+        {
+          "type": "p",
+          "text": "The second branch, serving Gulshan, Banani, and surrounding areas."
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GOING OUT OF DHAKA?"
+        },
+        {
+          "type": "h2",
+          "text": "Your pet deserves more than a favour."
+        },
+        {
+          "type": "p",
+          "text": "Whether you're leaving for a weekend or relocating abroad, FurryGhor gives your cat or dog a proper home while you're away. Professional care. Real peace of mind."
+        },
+        {
+          "type": "link",
+          "text": "Book at FurryGhor.com",
+          "href": "https://furryghor.com",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or call +88 01749 264189",
+          "href": "tel:+8801749264189",
+          "imgs": []
+        },
+        {
+          "type": "img",
+          "src": "/furryghor/logo.png",
+          "alt": "FurryGhor — Bangladesh's first pet hotel"
+        },
+        {
+          "type": "p",
+          "text": "Bangladesh's first dog and cat hotel.\nMirpur & Gulshan, Dhaka."
+        },
+        {
+          "type": "link",
+          "text": "furryghor.com ↗",
+          "href": "https://furryghor.com",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

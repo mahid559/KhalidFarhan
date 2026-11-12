@@ -1,0 +1,86 @@
+{
+  "route": "/affiliates/signup",
+  "title": "Khalid Farhan — Marketing Agency & Founder",
+  "metaDesc": "Dublin-based marketing agency helping businesses grow through SEO, GEO, Google Ads, Meta Ads, and content. Also home of the 2026 Challenge — watch Khalid build a business live.",
+  "h1": "Join as an Affiliate",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/",
+          "imgs": []
+        },
+        {
+          "type": "h1",
+          "text": "Join as an Affiliate"
+        },
+        {
+          "type": "p",
+          "text": "Earn 10% on every sale you refer"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "Your name",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "password",
+              "name": "",
+              "placeholder": "Min. 8 characters",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "radio",
+              "name": "paymentMethod",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "radio",
+              "name": "paymentMethod",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "",
+              "placeholder": "01XXXXXXXXX",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Create Account"
+        },
+        {
+          "type": "p",
+          "text": "Affiliate Programme by khalidfarhan.com"
+        }
+      ]
+    }
+  ]
+}

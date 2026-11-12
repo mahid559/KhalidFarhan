@@ -1,0 +1,268 @@
+{
+  "route": "/work/case-studies/dog-daycare-meta-ads",
+  "title": "From empty spaces to a waiting list — Case Study | Khalid Farhan",
+  "metaDesc": "Local SEO and Meta Ads that filled a brand-new daycare in under six months.",
+  "h1": "FROM EMPTY SPACES TO A WAITING LIST",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A premium dog daycare · Dublin, Ireland"
+        },
+        {
+          "type": "h1",
+          "text": "FROM EMPTY SPACES TO A WAITING LIST"
+        },
+        {
+          "type": "p",
+          "text": "Local SEO and Meta Ads that filled a brand-new daycare in under six months."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Pet care"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "6 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO",
+          "href": "/services/local-seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "4.1x"
+        },
+        {
+          "type": "text",
+          "text": "Meta Ads ROAS"
+        },
+        {
+          "type": "text",
+          "text": "Top 3"
+        },
+        {
+          "type": "text",
+          "text": "Google Maps rankings"
+        },
+        {
+          "type": "text",
+          "text": "6 months"
+        },
+        {
+          "type": "text",
+          "text": "To waiting list"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Occupancy"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Occupancy",
+              "22%",
+              "100% + waiting list"
+            ],
+            [
+              "Google Maps position",
+              "Not listed",
+              "Top 3"
+            ],
+            [
+              "Cost per new customer",
+              "n/a",
+              "€19"
+            ],
+            [
+              "Google reviews",
+              "0",
+              "74"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Google Maps: top 3"
+        },
+        {
+          "type": "text",
+          "text": "★ 4.9 · 74 reviews · Open now"
+        },
+        {
+          "type": "text",
+          "text": "OCCUPANCY BY MONTH"
+        },
+        {
+          "type": "text",
+          "text": "Full"
+        },
+        {
+          "type": "text",
+          "text": "4.1x"
+        },
+        {
+          "type": "text",
+          "text": "€19"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A premium dog daycare that had just opened, had no online presence and needed to fill capacity fast on a small budget."
+        },
+        {
+          "type": "p",
+          "text": "The daycare had just opened and relied entirely on word of mouth. Dog owners within ten kilometres had never heard of it."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Google Business Profile set up and optimised, with photo and review routines",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Local citations across Irish pet directories",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Meta Ads to dog owners within a 10 km radius, interest and lookalike audiences",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Short video creative shot at the facility: the dogs sold it",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Review generation after every first visit",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Within six months the daycare had a waiting list. Meta Ads returned 4.1x and the business sat in the top three on Google Maps for every relevant local search."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nDHAKA, BANGLADESH\n\n4.2x\nMeta Ads ROAS\n\n3x ROAS on Meta, without increasing spend\n\nA premium beauty e-commerce brand\n\nRead the case study",
+          "href": "/work/case-studies/beauty-ecommerce-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINTECH\nUK, IRELAND AND THE GULF\n\n48k\nInstalls in 5 months\n\n48,000 installs at half the cost\n\nA remittance app for migrant workers\n\nRead the case study",
+          "href": "/work/case-studies/remittance-app-meta-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

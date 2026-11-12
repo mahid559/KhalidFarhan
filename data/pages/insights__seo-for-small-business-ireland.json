@@ -1,0 +1,441 @@
+{
+  "route": "/insights/seo-for-small-business-ireland",
+  "title": "SEO for Small Businesses in Ireland: A Practical Guide for 2026 | Khalid Farhan",
+  "metaDesc": "You don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.",
+  "h1": "SEO for Small Businesses in Ireland: A Practical Guide for 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "SEO for Small Businesses in Ireland: A Practical Guide for 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "15 March 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "12 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "You don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works."
+        },
+        {
+          "type": "p",
+          "text": "Most of the SEO content online is written for companies with marketing teams, content budgets, and the luxury of playing a long game without worrying about cashflow. Small Irish businesses don't have that. You're running the business and trying to market it at the same time, with a budget that needs to justify itself relatively quickly."
+        },
+        {
+          "type": "p",
+          "text": "This guide is written for that reality. Practical steps, prioritised by impact, with honest timelines about what to expect."
+        },
+        {
+          "type": "h2",
+          "text": "Why SEO Matters More for Small Irish Businesses Than Paid Ads"
+        },
+        {
+          "type": "p",
+          "text": "For many small businesses, Google Ads is an expensive way to generate leads that stops working the moment you stop paying. For a solicitor paying €12 per click in a competitive Dublin market, a campaign can consume thousands of euros a month before you've paid for the work to convert those leads."
+        },
+        {
+          "type": "p",
+          "text": "SEO compounds. A piece of content you publish today, properly optimised, can send you enquiries every month for three or five or ten years with no ongoing cost. A technical improvement you make to your site this month keeps working indefinitely. A Google Business Profile you optimise properly keeps driving calls and directions requests every week, for free."
+        },
+        {
+          "type": "p",
+          "text": "The tradeoff is time. SEO takes longer to produce results than ads. But for businesses that are thinking beyond the next quarter, the economics are extremely attractive."
+        },
+        {
+          "type": "p",
+          "text": "There's also a trust dimension. Organic search results are inherently more trusted than ads. When someone searches for a solicitor and clicks an organic result, they made an active choice to engage with that result. Ad clicks carry a degree of scepticism. This matters particularly for service businesses where trust is a precondition of the relationship."
+        },
+        {
+          "type": "h2",
+          "text": "The Technical Foundation: What Every Site Needs First"
+        },
+        {
+          "type": "p",
+          "text": "Before you think about content or links, your site needs to be technically sound. Problems at the technical level undermine everything else."
+        },
+        {
+          "type": "h3",
+          "text": "Mobile-first and fast"
+        },
+        {
+          "type": "p",
+          "text": "Over 60% of Google searches in Ireland happen on mobile. Google uses your mobile site as the primary version it indexes. If your site looks bad or works poorly on a phone, it will not rank well, regardless of how good your content is."
+        },
+        {
+          "type": "p",
+          "text": "Check your site on your phone right now. Is the text readable without zooming? Do buttons work easily with a thumb? Does the form on your contact page work on mobile? These are basic but critical checks."
+        },
+        {
+          "type": "p",
+          "text": "Speed matters too. Use Google's PageSpeed Insights (free) to check your site. A score below 50 on mobile means you have performance problems worth addressing. Images that are too large, slow hosting, or excessive plugins are the most common culprits for Irish SME sites."
+        },
+        {
+          "type": "h3",
+          "text": "HTTPS"
+        },
+        {
+          "type": "p",
+          "text": "Your site must be on HTTPS (the padlock in the browser bar). This has been a Google ranking factor for years. Most hosting providers include SSL certificates for free now. If your site is still on HTTP, this is an urgent fix."
+        },
+        {
+          "type": "h3",
+          "text": "Google Search Console"
+        },
+        {
+          "type": "p",
+          "text": "This is free and essential. Google Search Console shows you exactly what queries your site appears for in Google, what your click-through rates are, any crawl errors, any indexing problems, and your Core Web Vitals scores. If you don't have it set up, set it up today. It's the most important SEO tool a small business can have, and it costs nothing."
+        },
+        {
+          "type": "h3",
+          "text": "Clean URL structure"
+        },
+        {
+          "type": "p",
+          "text": "Your URLs should be readable and descriptive. \"yoursite.ie/services/commercial-cleaning-dublin\" is good. \"yoursite.ie/page?id=47&cat=3\" is bad. If your site generates URLs with long strings of parameters, speak to your developer or your website platform about cleaning this up."
+        },
+        {
+          "type": "h2",
+          "text": "Google Business Profile: The Single Highest-ROI Activity"
+        },
+        {
+          "type": "p",
+          "text": "If you have a local business and you're not maintaining a fully optimised Google Business Profile, you're leaving the easiest and most valuable SEO opportunity in the Irish market on the table."
+        },
+        {
+          "type": "p",
+          "text": "When someone searches \"accountant Cork\" or \"plumber Limerick\" or \"physio Dublin 6,\" Google shows a map pack of three local businesses before the organic results. This map pack is driven primarily by Google Business Profile, not website SEO. Getting into that three-pack for your local area can drive meaningful call volume and footfall, entirely for free."
+        },
+        {
+          "type": "p",
+          "text": "The essentials for your GBP:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Claim and verify your profile if you haven't already",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your business name, address, and phone number must exactly match what's on your website and all other online directories",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Choose the most accurate primary category for your business (this is more important than most people realise)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Write a detailed business description that naturally includes the services you offer and the areas you serve",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Upload at least 10-15 high-quality photos, including interior, exterior, team photos, and work samples",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Get reviews, legitimately (more on this below)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Post updates regularly (weekly if possible, at minimum monthly)",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Reviews deserve special attention. The volume and quality of your Google reviews is one of the most significant factors in local search rankings. Make it your standard practice to ask every satisfied customer to leave a Google review. Send a follow-up email with a direct link to your review page. Train your team to mention it. Even 20 to 30 genuine five-star reviews can significantly improve your map pack visibility."
+        },
+        {
+          "type": "h2",
+          "text": "Content Strategy on a Realistic Budget"
+        },
+        {
+          "type": "p",
+          "text": "You don't need to publish 10 blog posts a month. For most small Irish businesses, two or three high-quality, well-optimised pieces per month will outperform ten thin, rushed ones."
+        },
+        {
+          "type": "p",
+          "text": "Start with what I call your \"money pages\": the pages that directly represent your most important services in your most important locations. If you're a solicitor in Dublin who specialises in property law, you need a well-optimised page for \"property solicitor Dublin.\" That page should explain your service clearly, include natural use of the keyword and related terms, have a clear call to action, include trust signals (years of experience, qualifications, awards, testimonials), and be long enough to be genuinely useful, typically 500 to 1,000 words minimum for a competitive term."
+        },
+        {
+          "type": "p",
+          "text": "After your money pages are in good shape, content that answers questions your customers have is the next priority. What do people ask you before they hire you? Those questions are blog post topics. \"How much does a house survey cost in Ireland?\" or \"What's the difference between a sole trader and a limited company?\" or \"How long does planning permission take in Dublin?\" These are real questions with real search volume, and a well-written answer positions you as an expert before a potential client has even contacted you."
+        },
+        {
+          "type": "h3",
+          "text": "Finding content topics"
+        },
+        {
+          "type": "p",
+          "text": "The free way: type the first two or three words of a relevant question into Google and look at the autocomplete suggestions. These are real searches people are making. Also look at the \"People also ask\" boxes that appear in Google results. These are excellent topic sources."
+        },
+        {
+          "type": "p",
+          "text": "The paid way: tools like Ahrefs, Semrush, or Ubersuggest (cheaper option) let you see exactly how many people search for specific terms each month in Ireland. Even the free tier of these tools gives you useful data to prioritise topics."
+        },
+        {
+          "type": "h2",
+          "text": "Getting Local Links in Ireland"
+        },
+        {
+          "type": "p",
+          "text": "Links from other websites to yours remain one of the most important factors in SEO. For local Irish businesses, local links are particularly valuable."
+        },
+        {
+          "type": "p",
+          "text": "The most accessible link sources for Irish SMEs:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Local business directories: Golden Pages, Yelp Ireland, Bing Places, Yell, local chamber of commerce directories. These are not high-authority links but they're legitimate and help establish local relevance.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Industry associations: If there's a professional body or trade association in your industry, being listed in their member directory is valuable. This also adds credibility signals that help with E-E-A-T (Google's quality assessment framework).",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Local press: Getting mentioned in local online news (Dublin Live, Cork Beo, local council news sites, etc.) provides local authority links. Offer to comment as a local business expert on stories relevant to your industry. Local journalists often need expert quotes and are happy to link to your site.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Supplier and partner links: If you work with other businesses, ask if they'll list you as a supplier or partner on their website. Many are happy to do this, and these tend to be relevant, legitimate links.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Sponsor local events: Sponsoring a local sports club, charity event, or community initiative often comes with a link from the organisation's website. This is a genuine link acquisition strategy that also does good.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Tracking Progress Without Expensive Tools"
+        },
+        {
+          "type": "p",
+          "text": "For most small Irish businesses, free tools are sufficient to track SEO progress:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Google Search Console: Track your total impressions and clicks from organic search month over month. Watch for specific keywords moving up in average position.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Analytics 4: Monitor organic search traffic as a channel. Set up goal tracking for form submissions and phone calls.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Business Profile Insights: Track calls, direction requests, and website clicks from your GBP. This is pure revenue-adjacent data.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Manual rank checking: Search for your target keywords in Google from a private/incognito browser window (to avoid personalisation). Note where you appear. Do this monthly.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Realistic Timelines"
+        },
+        {
+          "type": "p",
+          "text": "Small local businesses with little competition (a specialist tradesperson in a rural area, for example) can see meaningful GBP improvements in four to eight weeks after optimisation. Content and website ranking improvements take longer: three to six months for initial movement on less competitive terms, six to twelve months for more competitive terms."
+        },
+        {
+          "type": "p",
+          "text": "This is not a weakness of SEO. This is the nature of how trust accumulates online. The business that has invested consistently in SEO for two years has a compounding advantage that is very difficult for a new competitor to quickly overcome."
+        },
+        {
+          "type": "h2",
+          "text": "When to DIY and When to Hire"
+        },
+        {
+          "type": "p",
+          "text": "Google Business Profile optimisation: most business owners can do this themselves with a guide. It's not technically complex and you know your business better than anyone."
+        },
+        {
+          "type": "p",
+          "text": "Technical SEO audit: this requires someone who knows how to use Search Console and understands how websites work. Unless you're technically confident, this is worth paying for as a one-time audit, even if you don't hire an ongoing agency."
+        },
+        {
+          "type": "p",
+          "text": "Content creation: you can write your own content, and if you write well and know your subject, your content will often be better than what an agency produces without your input. But it takes time, and many business owners don't have that time consistently. A hybrid approach, where you provide the expertise and knowledge and a writer shapes it, often produces the best results."
+        },
+        {
+          "type": "p",
+          "text": "Link building: this is hard to do well yourself because it requires outreach, relationship building, and knowledge of what a quality link looks like. It's also an area where bad DIY attempts (buying links, directory spam) can cause real harm. If link building is a priority, it's worth professional involvement."
+        },
+        {
+          "type": "p",
+          "text": "If you want a straightforward assessment of where your business's SEO stands right now and what the priority actions are, we offer a free audit. No obligation, no sales pressure. Just an honest look at what's working and what to fix first."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Small Business"
+        },
+        {
+          "type": "text",
+          "text": "Ireland"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\n7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)",
+          "href": "/insights/google-ads-mistakes-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GOOGLE ADS\n7 Google Ads Mistakes Irish Businesses Make (And How to Fix Them)\n\nAfter auditing dozens of Irish Google Ads accounts, these are the seven mistakes I see over and over. If you're running ads, check these first.\n\n28 Mar 2026\n·\n7 min read",
+          "href": "/insights/google-ads-mistakes-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

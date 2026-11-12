@@ -1,0 +1,560 @@
+{
+  "route": "/services/tiktok-ads",
+  "title": "TikTok Ads Agency Ireland — TikTok Advertising Management | Khalid Farhan",
+  "metaDesc": "TikTok Ads management agency in Dublin. Creative-led campaigns for brands targeting younger audiences. Native content strategy, audience targeting, ROAS tracking.",
+  "h1": "TikTok Ads\nTikTok Ads for brands ready to grow",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "TikTok Ads",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "TikTok Ads\nTikTok Ads for brands ready to grow"
+        },
+        {
+          "type": "p",
+          "text": "TikTok Ads management is creative-led advertising on TikTok, where native-looking short videos reach younger audiences at lower costs than most other platforms. Khalid Farhan is a Dublin agency that plans the creative, runs the campaigns and tracks results through to purchases and sign-ups."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Consumer brands and e-commerce selling to under-35s",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Apps and subscriptions that need volume at a target cost",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Brands with a creative team or willing to produce short video",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free TikTok Ads audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See TikTok Ads results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free TikTok Ads audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current tiktok ads set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free TikTok Ads audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT TIKTOK ADS HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PET CARE\nDUBLIN, IRELAND\n\n4.1x\nMeta Ads ROAS\n\nFrom empty spaces to a waiting list\n\nA premium dog daycare\n\nRead the case study",
+          "href": "/work/case-studies/dog-daycare-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nDHAKA, BANGLADESH\n\n4.2x\nMeta Ads ROAS\n\n3x ROAS on Meta, without increasing spend\n\nA premium beauty e-commerce brand\n\nRead the case study",
+          "href": "/work/case-studies/beauty-ecommerce-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR TIKTOK ADS SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "TikTok is the fastest-growing advertising platform — and most brands are running it wrong. Native, creator-style content dramatically outperforms polished traditional advertising on TikTok. We help you build the right creative strategy and campaign structure to compete."
+        },
+        {
+          "type": "p",
+          "text": "Management from €1,500 a month, ad spend separate. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Creative Strategy"
+        },
+        {
+          "type": "text",
+          "text": "TikTok-native creative briefs — hooks, UGC-style scripts, trend alignment."
+        },
+        {
+          "type": "text",
+          "text": "Audience Targeting"
+        },
+        {
+          "type": "text",
+          "text": "Interest, behaviour, and lookalike audiences on TikTok Ads Manager."
+        },
+        {
+          "type": "text",
+          "text": "Catalogue Integration"
+        },
+        {
+          "type": "text",
+          "text": "TikTok Shop and dynamic catalogue ads for e-commerce brands."
+        },
+        {
+          "type": "text",
+          "text": "Performance Reporting"
+        },
+        {
+          "type": "text",
+          "text": "CPM, CPV, ROAS, and attribution reporting monthly."
+        },
+        {
+          "type": "text",
+          "text": "Pixel Setup"
+        },
+        {
+          "type": "text",
+          "text": "TikTok Pixel and Events API installation for accurate conversion tracking."
+        },
+        {
+          "type": "text",
+          "text": "Influencer Paid Amplification"
+        },
+        {
+          "type": "text",
+          "text": "Boosting creator content as Spark Ads from brand or creator accounts."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nPixel and events set up, creative angles agreed",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nFirst campaigns live with several video variations per angle",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nWeekly creative refresh and a monthly return-on-spend report",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to TikTok Ads, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "review existing TikTok presence and creative performance"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Creative"
+        },
+        {
+          "type": "p",
+          "text": "develop a content framework aligned to TikTok's native formats"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Launch"
+        },
+        {
+          "type": "p",
+          "text": "start with broad audience testing to identify winning creatives"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Scale"
+        },
+        {
+          "type": "p",
+          "text": "increase budget behind top performers, rotate in fresh creative"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Report"
+        },
+        {
+          "type": "p",
+          "text": "weekly creative performance logs and monthly strategy reviews"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY TIKTOK ADS CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR TIKTOK ADS"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "Is TikTok Ads right for my business?"
+        },
+        {
+          "type": "text",
+          "text": "TikTok works well for B2C brands targeting 18–45 year olds, especially in fashion, beauty, food, fitness, and home. B2B brands can also find success with the right creative approach."
+        },
+        {
+          "type": "button",
+          "text": "Do I need to create TikTok videos?"
+        },
+        {
+          "type": "text",
+          "text": "Yes — TikTok is a video-first platform. We provide detailed creative briefs and can connect you with content creators if you don't have in-house production capability."
+        },
+        {
+          "type": "button",
+          "text": "How does TikTok compare to Meta Ads?"
+        },
+        {
+          "type": "text",
+          "text": "TikTok CPMs are typically lower, but creative requirements are higher — you need frequent, native-feeling content. We recommend running both channels in parallel for maximum reach."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with TikTok Ads"
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "YouTube Ads",
+          "href": "/services/youtube-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT TIKTOK ADS COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free TikTok Ads audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

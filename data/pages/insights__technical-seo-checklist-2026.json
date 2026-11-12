@@ -1,0 +1,466 @@
+{
+  "route": "/insights/technical-seo-checklist-2026",
+  "title": "The Technical SEO Checklist for 2026 | Khalid Farhan",
+  "metaDesc": "A comprehensive technical SEO checklist covering everything from crawlability to Core Web Vitals. Save this one.",
+  "h1": "The Technical SEO Checklist for 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "The Technical SEO Checklist for 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "5 November 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "10 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A comprehensive technical SEO checklist covering everything from crawlability to Core Web Vitals. Save this one."
+        },
+        {
+          "type": "p",
+          "text": "Technical SEO is the foundation that everything else sits on. You can produce excellent content, build quality links, and optimise your Google Business Profile, but if your site has fundamental technical problems, your potential will always be limited. This checklist covers everything that matters in 2026, with brief explanations of why each item is important and how to check it."
+        },
+        {
+          "type": "h2",
+          "text": "Crawlability"
+        },
+        {
+          "type": "h3",
+          "text": "Robots.txt"
+        },
+        {
+          "type": "p",
+          "text": "Your robots.txt file (found at yoursite.ie/robots.txt) tells search engine crawlers which pages they're allowed to crawl. A misconfigured robots.txt can accidentally block Google from crawling your entire site."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Visit yoursite.ie/robots.txt and read it. Make sure important pages are not blocked. Use Google Search Console's robots.txt tester. Common mistake: sites that were developed in staging with all pages blocked and the block was never removed when going live."
+        },
+        {
+          "type": "h3",
+          "text": "XML sitemap"
+        },
+        {
+          "type": "p",
+          "text": "An XML sitemap lists all the URLs on your site you want Google to crawl and index. It doesn't guarantee indexing, but it helps Google discover your pages and understand your site structure."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Look for yoursite.ie/sitemap.xml. Submit it to Google Search Console (under Sitemaps). Make sure it only includes pages you want indexed, that it's up to date, and that it doesn't include URLs returning errors."
+        },
+        {
+          "type": "h3",
+          "text": "Crawl errors"
+        },
+        {
+          "type": "p",
+          "text": "Crawl errors occur when Google tries to access a page and encounters a problem (404, 500 error, redirect chain)."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Google Search Console, under Index, Pages. Review pages with errors and fix or address them. A small number of 404s is normal (for deleted pages). A large number often indicates a structural problem."
+        },
+        {
+          "type": "h3",
+          "text": "Internal crawl depth"
+        },
+        {
+          "type": "p",
+          "text": "If important pages are buried too many clicks from your homepage, Google may crawl them less frequently and give them less authority. Key pages should ideally be reachable within three clicks from your homepage."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Use Screaming Frog (free up to 500 URLs) to crawl your site and check the link depth report."
+        },
+        {
+          "type": "h2",
+          "text": "Indexability"
+        },
+        {
+          "type": "h3",
+          "text": "Canonical tags"
+        },
+        {
+          "type": "p",
+          "text": "Canonical tags tell Google which version of a URL is the \"master\" when multiple URLs have the same or similar content. Without them, Google may index multiple versions of the same page, diluting your ranking signals."
+        },
+        {
+          "type": "p",
+          "text": "How to check: In Screaming Frog, check the Canonicals tab. Make sure canonical tags point to the correct URL on every page. Self-referencing canonicals on important pages are fine and recommended."
+        },
+        {
+          "type": "h3",
+          "text": "Noindex tags"
+        },
+        {
+          "type": "p",
+          "text": "The noindex meta tag tells Google not to include a page in search results. This is appropriate for things like thank-you pages, cart pages, or admin areas. It's inappropriate for pages you want to rank."
+        },
+        {
+          "type": "p",
+          "text": "How to check: In Google Search Console, under Pages, look for pages marked as \"Excluded by 'noindex' tag.\" Make sure no important pages are in this list by mistake. This is a surprisingly common error."
+        },
+        {
+          "type": "h3",
+          "text": "Duplicate content"
+        },
+        {
+          "type": "p",
+          "text": "Duplicate content occurs when the same (or very similar) content appears on multiple URLs. This can dilute ranking signals and confuse Google about which version to rank."
+        },
+        {
+          "type": "p",
+          "text": "Common causes: HTTP and HTTPS versions of pages both accessible, www and non-www both accessible, URL parameters creating multiple versions of the same page (e.g., /products?sort=price), printer-friendly page versions."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Screaming Frog duplicate content analysis. Check that HTTP redirects to HTTPS and www redirects to non-www (or vice versa) consistently."
+        },
+        {
+          "type": "h2",
+          "text": "Site Speed and Core Web Vitals"
+        },
+        {
+          "type": "h3",
+          "text": "LCP (Largest Contentful Paint)"
+        },
+        {
+          "type": "p",
+          "text": "LCP measures how long it takes for the largest visible element on the page (usually an image or heading) to load. Target: under 2.5 seconds."
+        },
+        {
+          "type": "p",
+          "text": "Common causes of poor LCP: Large, unoptimised hero images. Slow server response times. Render-blocking JavaScript. No preloading of critical images."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Google PageSpeed Insights, Chrome DevTools, Google Search Console Core Web Vitals report."
+        },
+        {
+          "type": "h3",
+          "text": "INP (Interaction to Next Paint)"
+        },
+        {
+          "type": "p",
+          "text": "INP replaced FID in March 2024. It measures the responsiveness of a page to user interactions. Target: under 200ms."
+        },
+        {
+          "type": "p",
+          "text": "Common causes of poor INP: Heavy JavaScript execution on the main thread. Third-party scripts (chat widgets, analytics, ad scripts) blocking the main thread."
+        },
+        {
+          "type": "p",
+          "text": "How to check: PageSpeed Insights, Chrome UX Report (real user data). INP issues are often harder to diagnose without performance profiling tools."
+        },
+        {
+          "type": "h3",
+          "text": "CLS (Cumulative Layout Shift)"
+        },
+        {
+          "type": "p",
+          "text": "CLS measures visual stability: how much page content shifts around during loading. A button that moves just before you click it is a CLS problem. Target: under 0.1."
+        },
+        {
+          "type": "p",
+          "text": "Common causes: Images without specified dimensions, ads loading and pushing content down, fonts loading and shifting text, dynamically injected content."
+        },
+        {
+          "type": "p",
+          "text": "How to check: PageSpeed Insights. Always define width and height attributes on images in your HTML."
+        },
+        {
+          "type": "h3",
+          "text": "Image optimisation"
+        },
+        {
+          "type": "p",
+          "text": "Oversized images are one of the most common performance problems on Irish SME websites. Images should be compressed, served in modern formats (WebP or AVIF where browser support allows), and appropriately sized for the display context."
+        },
+        {
+          "type": "p",
+          "text": "How to check: PageSpeed Insights will flag oversized images. Tools like Squoosh can compress images manually. Most modern CMS platforms have image optimisation plugins."
+        },
+        {
+          "type": "h3",
+          "text": "Hosting quality"
+        },
+        {
+          "type": "p",
+          "text": "Cheap shared hosting often produces slow server response times (TTFB: Time to First Byte), which affects LCP and overall page speed. If your server response time consistently exceeds 500ms, consider a better hosting solution."
+        },
+        {
+          "type": "p",
+          "text": "How to check: PageSpeed Insights shows TTFB. GTmetrix also gives detailed waterfall charts of server response time."
+        },
+        {
+          "type": "h2",
+          "text": "Mobile"
+        },
+        {
+          "type": "h3",
+          "text": "Mobile-first indexing"
+        },
+        {
+          "type": "p",
+          "text": "Google indexes the mobile version of your site first. If your mobile site has less content than your desktop version, you're ranking based on less content than you intend."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Google Search Console will flag mobile usability issues. Use the URL Inspection tool to see how Googlebot renders your pages."
+        },
+        {
+          "type": "h3",
+          "text": "Responsive design"
+        },
+        {
+          "type": "p",
+          "text": "Your site should display correctly on all screen sizes without horizontal scrolling or tiny, unreadable text."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Chrome DevTools device emulation. Real testing on actual iOS and Android devices is still the most reliable check."
+        },
+        {
+          "type": "h3",
+          "text": "Touch targets"
+        },
+        {
+          "type": "p",
+          "text": "Buttons and links on mobile need to be large enough to tap easily. Google recommends at least 48x48 pixels for interactive elements, with enough spacing between them."
+        },
+        {
+          "type": "p",
+          "text": "How to check: PageSpeed Insights flags touch target issues under \"Mobile\" recommendations."
+        },
+        {
+          "type": "h2",
+          "text": "HTTPS and Security"
+        },
+        {
+          "type": "p",
+          "text": "Your entire site should be on HTTPS. All HTTP URLs should redirect to their HTTPS equivalents. Mixed content (HTTPS page loading HTTP resources) should be eliminated."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Chrome's padlock icon. Search Console security issues report. SSL Labs (ssllabs.com/ssltest) for detailed certificate information."
+        },
+        {
+          "type": "h2",
+          "text": "URL Structure"
+        },
+        {
+          "type": "p",
+          "text": "URLs should be short, descriptive, and lowercase. Use hyphens to separate words. Avoid unnecessary parameters where possible. Avoid URL structures with multiple levels of nesting for important pages."
+        },
+        {
+          "type": "p",
+          "text": "Good: yoursite.ie/services/commercial-cleaning-dublin"
+        },
+        {
+          "type": "p",
+          "text": "Avoid: yoursite.ie/index.php?page=services&cat=4&id=87&city=dublin"
+        },
+        {
+          "type": "h2",
+          "text": "Internal Linking"
+        },
+        {
+          "type": "p",
+          "text": "Internal links distribute \"link equity\" (ranking power) around your site and help Google understand your content hierarchy. Important pages should receive more internal links than unimportant pages."
+        },
+        {
+          "type": "p",
+          "text": "Common mistakes: Navigation menus that use JavaScript and can't be followed by crawlers, important pages with no internal links pointing to them (\"orphan pages\"), using \"click here\" as anchor text instead of descriptive anchor text that tells Google what the linked page is about."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Screaming Frog's internal links analysis. Search Console's links report."
+        },
+        {
+          "type": "h2",
+          "text": "Structured Data (Schema Markup)"
+        },
+        {
+          "type": "p",
+          "text": "Schema markup tells search engines and AI systems what type of content is on your page. It enables rich results in search (star ratings, FAQ dropdowns, event listings) and helps AI answer engines identify citable content."
+        },
+        {
+          "type": "p",
+          "text": "How to check: Google's Rich Results Test (search.google.com/test/rich-results). Search Console's Enhancements section shows schema errors and valid items."
+        },
+        {
+          "type": "h2",
+          "text": "Thin Content"
+        },
+        {
+          "type": "p",
+          "text": "Pages with very little unique, useful content provide poor user experience and may be devalued in rankings. Service pages with three sentences, location pages that are copy-paste with the city name changed, and auto-generated category pages are common examples."
+        },
+        {
+          "type": "p",
+          "text": "How to address: Identify thin pages with Screaming Frog's word count filter. Either add meaningful content, consolidate similar thin pages into one stronger page, or noindex pages that don't need to rank."
+        },
+        {
+          "type": "h2",
+          "text": "Log File Analysis (Advanced)"
+        },
+        {
+          "type": "p",
+          "text": "If you have server access, analysing log files shows you exactly which pages Googlebot is crawling, how often, and what response codes it's receiving. This is the most direct way to understand crawl behaviour, and it often reveals issues that other tools miss."
+        },
+        {
+          "type": "p",
+          "text": "Tools: Screaming Frog Log File Analyser, OnCrawl (paid). Worth doing quarterly for larger sites."
+        },
+        {
+          "type": "p",
+          "text": "Working through this checklist thoroughly will identify the majority of technical SEO issues affecting most websites. Many items you can check and address yourself. Others require developer involvement. The priority order: fix anything that prevents crawling or indexing first, then address speed and Core Web Vitals, then work through the remaining items in order of likely impact on your specific site."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Technical SEO"
+        },
+        {
+          "type": "text",
+          "text": "Checklist"
+        },
+        {
+          "type": "text",
+          "text": "Audit"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nThe Complete Google Business Profile Optimisation Guide for 2026",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nThe Complete Google Business Profile Optimisation Guide for 2026\n\nGBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches.\n\n5 Mar 2026\n·\n14 min read",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

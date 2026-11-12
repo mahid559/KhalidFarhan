@@ -1,0 +1,68 @@
+{
+  "route": "/careers",
+  "title": "Careers, Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Open roles at khalidfarhan.com. Join a results-driven marketing team based in Dublin, Ireland.",
+  "h1": "JOIN THE TEAM.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "CAREERS"
+        },
+        {
+          "type": "h1",
+          "text": "JOIN THE TEAM."
+        },
+        {
+          "type": "p",
+          "text": "We're a small, focused team that moves fast, cares about results, and invests in the people who deliver them."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHY WORK HERE"
+        },
+        {
+          "type": "h2",
+          "text": "REAL WORK. REAL CLIENTS. REAL IMPACT."
+        },
+        {
+          "type": "p",
+          "text": "We’re a small team, intentionally. That means everyone’s work is visible, impactful, and credited. There’s no layer of managers between you and the client’s results."
+        },
+        {
+          "type": "p",
+          "text": "Even if we don’t have an open role, if you think you would be a good fit, please find a way to contact us and tell us about yourself."
+        },
+        {
+          "type": "text",
+          "text": "Flexible / remote-first for most roles"
+        },
+        {
+          "type": "text",
+          "text": "Continuous learning and conference budget"
+        },
+        {
+          "type": "text",
+          "text": "Work directly with the founder"
+        },
+        {
+          "type": "text",
+          "text": "Real client results to build your portfolio"
+        },
+        {
+          "type": "text",
+          "text": "Fast progression in a growing team"
+        }
+      ]
+    }
+  ]
+}

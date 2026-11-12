@@ -1,0 +1,48 @@
+{
+  "route": "/english/login",
+  "title": "EnglishAi",
+  "metaDesc": "প্রতিদিন 20 মিনিট পার্সোনাল টিচারের সাথে ইংরেজি বলার প্র্যাকটিস। আগে লেভেল টেস্ট দিন।",
+  "h1": "লগইন করুন",
+  "sections": [
+    {
+      "index": 1,
+      "className": "en-wrap en-page",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "লগইন করুন"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "password",
+              "name": "",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "লগইন"
+        },
+        {
+          "type": "p",
+          "text": "পাসওয়ার্ড ভুলে গেছেন?"
+        },
+        {
+          "type": "p",
+          "text": "নতুন? আগে লেভেল টেস্ট দিন"
+        }
+      ]
+    }
+  ]
+}

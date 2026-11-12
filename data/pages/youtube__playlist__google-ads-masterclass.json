@@ -1,0 +1,88 @@
+{
+  "route": "/youtube/playlist/google-ads-masterclass",
+  "title": "Google Ads Masterclass — YouTube Playlist | Khalid Farhan",
+  "metaDesc": "Campaign setup, bidding strategy, and optimisation — step by step.",
+  "h1": "GOOGLE ADS MASTERCLASS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "YOUTUBE / PLAYLISTS"
+        },
+        {
+          "type": "h1",
+          "text": "GOOGLE ADS MASTERCLASS"
+        },
+        {
+          "type": "p",
+          "text": "Campaign setup, bidding strategy, and optimisation — step by step."
+        },
+        {
+          "type": "link",
+          "text": "Watch on YouTube",
+          "href": "https://youtube.com/@khalidfarhan",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "This playlist contains 12 videos and is available for free on YouTube. Subscribe to be notified when new videos are added."
+        },
+        {
+          "type": "link",
+          "text": "Watch on YouTube",
+          "href": "https://youtube.com/@khalidfarhan",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-sm",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "OTHER PLAYLISTS"
+        },
+        {
+          "type": "link",
+          "text": "SEO Tutorials",
+          "href": "/youtube/playlist/seo-tutorials",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "2026 Challenge (Free Previews)",
+          "href": "/youtube/playlist/2026-challenge-free",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Entrepreneurship in Ireland",
+          "href": "/youtube/playlist/entrepreneurship-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Digital Marketing Fundamentals",
+          "href": "/youtube/playlist/digital-marketing-fundamentals",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search",
+          "href": "/youtube/playlist/geo-ai-search",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "route": "/challenge/live-build/week-2",
+  "title": "Live Build Week 2 — Finding the Niche — Live Validation | Khalid Farhan",
+  "metaDesc": "Live niche research session. Watch the exact tools and process used to validate demand before spending a single taka.",
+  "h1": "Finding the Niche — Live Validation",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LIVE BUILD · WEEK 2"
+        },
+        {
+          "type": "h1",
+          "text": "Finding the Niche — Live Validation"
+        },
+        {
+          "type": "p",
+          "text": "Published 2026-01-22"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Members only"
+        },
+        {
+          "type": "p",
+          "text": "Join the 2026 Challenge to watch this episode."
+        },
+        {
+          "type": "link",
+          "text": "Join Now",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "LIVE NICHE RESEARCH SESSION. WATCH THE EXACT TOOLS AND PROCESS USED TO VALIDATE DEMAND BEFORE SPENDING A SINGLE TAKA."
+        },
+        {
+          "type": "h3",
+          "text": "WHAT’S COVERED"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Google Trends deep dive",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Facebook group research",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Competitor analysis live",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Niche selection decision",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-sm",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "← Week 1: Starting from Zero — Picking a Model",
+          "href": "/challenge/live-build/week-1",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Week 3: Building the Offer — From Idea to Sales Page →",
+          "href": "/challenge/live-build/week-3",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE"
+        },
+        {
+          "type": "h2",
+          "text": "Watch every episode. Do every task. Build income."
+        },
+        {
+          "type": "p",
+          "text": "5,000 BDT. Join the 12 month journey — all episodes, classes, and content included."
+        },
+        {
+          "type": "link",
+          "text": "Join the 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

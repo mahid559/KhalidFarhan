@@ -1,0 +1,352 @@
+{
+  "route": "/insights/how-to-record-a-podcast-remotely",
+  "title": "How to Record a Podcast Remotely in Full Quality (Step by Step) | Khalid Farhan",
+  "metaDesc": "The setup and routine I use for remote podcast interviews: local recording, the right mic, a quiet room, a guest checklist and files that line up.",
+  "h1": "How to Record a Podcast Remotely in Full Quality (Step by Step)",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PODCASTING"
+        },
+        {
+          "type": "h1",
+          "text": "How to Record a Podcast Remotely in Full Quality (Step by Step)"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "22 October 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "6 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The setup and routine I use for remote podcast interviews: local recording, the right mic, a quiet room, a guest checklist and files that line up."
+        },
+        {
+          "type": "p",
+          "text": "Most of the interviews on my podcast are remote. My guests have been in other countries and other time zones. The episodes still sound like we were in the same room, and it has very little to do with expensive gear. It comes down to how you record."
+        },
+        {
+          "type": "p",
+          "text": "Here is the setup and the routine I use, step by step."
+        },
+        {
+          "type": "h2",
+          "text": "Step 1: Record each person on their own computer"
+        },
+        {
+          "type": "p",
+          "text": "This is the part that matters most, so I'll explain it properly."
+        },
+        {
+          "type": "p",
+          "text": "When you record a Zoom or Google Meet call, you are recording what came through the internet. The call compresses everyone's voice and video to keep things moving. When a connection dips, the call drops quality, and that drop is now part of your episode forever."
+        },
+        {
+          "type": "p",
+          "text": "The better way is called local recording, or a \"double-ender\" in older podcast language. Each person's own computer records their own camera and microphone at full quality, and those files are uploaded separately. The call is only there so you can see and hear each other. If the call stutters, the recordings don't."
+        },
+        {
+          "type": "p",
+          "text": "Tools that do this include Riverside, Zencastr, and Yapcorder, which I built after paying for Riverside for a long time. I compared the main options in my Riverside alternatives post."
+        },
+        {
+          "type": "h2",
+          "text": "Step 2: Get the microphone right (for both of you)"
+        },
+        {
+          "type": "p",
+          "text": "Audio matters more than video. People will watch a slightly soft picture, but they close the tab on bad sound."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Use a dynamic USB microphone if you can. Dynamic mics pick up your voice and very little of the room. They forgive bad rooms far better than the condenser mics many people buy first.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Get close. About a hand's width from your mouth. Most bad podcast audio is a decent mic placed too far away.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Wear headphones. Any headphones, even phone earphones. Without them, your guest's voice comes out of your speakers and into your mic, and you get echo on your track.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "If a guest has no mic, wired earphones with a built-in mic are better than a laptop's microphone. Ask them to use those.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Step 3: Fix the room, cheaply"
+        },
+        {
+          "type": "p",
+          "text": "Hard, empty rooms echo. Soft, full rooms don't. Record in a room with a carpet, curtains, a bed or a sofa. Close the window. Turn off fans and air conditioning for the hour. A wardrobe full of clothes behind you is a better sound booth than most foam panels."
+        },
+        {
+          "type": "h2",
+          "text": "Step 4: Camera and light"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Put the camera at eye level. Stack books under the laptop.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Face a window, never sit with one behind you.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Close other apps that use the camera, like Zoom or Teams, before you join.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Step 5: Send your guest a short checklist"
+        },
+        {
+          "type": "p",
+          "text": "Send this the day before. Guests are happy to follow it, they just need to be told."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Use Google Chrome on a laptop or desktop, not a phone.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Plug in the charger.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Wear headphones.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Use a wired internet connection if you can, or sit close to the router.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Close other apps and tabs, especially anything uploading or syncing (Dropbox, Google Drive, iCloud).",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Join 10 minutes early so we can check everything.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Step 6: Do a 30-second sound check before you press record"
+        },
+        {
+          "type": "p",
+          "text": "Ask your guest to say a sentence at the volume they'll speak during the interview. Listen for echo, fan noise and distance from the mic. Fix it now. Nothing is more painful than discovering a problem at the edit."
+        },
+        {
+          "type": "h2",
+          "text": "Step 7: Record, and let the uploads finish"
+        },
+        {
+          "type": "p",
+          "text": "Good recorders upload in pieces while you talk, so by the time you say goodbye most of the file is already up. Before your guest closes their tab, check that their upload has finished. In Yapcorder the files page shows whether every piece of every file arrived, so you know it's safe before anyone leaves."
+        },
+        {
+          "type": "h2",
+          "text": "Step 8: Line the files up for editing"
+        },
+        {
+          "type": "p",
+          "text": "With local recording you get one file per person. They need to start at the same moment in your editor. The old way was a loud clap at the start and lining up the spikes by hand. Most recorders now give you a timeline or offsets that do it for you. Yapcorder exports a timeline file that imports into Premiere Pro or DaVinci Resolve with everyone already in sync."
+        },
+        {
+          "type": "h2",
+          "text": "The short version"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Record each person locally, not the call.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Dynamic mic, close to your mouth, headphones on.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Soft room, no fans.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Send the guest a checklist.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Sound check, record, wait for uploads.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Try it yourself: Yapcorder has a free 60-minute trial. No card, no watermark. Send a friend the guest link and record a five-minute test tonight."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Podcasting"
+        },
+        {
+          "type": "text",
+          "text": "Remote Recording"
+        },
+        {
+          "type": "text",
+          "text": "Yapcorder"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Podcasting\n\nRiverside Alternatives in 2026: What I Compared Before Building My Own",
+          "href": "/insights/riverside-alternative",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Podcasting\n\nHow to Record a Podcast When Someone's Internet Is Bad",
+          "href": "/insights/record-podcast-bad-internet",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nRiverside Alternatives in 2026: What I Compared Before Building My Own\n\nI paid for Riverside for a long time. Here is how Zencastr, StreamYard, Descript, Zoom and my own recorder compare on price, local recording and free trials.\n\n22 Oct 2026\n·\n7 min read",
+          "href": "/insights/riverside-alternative",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PODCASTING\nHow to Record a Podcast When Someone's Internet Is Bad\n\nA frozen call doesn't have to mean a ruined episode. How local recording works, what happens when the internet drops, and what to do about it.\n\n22 Oct 2026\n·\n5 min read",
+          "href": "/insights/record-podcast-bad-internet",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "route": "/insights/linkedin-content-strategy",
+  "title": "The LinkedIn Content Strategy That Gets My Posts Seen by Thousands | Khalid Farhan",
+  "metaDesc": "What I've learned about LinkedIn's algorithm and how to create content that actually gets organic reach.",
+  "h1": "The LinkedIn Content Strategy That Gets My Posts Seen by Thousands",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SOCIAL MEDIA"
+        },
+        {
+          "type": "h1",
+          "text": "The LinkedIn Content Strategy That Gets My Posts Seen by Thousands"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "20 December 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "8 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "What I've learned about LinkedIn's algorithm and how to create content that actually gets organic reach."
+        },
+        {
+          "type": "p",
+          "text": "I've had LinkedIn posts reach 30,000 to 80,000 views without paying a penny in promotion. I've also spent time crafting posts that got 200 impressions and disappeared. The difference between those outcomes is not luck. It's understanding how LinkedIn's algorithm works and building content that aligns with what it rewards."
+        },
+        {
+          "type": "p",
+          "text": "This is what I've learned from running LinkedIn content for my agency and through observing what works across dozens of accounts."
+        },
+        {
+          "type": "h2",
+          "text": "How LinkedIn's Algorithm Actually Works in 2026"
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn's algorithm makes an initial quality judgement in the first 30-60 minutes after posting. During this window, it shows your post to a small sample of your followers and to a small sample of relevant non-followers. Based on how that sample responds (likes, comments, shares, and crucially, the ratio of positive to negative reactions), the algorithm decides whether to distribute it more broadly."
+        },
+        {
+          "type": "p",
+          "text": "The signals that determine whether your post gets wider distribution:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Comments: The strongest signal. A post with 20 genuine comments in the first hour will be distributed significantly more widely than a post with 50 likes and no comments. LinkedIn treats comments as evidence that the content provoked real engagement.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Dwell time: How long people spend reading your post. Posts that get clicked to expand (\"see more\") and then read for several seconds signal to LinkedIn that the content is worth reading.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Early engagement velocity: Engagement happening quickly after posting matters more than the same engagement spread over days. This is why posting time and your seed audience (people likely to engage quickly) matter.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Shares: Share your post to external audiences. Meaningful but weighted less than comments.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "What LinkedIn actively deprioritises: posts with links in the body (LinkedIn doesn't want to send people off-platform), aggressive calls to action, and content that looks like an advertisement."
+        },
+        {
+          "type": "h2",
+          "text": "Content Formats That Get Reach"
+        },
+        {
+          "type": "h3",
+          "text": "Text-only posts"
+        },
+        {
+          "type": "p",
+          "text": "Counterintuitively, text-only posts often outperform posts with images or links for organic reach. LinkedIn was built as a professional content platform, and long-form text posts fit that native experience. A 800-1500 word text post that tells a compelling, relevant story or shares a genuinely useful framework can distribute very widely."
+        },
+        {
+          "type": "p",
+          "text": "The structure that works: a short, punchy opening line that makes people click \"see more\" (your first 2-3 lines are visible without expanding). Then the content. Then an invitation to engage at the end (a question is more effective than \"let me know what you think\")."
+        },
+        {
+          "type": "h3",
+          "text": "Document carousels"
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn document posts (PDF files uploaded directly, displayed as swipeable slides) consistently generate high dwell time because users swipe through multiple slides. This dwell time signal is strong for the algorithm. A well-designed 10-15 slide document summarising a framework, checklist, or guide can reach large audiences."
+        },
+        {
+          "type": "p",
+          "text": "The content needs to deliver genuine value on each slide. A document that could have been a tweet stretched over 15 slides will not perform. A document that teaches someone something genuinely useful across 10 slides will."
+        },
+        {
+          "type": "h3",
+          "text": "Short video"
+        },
+        {
+          "type": "p",
+          "text": "Native video (uploaded directly, not linked from YouTube) gets preferential treatment in LinkedIn's feed. Short talking-head videos from professionals, typically 60-180 seconds, where the speaker shares a genuine perspective or practical insight, are performing well in 2026."
+        },
+        {
+          "type": "p",
+          "text": "The production value bar is low. A phone camera with decent lighting is sufficient. What matters is that the speaker is clear, direct, and saying something worth hearing."
+        },
+        {
+          "type": "h2",
+          "text": "The Posting Schedule That Works"
+        },
+        {
+          "type": "p",
+          "text": "Consistency matters more than posting frequency. Three posts per week, consistently, will outperform seven posts one week and silence for two weeks. LinkedIn's algorithm rewards accounts that post regularly."
+        },
+        {
+          "type": "p",
+          "text": "For most professionals in the Irish market, posting Monday, Wednesday, and Friday between 8am and 10am Irish time tends to reach professionals at the start of their workday. Tuesday and Thursday are also strong. Weekend posting typically underperforms for professional content."
+        },
+        {
+          "type": "p",
+          "text": "Don't post more than once per day. LinkedIn's algorithm spreads the distribution window for posts, and posting again too quickly essentially competes with your previous post."
+        },
+        {
+          "type": "h2",
+          "text": "Writing LinkedIn Posts That People Actually Read"
+        },
+        {
+          "type": "p",
+          "text": "The hook, your first two to three lines, is everything. If the hook doesn't make someone want to click \"see more,\" the rest of the post is irrelevant because they'll never read it. Your hook needs to do one of several things: promise a specific, valuable insight; challenge a common assumption; state something surprising or counterintuitive; tell the start of a story that creates curiosity."
+        },
+        {
+          "type": "p",
+          "text": "What doesn't work as a hook: generic openings that could apply to anything (\"In today's fast-moving world...\"), vague promises (\"I learned something important yesterday\"), or immediately promotional content."
+        },
+        {
+          "type": "p",
+          "text": "After the hook: short paragraphs. One to three sentences each, with line breaks between them. LinkedIn's mobile interface makes long paragraphs visually uninviting. White space is your friend."
+        },
+        {
+          "type": "p",
+          "text": "End with a question that's easy to answer with a sentence or two. \"Have you experienced this?\" or \"What's your approach?\" prompts genuine comments. Avoid demanding engagement: \"Like this if you agree!\" tends to feel hollow."
+        },
+        {
+          "type": "h2",
+          "text": "Personal vs Company Pages: Why Personal Always Wins"
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn consistently distributes content from personal profiles more widely than from company pages. This is a deliberate platform decision: LinkedIn wants to be a network of people, not a network of brands."
+        },
+        {
+          "type": "p",
+          "text": "If you're a founder or senior leader, your personal LinkedIn page is your most valuable LinkedIn asset. Put most of your content effort there. Use your company page for official content (job listings, company news, polished thought leadership) but don't expect the same organic reach."
+        },
+        {
+          "type": "p",
+          "text": "For Irish B2B businesses especially, the personal brand of the founder or key team members often drives more business than the company brand. People buy from people they trust. LinkedIn content that humanises the expertise behind your business is more compelling than corporate messaging."
+        },
+        {
+          "type": "h2",
+          "text": "The Commenting Strategy"
+        },
+        {
+          "type": "p",
+          "text": "Leaving substantive comments on other people's posts is one of the most effective LinkedIn growth strategies, and one of the most underused. When you comment thoughtfully on a post by someone with a large following, your comment is seen by everyone who reads that post. If your comment is good, people click through to your profile."
+        },
+        {
+          "type": "p",
+          "text": "The quality bar for useful comments: add something beyond what the original post said. Share your own experience. Respectfully offer a different perspective. Ask a genuinely interesting follow-up question. \"Great post, thanks for sharing!\" is invisible. A two-paragraph comment that extends the conversation is noticed."
+        },
+        {
+          "type": "p",
+          "text": "Spend 15-20 minutes per day commenting on five to ten posts from relevant people in your industry. This is often more effective for profile growth than publishing your own posts more frequently."
+        },
+        {
+          "type": "h2",
+          "text": "LinkedIn for Lead Generation vs Brand Building"
+        },
+        {
+          "type": "p",
+          "text": "There's a tension in LinkedIn content between posting that builds brand awareness and thought leadership (organic, no direct sell) and content that drives leads (more direct, clearer CTA). Both have a place, but the ratio matters."
+        },
+        {
+          "type": "p",
+          "text": "The mix that tends to work: 80% content that builds authority and generates engagement, with no direct ask. 20% content that mentions your services, shares client results, or includes a specific call to action. If you post constantly about your services, people tune out. If you never mention them, people enjoy your content but don't think to hire you."
+        },
+        {
+          "type": "p",
+          "text": "The indirect lead generation from LinkedIn works when: your content establishes you as an expert in your field, interested people visit your profile, your profile is clear about what you do and who you help, and you have a clear way for interested people to connect (your contact information, a link to book a call)."
+        },
+        {
+          "type": "h2",
+          "text": "Mistakes That Kill Your Reach"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Putting links in the body of the post: LinkedIn suppresses posts with external links. Put links in the first comment instead, and mention in the post that the link is in the comments.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Hashtag overuse: Three to five relevant hashtags is fine. Fifteen hashtags makes your post look spammy and doesn't help distribution.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Posting and disappearing: Not responding to comments on your post tells the algorithm the conversation isn't worth extending. Respond to every comment, particularly in the first hour.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Inconsistency: Posting five times in one week and nothing for three weeks resets your distribution momentum every time.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Recycling the same content type: Mix formats. All text-only posts, all carousels, or all videos are all inferior to a mix that keeps your audience engaged with variety.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn content is a long game. You typically need three to six months of consistent posting before you start to see compounding reach. The accounts that do well are the ones that stick with it past the initial slow period. If you're building a personal brand as an Irish business owner or professional, LinkedIn is arguably the highest-ROI content channel available to you in 2026."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "LinkedIn"
+        },
+        {
+          "type": "text",
+          "text": "Content Strategy"
+        },
+        {
+          "type": "text",
+          "text": "B2B"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Social Media\n\nInstagram Marketing for Irish Businesses in 2026",
+          "href": "/insights/instagram-marketing-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Business Growth\n\nB2B Digital Marketing in Ireland: A Complete 2026 Guide",
+          "href": "/insights/b2b-digital-marketing-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SOCIAL MEDIA\nInstagram Marketing for Irish Businesses in 2026\n\nWhat's working on Instagram right now — organic growth, ads, and stories — with a focus on the Irish market.\n\n15 Nov 2025\n·\n8 min read",
+          "href": "/insights/instagram-marketing-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "BUSINESS GROWTH\nB2B Digital Marketing in Ireland: A Complete 2026 Guide\n\nB2B marketing in Ireland has its own dynamics. Here's the complete guide from LinkedIn to intent-based search.\n\n10 Nov 2025\n·\n11 min read",
+          "href": "/insights/b2b-digital-marketing-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

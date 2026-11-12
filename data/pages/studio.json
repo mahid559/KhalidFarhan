@@ -1,0 +1,431 @@
+{
+  "route": "/studio",
+  "title": "Podcast Studio in Dhaka | The Room of Recording — Gulshan 1 | Khalid Farhan",
+  "metaDesc": "Rent a professional podcast studio in Dhaka, Gulshan 1. The Room of Recording offers Sony A7 IV cameras, Rode microphones, 2 & 3-person setups, full crew, and flexible scheduling. WhatsApp to book.",
+  "h1": "The Room of Recording",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PODCAST STUDIO · GULSHAN 1, DHAKA"
+        },
+        {
+          "type": "h1",
+          "text": "The Room of Recording"
+        },
+        {
+          "type": "p",
+          "text": "Dhaka's podcast studio for rent in Gulshan 1. Book a professional recording session — Sony A7 IV cameras, Rode microphones, full crew, and flexible scheduling all included."
+        },
+        {
+          "type": "link",
+          "text": "WhatsApp to Book",
+          "href": "https://wa.me/8801778250304?text=Hi%2C%20I%27d%20like%20to%20book%20a%20session%20at%20The%20Room%20of%20Recording.",
+          "imgs": []
+        },
+        {
+          "type": "iframe",
+          "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1826660361449912&show_text=false&appId",
+          "title": "Embedded video"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHAT YOU CAN CREATE"
+        },
+        {
+          "type": "h2",
+          "text": "Any type of shoot. All we need is your brief."
+        },
+        {
+          "type": "p",
+          "text": "Our recording studio in Dhaka is built for podcasts, YouTube videos, education content, product shoots, and more. Whatever you're creating, we have the setup for it."
+        },
+        {
+          "type": "text",
+          "text": "🎙"
+        },
+        {
+          "type": "p",
+          "text": "Podcast"
+        },
+        {
+          "type": "p",
+          "text": "2 or 3-person podcast recording setups with full camera coverage and studio-quality audio. The most popular way to use our Dhaka podcast studio."
+        },
+        {
+          "type": "text",
+          "text": "🎬"
+        },
+        {
+          "type": "p",
+          "text": "YouTube Videos"
+        },
+        {
+          "type": "p",
+          "text": "Cinematic Sony A7 IV footage with professional lighting and multiple backdrops. Dhaka's go-to content studio for YouTube creators."
+        },
+        {
+          "type": "text",
+          "text": "📚"
+        },
+        {
+          "type": "p",
+          "text": "Education & Coaching"
+        },
+        {
+          "type": "p",
+          "text": "Share knowledge on camera. Perfect for educators, coaches, and course creators."
+        },
+        {
+          "type": "text",
+          "text": "📦"
+        },
+        {
+          "type": "p",
+          "text": "Product Shoots"
+        },
+        {
+          "type": "p",
+          "text": "Black, white, or green screen — match your brand and post-production needs."
+        },
+        {
+          "type": "text",
+          "text": "🎵"
+        },
+        {
+          "type": "p",
+          "text": "Music & Culture"
+        },
+        {
+          "type": "p",
+          "text": "Review, react, discuss — crisp sound and great vibes for cultural content."
+        },
+        {
+          "type": "text",
+          "text": "😂"
+        },
+        {
+          "type": "p",
+          "text": "Comedy & Skits"
+        },
+        {
+          "type": "p",
+          "text": "Props, sets, flexible space. Bring the script, we handle the rest."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "EQUIPMENT & FACILITIES"
+        },
+        {
+          "type": "h2",
+          "text": "Everything you need. Nothing you don't."
+        },
+        {
+          "type": "p",
+          "text": "When you rent our podcast studio in Dhaka, everything is set up and ready to go. No hiring extra gear, no coordinating a crew — just show up and record."
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "p",
+          "text": "2-Person Podcast Setup"
+        },
+        {
+          "type": "p",
+          "text": "Record a standard 2-person podcast with enough camera angles to cover everything."
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "p",
+          "text": "3-Person Podcast Setup"
+        },
+        {
+          "type": "p",
+          "text": "Dynamic 3-person podcasts with a professionally lit set designed for conversation and chemistry."
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "p",
+          "text": "Rode Microphones"
+        },
+        {
+          "type": "p",
+          "text": "Studio-quality sound using Rode podcast microphones — crystal-clear audio for every voice."
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "p",
+          "text": "Zoom H6 Recorder"
+        },
+        {
+          "type": "p",
+          "text": "High-fidelity audio capture with multiple mic inputs and real-time level control."
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "p",
+          "text": "Sony A7 IV Camera Setup"
+        },
+        {
+          "type": "p",
+          "text": "Full-frame cameras with premium lenses delivering cinematic visuals for podcasts, courses, or shoots."
+        },
+        {
+          "type": "text",
+          "text": "06"
+        },
+        {
+          "type": "p",
+          "text": "Multiple Backdrops"
+        },
+        {
+          "type": "p",
+          "text": "Black, white, or green screen — match your brand, mood, or post-production needs."
+        },
+        {
+          "type": "text",
+          "text": "07"
+        },
+        {
+          "type": "p",
+          "text": "Private Parking"
+        },
+        {
+          "type": "p",
+          "text": "On-site private parking. No stress about where to park when loading gear or arriving on time."
+        },
+        {
+          "type": "text",
+          "text": "08"
+        },
+        {
+          "type": "p",
+          "text": "Café & Viewing Sofa"
+        },
+        {
+          "type": "p",
+          "text": "Guests can watch the recording from a comfortable seating area while content is captured live."
+        },
+        {
+          "type": "text",
+          "text": "09"
+        },
+        {
+          "type": "p",
+          "text": "Experienced In-House Team"
+        },
+        {
+          "type": "p",
+          "text": "Our crew assists with camera work, lighting, and direction — focus on content, not tech."
+        },
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "p",
+          "text": "Great Location"
+        },
+        {
+          "type": "p",
+          "text": "Gulshan 1, very close to Gulshan Aarong & Aloki. Easy to find, easy to get to."
+        },
+        {
+          "type": "text",
+          "text": "11"
+        },
+        {
+          "type": "p",
+          "text": "Prop Options"
+        },
+        {
+          "type": "p",
+          "text": "Mount any prop on our wall, or we can arrange props for you."
+        },
+        {
+          "type": "text",
+          "text": "12"
+        },
+        {
+          "type": "p",
+          "text": "24/7 Availability"
+        },
+        {
+          "type": "p",
+          "text": "We can shoot early or late — fully flexible scheduling built around your needs."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "FILMED HERE"
+        },
+        {
+          "type": "h2",
+          "text": "Big names. Real shoots. This studio."
+        },
+        {
+          "type": "p",
+          "text": "From cricket legends to Bangladesh's biggest actors and creators — all recorded at our podcast studio in Gulshan, Dhaka."
+        },
+        {
+          "type": "link",
+          "text": "NEEL NAFIS\n\nSalman Muqtadir",
+          "href": "https://www.youtube.com/watch?v=VQANg20FO4Q",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/VQANg20FO4Q/maxresdefault.jpg",
+              "alt": "BD's OG YouTuber on the Harsh Truth about Content Creation"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "SIMPLY_SAYEED\n\nTamim Iqbal",
+          "href": "https://www.youtube.com/watch?v=7sh98xPvp_Y",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/7sh98xPvp_Y/maxresdefault.jpg",
+              "alt": "সাকিবকে ফিরিয়ে আনতে চান — Tamim Iqbal & Shakib Al Hasan"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "KHALID FARHAN\n\nNafees Salim & Amin Hannan",
+          "href": "https://www.youtube.com/watch?v=OS-DU80DTho",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/OS-DU80DTho/maxresdefault.jpg",
+              "alt": "A Very RAW Conversation With Nafees Salim & Amin Hannan"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "ESHA RUSHDI\n\nChanchal Chowdhury",
+          "href": "https://www.youtube.com/watch?v=MHOMGRMACi8",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/MHOMGRMACi8/maxresdefault.jpg",
+              "alt": "Chanchal Chowdhury — Acting, Life, Politics & Culture Unfiltered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "RENT OUR PODCAST STUDIO IN DHAKA"
+        },
+        {
+          "type": "h2",
+          "text": "Ready to record?\nJust WhatsApp us."
+        },
+        {
+          "type": "p",
+          "text": "No forms. No waiting. To rent our podcast studio in Dhaka, just message us on WhatsApp — tell us your shoot date and what you're creating, and we'll confirm your slot within hours."
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "p",
+          "text": "Tell us your preferred date and content type"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "p",
+          "text": "We reply within hours to confirm availability"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "p",
+          "text": "Show up, we handle the rest"
+        },
+        {
+          "type": "link",
+          "text": "Chat on WhatsApp",
+          "href": "https://wa.me/8801778250304?text=Hi%2C%20I%27d%20like%20to%20book%20a%20session%20at%20The%20Room%20of%20Recording.",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "WHATSAPP NUMBER"
+        },
+        {
+          "type": "link",
+          "text": "+880 1778-250304",
+          "href": "https://wa.me/8801778250304?text=Hi%2C%20I%27d%20like%20to%20book%20a%20session%20at%20The%20Room%20of%20Recording.",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RESPONSE TIME"
+        },
+        {
+          "type": "p",
+          "text": "Usually within a few hours.\nAlways within 1 business day."
+        },
+        {
+          "type": "p",
+          "text": "LOCATION"
+        },
+        {
+          "type": "p",
+          "text": "Gulshan 1, Dhaka\nClose to Gulshan Aarong & Aloki"
+        },
+        {
+          "type": "link",
+          "text": "facebook.com/theroomofrecording",
+          "href": "https://www.facebook.com/theroomofrecording",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

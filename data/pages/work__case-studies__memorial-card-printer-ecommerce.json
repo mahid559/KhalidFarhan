@@ -1,0 +1,295 @@
+{
+  "route": "/work/case-studies/memorial-card-printer-ecommerce",
+  "title": "A new store, page one for forty searches, orders up 120% — Case Study | Khalid Farhan",
+  "metaDesc": "A rebuilt e-commerce site and an SEO programme for a family printing business with a sensitive product and a national market.",
+  "h1": "A NEW STORE, PAGE ONE FOR FORTY SEARCHES, ORDERS UP 120%",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A memorial card printer in Ireland · Ireland"
+        },
+        {
+          "type": "h1",
+          "text": "A NEW STORE, PAGE ONE FOR FORTY SEARCHES, ORDERS UP 120%"
+        },
+        {
+          "type": "p",
+          "text": "A rebuilt e-commerce site and an SEO programme for a family printing business with a sensitive product and a national market."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "E-commerce"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "8 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Web Development",
+          "href": "/services/web-development",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation",
+          "href": "/services/geo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "+120%"
+        },
+        {
+          "type": "text",
+          "text": "Orders"
+        },
+        {
+          "type": "text",
+          "text": "Page 1"
+        },
+        {
+          "type": "text",
+          "text": "For 40 target keywords"
+        },
+        {
+          "type": "text",
+          "text": "78%"
+        },
+        {
+          "type": "text",
+          "text": "Orders placed on a phone"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Orders a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Orders a month",
+              "95",
+              "209"
+            ],
+            [
+              "Phone orders needing a call",
+              "100%",
+              "0%"
+            ],
+            [
+              "Page-one keywords",
+              "6",
+              "40"
+            ],
+            [
+              "Checkout time",
+              "2 days",
+              "4 minutes"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "memorialcards.ie/design/celtic-cross"
+        },
+        {
+          "type": "text",
+          "text": "Upload a photo and preview"
+        },
+        {
+          "type": "text",
+          "text": "78% of orders on a phone"
+        },
+        {
+          "type": "text",
+          "text": "RANKINGS"
+        },
+        {
+          "type": "text",
+          "text": "Page 1"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "memorial cards ireland\n23\n→\n1",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "memorial cards with photo\n19\n→\n2",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "acknowledgement cards\n41\n→\n3",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "memorial bookmarks\n28\n→\n1",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A memorial card printer in Ireland whose fifteen-year-old website could not take an order on a phone."
+        },
+        {
+          "type": "p",
+          "text": "Most customers were grieving, on a phone, and ordering for the first time. The old site needed a desktop, a download and a phone call. Competitors had moved online years earlier."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "A new store built for phones: choose a design, upload a photo, preview, pay",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Every design indexed with its own page and structured data",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Content written with care for the searches people make in the days after a loss",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Local pages for every county served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Clear, quotable answers on timing, delivery and wording so AI tools cite the business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "The new store ranks on page one for forty target searches and orders are up 120%, most of them placed on a phone."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nDHAKA, BANGLADESH\n\n4.2x\nMeta Ads ROAS\n\n3x ROAS on Meta, without increasing spend\n\nA premium beauty e-commerce brand\n\nRead the case study",
+          "href": "/work/case-studies/beauty-ecommerce-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "MANUFACTURING AND RETAIL\nDHAKA, BANGLADESH\n\n+240%\nShowroom enquiries\n\nShowroom visits booked online, 240% more of them\n\nA furniture manufacturer in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/furniture-manufacturer-google-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

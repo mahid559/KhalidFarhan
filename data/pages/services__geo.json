@@ -1,0 +1,581 @@
+{
+  "route": "/services/geo",
+  "title": "GEO Agency Ireland — Generative Engine Optimisation | Khalid Farhan",
+  "metaDesc": "Optimise your brand for ChatGPT, Perplexity, and Google AI Overviews. GEO agency based in Dublin helping businesses get cited by AI answer engines.",
+  "h1": "Generative Engine Optimisation\nBe cited by AI, not just ranked by Google",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Generative Engine Optimisation",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Generative Engine Optimisation\nBe cited by AI, not just ranked by Google"
+        },
+        {
+          "type": "p",
+          "text": "Generative engine optimisation (GEO) is the practice of getting a business cited in AI answers from ChatGPT, Google AI Overviews, Perplexity, Gemini and Claude. Khalid Farhan is a Dublin agency that structures a company's pages, facts and reputation so AI assistants describe it accurately and recommend it when people ask for providers like it."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Businesses whose buyers research with ChatGPT or Perplexity",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Brands that rank on Google but never appear in AI answers",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Professional firms where accuracy of what AI says about you matters",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies competing in categories AI tools summarise heavily",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free GEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See GEO results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free GEO audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current geo set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free GEO audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT GEO HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "PROFESSIONAL SERVICES\nDUBLIN, IRELAND\n\n+167%\nOrganic traffic\n\nNinety enquiries a month from search alone\n\nAn accountancy firm in Ireland\n\nRead the case study",
+          "href": "/work/case-studies/accountancy-firm-ireland-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "B2B SOFTWARE\nIRELAND AND THE UK\n\n+190%\nDemo requests\n\nDemo requests up 190% and cited by AI search\n\nA workforce management SaaS\n\nRead the case study",
+          "href": "/work/case-studies/workforce-saas-linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nIRELAND\n\n+120%\nOrders\n\nA new store, page one for forty searches, orders up 120%\n\nA memorial card printer in Ireland\n\nRead the case study",
+          "href": "/work/case-studies/memorial-card-printer-ecommerce",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR GEO SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Generative Engine Optimisation (GEO) is the practice of structuring your content, brand signals, and knowledge graph so that AI answer engines cite you as an authoritative source. As search shifts from ten blue links to AI-generated answers, GEO is the most important channel most brands are ignoring."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "AI Visibility Audit"
+        },
+        {
+          "type": "text",
+          "text": "We test your brand across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews to see how — and if — you're currently cited."
+        },
+        {
+          "type": "text",
+          "text": "Knowledge Graph Optimisation"
+        },
+        {
+          "type": "text",
+          "text": "Schema markup, Wikipedia presence, and structured data to help AI systems understand your brand."
+        },
+        {
+          "type": "text",
+          "text": "Authoritative Content"
+        },
+        {
+          "type": "text",
+          "text": "Long-form, well-cited content that AI systems prefer to reference as sources."
+        },
+        {
+          "type": "text",
+          "text": "Citation Building"
+        },
+        {
+          "type": "text",
+          "text": "Getting your brand mentioned in high-authority sources that AI models draw from."
+        },
+        {
+          "type": "text",
+          "text": "Entity Optimisation"
+        },
+        {
+          "type": "text",
+          "text": "Building your brand as a named entity across the web so AI systems can accurately describe you."
+        },
+        {
+          "type": "text",
+          "text": "GEO Reporting"
+        },
+        {
+          "type": "text",
+          "text": "Monthly tracking of AI citation frequency, sentiment, and accuracy across major LLMs."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nAI visibility audit across the five major engines, with competitor comparison",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nEntity and schema fixes so AI tools can identify the business and its services",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nFirst citable pages and answer blocks published, then monthly citation tracking",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to GEO, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "test current AI visibility across all major engines and benchmark against competitors"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Entity building"
+        },
+        {
+          "type": "p",
+          "text": "establish your brand as a clear, well-understood entity in AI knowledge bases"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Content"
+        },
+        {
+          "type": "p",
+          "text": "create authoritative, well-structured content that AI systems cite"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Citations"
+        },
+        {
+          "type": "p",
+          "text": "secure mentions in high-authority publications LLMs trust"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Monitor"
+        },
+        {
+          "type": "p",
+          "text": "track citation frequency and accuracy monthly"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY GEO CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR GEO"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "What is Generative Engine Optimisation?"
+        },
+        {
+          "type": "text",
+          "text": "GEO is the practice of optimising your brand and content to be cited by AI answer engines like ChatGPT, Perplexity, Google AI Overviews, and Claude. As more people use AI for search, appearing in these answers is as important as ranking on Google."
+        },
+        {
+          "type": "button",
+          "text": "Is GEO different from SEO?"
+        },
+        {
+          "type": "text",
+          "text": "Yes and no. GEO builds on SEO foundations — high-quality content, strong domain authority, proper schema markup — but goes further by focusing on how AI systems understand and cite your brand. The best approach combines both."
+        },
+        {
+          "type": "button",
+          "text": "Can you measure GEO results?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We track how often your brand is cited in AI responses, what's said about you, and whether responses are accurate. We also monitor traffic from AI platforms via UTM tracking and referral analytics."
+        },
+        {
+          "type": "button",
+          "text": "How long does GEO take?"
+        },
+        {
+          "type": "text",
+          "text": "Initial improvements can be seen within 3–6 months as AI systems re-crawl the web and update their training. Knowledge graph improvements and authoritative content tend to compound over 6–18 months."
+        },
+        {
+          "type": "button",
+          "text": "Which AI engines do you optimise for?"
+        },
+        {
+          "type": "text",
+          "text": "ChatGPT (OpenAI), Perplexity AI, Google AI Overviews (SGE), Gemini, Claude (Anthropic), Bing Copilot, and You.com. The core principles apply across all of them."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with GEO"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "AI Search Optimisation",
+          "href": "/services/ai-search-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT GEO COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free GEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

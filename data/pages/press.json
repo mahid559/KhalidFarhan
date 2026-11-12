@@ -1,0 +1,76 @@
+{
+  "route": "/press",
+  "title": "Press, Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Press mentions, media kit, and contact information for journalists and media.",
+  "h1": "PRESS & MEDIA.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PRESS"
+        },
+        {
+          "type": "h1",
+          "text": "PRESS & MEDIA."
+        },
+        {
+          "type": "p",
+          "text": "Press mentions, media kit, and information for journalists. For press enquiries, email press@khalidfarhan.com."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MEDIA KIT"
+        },
+        {
+          "type": "h2",
+          "text": "LOGOS, BIO, AND ASSETS."
+        },
+        {
+          "type": "p",
+          "text": "Our media kit includes logos, headshots, approved biography text, and brand guidelines. Available on request. Email press@khalidfarhan.com."
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan, Short Bio (50 words)"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan is the founder of khalidfarhan.com, a digital marketing agency based in Dublin, Ireland. He has worked with 400+ clients across 10+ countries over the last 12 years, with most in Ireland, the UK, and Bangladesh. He also runs the 2026 Challenge, a programme with 5,500+ members building online income."
+        },
+        {
+          "type": "p",
+          "text": "Press contact"
+        },
+        {
+          "type": "p",
+          "text": "Email: press@khalidfarhan.com\nResponse time: within 24 hours"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

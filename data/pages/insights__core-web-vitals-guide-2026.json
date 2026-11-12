@@ -1,0 +1,504 @@
+{
+  "route": "/insights/core-web-vitals-guide-2026",
+  "title": "Core Web Vitals in 2026: LCP, INP, CLS Explained and How to Fix Them | Khalid Farhan",
+  "metaDesc": "Google's page experience signals are more important than ever. Here's the complete practical guide to understanding and improving your Core Web Vitals.",
+  "h1": "Core Web Vitals in 2026: LCP, INP, CLS Explained and How to Fix Them",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "Core Web Vitals in 2026: LCP, INP, CLS Explained and How to Fix Them"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "30 January 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "11 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google's page experience signals are more important than ever. Here's the complete practical guide to understanding and improving your Core Web Vitals."
+        },
+        {
+          "type": "p",
+          "text": "Core Web Vitals are Google's set of specific page experience metrics that form part of the ranking algorithm. They measure real-world user experience: how fast does the main content load, how responsive is the page to user input, and how visually stable is it while loading? Understanding these metrics, what causes problems, and how to fix them is essential technical SEO knowledge in 2026."
+        },
+        {
+          "type": "h2",
+          "text": "Why Core Web Vitals Matter for SEO"
+        },
+        {
+          "type": "p",
+          "text": "Google has used page experience signals as ranking factors since 2021. Core Web Vitals are the most specific and measurable of these signals. Sites that perform well on Core Web Vitals have a ranking advantage over sites with poor performance, particularly for competitive queries where other signals are similar between competitors."
+        },
+        {
+          "type": "p",
+          "text": "The honest assessment of the ranking impact: Core Web Vitals are a tiebreaker, not a primary determinant. A page with excellent content, strong backlinks, and good E-E-A-T signals but mediocre Core Web Vitals will outrank a technically perfect page with weak content. But in competitive niches where the content and authority signals between competitors are close, CWV performance can and does make a meaningful difference."
+        },
+        {
+          "type": "p",
+          "text": "There's also a direct conversion argument that's separate from SEO. Faster, more stable pages convert better. Google's own research shows clear correlations between poor Core Web Vitals and higher bounce rates and lower conversion rates. Fixing CWV is good for both search ranking and business performance."
+        },
+        {
+          "type": "h2",
+          "text": "LCP: Largest Contentful Paint"
+        },
+        {
+          "type": "p",
+          "text": "LCP measures how long it takes from when the page starts loading until the largest visible content element (usually a hero image, a large heading, or a video thumbnail) finishes rendering."
+        },
+        {
+          "type": "p",
+          "text": "Target: Under 2.5 seconds. Between 2.5 and 4 seconds needs improvement. Over 4 seconds is poor."
+        },
+        {
+          "type": "h3",
+          "text": "What causes poor LCP"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Large, unoptimised images: The most common cause. A 3MB hero image that loads slowly will produce a terrible LCP score.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Slow server response (TTFB): If the server takes 1.5 seconds to respond, you're already most of the way to a poor LCP before any content has loaded.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Render-blocking resources: CSS or JavaScript files that load before the main content and block rendering.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "No preloading of the LCP image: If the browser doesn't know about your hero image until it's halfway through parsing the page, it loads late.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "How to improve LCP"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Compress and convert images to WebP or AVIF format. A 3MB PNG can often be a 200KB WebP with no visible quality difference.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Add loading=\"eager\" and a <link rel=\"preload\"> tag for your LCP image so the browser discovers and fetches it immediately.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Improve server response time: upgrade hosting, add a CDN, enable server-side caching.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Defer non-critical JavaScript and CSS that isn't needed for initial rendering.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "INP: Interaction to Next Paint"
+        },
+        {
+          "type": "p",
+          "text": "INP replaced First Input Delay (FID) in March 2024. While FID only measured the delay before the browser could start processing the first interaction, INP measures the full responsiveness of the page to all interactions throughout the page visit. It captures the worst-case interaction latency."
+        },
+        {
+          "type": "p",
+          "text": "Target: Under 200ms. Between 200ms and 500ms needs improvement. Over 500ms is poor."
+        },
+        {
+          "type": "h3",
+          "text": "What causes poor INP"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Heavy JavaScript on the main thread: If JavaScript is running complex operations, it blocks the browser from responding to user input. Long tasks (tasks that take over 50ms) are the primary cause.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Third-party scripts: Chat widgets, analytics scripts, ad tags, and tracking pixels all execute JavaScript that can block the main thread. Sites with many third-party scripts often have poor INP.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Inefficient event listeners: Poorly optimised click or scroll handlers that do too much work can produce slow INP.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "How to improve INP"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Audit and reduce third-party scripts. Every chat widget, every analytics tool, every ad pixel has a cost. Evaluate which are genuinely necessary.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Break up long JavaScript tasks. Use techniques like scheduler.postTask() or setTimeout() to yield to the browser between tasks.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Defer non-critical JavaScript until after the page is interactive.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Use web workers for computationally intensive tasks to move them off the main thread.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "INP is the most technically complex of the three CWV metrics to fix. For most Irish SME sites built on standard CMS platforms (WordPress, Shopify, Squarespace), the biggest INP wins usually come from reducing third-party scripts and choosing a well-coded, performance-optimised theme."
+        },
+        {
+          "type": "h2",
+          "text": "CLS: Cumulative Layout Shift"
+        },
+        {
+          "type": "p",
+          "text": "CLS measures visual stability. If elements on your page move while it's loading, causing you to accidentally click the wrong thing or lose your reading position, that's a layout shift. CLS quantifies how much this happens."
+        },
+        {
+          "type": "p",
+          "text": "Target: Under 0.1. Between 0.1 and 0.25 needs improvement. Over 0.25 is poor."
+        },
+        {
+          "type": "h3",
+          "text": "What causes poor CLS"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Images without specified dimensions: If your HTML doesn't declare the width and height of an image, the browser doesn't reserve space for it while loading. When the image loads, it pushes content down.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Ads and embeds without size declarations: Ad slots that don't have reserved space cause content to shift when ads load.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Dynamically injected content: Cookie consent banners, newsletter popups, and notification bars that load late and push content down.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Web fonts causing FOUT: When a fallback system font is replaced by a web font with different dimensions, text can reflow and cause layout shifts.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "How to fix CLS"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Always specify width and height attributes on all <img> elements. This alone fixes the most common CLS cause.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Reserve space for ad slots with fixed dimensions.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Use font-display: optional or font-display: swap with careful fallback font sizing to minimise font-related layout shifts.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Load cookie banners and popups in a way that doesn't push other content around (overlays rather than pushing content down).",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Tools to Measure Core Web Vitals"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Google PageSpeed Insights: Provides both lab data (simulated) and field data (real user data from the Chrome UX Report). Check both. Lab data tells you what to fix. Field data tells you what real users experience.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Search Console: The Core Web Vitals report shows field data for all pages on your site grouped by status (Good, Needs Improvement, Poor). This is the most actionable overview for identifying which pages need the most attention.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Chrome UX Report (CrUX): The underlying dataset for field data. If your site is too new or has insufficient traffic, CrUX may not have data for your site yet.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Chrome DevTools Performance panel: The most detailed tool for diagnosing specific causes of CWV issues. Requires technical knowledge to use effectively.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "WebPageTest.org: Excellent for detailed waterfall analysis and testing from different locations and devices.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Quick Wins vs Bigger Technical Fixes"
+        },
+        {
+          "type": "p",
+          "text": "Quick wins (high impact, relatively easy):"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Compress all images and convert to WebP",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Add width/height attributes to all images",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Enable browser caching and GZIP compression",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Remove unused third-party scripts",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Preload the LCP image",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Bigger fixes (higher effort, potentially higher impact):"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Move to better hosting or add a CDN",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Refactor or replace heavy JavaScript",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Switch to a performance-optimised theme if on WordPress or Shopify",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Implement server-side rendering for JavaScript-heavy applications",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "For most Irish SME websites, addressing the quick wins will move you from Poor to Needs Improvement or from Needs Improvement to Good on most metrics. The bigger technical fixes are worth doing, but start with the quick wins to understand the impact before committing to more significant development work."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Core Web Vitals"
+        },
+        {
+          "type": "text",
+          "text": "Technical SEO"
+        },
+        {
+          "type": "text",
+          "text": "LCP"
+        },
+        {
+          "type": "text",
+          "text": "INP"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nThe Complete Google Business Profile Optimisation Guide for 2026",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nThe Complete Google Business Profile Optimisation Guide for 2026\n\nGBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches.\n\n5 Mar 2026\n·\n14 min read",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

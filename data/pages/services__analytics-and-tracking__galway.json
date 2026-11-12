@@ -1,0 +1,632 @@
+{
+  "route": "/services/analytics-and-tracking/galway",
+  "title": "Analytics Agency in Galway — Analytics & Tracking | Khalid Farhan",
+  "metaDesc": "Analytics & Tracking for businesses in Galway. Analytics and tracking agency in Dublin. GA4 setup, Google Tag Manager, server-side tracking, custom dashboards. Accurate attribution for all marketing channels.",
+  "h1": "Analytics & Tracking in Galway\nKnow exactly what's driving your growth",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Analytics & Tracking\n/",
+              "href": "/services/analytics-and-tracking",
+              "imgs": []
+            },
+            {
+              "text": "Galway",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Analytics & Tracking in Galway\nKnow exactly what's driving your growth"
+        },
+        {
+          "type": "p",
+          "text": "Analytics and tracking set-up is the configuration of Google Analytics 4, Google Tag Manager, ad platform conversions and server-side tracking so a business knows exactly which marketing produces leads and sales. Khalid Farhan is a Dublin agency that audits, rebuilds and documents tracking for companies whose numbers do not add up. We work with businesses in Galway and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Businesses whose ad platforms and analytics disagree",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies about to scale spend and needing reliable data",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "E-commerce stores missing purchase or revenue data",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Teams that need one dashboard instead of five logins",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Analytics audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Analytics results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Analytics audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current analytics set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Analytics audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT ANALYTICS HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nDHAKA, BANGLADESH\n\n4.2x\nMeta Ads ROAS\n\n3x ROAS on Meta, without increasing spend\n\nA premium beauty e-commerce brand\n\nRead the case study",
+          "href": "/work/case-studies/beauty-ecommerce-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINTECH\nUK, IRELAND AND THE GULF\n\n48k\nInstalls in 5 months\n\n48,000 installs at half the cost\n\nA remittance app for migrant workers\n\nRead the case study",
+          "href": "/work/case-studies/remittance-app-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR ANALYTICS SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Most businesses are making million-euro marketing decisions based on broken tracking. We audit, rebuild, and maintain your measurement infrastructure so you always know which channels, campaigns, and pages are driving real business outcomes."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month, or a one-off set-up. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Analytics Audit"
+        },
+        {
+          "type": "text",
+          "text": "Full review of GA4 configuration, GTM setup, and conversion tracking accuracy."
+        },
+        {
+          "type": "text",
+          "text": "GA4 Setup"
+        },
+        {
+          "type": "text",
+          "text": "GA4 property configuration, event tracking, and conversion goals."
+        },
+        {
+          "type": "text",
+          "text": "Google Tag Manager"
+        },
+        {
+          "type": "text",
+          "text": "GTM audit, clean-up, and new tracking implementation."
+        },
+        {
+          "type": "text",
+          "text": "Server-Side Tracking"
+        },
+        {
+          "type": "text",
+          "text": "Conversions API, server-side GTM for accurate attribution in a cookieless world."
+        },
+        {
+          "type": "text",
+          "text": "Custom Dashboards"
+        },
+        {
+          "type": "text",
+          "text": "Looker Studio dashboards pulling from GA4, Google Ads, Meta, and Search Console."
+        },
+        {
+          "type": "text",
+          "text": "Attribution Modelling"
+        },
+        {
+          "type": "text",
+          "text": "Moving beyond last-click to understand true marketing contribution."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nTracking audit with a list of what is broken or missing",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nGA4, Tag Manager and ad conversions rebuilt and tested",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nServer-side tracking where needed, plus a dashboard your team actually reads",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Analytics, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "identify tracking gaps, inaccuracies, and missed conversion events"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Fix"
+        },
+        {
+          "type": "p",
+          "text": "correct broken tracking and remove redundant tags"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Enhance"
+        },
+        {
+          "type": "p",
+          "text": "add missing event tracking and conversion signals"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Dashboard"
+        },
+        {
+          "type": "p",
+          "text": "build custom reporting to your KPIs"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Train"
+        },
+        {
+          "type": "p",
+          "text": "ensure your team can read and act on the data"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY ANALYTICS CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR ANALYTICS"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does Analytics cost in Galway?"
+        },
+        {
+          "type": "text",
+          "text": "Retainers from €1,500 a month, or a one-off set-up. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Galway?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Galway and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with Universal Analytics or GA4?"
+        },
+        {
+          "type": "text",
+          "text": "GA4 only. Universal Analytics was sunset in 2023. If you're still on UA, migrating to GA4 is the first thing we'll do."
+        },
+        {
+          "type": "button",
+          "text": "What is server-side tracking?"
+        },
+        {
+          "type": "text",
+          "text": "Server-side tracking sends conversion data directly from your server to advertising platforms (Meta CAPI, Google Ads enhanced conversions), bypassing ad blockers and iOS restrictions. It significantly improves attribution accuracy."
+        },
+        {
+          "type": "button",
+          "text": "Can you integrate with our CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We connect GA4 and GTM with HubSpot, Salesforce, Pipedrive, and other CRMs for full-funnel attribution."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Analytics across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "Analytics, all of Ireland",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics in Dublin",
+          "href": "/services/analytics-and-tracking/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics in Cork",
+          "href": "/services/analytics-and-tracking/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics in Limerick",
+          "href": "/services/analytics-and-tracking/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics in Waterford",
+          "href": "/services/analytics-and-tracking/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics in Kilkenny",
+          "href": "/services/analytics-and-tracking/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics in Ireland",
+          "href": "/services/analytics-and-tracking/ireland",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with Analytics"
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads",
+          "href": "/services/meta-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE ANALYTICS AUDIT FOR YOUR GALWAY BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Analytics audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

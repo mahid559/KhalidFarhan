@@ -1,0 +1,470 @@
+{
+  "route": "/work/projects",
+  "title": "Projects — Portfolio | Khalid Farhan",
+  "metaDesc": "Portfolio of client work across SEO, Google Ads, Meta Ads, email marketing, and web design. 120+ projects delivered.",
+  "h1": "120+ PROJECTS DELIVERED.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WORK / PROJECTS"
+        },
+        {
+          "type": "h1",
+          "text": "120+ PROJECTS DELIVERED."
+        },
+        {
+          "type": "p",
+          "text": "A selection of client work across search, paid media, email, and web. Each project starts with a free audit."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "120+"
+        },
+        {
+          "type": "p",
+          "text": "PROJECTS DELIVERED"
+        },
+        {
+          "type": "p",
+          "text": "4"
+        },
+        {
+          "type": "p",
+          "text": "COUNTRIES"
+        },
+        {
+          "type": "p",
+          "text": "19"
+        },
+        {
+          "type": "p",
+          "text": "SERVICE LINES"
+        },
+        {
+          "type": "p",
+          "text": "8+"
+        },
+        {
+          "type": "p",
+          "text": "YEARS EXPERIENCE"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Community"
+        },
+        {
+          "type": "text",
+          "text": "Content Marketing"
+        },
+        {
+          "type": "text",
+          "text": "E-commerce"
+        },
+        {
+          "type": "text",
+          "text": "Education"
+        },
+        {
+          "type": "text",
+          "text": "Email Marketing"
+        },
+        {
+          "type": "text",
+          "text": "Facebook"
+        },
+        {
+          "type": "text",
+          "text": "Fintech"
+        },
+        {
+          "type": "text",
+          "text": "Google Ads"
+        },
+        {
+          "type": "text",
+          "text": "Google Business Profile"
+        },
+        {
+          "type": "text",
+          "text": "Lead Gen"
+        },
+        {
+          "type": "text",
+          "text": "Legal"
+        },
+        {
+          "type": "text",
+          "text": "Local SEO"
+        },
+        {
+          "type": "text",
+          "text": "Meta Ads"
+        },
+        {
+          "type": "text",
+          "text": "Next.js"
+        },
+        {
+          "type": "text",
+          "text": "Product Build"
+        },
+        {
+          "type": "text",
+          "text": "Professional Services"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Tourism"
+        },
+        {
+          "type": "text",
+          "text": "Trades"
+        },
+        {
+          "type": "text",
+          "text": "Web Design"
+        },
+        {
+          "type": "text",
+          "text": "HOSPITALITY"
+        },
+        {
+          "type": "text",
+          "text": "2024"
+        },
+        {
+          "type": "h3",
+          "text": "SEO & Website Rebuild"
+        },
+        {
+          "type": "p",
+          "text": "Full website rebuild and SEO foundation for a boutique Irish B&B. Organic bookings up 180% within 9 months."
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Web Design"
+        },
+        {
+          "type": "text",
+          "text": "Local SEO"
+        },
+        {
+          "type": "text",
+          "text": "FINANCIAL SERVICES"
+        },
+        {
+          "type": "text",
+          "text": "2024"
+        },
+        {
+          "type": "h3",
+          "text": "Google Ads — Fintech"
+        },
+        {
+          "type": "p",
+          "text": "Performance Max and Search campaigns for an Irish fintech. Cost per lead down 40%, lead quality up significantly."
+        },
+        {
+          "type": "text",
+          "text": "Google Ads"
+        },
+        {
+          "type": "text",
+          "text": "Lead Gen"
+        },
+        {
+          "type": "text",
+          "text": "Fintech"
+        },
+        {
+          "type": "text",
+          "text": "PET CARE"
+        },
+        {
+          "type": "text",
+          "text": "2024"
+        },
+        {
+          "type": "h3",
+          "text": "Meta Ads — Pet Services"
+        },
+        {
+          "type": "p",
+          "text": "Lead generation on Facebook and Instagram for a pet day care. Went from empty spots to a 6-week waiting list."
+        },
+        {
+          "type": "text",
+          "text": "Meta Ads"
+        },
+        {
+          "type": "text",
+          "text": "Facebook"
+        },
+        {
+          "type": "text",
+          "text": "Lead Gen"
+        },
+        {
+          "type": "text",
+          "text": "CONSTRUCTION"
+        },
+        {
+          "type": "text",
+          "text": "2024"
+        },
+        {
+          "type": "h3",
+          "text": "Local SEO — Trades"
+        },
+        {
+          "type": "p",
+          "text": "Local SEO for a Galway roofing company. Top 3 positions for all major searches within 4 months."
+        },
+        {
+          "type": "text",
+          "text": "Local SEO"
+        },
+        {
+          "type": "text",
+          "text": "Trades"
+        },
+        {
+          "type": "text",
+          "text": "Google Business Profile"
+        },
+        {
+          "type": "text",
+          "text": "E-COMMERCE"
+        },
+        {
+          "type": "text",
+          "text": "2024"
+        },
+        {
+          "type": "h3",
+          "text": "Meta Ads + Email — E-commerce"
+        },
+        {
+          "type": "p",
+          "text": "Full-funnel Meta Ads strategy with Klaviyo email automation. ROAS up 3x, abandoned cart recovery up 28%."
+        },
+        {
+          "type": "text",
+          "text": "E-commerce"
+        },
+        {
+          "type": "text",
+          "text": "Meta Ads"
+        },
+        {
+          "type": "text",
+          "text": "Email Marketing"
+        },
+        {
+          "type": "text",
+          "text": "EDUCATION"
+        },
+        {
+          "type": "text",
+          "text": "2023"
+        },
+        {
+          "type": "h3",
+          "text": "SEO — Music Education"
+        },
+        {
+          "type": "p",
+          "text": "Content-led SEO for a Dublin music school. Over 200% organic traffic growth and a fully booked class schedule."
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Content Marketing"
+        },
+        {
+          "type": "text",
+          "text": "Education"
+        },
+        {
+          "type": "text",
+          "text": "LEGAL"
+        },
+        {
+          "type": "text",
+          "text": "2023"
+        },
+        {
+          "type": "h3",
+          "text": "SEO — Legal Services"
+        },
+        {
+          "type": "p",
+          "text": "Authority-building SEO for a Dublin solicitor. Ranked for high-value legal keywords and doubled monthly enquiries."
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Legal"
+        },
+        {
+          "type": "text",
+          "text": "Professional Services"
+        },
+        {
+          "type": "text",
+          "text": "TOURISM"
+        },
+        {
+          "type": "text",
+          "text": "2023"
+        },
+        {
+          "type": "h3",
+          "text": "SEO & Google Ads — Tourism"
+        },
+        {
+          "type": "p",
+          "text": "Seasonal SEO and Google Ads for a Sligo tourism business. Year-on-year booking growth every season since 2022."
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Tourism"
+        },
+        {
+          "type": "text",
+          "text": "Google Ads"
+        },
+        {
+          "type": "text",
+          "text": "EDUCATION"
+        },
+        {
+          "type": "text",
+          "text": "2025"
+        },
+        {
+          "type": "h3",
+          "text": "Platform Build — Education"
+        },
+        {
+          "type": "p",
+          "text": "End-to-end build of the 2026 Marketing Challenge platform, from landing page to payment integration to community."
+        },
+        {
+          "type": "text",
+          "text": "Product Build"
+        },
+        {
+          "type": "text",
+          "text": "Education"
+        },
+        {
+          "type": "text",
+          "text": "Community"
+        },
+        {
+          "type": "text",
+          "text": "AGENCY"
+        },
+        {
+          "type": "text",
+          "text": "2025"
+        },
+        {
+          "type": "h3",
+          "text": "Full Website Rebuild"
+        },
+        {
+          "type": "p",
+          "text": "200+ page website rebuild with programmatic SEO and a custom affiliate system. Built for organic growth."
+        },
+        {
+          "type": "text",
+          "text": "Web Design"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "Next.js"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WANT MORE DETAIL?"
+        },
+        {
+          "type": "h2",
+          "text": "READ THE FULL CASE STUDIES."
+        },
+        {
+          "type": "p",
+          "text": "For a selection of these projects, we’ve published detailed case studies with full metrics, methodology, and results."
+        },
+        {
+          "type": "link",
+          "text": "View Case Studies",
+          "href": "/work/case-studies",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT RESULTS LIKE THESE?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

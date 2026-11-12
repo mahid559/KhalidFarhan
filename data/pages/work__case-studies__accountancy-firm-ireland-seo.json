@@ -1,0 +1,282 @@
+{
+  "route": "/work/case-studies/accountancy-firm-ireland-seo",
+  "title": "Ninety enquiries a month from search alone — Case Study | Khalid Farhan",
+  "metaDesc": "A content and SEO programme that made a mid-sized accountancy firm the answer to Ireland's tax questions.",
+  "h1": "NINETY ENQUIRIES A MONTH FROM SEARCH ALONE",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An accountancy firm in Ireland · Dublin, Ireland"
+        },
+        {
+          "type": "h1",
+          "text": "NINETY ENQUIRIES A MONTH FROM SEARCH ALONE"
+        },
+        {
+          "type": "p",
+          "text": "A content and SEO programme that made a mid-sized accountancy firm the answer to Ireland's tax questions."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Professional services"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "10 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation",
+          "href": "/services/geo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "+167%"
+        },
+        {
+          "type": "text",
+          "text": "Organic traffic"
+        },
+        {
+          "type": "text",
+          "text": "90"
+        },
+        {
+          "type": "text",
+          "text": "Enquiries a month"
+        },
+        {
+          "type": "text",
+          "text": "Cited"
+        },
+        {
+          "type": "text",
+          "text": "In AI search answers"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Organic visits a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Organic visits a month",
+              "1,900",
+              "5,070"
+            ],
+            [
+              "Enquiries a month",
+              "11",
+              "90"
+            ],
+            [
+              "Page-one keywords",
+              "48",
+              "410"
+            ],
+            [
+              "Deadline pages",
+              "0",
+              "32"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ORGANIC VISITS"
+        },
+        {
+          "type": "text",
+          "text": "+167%"
+        },
+        {
+          "type": "text",
+          "text": "Month 1"
+        },
+        {
+          "type": "text",
+          "text": "Month 10"
+        },
+        {
+          "type": "p",
+          "text": "When is the Irish income tax return deadline for 2026?"
+        },
+        {
+          "type": "text",
+          "text": "✦"
+        },
+        {
+          "type": "p",
+          "text": "The paper return is due 31 October, with an extended deadline in mid-November for online filers, according to [the firm]…"
+        },
+        {
+          "type": "text",
+          "text": "Cited in AI answers"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "An accountancy firm in Ireland with a new website that nobody visited and a partner who answered the same tax questions by phone every week."
+        },
+        {
+          "type": "p",
+          "text": "A site rebuild had lost 73% of the firm's old rankings. Enquiries had dropped to a handful a month, and the firm's expertise lived in the partners' heads."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Recovery first: redirects, lost pages restored, technical fixes",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A deadline calendar for every Irish tax filing, with a page per deadline",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Weekly articles answering real client questions, reviewed by a partner",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Structured data and clear answers so AI search tools cite the firm",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Service pages rewritten around what people search, not what the firm calls things",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Organic traffic is up 167% on the pre-rebuild peak and the firm takes around ninety enquiries a month from search."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "HOSPITALITY\nCORK, IRELAND\n\n+180%\nOrganic traffic\n\nFrom invisible to fully booked\n\nA boutique B&B in Cork\n\nRead the case study",
+          "href": "/work/case-studies/cork-bnb-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "EDUCATION\nDUBLIN, IRELAND\n\n+213%\nOrganic traffic in 9 months\n\nFrom +213% organic traffic to a waiting list\n\nA music school in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/dublin-music-school-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

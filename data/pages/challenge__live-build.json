@@ -1,0 +1,136 @@
+{
+  "route": "/challenge/live-build",
+  "title": "2026 Challenge, Live Build | Khalid Farhan",
+  "metaDesc": "Watch a real business being built from zero. Month-by-month live build series inside the 2026 Challenge.",
+  "h1": "BUILDING IN PUBLIC.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE / LIVE BUILD"
+        },
+        {
+          "type": "h1",
+          "text": "BUILDING IN PUBLIC."
+        },
+        {
+          "type": "p",
+          "text": "Watch a real business built from zero, no scripts, no shortcuts, no prior setup. Month by month, live."
+        },
+        {
+          "type": "link",
+          "text": "Join to Watch",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WHAT THIS IS"
+        },
+        {
+          "type": "h2",
+          "text": "NOT THEORY. AN ACTUAL BUSINESS."
+        },
+        {
+          "type": "p",
+          "text": "Every month inside the 2026 Challenge, you get access to a recorded live build session where Khalid builds a real online business from scratch, in real time, with real money on the line."
+        },
+        {
+          "type": "p",
+          "text": "No pre-built assets. No pretend scenarios. You watch the market research, the offer creation, the traffic strategy, and the first sales, all live. You then apply the same framework to your own business."
+        },
+        {
+          "type": "p",
+          "text": "Watch"
+        },
+        {
+          "type": "p",
+          "text": "The exact process used to start, build, and scale"
+        },
+        {
+          "type": "p",
+          "text": "Learn"
+        },
+        {
+          "type": "p",
+          "text": "Frameworks you apply directly to your own business"
+        },
+        {
+          "type": "p",
+          "text": "Do"
+        },
+        {
+          "type": "p",
+          "text": "Monthly tasks ensure you don't just watch, you build"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MONTHLY EPISODES"
+        },
+        {
+          "type": "link",
+          "text": "WEEK 1 · 2026-01-15\n\nStarting from Zero — Picking a Model\n\nWatch Khalid start a real business from scratch. No prior setup, no shortcuts. Week 1 covers model selection and the first steps.\n\nWatch episode →",
+          "href": "/challenge/live-build/week-1",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "WEEK 2 · 2026-01-22\n\nFinding the Niche — Live Validation\n\nLive niche research session. Watch the exact tools and process used to validate demand before spending a single taka.\n\nWatch episode →",
+          "href": "/challenge/live-build/week-2",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "WEEK 3 · 2026-01-29\n\nBuilding the Offer — From Idea to Sales Page\n\nTurning the validated niche into a real offer. Watch the offer built live — pricing, positioning, and the first sales page.\n\nWatch episode →",
+          "href": "/challenge/live-build/week-3",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "WEEK 4 · 2026-02-05\n\nGetting Traffic — First 100 Visitors\n\nThe content machine starts. Watch 7 pieces of content created in one session and see early traffic results.\n\nWatch episode →",
+          "href": "/challenge/live-build/week-4",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MEMBERS ONLY"
+        },
+        {
+          "type": "h2",
+          "text": "FULL ACCESS INSIDE THE CHALLENGE."
+        },
+        {
+          "type": "p",
+          "text": "The live build episodes are exclusive to 2026 Challenge members. Join the 12 month journey and get access to all episodes, current and future."
+        },
+        {
+          "type": "link",
+          "text": "Join the 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

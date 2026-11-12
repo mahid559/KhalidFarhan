@@ -1,0 +1,640 @@
+{
+  "route": "/services/web-development/waterford",
+  "title": "Web Dev Agency in Waterford — Web Development | Khalid Farhan",
+  "metaDesc": "Web Development for businesses in Waterford. Web development agency in Dublin. Performance-first, SEO-ready websites built on Next.js, React, and WordPress. Core Web Vitals optimised.",
+  "h1": "Web Development in Waterford\nWebsites that perform like your best salesperson",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Web Development\n/",
+              "href": "/services/web-development",
+              "imgs": []
+            },
+            {
+              "text": "Waterford",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Web Development in Waterford\nWebsites that perform like your best salesperson"
+        },
+        {
+          "type": "p",
+          "text": "Web development here means designing and building fast, search-ready websites that turn visitors into enquiries. Khalid Farhan is a Dublin agency that builds on Next.js, React and WordPress, with Core Web Vitals, structured data and conversion tracking handled from day one, so a new site ranks and converts rather than just looking good. We work with businesses in Waterford and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Businesses whose site is slow, dated or hard to update",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies that want SEO built in, not bolted on afterwards",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Brands that need landing pages and a site that convert ad traffic",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Firms replacing a template site with something that reflects their size",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Web Dev audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Web Dev results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Web Dev audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current web dev set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Web Dev audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT WEB DEV HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nDUBLIN, IRELAND\n\n14\nSuburbs in Maps top 3\n\nTop three on Maps in fourteen Dublin suburbs\n\nAn electrical contractor in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/electrical-contractor-dublin-local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nIRELAND\n\n+120%\nOrders\n\nA new store, page one for forty searches, orders up 120%\n\nA memorial card printer in Ireland\n\nRead the case study",
+          "href": "/work/case-studies/memorial-card-printer-ecommerce",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR WEB DEV SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "We build websites that do two things exceptionally well: rank on Google and convert visitors into customers. Every site we build starts with SEO architecture, performance budgets, and CRO principles baked in — not bolted on after the fact."
+        },
+        {
+          "type": "p",
+          "text": "Quoted per project after a free review. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Strategy & Architecture"
+        },
+        {
+          "type": "text",
+          "text": "Site structure, URL architecture, and information hierarchy designed for SEO from day one."
+        },
+        {
+          "type": "text",
+          "text": "Development"
+        },
+        {
+          "type": "text",
+          "text": "Next.js, React, or WordPress builds depending on your requirements."
+        },
+        {
+          "type": "text",
+          "text": "Performance Optimisation"
+        },
+        {
+          "type": "text",
+          "text": "Core Web Vitals green across all pages. LCP < 2.0s, CLS < 0.05."
+        },
+        {
+          "type": "text",
+          "text": "On-Page SEO"
+        },
+        {
+          "type": "text",
+          "text": "Metadata, schema, internal linking, and sitemap built to specification."
+        },
+        {
+          "type": "text",
+          "text": "Security & Hosting"
+        },
+        {
+          "type": "text",
+          "text": "SSL, security hardening, CDN setup, and managed hosting options."
+        },
+        {
+          "type": "text",
+          "text": "Analytics Setup"
+        },
+        {
+          "type": "text",
+          "text": "GA4, Google Tag Manager, and conversion tracking configured at launch."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nDiscovery, sitemap and design direction agreed",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nBuild with content migrated and redirects planned",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nLaunch with tracking, speed and search checks complete",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Web Dev, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Discovery"
+        },
+        {
+          "type": "p",
+          "text": "understand your goals, audience, and technical requirements"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Architecture"
+        },
+        {
+          "type": "p",
+          "text": "sitemap, wireframes, and SEO structure"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Design"
+        },
+        {
+          "type": "p",
+          "text": "high-fidelity mockups aligned to your brand"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Develop"
+        },
+        {
+          "type": "p",
+          "text": "build with performance, accessibility, and SEO in mind"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Launch"
+        },
+        {
+          "type": "p",
+          "text": "QA, redirects, analytics setup, and launch monitoring"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY WEB DEV CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR WEB DEV"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does Web Dev cost in Waterford?"
+        },
+        {
+          "type": "text",
+          "text": "Quoted per project after a free review. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Waterford?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Waterford and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "How long does a website take to build?"
+        },
+        {
+          "type": "text",
+          "text": "A typical 10–20 page marketing website takes 6–10 weeks from kickoff to launch. Larger or more complex projects take longer. We'll give you a precise timeline in the project proposal."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with existing brands or start from scratch?"
+        },
+        {
+          "type": "text",
+          "text": "Both. We work with your existing brand identity or can recommend a brand refresh as part of the project."
+        },
+        {
+          "type": "button",
+          "text": "Can you build e-commerce sites?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We build on Shopify for most e-commerce projects, or custom Next.js for businesses with specific requirements."
+        },
+        {
+          "type": "button",
+          "text": "Do you offer ongoing maintenance?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. Monthly maintenance retainers cover updates, security patches, backups, and minor content changes."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Web Dev across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "Web Dev, all of Ireland",
+          "href": "/services/web-development",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Dev in Dublin",
+          "href": "/services/web-development/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Dev in Cork",
+          "href": "/services/web-development/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Dev in Galway",
+          "href": "/services/web-development/galway",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Dev in Limerick",
+          "href": "/services/web-development/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Dev in Kilkenny",
+          "href": "/services/web-development/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Dev in Ireland",
+          "href": "/services/web-development/ireland",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with Web Dev"
+        },
+        {
+          "type": "link",
+          "text": "Landing Page Design",
+          "href": "/services/landing-page-design",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE WEB DEV AUDIT FOR YOUR WATERFORD BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Web Dev audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

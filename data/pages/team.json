@@ -1,0 +1,84 @@
+{
+  "route": "/team",
+  "title": "Team — Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Meet the team behind khalidfarhan.com. Digital marketing experts based in Ireland, working with clients globally.",
+  "h1": "THE PEOPLE BEHIND THE RESULTS.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "TEAM"
+        },
+        {
+          "type": "h1",
+          "text": "THE PEOPLE BEHIND THE RESULTS."
+        },
+        {
+          "type": "p",
+          "text": "A small, focused team of digital marketing specialists. We stay small intentionally — so every client gets expert attention."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder & CEO"
+        },
+        {
+          "type": "p",
+          "text": "Dublin-based digital marketer, entrepreneur, and content creator. Khalid founded the agency after years of scaling businesses across Ireland, the UK, and Bangladesh — and now teaches others to do the same through the 2026 Challenge."
+        },
+        {
+          "type": "link",
+          "text": "LinkedIn →",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "WE’RE HIRING"
+        },
+        {
+          "type": "p",
+          "text": "Join a team that moves fast and cares about results."
+        },
+        {
+          "type": "link",
+          "text": "See open roles →",
+          "href": "/careers",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT TO WORK WITH US?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

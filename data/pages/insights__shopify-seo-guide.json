@@ -1,0 +1,432 @@
+{
+  "route": "/insights/shopify-seo-guide",
+  "title": "Shopify SEO: The Complete Technical and Content Guide for 2026 | Khalid Farhan",
+  "metaDesc": "Shopify has specific SEO challenges and opportunities. Here's the comprehensive guide for Irish and UK e-commerce stores.",
+  "h1": "Shopify SEO: The Complete Technical and Content Guide for 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "Shopify SEO: The Complete Technical and Content Guide for 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "10 December 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "14 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Shopify has specific SEO challenges and opportunities. Here's the comprehensive guide for Irish and UK e-commerce stores."
+        },
+        {
+          "type": "p",
+          "text": "Shopify is the most popular e-commerce platform for small and medium-sized businesses in Ireland and the UK, and for good reason. It's reliable, well-supported, and relatively straightforward to run. The SEO situation is more complicated. Shopify has some genuinely helpful built-in SEO features and some structural limitations that have caught many store owners by surprise. This guide covers what you need to know to get the most out of Shopify SEO."
+        },
+        {
+          "type": "h2",
+          "text": "Shopify's Built-In SEO: What Works Well"
+        },
+        {
+          "type": "p",
+          "text": "Shopify handles some SEO basics reasonably well out of the box. Canonical tags are automatically added to product pages to address duplication issues (more on this below). SSL is provided for all stores. Sitemaps are auto-generated. Basic meta title and description fields are accessible through the admin interface. For a beginner, this is a reasonable foundation."
+        },
+        {
+          "type": "h2",
+          "text": "The URL Structure Problem"
+        },
+        {
+          "type": "p",
+          "text": "This is Shopify's most discussed SEO limitation. In Shopify, products can be accessed through two different URL patterns:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Direct product URL: /products/red-leather-wallet",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Collection-scoped URL: /collections/wallets/products/red-leather-wallet",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Both URLs display the same product page. By default, when Shopify adds internal links to products from collections, it uses the collection-scoped URL. This creates duplicate content issues and splits link equity between two URLs for the same page."
+        },
+        {
+          "type": "p",
+          "text": "Shopify has addressed this with canonical tags: the direct /products/ URL is set as the canonical, so Google should treat that as the authoritative version. In practice, this works reasonably well, but it's not perfect. Internal links still point to the collection-scoped URL in many cases, which means the link equity passed through those internal links is pointing to the non-canonical version."
+        },
+        {
+          "type": "p",
+          "text": "The practical fix: Check your theme's code to ensure internal links within your navigation and collection pages link to the canonical /products/ URL rather than the collection-scoped version. Many Shopify themes now do this correctly by default, but it's worth verifying."
+        },
+        {
+          "type": "h2",
+          "text": "Canonical Tags: What's Automatic and What Needs Attention"
+        },
+        {
+          "type": "p",
+          "text": "As mentioned, Shopify auto-generates canonical tags for product pages. But there are a few areas where canonicals need attention:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Faceted navigation (filtering by size, colour, price, etc.): If your store uses filter URLs that create parameter-based URLs, these may not be handled correctly and can create large amounts of duplicate or near-duplicate content. Ensure filtered URLs either redirect to the canonical collection URL or are blocked from indexing.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Pagination: Collection pages that paginate (/collections/wallets?page=2) should be handled carefully. These paginated pages should be indexed but should not have canonical tags pointing back to page 1, as they contain different content.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Shopify markets and multiple currencies: If you've enabled multi-currency or multi-language features, ensure hreflang tags are implemented correctly to avoid international duplicate content issues.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Page Speed on Shopify"
+        },
+        {
+          "type": "p",
+          "text": "Page speed on Shopify stores is often poor, and the primary culprits are well-documented:"
+        },
+        {
+          "type": "h3",
+          "text": "App bloat"
+        },
+        {
+          "type": "p",
+          "text": "Every Shopify app you install adds JavaScript and CSS to your storefront. A store with 15-20 apps commonly installed (reviews, wishlist, currency converter, size guide, chat, loyalty programme, upsell, countdown timer, and so on) can have a critically slow frontend because every page loads code from all of these apps, much of which is unnecessary for any given page visit."
+        },
+        {
+          "type": "p",
+          "text": "Audit your apps regularly. Remove any app you're not actively using or that isn't producing measurable business value. For apps you do need, check whether they offer options to load scripts asynchronously or only on specific pages."
+        },
+        {
+          "type": "h3",
+          "text": "Theme performance"
+        },
+        {
+          "type": "p",
+          "text": "Shopify themes vary enormously in performance. Some themes are built with performance in mind. Others are feature-heavy and slow. If you're choosing a new theme, check its PageSpeed Insights scores before purchasing. If you're stuck with a slow existing theme, work with a developer to identify and remove unused features, and optimise image loading in particular."
+        },
+        {
+          "type": "h3",
+          "text": "Image optimisation"
+        },
+        {
+          "type": "p",
+          "text": "Product images are typically the largest assets on e-commerce pages and the most impactful factor in LCP (Largest Contentful Paint). Shopify does handle some image optimisation automatically (serving WebP format, providing CDN delivery), but you still need to upload properly sized images. Uploading a 5MB product photo because \"Shopify will compress it\" is not the same as uploading a properly optimised image to begin with."
+        },
+        {
+          "type": "h2",
+          "text": "Product Page SEO: The Essentials"
+        },
+        {
+          "type": "h3",
+          "text": "Title tags"
+        },
+        {
+          "type": "p",
+          "text": "Shopify auto-generates title tags from your product name, but you can and should customise them. A good product page title tag includes the primary keyword, possibly the brand name, and fits within approximately 60 characters. \"Red Leather Wallet for Men | Dunmore Goods\" is better than \"Red Bifold Wallet, Top-Grain Leather, Classic Design, Multiple Card Slots, for Men, Brown or Red.\""
+        },
+        {
+          "type": "h3",
+          "text": "Product descriptions"
+        },
+        {
+          "type": "p",
+          "text": "Don't use manufacturer descriptions. They're duplicated across potentially hundreds of other sites selling the same product. Write unique descriptions that incorporate natural keyword usage, answer the questions a buyer would have, and describe the product in terms of the customer's needs and outcomes, not just the product's features."
+        },
+        {
+          "type": "h3",
+          "text": "Product schema"
+        },
+        {
+          "type": "p",
+          "text": "Shopify automatically generates Product schema markup. Check it with Google's Rich Results Test to ensure it's valid and includes all recommended fields: name, description, image, price, availability, and ideally aggregateRating if you have reviews integrated."
+        },
+        {
+          "type": "h2",
+          "text": "Collection Page SEO: The Neglected Goldmine"
+        },
+        {
+          "type": "p",
+          "text": "Collection pages (category pages in other platforms) are often the most important pages on a Shopify store for SEO. Someone searching \"men's leather wallets Ireland\" is probably looking for a collection of options, not a specific product. Collection pages are the natural landing point for these category-level searches, which often have significant search volume."
+        },
+        {
+          "type": "p",
+          "text": "Yet collection pages are almost universally neglected. They typically have little or no unique text content beyond the product grid. Optimising them requires:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "A descriptive, keyword-rich H1 that reflects the collection's focus",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "At least 200-300 words of unique, useful body content describing the collection, the products within it, and relevant buying information. This content can appear below the product grid to avoid disrupting the shopping experience.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Custom meta title and meta description for each important collection",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Internal links from other collection pages and from blog content to your highest-priority collections",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Shopify Blog: How to Use It Properly"
+        },
+        {
+          "type": "p",
+          "text": "Shopify has a built-in blog functionality that most store owners either ignore or use sporadically for product announcements. This is a missed opportunity. The blog is your primary tool for targeting informational and educational keywords that attract potential customers earlier in their buying journey."
+        },
+        {
+          "type": "p",
+          "text": "For a leather goods store: \"How to care for a leather wallet,\" \"The best types of leather for everyday carry,\" \"How to choose the right wallet for your lifestyle.\" These are genuine searches that potential buyers make, and well-optimised blog content ranking for these terms brings in relevant traffic that can be converted through internal links to products."
+        },
+        {
+          "type": "p",
+          "text": "Use the Shopify blog properly: write for a specific search intent, optimise titles and meta descriptions, include internal links to relevant products, add images with descriptive alt text, and use the blog to build topical authority around your product category."
+        },
+        {
+          "type": "h2",
+          "text": "Link Building for Shopify Stores"
+        },
+        {
+          "type": "p",
+          "text": "For Irish Shopify stores, link acquisition often starts with:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Supplier and brand partnerships (getting listed on the brand's stockist page)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Local press coverage (particularly for Irish-made or Irish-focused products)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Gift guide inclusion (outreach to bloggers and publications who produce gift guides relevant to your products)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Review opportunities on relevant publications",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Industry directories and association memberships",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The Most Important Shopify SEO Apps"
+        },
+        {
+          "type": "p",
+          "text": "Most Shopify SEO apps do very little that you can't do yourself through the native admin. However, a few are genuinely useful:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "TinyIMG or similar image optimisers: Automates image compression and alt text management at scale. Worth it for stores with large product catalogues.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Schema Plus for SEO: Enhances Shopify's default schema with more complete structured data, particularly useful for review schema and enhanced product markup.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Smart SEO or similar: Can help automate meta tag templates and bulk SEO updates for large catalogues.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Avoid apps that promise to \"automatically improve your SEO score\" without specifying what they actually do. Many Shopify SEO apps are solutions looking for problems and add more JavaScript overhead than they're worth."
+        },
+        {
+          "type": "p",
+          "text": "The fundamentals of Shopify SEO are not that different from general e-commerce SEO: technically clean URLs, unique and optimised product and collection content, fast pages, and earned backlinks. The Shopify-specific nuances (the URL duplication issue, the app bloat problem) are worth knowing about and addressing, but they shouldn't distract from the fundamentals that drive most of the results."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Shopify"
+        },
+        {
+          "type": "text",
+          "text": "E-commerce SEO"
+        },
+        {
+          "type": "text",
+          "text": "Technical SEO"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nThe Complete Google Business Profile Optimisation Guide for 2026",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nThe Complete Google Business Profile Optimisation Guide for 2026\n\nGBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches.\n\n5 Mar 2026\n·\n14 min read",
+          "href": "/insights/local-seo-google-business-profile",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "route": "/masterclass",
+  "title": "Make Your First $1k Online, Class on 27 November | Khalid Farhan",
+  "metaDesc": "A class with Khalid Farhan: how to find people who need your skill, message them, get paid, and do the work with AI. No agency or experience needed. 27 Nov 2026, 8 PM BD time. Replay until 27 Dec. ৳2,000.",
+  "h1": "MAKE YOUR FIRST $1K ONLINE",
+  "sections": [
+    {
+      "index": 1,
+      "className": "mc-head",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "MAKE YOUR FIRST $1K ONLINE"
+        },
+        {
+          "type": "p",
+          "text": "A class where I show you, step by step, how to find people who need your skill, message them, and get them to pay you. Then how to do the work fast with AI. You don't need an agency or any experience."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Fri, 27 Nov, 8 PM BD time",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "2 to 4 hours",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Replay until 27 Dec",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Book My Seat for ৳2,000",
+          "href": "#join-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Already joined? Log in",
+          "href": "/masterclass/portal/login",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "5,300+ people joined my last class in July. Read their reviews"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "mc-fit",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "This is for you if"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "You have a skill, but no one pays you for it yet",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You freelance on Fiverr or Upwork and want your own clients",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You have a job or you study, and want income on the side",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You have one or two clients and want more",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "You do not need"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "A company or a team",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Sales experience",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A big following",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Money for ads",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "mc-steps",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT I SHOW YOU, IN 6 STEPS"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "1\nGet ready\n\nSet up your profile so people trust you and reply.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "2\nFind people\n\nFind business owners who need your skill, and build a list.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "3\nMessage them\n\nCold emails and calls that get replies. I do it on my screen.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "4\nClose the deal\n\nWhat to say when a client is almost ready to say yes.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "5\nGet paid\n\nInvoices, Stripe, and monthly payments you never chase.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "6\nDo the work with AI\n\nWhich services to sell, and the AI tools I use to do the work fast.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "mc-teacher",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/businessschool/khalid.webp",
+          "alt": "Khalid Farhan"
+        },
+        {
+          "type": "h2",
+          "text": "Who teaches you"
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I got my first client in 2011, when I was 16, writing articles for $1 each. Today I run a digital marketing agency in Ireland. In this class I show you exactly how I get clients."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "1.9M\nYouTube subscribers",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "5,300+\njoined my July class",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "mc-faq",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS"
+        },
+        {
+          "type": "faq",
+          "summary": "I don't want to start an agency. Is this class for me?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "I don't have a skill yet. Can I still join?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "I can't watch at 8 PM on 27 November.",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "How do I pay?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "How do I watch the class?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Can I get a refund?",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "mc-video",
+      "blocks": [
+        {
+          "type": "iframe",
+          "src": "https://www.youtube-nocookie.com/embed/NIviYF-99P8?enablejsapi=1&controls=0&modestbranding=1&rel=0&showinfo=0&iv_load_policy=3&fs=0&disablekb=1&playsinline=1",
+          "title": "Make Your First $1k Online, class preview"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "mc-area-form",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "CLASS STARTS IN"
+        },
+        {
+          "type": "text",
+          "text": "15"
+        },
+        {
+          "type": "text",
+          "text": "Days"
+        },
+        {
+          "type": "text",
+          "text": "06"
+        },
+        {
+          "type": "text",
+          "text": "Hours"
+        },
+        {
+          "type": "text",
+          "text": "39"
+        },
+        {
+          "type": "text",
+          "text": "Min"
+        },
+        {
+          "type": "text",
+          "text": "51"
+        },
+        {
+          "type": "text",
+          "text": "Sec"
+        },
+        {
+          "type": "p",
+          "text": "ONE-TIME PAYMENT"
+        },
+        {
+          "type": "text",
+          "text": "৳2,000"
+        },
+        {
+          "type": "text",
+          "text": "BDT"
+        },
+        {
+          "type": "p",
+          "text": "Only 1,000 seats. When they are gone, booking closes."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "The class on 27 November, 8 PM BD time",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Watch the recording until 27 December",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Gifts and bonuses if you watch at 8 PM on the day",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "WHERE ARE YOU PAYING FROM?"
+        },
+        {
+          "type": "button",
+          "text": "Bangladesh"
+        },
+        {
+          "type": "button",
+          "text": "Outside BD"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "Your name",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "",
+              "placeholder": "01700000000",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Book My Seat"
+        },
+        {
+          "type": "p",
+          "text": "Secure payment via SSLCommerz (card, bKash, Nagad)"
+        }
+      ]
+    }
+  ]
+}

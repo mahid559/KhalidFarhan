@@ -1,0 +1,483 @@
+{
+  "route": "/yapcorder",
+  "title": "Yapcorder: record remote podcasts in full quality | Khalid Farhan",
+  "metaDesc": "Record remote podcasts with a clean video and audio file for every person, even on bad internet. 60 minutes free, no card. Plans from $2 a month.",
+  "h1": "RECORD REMOTE PODCASTS IN FULL QUALITY.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "ycp-hero ycp-hero-c",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "RECORD REMOTE PODCASTS IN FULL QUALITY."
+        },
+        {
+          "type": "p",
+          "text": "Each person is recorded on their own computer and uploaded while you talk. A weak connection never touches the files."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "you@example.com",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "TRY IT FREE"
+        },
+        {
+          "type": "p",
+          "text": "60 minutes free, no card. Works in Google Chrome. See plans or sign in."
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/studio-v3.png",
+          "alt": "The Yapcorder studio mid-recording: Khalid and his guest Matt Shields on camera, a red REC timer, and a log of what each computer has saved."
+        },
+        {
+          "type": "p",
+          "text": "Shown with footage from my podcast with Matt Shields."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "ycp-pods-sec",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "PODCASTS I RECORDED THIS WAY"
+        },
+        {
+          "type": "p",
+          "text": "Each guest joined from their own computer and was recorded in full quality on their side. Yapcorder gives anyone that same setup."
+        },
+        {
+          "type": "img",
+          "src": "https://i.ytimg.com/vi/SrJT1Y5aCsw/hqdefault.jpg",
+          "alt": ""
+        },
+        {
+          "type": "p",
+          "text": "Blake Hutchison, CEO of Flippa\nHow to make money flipping websites"
+        },
+        {
+          "type": "img",
+          "src": "https://i.ytimg.com/vi/i1bcI3xHzmk/hqdefault.jpg",
+          "alt": ""
+        },
+        {
+          "type": "p",
+          "text": "Spencer Haws, Niche Pursuits\nHow to make money online, step by step"
+        },
+        {
+          "type": "img",
+          "src": "https://i.ytimg.com/vi/ODmZMVFl_kk/hqdefault.jpg",
+          "alt": ""
+        },
+        {
+          "type": "p",
+          "text": "Matt Shields\nStarting a social media marketing agency with no money"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW IT WORKS"
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/check-v3.png",
+          "alt": "The check screen before joining: camera preview, microphone level, and four green checks."
+        },
+        {
+          "type": "h3",
+          "text": "1CHECK"
+        },
+        {
+          "type": "p",
+          "text": "Open the studio. Your camera, microphone, browser and free space are checked before you start."
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/waiting-room-v3.png",
+          "alt": "The host's studio with a guest named Matt waiting, and Let in and Deny buttons."
+        },
+        {
+          "type": "h3",
+          "text": "2LET IN"
+        },
+        {
+          "type": "p",
+          "text": "Send your guest one link. They wait until you click Let in, so only people you invite get in."
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/studio-v3.png",
+          "alt": "The studio mid-recording: host and guest on camera, a red REC timer and the station log."
+        },
+        {
+          "type": "h3",
+          "text": "3RECORD"
+        },
+        {
+          "type": "p",
+          "text": "Press Start recording. Both computers record in full quality while the log shows what is saved."
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/files-v3.png",
+          "alt": "The files page: a video file and an audio file for each person, all marked Complete."
+        },
+        {
+          "type": "h3",
+          "text": "4DOWNLOAD"
+        },
+        {
+          "type": "p",
+          "text": "Stop, and the files are ready: a video and an audio file per person, plus a timeline for your editor."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "ycp-dark",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BUILT SO A RECORDING DOES NOT GO MISSING"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "19:03:10\nYou press Start recording. Both computers record in full quality.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "19:41:52\nYour guest's Wi-Fi drops for a minute. The call freezes. The recording does not.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "19:42:57\nTheir connection is back. The pieces saved on their computer upload by themselves.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "19:58:20\nYou press Stop. Every piece of every file is counted.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "SAVED BEFORE IT IS SENT"
+        },
+        {
+          "type": "p",
+          "text": "Every few seconds the recording is written to the person's own computer first, then uploaded. Nothing waits on the call."
+        },
+        {
+          "type": "h3",
+          "text": "A CLOSED TAB IS NOT THE END"
+        },
+        {
+          "type": "p",
+          "text": "If a guest closes the tab or their laptop crashes, they open the same link again and the rest uploads."
+        },
+        {
+          "type": "h3",
+          "text": "MUTING ONLY AFFECTS THE CALL"
+        },
+        {
+          "type": "p",
+          "text": "Hide your camera or mute for a cough. Your recording keeps running, so your editor decides what to cut."
+        },
+        {
+          "type": "h3",
+          "text": "EVERY PIECE IS COUNTED"
+        },
+        {
+          "type": "p",
+          "text": "Your files page shows whether every part of every file arrived. You never find out at the edit."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "EASY FOR YOUR GUESTS"
+        },
+        {
+          "type": "p",
+          "text": "Guests click your link, check their camera and microphone, and wait for you to let them in. Nothing to install, no account to make. When you finish, their recording finishes uploading and they can close the tab."
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/guest-waiting-v3.png",
+          "alt": "A guest's phone: waiting for the host to let them in."
+        },
+        {
+          "type": "img",
+          "src": "/media/yapcorder/guest-done-v3.png",
+          "alt": "A guest's phone after recording: everything is uploaded."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW YAPCORDER COMPARES"
+        },
+        {
+          "type": "p",
+          "text": "Six tools people use to record podcasts remotely, side by side. Prices are each tool’s own, in US dollars."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "FEATURE",
+            "YAPCORDER",
+            "RIVERSIDE",
+            "ZENCASTR",
+            "STREAMYARD",
+            "DESCRIPT",
+            "ZOOM",
+            "What it is"
+          ],
+          "rows": [
+            [
+              "FEATURE",
+              "YAPCORDER",
+              "RIVERSIDE",
+              "ZENCASTR",
+              "STREAMYARD",
+              "DESCRIPT",
+              "ZOOM"
+            ],
+            [
+              "What it is",
+              "A podcast recorder",
+              "Recorder and AI video editor",
+              "Recorder, editor and podcast hosting",
+              "Live streaming studio",
+              "Video editor with a recording room",
+              "Video meetings"
+            ],
+            [
+              "Paid plans from",
+              "$2 a month",
+              "$29 a month ($24 billed yearly)",
+              "Free plan, or Enterprise by quote",
+              "$18.99 a month ($14.99 yearly)",
+              "$24 a month ($16 yearly)",
+              "$16.99 a month ($14.16 yearly)"
+            ],
+            [
+              "Each person recorded on their own computer",
+              "Yes, every plan",
+              "Yes",
+              "Yes, on the free plan",
+              "2 hours a month free, more from $44.99",
+              "Separate tracks on paid plans",
+              "No, it records the call"
+            ],
+            [
+              "Free to try",
+              "60 minutes, no card, no watermark",
+              "2 hours, with a watermark",
+              "Free plan",
+              "2 hours of local recording a month",
+              "1 hour, 720p, with a watermark",
+              "Meetings up to 40 minutes"
+            ],
+            [
+              "Best video quality",
+              "1080p",
+              "4K",
+              "4K",
+              "4K on the Advanced plan",
+              "4K on the Creator plan",
+              "The call's own quality"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If you want AI editing, live streaming or hosting in the same place, the bigger tools do more. Yapcorder does one job: a clean file for every person, a files page that counts every piece, and a timeline your editor can import, for $2 or $10 a month."
+        },
+        {
+          "type": "p",
+          "text": "Checked on each tool’s pricing page in October 2026. Prices change, so check before you buy."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "TWO PLANS, BOTH MONTHLY"
+        },
+        {
+          "type": "p",
+          "text": "Not sure yet? Try 60 minutes free first. No card needed."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "plan",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "GET STARTER FOR $2"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "plan",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "GET PRO FOR $10"
+        },
+        {
+          "type": "p",
+          "text": "IF A RECORDING GOES MISSING, YOU GET THAT MONTH BACK\nEvery piece of every file is counted. If Yapcorder ever loses one of your recordings, email me and I will refund that month in full."
+        },
+        {
+          "type": "p",
+          "text": "Prices in US dollars. Cancel any time. Payments are handled by Stripe. Already subscribed? Sign in."
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "ycp-faq-sec",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS"
+        },
+        {
+          "type": "faq",
+          "summary": "Is the free trial really free?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Does my guest need an account?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Which browsers does it work in?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "What happens if someone's internet drops?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "What if a recording goes missing?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "How long do you keep my files?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Can I cancel?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Why did you build this?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Is it finished?",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "className": "ycp-final",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "TRY IT ON YOUR NEXT EPISODE"
+        },
+        {
+          "type": "p",
+          "text": "60 minutes free, in 1080p. No card, no watermark."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "you@example.com",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "START MY FREE TRIAL"
+        }
+      ]
+    }
+  ]
+}

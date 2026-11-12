@@ -1,0 +1,353 @@
+{
+  "route": "/insights/perplexity-seo-guide",
+  "title": "How to Get Your Brand Cited in Perplexity AI | Khalid Farhan",
+  "metaDesc": "Perplexity is one of the fastest-growing AI search engines. Here's the practical guide to getting your brand cited as a source.",
+  "h1": "How to Get Your Brand Cited in Perplexity AI",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GEO & AI SEARCH"
+        },
+        {
+          "type": "h1",
+          "text": "How to Get Your Brand Cited in Perplexity AI"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "20 February 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "9 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Perplexity is one of the fastest-growing AI search engines. Here's the practical guide to getting your brand cited as a source."
+        },
+        {
+          "type": "p",
+          "text": "Perplexity AI is fundamentally different from ChatGPT in one important way: it actually searches the web in real time and cites its sources. When someone asks Perplexity a question, the answer is generated from content that Perplexity's systems retrieved minutes or seconds ago, with specific links shown so the user can verify each claim. This makes it much more useful than ChatGPT for research questions, and it means the route to appearing in Perplexity answers is different from the route to appearing in ChatGPT responses."
+        },
+        {
+          "type": "p",
+          "text": "Perplexity has grown faster than almost any other AI product. It's used heavily by professionals, researchers, and technically sophisticated users. For many queries where someone wants a well-sourced, accurate answer rather than a creative response, it's now the tool of choice. Getting your brand cited as a source matters."
+        },
+        {
+          "type": "h2",
+          "text": "How Perplexity Actually Works"
+        },
+        {
+          "type": "p",
+          "text": "Perplexity uses Retrieval-Augmented Generation (RAG). When a query is submitted, the system first performs a real-time web search, retrieves the most relevant current sources, and then generates an answer synthesising those sources. The sources are displayed alongside the answer with direct citations."
+        },
+        {
+          "type": "p",
+          "text": "This is why Perplexity answers are generally more factually reliable than ChatGPT answers: the generation is grounded in retrieved content rather than in training data alone. It also means that unlike ChatGPT (which uses training data that may be months old), Perplexity can cite content published recently."
+        },
+        {
+          "type": "p",
+          "text": "The citation selection is driven by relevance to the specific query, authority signals of the source (domain quality, number of inbound links, author expertise signals), content quality (specificity, accuracy, directness of the answer), and structural clarity (well-formatted, parseable content is easier to extract from)."
+        },
+        {
+          "type": "h2",
+          "text": "Why It's Different From ChatGPT for GEO Purposes"
+        },
+        {
+          "type": "p",
+          "text": "ChatGPT without Browse uses training data. Getting cited in ChatGPT's training data is a slow process involving high-quality content on authoritative sites that gets crawled over time. Influencing it is a long-term project."
+        },
+        {
+          "type": "p",
+          "text": "Perplexity uses live web search. This means recently published content on a reputable site can appear in Perplexity answers within days or weeks of publication. The feedback loop is much faster. If you publish a well-structured, authoritative piece of content today, it could be cited by Perplexity next week for relevant queries."
+        },
+        {
+          "type": "p",
+          "text": "This makes Perplexity both more actionable for content strategy and more dynamic. Your presence in Perplexity answers can grow quickly with the right content approach, and it can also decline if competitors publish better content on the same topics."
+        },
+        {
+          "type": "h2",
+          "text": "What Kind of Content Perplexity Cites"
+        },
+        {
+          "type": "p",
+          "text": "From observing which sources Perplexity cites regularly, a clear pattern emerges:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Direct, factual answers: Content that states a fact, a number, or a specific answer clearly and near the top of the page. Perplexity is trying to extract citations for specific claims. Content that buries its most valuable information in paragraph eight is harder to cite than content that leads with the answer.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Original data and statistics: Perplexity loves citing specific numbers. If your content includes survey data, research findings, or specific measurements, it becomes much more citable. \"About 60% of Irish SMEs don't have a digital marketing strategy\" is more citable than \"many Irish businesses lack a digital marketing strategy.\"",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Expert-authored content: Content with clear author credentials, professional bio information, and schema markup identifying the author as an expert in their field gets weighted more highly.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Well-structured content: Clear headings, defined terms, FAQ formats, and logically organised information is much easier for Perplexity's retrieval system to parse and attribute than dense blocks of text.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Content on authoritative domains: High-quality, established domains with real backlink profiles are preferred over thin, new, or low-authority sites.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Building Authority Signals That Perplexity Respects"
+        },
+        {
+          "type": "h3",
+          "text": "Real expertise, demonstrated publicly"
+        },
+        {
+          "type": "p",
+          "text": "Perplexity and the AI systems behind it are increasingly sophisticated at distinguishing between content that demonstrates genuine expertise and content that merely assembles information. Writing that includes specific examples from your own experience, that references specific cases or scenarios, that disagrees with conventional wisdom where evidence supports it, signals real expertise in a way that generic overview articles don't."
+        },
+        {
+          "type": "p",
+          "text": "This is not about gaming the algorithm. It's about producing genuinely expert content. The AI signal that detects expert content is approximating the same judgment a knowledgeable human reader would make."
+        },
+        {
+          "type": "h3",
+          "text": "Get cited by other authoritative sources"
+        },
+        {
+          "type": "p",
+          "text": "The web of citations matters. If your content is cited by reputable publications, linked from government or educational sites, and referenced in industry discussions, Perplexity's systems have more evidence that your content is trustworthy. This is the traditional SEO link building argument applied to AI citation authority."
+        },
+        {
+          "type": "p",
+          "text": "For Irish businesses: getting cited in The Irish Times, The Currency, SiliconRepublic, or well-regarded industry publications creates exactly the kind of authoritative citation footprint that benefits Perplexity visibility."
+        },
+        {
+          "type": "h3",
+          "text": "Publish original research and statistics"
+        },
+        {
+          "type": "p",
+          "text": "I've emphasised this in the GEO article and I'll emphasise it again here because it's so effective for Perplexity specifically. Original data from your own research, even small-scale, creates citable statistics that aren't available anywhere else. When someone asks Perplexity a question that your original data answers, and no one else has that data, you're the only possible citation."
+        },
+        {
+          "type": "h2",
+          "text": "Schema Markup for AI Citations"
+        },
+        {
+          "type": "p",
+          "text": "Schema markup helps Perplexity's crawlers understand the structure and authority of your content. Key schema types for Perplexity citation:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Article schema: With author information, publication date, and publisher details. The author property with a Person schema including credentials signals expert authorship.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "FAQPage schema: Makes Q&A content explicitly parseable as discrete question-answer pairs, perfect for Perplexity's citation format.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Dataset schema: If you're publishing research or data, this schema type signals that the content contains citable data.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Speakable schema: Marks content sections that are particularly suitable for voice and AI reading.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Getting on High-Authority Publications"
+        },
+        {
+          "type": "p",
+          "text": "For domains you don't control, the goal is to produce content that appears on sites Perplexity trusts. Guest posting on industry publications, getting quoted by journalists, contributing expert commentary to reputable sites, and being interviewed for industry content all create content about you or by you on high-authority domains."
+        },
+        {
+          "type": "p",
+          "text": "Prioritise platforms with genuine editorial standards, strong domain authority, and active indexing by major search engines. A guest post on a well-regarded industry publication in your sector is worth vastly more than a hundred directory listings."
+        },
+        {
+          "type": "h2",
+          "text": "Monitoring Your Perplexity Presence"
+        },
+        {
+          "type": "p",
+          "text": "The simplest method: run the queries your target customers would use in Perplexity regularly, and track whether your brand or content appears as a citation. Document which queries you appear for and which you don't. This tells you where you have coverage and where gaps exist."
+        },
+        {
+          "type": "p",
+          "text": "Look at the sources that Perplexity is citing for the queries you want to appear in. What domains are getting cited? What type of content from those domains? This competitive intelligence informs both your content strategy and your outreach targets."
+        },
+        {
+          "type": "p",
+          "text": "There are emerging tools for brand monitoring in AI systems, including some that track AI search citation mentions. As the space matures, these tools will become more reliable and more comprehensive. For now, manual monitoring is the most direct method."
+        },
+        {
+          "type": "h2",
+          "text": "The Overlap With Traditional SEO"
+        },
+        {
+          "type": "p",
+          "text": "The good news is that most of what helps you rank in Google also helps you get cited in Perplexity. High-quality content, authoritative backlinks, technical site health, expert authorship, and structured data are all positive signals in both systems. This means a serious investment in traditional SEO creates GEO benefits as a byproduct."
+        },
+        {
+          "type": "p",
+          "text": "The additional, Perplexity-specific optimisation is primarily about content structure (leading with direct answers, using FAQ formats, being specific), original data, and ensuring your schema markup clearly signals expertise and content type. These aren't radical departures from good content practice. They're refinements that align your content with how AI retrieval systems evaluate and extract information."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Perplexity"
+        },
+        {
+          "type": "text",
+          "text": "AI Search"
+        },
+        {
+          "type": "text",
+          "text": "GEO"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nHow to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)",
+          "href": "/insights/chatgpt-for-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSchema Markup: The Complete Guide for SEO and GEO in 2026",
+          "href": "/insights/schema-markup-guide",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nHow to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)\n\nMost marketers use AI tools for writing. But there are far more powerful use cases — here's how I use ChatGPT across my agency and my content work.\n\n28 Feb 2026\n·\n8 min read",
+          "href": "/insights/chatgpt-for-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSchema Markup: The Complete Guide for SEO and GEO in 2026\n\nSchema markup is critical for both Google's rich results and AI answer engines. Here's everything you need to know.\n\n5 Dec 2025\n·\n12 min read",
+          "href": "/insights/schema-markup-guide",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

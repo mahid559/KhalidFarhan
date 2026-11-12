@@ -1,0 +1,740 @@
+{
+  "route": "/resources/marketing-glossary",
+  "title": "Digital Marketing Glossary — 200+ Terms Explained | Khalid Farhan",
+  "metaDesc": "200+ digital marketing terms explained in plain English. From CPL to ROAS, GEO to Core Web Vitals.",
+  "h1": "DIGITAL MARKETING GLOSSARY.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "RESOURCES / GLOSSARY"
+        },
+        {
+          "type": "h1",
+          "text": "DIGITAL MARKETING GLOSSARY."
+        },
+        {
+          "type": "p",
+          "text": "200+ terms explained in plain English. From CPL to ROAS, GEO to Core Web Vitals — the reference guide for marketers."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-sm",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "A",
+          "href": "#letter-A",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "B",
+          "href": "#letter-B",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "C",
+          "href": "#letter-C",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "D",
+          "href": "#letter-D",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E",
+          "href": "#letter-E",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "F",
+          "href": "#letter-F",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "G",
+          "href": "#letter-G",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "I",
+          "href": "#letter-I",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "K",
+          "href": "#letter-K",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "L",
+          "href": "#letter-L",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "M",
+          "href": "#letter-M",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "N",
+          "href": "#letter-N",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "O",
+          "href": "#letter-O",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "P",
+          "href": "#letter-P",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Q",
+          "href": "#letter-Q",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "R",
+          "href": "#letter-R",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "S",
+          "href": "#letter-S",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "T",
+          "href": "#letter-T",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "U",
+          "href": "#letter-U",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "A"
+        },
+        {
+          "type": "p",
+          "text": "A/B Testing"
+        },
+        {
+          "type": "p",
+          "text": "Running two versions of something (ad, landing page, email) simultaneously to see which performs better."
+        },
+        {
+          "type": "p",
+          "text": "Ad Rank"
+        },
+        {
+          "type": "p",
+          "text": "Google's formula for determining where your ad appears in search results. Considers bid, Quality Score, and expected impact of extensions."
+        },
+        {
+          "type": "p",
+          "text": "Attribution"
+        },
+        {
+          "type": "p",
+          "text": "The process of assigning credit to marketing touchpoints that contributed to a conversion."
+        },
+        {
+          "type": "p",
+          "text": "Audience Segmentation"
+        },
+        {
+          "type": "p",
+          "text": "Dividing your audience into groups based on shared characteristics to target them more effectively."
+        },
+        {
+          "type": "p",
+          "text": "Authority"
+        },
+        {
+          "type": "p",
+          "text": "In SEO, how trustworthy and credible Google considers your site based on backlinks and content quality."
+        },
+        {
+          "type": "h2",
+          "text": "B"
+        },
+        {
+          "type": "p",
+          "text": "Backlink"
+        },
+        {
+          "type": "p",
+          "text": "A link from another website pointing to yours. A key factor in SEO authority building."
+        },
+        {
+          "type": "p",
+          "text": "Bounce Rate"
+        },
+        {
+          "type": "p",
+          "text": "The percentage of visitors who leave your site after viewing only one page."
+        },
+        {
+          "type": "p",
+          "text": "Brand Awareness"
+        },
+        {
+          "type": "p",
+          "text": "How familiar your target audience is with your brand and what it represents."
+        },
+        {
+          "type": "p",
+          "text": "Broad Match"
+        },
+        {
+          "type": "p",
+          "text": "A Google Ads keyword match type that shows your ad for related search terms, not just the exact phrase."
+        },
+        {
+          "type": "h2",
+          "text": "C"
+        },
+        {
+          "type": "p",
+          "text": "CPA (Cost Per Acquisition)"
+        },
+        {
+          "type": "p",
+          "text": "How much you spend in advertising to acquire one customer or conversion."
+        },
+        {
+          "type": "p",
+          "text": "CPC (Cost Per Click)"
+        },
+        {
+          "type": "p",
+          "text": "The amount you pay each time someone clicks your ad."
+        },
+        {
+          "type": "p",
+          "text": "CPL (Cost Per Lead)"
+        },
+        {
+          "type": "p",
+          "text": "How much you spend to generate one lead."
+        },
+        {
+          "type": "p",
+          "text": "CRO (Conversion Rate Optimisation)"
+        },
+        {
+          "type": "p",
+          "text": "The practice of improving your website to increase the percentage of visitors who take a desired action."
+        },
+        {
+          "type": "p",
+          "text": "CTR (Click-Through Rate)"
+        },
+        {
+          "type": "p",
+          "text": "The percentage of people who click your ad or link compared to how many saw it."
+        },
+        {
+          "type": "p",
+          "text": "Core Web Vitals"
+        },
+        {
+          "type": "p",
+          "text": "Google's page experience metrics: LCP (loading), INP (interactivity), and CLS (visual stability)."
+        },
+        {
+          "type": "p",
+          "text": "Content Marketing"
+        },
+        {
+          "type": "p",
+          "text": "Creating and distributing valuable content to attract and retain a target audience, with the goal of driving profitable customer action."
+        },
+        {
+          "type": "h2",
+          "text": "D"
+        },
+        {
+          "type": "p",
+          "text": "Domain Authority (DA)"
+        },
+        {
+          "type": "p",
+          "text": "A score (0–100) by Moz predicting how likely a site is to rank in search engines. Not used directly by Google."
+        },
+        {
+          "type": "p",
+          "text": "Dynamic Search Ads (DSA)"
+        },
+        {
+          "type": "p",
+          "text": "Google Ads that automatically generate headlines based on your website content and user search queries."
+        },
+        {
+          "type": "h2",
+          "text": "E"
+        },
+        {
+          "type": "p",
+          "text": "E-E-A-T"
+        },
+        {
+          "type": "p",
+          "text": "Experience, Expertise, Authoritativeness, Trustworthiness — Google's quality rater guidelines for evaluating content quality."
+        },
+        {
+          "type": "p",
+          "text": "Email Marketing"
+        },
+        {
+          "type": "p",
+          "text": "Sending targeted emails to a list of subscribers to nurture relationships and drive conversions."
+        },
+        {
+          "type": "p",
+          "text": "Engagement Rate"
+        },
+        {
+          "type": "p",
+          "text": "The percentage of people who interact with your content (likes, comments, shares) versus those who saw it."
+        },
+        {
+          "type": "h2",
+          "text": "F"
+        },
+        {
+          "type": "p",
+          "text": "Facebook Pixel"
+        },
+        {
+          "type": "p",
+          "text": "A piece of code that tracks visitor actions on your website and enables retargeting through Meta Ads."
+        },
+        {
+          "type": "p",
+          "text": "First-Party Data"
+        },
+        {
+          "type": "p",
+          "text": "Data you collect directly from your customers and website visitors, as opposed to data purchased from third parties."
+        },
+        {
+          "type": "p",
+          "text": "Funnel"
+        },
+        {
+          "type": "p",
+          "text": "The stages a potential customer moves through from awareness to purchase."
+        },
+        {
+          "type": "h2",
+          "text": "G"
+        },
+        {
+          "type": "p",
+          "text": "GEO (Generative Engine Optimisation)"
+        },
+        {
+          "type": "p",
+          "text": "The practice of optimising your content and brand presence to appear in AI-generated answers (ChatGPT, Perplexity, Google AI Overviews)."
+        },
+        {
+          "type": "p",
+          "text": "Google Business Profile (GBP)"
+        },
+        {
+          "type": "p",
+          "text": "Google's free tool for managing how your business appears in Google Search and Maps. Critical for local SEO."
+        },
+        {
+          "type": "p",
+          "text": "Google Search Console"
+        },
+        {
+          "type": "p",
+          "text": "Google's free tool for monitoring your site's presence in search results."
+        },
+        {
+          "type": "p",
+          "text": "Guest Posting"
+        },
+        {
+          "type": "p",
+          "text": "Writing articles for other websites to build backlinks and brand authority."
+        },
+        {
+          "type": "h2",
+          "text": "I"
+        },
+        {
+          "type": "p",
+          "text": "Impression"
+        },
+        {
+          "type": "p",
+          "text": "One instance of your ad or content being displayed to a user."
+        },
+        {
+          "type": "p",
+          "text": "INP (Interaction to Next Paint)"
+        },
+        {
+          "type": "p",
+          "text": "A Core Web Vital measuring how quickly a page responds to user interactions. Should be under 200ms."
+        },
+        {
+          "type": "p",
+          "text": "Intent (Search)"
+        },
+        {
+          "type": "p",
+          "text": "The reason behind a user's search query — informational, navigational, or transactional."
+        },
+        {
+          "type": "h2",
+          "text": "K"
+        },
+        {
+          "type": "p",
+          "text": "Keyword"
+        },
+        {
+          "type": "p",
+          "text": "A word or phrase people type into search engines. The foundation of SEO and paid search strategy."
+        },
+        {
+          "type": "p",
+          "text": "Keyword Density"
+        },
+        {
+          "type": "p",
+          "text": "How often a keyword appears in a piece of content relative to total word count. Over-optimisation is penalised."
+        },
+        {
+          "type": "p",
+          "text": "KPI (Key Performance Indicator)"
+        },
+        {
+          "type": "p",
+          "text": "A measurable value that demonstrates how effectively you're achieving business objectives."
+        },
+        {
+          "type": "h2",
+          "text": "L"
+        },
+        {
+          "type": "p",
+          "text": "Landing Page"
+        },
+        {
+          "type": "p",
+          "text": "A standalone web page designed for a specific marketing campaign, optimised for a single conversion action."
+        },
+        {
+          "type": "p",
+          "text": "LCP (Largest Contentful Paint)"
+        },
+        {
+          "type": "p",
+          "text": "A Core Web Vital measuring how long it takes for the main content of a page to load. Should be under 2.5s."
+        },
+        {
+          "type": "p",
+          "text": "Lead Generation"
+        },
+        {
+          "type": "p",
+          "text": "The process of attracting and converting strangers into prospects who have expressed interest in your product or service."
+        },
+        {
+          "type": "p",
+          "text": "Link Building"
+        },
+        {
+          "type": "p",
+          "text": "The process of acquiring backlinks from other websites to improve search engine rankings."
+        },
+        {
+          "type": "p",
+          "text": "Local SEO"
+        },
+        {
+          "type": "p",
+          "text": "Optimising your online presence to attract more customers from relevant local searches."
+        },
+        {
+          "type": "h2",
+          "text": "M"
+        },
+        {
+          "type": "p",
+          "text": "Meta Description"
+        },
+        {
+          "type": "p",
+          "text": "The short description that appears under your page title in search results. Doesn't directly affect rankings but influences CTR."
+        },
+        {
+          "type": "p",
+          "text": "Meta Ads"
+        },
+        {
+          "type": "p",
+          "text": "Advertising on Facebook and Instagram through Meta's Ads Manager platform."
+        },
+        {
+          "type": "p",
+          "text": "MQL (Marketing Qualified Lead)"
+        },
+        {
+          "type": "p",
+          "text": "A lead that has shown enough interest to be considered ready for sales follow-up."
+        },
+        {
+          "type": "h2",
+          "text": "N"
+        },
+        {
+          "type": "p",
+          "text": "NAP"
+        },
+        {
+          "type": "p",
+          "text": "Name, Address, Phone Number — must be consistent across all online directories for local SEO."
+        },
+        {
+          "type": "p",
+          "text": "Negative Keywords"
+        },
+        {
+          "type": "p",
+          "text": "Keywords you exclude from your Google Ads campaigns to prevent your ads showing for irrelevant searches."
+        },
+        {
+          "type": "h2",
+          "text": "O"
+        },
+        {
+          "type": "p",
+          "text": "Organic Traffic"
+        },
+        {
+          "type": "p",
+          "text": "Visitors who arrive at your website through unpaid search results."
+        },
+        {
+          "type": "p",
+          "text": "Off-Page SEO"
+        },
+        {
+          "type": "p",
+          "text": "SEO tactics that happen outside your website — primarily backlink building and brand mentions."
+        },
+        {
+          "type": "p",
+          "text": "On-Page SEO"
+        },
+        {
+          "type": "p",
+          "text": "Optimising elements on your website itself — titles, headings, content, internal links, image alt text."
+        },
+        {
+          "type": "h2",
+          "text": "P"
+        },
+        {
+          "type": "p",
+          "text": "PPC (Pay-Per-Click)"
+        },
+        {
+          "type": "p",
+          "text": "An advertising model where you pay each time someone clicks your ad. Includes Google Ads and Meta Ads."
+        },
+        {
+          "type": "p",
+          "text": "Performance Max"
+        },
+        {
+          "type": "p",
+          "text": "A Google Ads campaign type that uses AI to show ads across all Google channels from a single campaign."
+        },
+        {
+          "type": "h2",
+          "text": "Q"
+        },
+        {
+          "type": "p",
+          "text": "Quality Score"
+        },
+        {
+          "type": "p",
+          "text": "Google's rating (1–10) of your keywords, ads, and landing pages. Higher Quality Score = lower costs and better ad positions."
+        },
+        {
+          "type": "h2",
+          "text": "R"
+        },
+        {
+          "type": "p",
+          "text": "ROAS (Return on Ad Spend)"
+        },
+        {
+          "type": "p",
+          "text": "How much revenue you generate for every pound/euro/dollar spent on advertising."
+        },
+        {
+          "type": "p",
+          "text": "Remarketing / Retargeting"
+        },
+        {
+          "type": "p",
+          "text": "Showing ads to people who have previously visited your website."
+        },
+        {
+          "type": "p",
+          "text": "Rich Snippets"
+        },
+        {
+          "type": "p",
+          "text": "Enhanced search results that include extra information like ratings, prices, or FAQs, generated from structured data."
+        },
+        {
+          "type": "h2",
+          "text": "S"
+        },
+        {
+          "type": "p",
+          "text": "Schema Markup"
+        },
+        {
+          "type": "p",
+          "text": "Structured data added to your HTML that helps search engines and AI tools understand your content."
+        },
+        {
+          "type": "p",
+          "text": "SEO (Search Engine Optimisation)"
+        },
+        {
+          "type": "p",
+          "text": "The practice of improving your website to rank higher in organic search results."
+        },
+        {
+          "type": "p",
+          "text": "SERP (Search Engine Results Page)"
+        },
+        {
+          "type": "p",
+          "text": "The page Google displays in response to a user's search query."
+        },
+        {
+          "type": "p",
+          "text": "Social Proof"
+        },
+        {
+          "type": "p",
+          "text": "Evidence that others have used and benefited from your product or service — reviews, testimonials, case studies."
+        },
+        {
+          "type": "h2",
+          "text": "T"
+        },
+        {
+          "type": "p",
+          "text": "Technical SEO"
+        },
+        {
+          "type": "p",
+          "text": "Optimising the technical aspects of your website to help search engines crawl, index, and understand your content."
+        },
+        {
+          "type": "p",
+          "text": "Title Tag"
+        },
+        {
+          "type": "p",
+          "text": "The HTML element that specifies the title of a webpage. Appears in search results and browser tabs."
+        },
+        {
+          "type": "p",
+          "text": "Top of Funnel (ToFu)"
+        },
+        {
+          "type": "p",
+          "text": "Marketing aimed at building awareness among people who don't yet know your brand."
+        },
+        {
+          "type": "h2",
+          "text": "U"
+        },
+        {
+          "type": "p",
+          "text": "UX (User Experience)"
+        },
+        {
+          "type": "p",
+          "text": "How easy and enjoyable your website is for visitors to use. Increasingly important for both SEO and conversions."
+        },
+        {
+          "type": "p",
+          "text": "UTM Parameters"
+        },
+        {
+          "type": "p",
+          "text": "Tags added to URLs to track the source, medium, and campaign of website traffic in analytics tools."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "route": "/insights/what-is-generative-engine-optimisation",
+  "title": "What Is Generative Engine Optimisation (GEO) And Why It Matters in 2026 | Khalid Farhan",
+  "metaDesc": "GEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.",
+  "h1": "What Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GEO & AI SEARCH"
+        },
+        {
+          "type": "h1",
+          "text": "What Is Generative Engine Optimisation (GEO) And Why It Matters in 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "10 April 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "8 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it."
+        },
+        {
+          "type": "p",
+          "text": "A few years ago, if someone wanted to find an accountant in Dublin, they'd open Google, type \"accountant Dublin\", scan the results, and click a link. That journey still happens millions of times a day. But increasingly, it doesn't. Instead, they open ChatGPT and ask \"who are good accountants in Dublin?\" or they use Perplexity to research \"what should I look for in a small business accountant?\" and get a direct answer, with sources, no clicking required."
+        },
+        {
+          "type": "p",
+          "text": "This shift is what Generative Engine Optimisation is about. GEO is the practice of optimising your content and your online presence so that AI answer engines cite you, reference you, and recommend you, not just so that Google ranks your page."
+        },
+        {
+          "type": "p",
+          "text": "It is not a replacement for SEO. It is what you now need to do in addition to SEO if you want to be found by the people using AI tools to make decisions."
+        },
+        {
+          "type": "h2",
+          "text": "What Exactly Are \"Generative Engines\"?"
+        },
+        {
+          "type": "p",
+          "text": "The term covers any AI system that generates a direct answer to a query rather than simply returning a list of links. The main ones worth caring about in 2026 are:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "ChatGPT (OpenAI) - still the most used AI assistant globally, with Browse mode that can search the live web",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Perplexity AI - built specifically as a search replacement, using retrieval-augmented generation to pull real-time sources",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google AI Overviews - what used to be called SGE, now showing at the top of Google results for a wide range of queries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Gemini (Google) - the standalone assistant that increasingly integrates with Google Search",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Claude (Anthropic) - used by developers, professionals, and increasingly enterprises",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Microsoft Copilot - integrated into Edge and Windows, using Bing's index as its backbone",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Each one works slightly differently. But they all share a core behaviour: they synthesise information from multiple sources and present a confident, direct answer. Whether your brand gets included in that answer, or whether a competitor does, is what GEO is about."
+        },
+        {
+          "type": "h2",
+          "text": "How AI Systems Pick Their Sources (And Why It's Different From Google)"
+        },
+        {
+          "type": "p",
+          "text": "Google's traditional ranking algorithm evaluates hundreds of signals: backlinks, page speed, keyword relevance, click-through rate, user behaviour, and more. The output is a ranked list of pages, and users choose which ones to visit. Your goal with SEO is to get on that list, ideally in the top three positions."
+        },
+        {
+          "type": "p",
+          "text": "Generative engines work differently. They don't return a list and let the user choose. They synthesise an answer and may cite a handful of sources that informed it. The selection process favours:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Authority and credibility signals - Is this source referenced by other authoritative sources? Does it have genuine expertise signals?",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Clarity and directness - Does the content directly answer the type of question being asked? Content that is vague or padded gets passed over in favour of content that is specific and precise.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Structured, parseable content - AI systems parse content more easily when it is well-structured. Clear headings, numbered lists, defined terms, FAQ formats.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Factual density - Content with specific data points, statistics, named examples, and cited research is preferred over generic commentary.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Freshness - Particularly for tools like Perplexity that search live, recent content matters.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The big difference from traditional SEO: a page can rank position one on Google and never be cited by an AI, because the content is too vague, too padded, or structured in a way that AI systems can't extract clean, citable information from."
+        },
+        {
+          "type": "h2",
+          "text": "Why Traditional SEO Alone Is No Longer Enough"
+        },
+        {
+          "type": "p",
+          "text": "This is not an argument that SEO is dead. It isn't. Organic search still drives the majority of web traffic. But the shape of that traffic is changing."
+        },
+        {
+          "type": "p",
+          "text": "In 2024, Google reported that AI Overviews appeared in a significant percentage of search results. Studies have shown that when an AI Overview appears, click-through rates to organic results drop substantially, in some cases by 30-60% for informational queries. People get their answer without visiting your site."
+        },
+        {
+          "type": "p",
+          "text": "At the same time, Perplexity has grown rapidly as a search alternative. ChatGPT's Browse mode is used regularly by tens of millions of users for research and purchasing decisions. If someone asks an AI whether they should hire your agency, or which accountant in Cork is reputable, or which Irish solicitor handles commercial leases, and your name doesn't come up, you've lost a potential client without ever knowing they were looking."
+        },
+        {
+          "type": "p",
+          "text": "The businesses winning in 2026 are treating GEO as a parallel discipline alongside SEO, not something separate, but something that requires its own attention and its own content strategy."
+        },
+        {
+          "type": "h2",
+          "text": "Practical GEO Tactics: What Actually Works"
+        },
+        {
+          "type": "h3",
+          "text": "1. Build genuine authority signals"
+        },
+        {
+          "type": "p",
+          "text": "AI systems, particularly those with access to the web, heavily weight what I'd call \"authority by association\". If reputable publications, industry directories, and established websites reference your brand or cite your content, the AI systems that index those sources will develop a more confident picture of who you are and what you know."
+        },
+        {
+          "type": "p",
+          "text": "This means: get featured in Irish business press. Get quoted in industry articles. Contribute to legitimate industry publications. Appear on podcasts. Be mentioned in Wikipedia-adjacent pages if your niche allows it. These aren't just backlinks for Google, they're proof of existence and credibility for AI systems that are building a world model."
+        },
+        {
+          "type": "h3",
+          "text": "2. Write with direct answers first"
+        },
+        {
+          "type": "p",
+          "text": "AI systems extract content by finding the most direct answer to a query. If someone asks \"how long does planning permission take in Ireland?\" and your page about planning services buries the answer in paragraph eight after four paragraphs of scene-setting, the AI skips it. If your page says in paragraph one: \"In Ireland, planning permission typically takes 8 to 10 weeks after a valid application is submitted, though this varies by local authority,\" the AI can extract and cite that."
+        },
+        {
+          "type": "p",
+          "text": "This is a real shift in how to write. The classic SEO approach of building up to the answer has less value in a GEO world. State the core fact or answer first, then add the nuance, context, and depth below it."
+        },
+        {
+          "type": "h3",
+          "text": "3. Create FAQ sections for every important topic"
+        },
+        {
+          "type": "p",
+          "text": "FAQ format is extraordinarily well-suited to how AI answer engines process content. Each question-answer pair is self-contained. The AI can pull a specific Q&A and attribute it cleanly. FAQ schema markup (more on that in a moment) makes this even more effective."
+        },
+        {
+          "type": "p",
+          "text": "For every service page and every important content piece, add a FAQ section with five to ten specific, genuine questions your customers ask. Write the answers in plain, direct language. Avoid corporate filler. This is one of the highest-leverage GEO tactics available right now."
+        },
+        {
+          "type": "h3",
+          "text": "4. Use schema markup, particularly FAQ and Article schema"
+        },
+        {
+          "type": "p",
+          "text": "Schema markup tells search engines and AI crawlers the type of content on a page. FAQPage schema tells an AI crawler that here are structured question-answer pairs. Article schema with proper author information and publication date signals credibility and freshness. Organization schema establishes your business's identity clearly."
+        },
+        {
+          "type": "p",
+          "text": "JSON-LD format, which Google recommends, is the cleanest way to implement this. It doesn't pollute your HTML and is easy to add in a CMS or directly in your page templates. Every serious page on your site should have appropriate schema."
+        },
+        {
+          "type": "h3",
+          "text": "5. Publish original research and data"
+        },
+        {
+          "type": "p",
+          "text": "This is one of the most powerful GEO tactics, and also one of the hardest. AI systems love data. When they're answering a question that has a quantitative dimension, they look for sources that have actual numbers, not just general commentary."
+        },
+        {
+          "type": "p",
+          "text": "If you can publish original research, even small-scale surveys of your customer base, or analysis of data you have access to through your work, this becomes highly citable content. \"According to a 2026 survey by [your agency]...\" is the kind of phrase that appears in AI-generated answers, because AI systems cite quantitative claims."
+        },
+        {
+          "type": "p",
+          "text": "You don't need to commission a major research study. Analyse your own client data (anonymised). Survey 50 business owners in your niche. Track a metric in your industry for six months and publish the results. The bar for original data is lower than most people think."
+        },
+        {
+          "type": "h3",
+          "text": "6. Get cited on high-authority domains that AI systems index"
+        },
+        {
+          "type": "p",
+          "text": "Certain domains carry more weight in AI training data and in real-time AI search. Wikipedia, government sites, established news publications, well-known industry bodies. If you can get mentioned or cited on these types of sites, the signal carries through to how AI systems perceive your authority."
+        },
+        {
+          "type": "p",
+          "text": "For Irish businesses: getting a mention in The Irish Times, Irish Examiner, SiliconRepublic, The Currency, or similar publications matters far more for GEO than a link in a directory no one reads."
+        },
+        {
+          "type": "h2",
+          "text": "How to Check if AI Tools Currently Cite Your Brand"
+        },
+        {
+          "type": "p",
+          "text": "The simplest method: go to ChatGPT, Perplexity, and Claude and ask the questions your target customers would ask. See if your brand comes up."
+        },
+        {
+          "type": "p",
+          "text": "For example: \"Who are the best digital marketing agencies in Ireland?\" or \"What are the top SEO agencies in Dublin?\" or more specific: \"Who should I hire for Google Ads in Ireland?\" Note what comes up, who gets cited, and what content seems to be driving those citations."
+        },
+        {
+          "type": "p",
+          "text": "For Perplexity specifically, you can see exactly which sources it's pulling from in real time. This is invaluable. If a competitor keeps appearing as a cited source, go to that source and understand what they've published that's getting picked up."
+        },
+        {
+          "type": "p",
+          "text": "Do this monthly. The AI landscape changes fast, and what gets cited shifts as new content is published and indexed."
+        },
+        {
+          "type": "h2",
+          "text": "Real Examples of Businesses Winning at GEO"
+        },
+        {
+          "type": "p",
+          "text": "I've seen a pattern in the businesses that appear consistently in AI answers: they have invested heavily in genuinely useful, specific, expert content. Not content written by a generic AI tool, but content written by or under the close direction of someone who actually knows the subject."
+        },
+        {
+          "type": "p",
+          "text": "A financial advisory firm that published a series of very specific guides to Irish pension rules, naming specific Revenue guidance and legislation, finds itself cited regularly by AI tools when people ask pension questions. The specificity and accuracy are what make it citable."
+        },
+        {
+          "type": "p",
+          "text": "A B2B software company that surveyed their customer base and published the results gets cited in AI answers about industry benchmarks. Original data, even from a modest survey, punches far above its weight."
+        },
+        {
+          "type": "p",
+          "text": "A law firm that wrote detailed explainers of Irish commercial law topics, with specific examples and case references, appears regularly in Perplexity answers for legal research queries. The professional credential combined with specific content is a powerful combination."
+        },
+        {
+          "type": "h2",
+          "text": "Your GEO Starting Checklist"
+        },
+        {
+          "type": "p",
+          "text": "If you want to start improving your GEO performance today, here is where to begin:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Audit your current presence: Ask ChatGPT and Perplexity the questions your customers would ask. Document what comes up and what doesn't.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Add FAQ sections: Every service page and key blog post should have five to ten specific, clearly-answered FAQs.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Implement schema markup: At minimum: Organization, LocalBusiness (if relevant), Article on blog posts, and FAQPage on FAQ content.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Write with the answer first: Restructure any important pages so the direct answer to the main question appears in the first two paragraphs.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Plan one piece of original research: Survey your customers, analyse your client data, or track an industry metric. Publish the findings as a standalone piece.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Pursue high-authority mentions: Identify three to five publications or platforms in your industry that AI systems demonstrably cite. Create a plan to get mentioned there.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Maintain consistency: Your business name, address, description, and areas of expertise should be identical across your website, Google Business Profile, LinkedIn, and any press mentions. Inconsistency confuses AI systems building a picture of your brand.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "GEO is early enough that businesses who start now will have a meaningful head start. In two years, it will be as table-stakes as having a Google Business Profile. The businesses building these foundations now will be the ones the AI recommends when your next potential customer asks."
+        },
+        {
+          "type": "p",
+          "text": "If you want help auditing your current GEO presence and building a strategy to improve it, get in touch for a free audit. This is something we're working on for clients right now, and the early results are genuinely exciting."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "GEO"
+        },
+        {
+          "type": "text",
+          "text": "AI Search"
+        },
+        {
+          "type": "text",
+          "text": "SEO"
+        },
+        {
+          "type": "text",
+          "text": "ChatGPT"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nHow to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)",
+          "href": "/insights/chatgpt-for-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nHow to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)\n\nMost marketers use AI tools for writing. But there are far more powerful use cases — here's how I use ChatGPT across my agency and my content work.\n\n28 Feb 2026\n·\n8 min read",
+          "href": "/insights/chatgpt-for-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

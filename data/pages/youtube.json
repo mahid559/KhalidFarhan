@@ -1,0 +1,208 @@
+{
+  "route": "/youtube",
+  "title": "YouTube — Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Free marketing and entrepreneurship videos on YouTube. SEO guides, business strategy, and life as a Bangladeshi entrepreneur in Ireland.",
+  "h1": "FREE MARKETING EDUCATION.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "YOUTUBE"
+        },
+        {
+          "type": "h1",
+          "text": "FREE MARKETING EDUCATION."
+        },
+        {
+          "type": "p",
+          "text": "Practical SEO, paid media, and business videos. No padding, no filler — just the stuff that works."
+        },
+        {
+          "type": "link",
+          "text": "Subscribe on YouTube",
+          "href": "https://youtube.com/@khalidfarhan",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "68+"
+        },
+        {
+          "type": "p",
+          "text": "VIDEOS"
+        },
+        {
+          "type": "p",
+          "text": "6"
+        },
+        {
+          "type": "p",
+          "text": "PLAYLISTS"
+        },
+        {
+          "type": "p",
+          "text": "Free"
+        },
+        {
+          "type": "p",
+          "text": "FOREVER"
+        },
+        {
+          "type": "p",
+          "text": "BD · IE"
+        },
+        {
+          "type": "p",
+          "text": "MARKETS"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "FEATURED VIDEOS"
+        },
+        {
+          "type": "link",
+          "text": "12:34\n\n2026 CHALLENGE\n\nThe 2026 Marketing Challenge — What It Is and How to Join",
+          "href": "https://youtube.com/watch?v=JeC1Tb3XP2w",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/JeC1Tb3XP2w/mqdefault.jpg",
+              "alt": "The 2026 Marketing Challenge — What It Is and How to Join"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "18:22\n\nSEO\n\nHow I Got 200% SEO Growth for a Client in 9 Months",
+          "href": "https://youtube.com/watch?v=JeC1Tb3XP2w",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/JeC1Tb3XP2w/mqdefault.jpg",
+              "alt": "How I Got 200% SEO Growth for a Client in 9 Months"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "28:14\n\nGOOGLE ADS\n\nGoogle Ads for Beginners — Full Campaign Setup 2026",
+          "href": "https://youtube.com/watch?v=JeC1Tb3XP2w",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/JeC1Tb3XP2w/mqdefault.jpg",
+              "alt": "Google Ads for Beginners — Full Campaign Setup 2026"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "14:08\n\nGEO & AI SEARCH\n\nWhat is GEO? Generative Engine Optimisation Explained",
+          "href": "https://youtube.com/watch?v=JeC1Tb3XP2w",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/JeC1Tb3XP2w/mqdefault.jpg",
+              "alt": "What is GEO? Generative Engine Optimisation Explained"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "22:45\n\nENTREPRENEURSHIP\n\nHow I Built a Marketing Agency in Ireland",
+          "href": "https://youtube.com/watch?v=JeC1Tb3XP2w",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/JeC1Tb3XP2w/mqdefault.jpg",
+              "alt": "How I Built a Marketing Agency in Ireland"
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "16:30\n\nMETA ADS\n\nMeta Ads After iOS — The Complete Fix",
+          "href": "https://youtube.com/watch?v=JeC1Tb3XP2w",
+          "imgs": [
+            {
+              "src": "https://img.youtube.com/vi/JeC1Tb3XP2w/mqdefault.jpg",
+              "alt": "Meta Ads After iOS — The Complete Fix"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "PLAYLISTS"
+        },
+        {
+          "type": "link",
+          "text": "18 VIDEOS\n\nSEO Tutorials\n\nPractical SEO guides from keyword research to technical audits. No fluff.",
+          "href": "/youtube/playlist/seo-tutorials",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "12 VIDEOS\n\nGoogle Ads Masterclass\n\nCampaign setup, bidding strategy, and optimisation — step by step.",
+          "href": "/youtube/playlist/google-ads-masterclass",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "8 VIDEOS\n\n2026 Challenge (Free Previews)\n\nFree previews from the 2026 Challenge. See the live build in action.",
+          "href": "/youtube/playlist/2026-challenge-free",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "14 VIDEOS\n\nEntrepreneurship in Ireland\n\nWhat it's like building a business in Ireland as an immigrant entrepreneur.",
+          "href": "/youtube/playlist/entrepreneurship-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "10 VIDEOS\n\nDigital Marketing Fundamentals\n\nBack-to-basics digital marketing education. Great for beginners.",
+          "href": "/youtube/playlist/digital-marketing-fundamentals",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "6 VIDEOS\n\nGEO & AI Search\n\nGetting your brand found in AI-powered search engines like ChatGPT and Perplexity.",
+          "href": "/youtube/playlist/geo-ai-search",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "SUBSCRIBE FOR FREE MARKETING EDUCATION."
+        },
+        {
+          "type": "link",
+          "text": "Subscribe on YouTube",
+          "href": "https://youtube.com/@khalidfarhan",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

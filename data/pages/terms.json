@@ -1,0 +1,213 @@
+{
+  "route": "/terms",
+  "title": "Terms of Service — Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Terms of service for khalidfarhan.com and all programmes offered by Khalid Farhan.",
+  "h1": "TERMS OF SERVICE.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LEGAL"
+        },
+        {
+          "type": "h1",
+          "text": "TERMS OF SERVICE."
+        },
+        {
+          "type": "p",
+          "text": "Last updated: 22 October 2026"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "1. Acceptance of terms"
+        },
+        {
+          "type": "p",
+          "text": "By accessing and using khalidfarhan.com, you accept and agree to be bound by these Terms of Service. If you do not agree, please do not use this website."
+        },
+        {
+          "type": "h2",
+          "text": "2. Services"
+        },
+        {
+          "type": "p",
+          "text": "khalidfarhan.com provides digital marketing agency services, educational programmes (including the 2026 Challenge), and free content resources. Specific terms for individual services are provided at the point of purchase or engagement."
+        },
+        {
+          "type": "h2",
+          "text": "3. Payments and billing"
+        },
+        {
+          "type": "p",
+          "text": "All prices displayed are the total amount due unless stated otherwise. Payments are processed securely by Stripe (international) or SSLCommerz (Bangladesh). We do not store payment card details."
+        },
+        {
+          "type": "h2",
+          "text": "4. Refunds"
+        },
+        {
+          "type": "p",
+          "text": "Refund policies vary by product:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "2026 Challenge: No refunds. See our Challenge Refund Policy.",
+              "href": "/challenge/refund-policy",
+              "imgs": []
+            },
+            {
+              "text": "EnglishAi: All sales final. Monthly access is a single 30-day purchase that does not auto-renew. Lifetime access is a one-time purchase per account and does not renew. Older USD subscriptions renew every year until you cancel, and you can cancel any time using the link in your receipt.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Agency services: Governed by your individual service agreement.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "5. Intellectual property"
+        },
+        {
+          "type": "p",
+          "text": "All content on this website — including text, images, videos, and course materials — is owned by Khalid Farhan unless otherwise stated. You may not reproduce, distribute, or create derivative works without express written permission."
+        },
+        {
+          "type": "h2",
+          "text": "6. User conduct"
+        },
+        {
+          "type": "p",
+          "text": "You agree not to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Use this site for any unlawful purpose",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Attempt to gain unauthorised access to any part of the site",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Reproduce or resell any course content",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Harass other community members",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "7. Disclaimer of warranties"
+        },
+        {
+          "type": "p",
+          "text": "This website is provided “as is” without any warranties of any kind. We do not guarantee specific outcomes from our services or programmes. Results depend on your individual effort and circumstances."
+        },
+        {
+          "type": "h2",
+          "text": "8. Limitation of liability"
+        },
+        {
+          "type": "p",
+          "text": "To the maximum extent permitted by law, khalidfarhan.com is not liable for any indirect, incidental, or consequential damages arising from your use of this website or our services."
+        },
+        {
+          "type": "h2",
+          "text": "9. Governing law"
+        },
+        {
+          "type": "p",
+          "text": "These terms are governed by the laws of Ireland. Any disputes shall be subject to the exclusive jurisdiction of Irish courts."
+        },
+        {
+          "type": "h2",
+          "text": "10. Yapcorder"
+        },
+        {
+          "type": "p",
+          "text": "These terms apply to Yapcorder, the podcast recording service at khalidfarhan.com/yapcorder, in addition to the terms above."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Plans and billing: Starter is US$2 a month and Pro is US$10 a month, billed by Stripe. Your plan renews every month until you cancel. You can cancel at any time from your dashboard, and your plan keeps working until the end of the month you paid for. Partial months are not refunded.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Limits: each plan has a monthly recording allowance, a maximum number of people per session, and a keep period for files, as shown on the pricing page. Recording stops when the monthly allowance is used up.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your recordings: you own what you record. We store and process recordings only to provide the service. Files are deleted automatically at the end of your plan’s keep period, so download anything you want to keep before then.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Consent: you must tell everyone you record that they are being recorded and have their agreement, and you must follow the recording laws that apply where you and they are.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Browser: Yapcorder works in Google Chrome. Other browsers are not supported.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Early access: Yapcorder is new. We work to make every recording arrive complete, but we cannot guarantee it. For recordings that matter, keep a backup recording while the service is in early access.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Fair use: do not use Yapcorder to record people without their knowledge, or for anything unlawful. We may suspend accounts that do.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "11. Changes to terms"
+        },
+        {
+          "type": "p",
+          "text": "We reserve the right to update these terms at any time. Continued use of the website after changes constitutes acceptance of the new terms."
+        },
+        {
+          "type": "h2",
+          "text": "12. Contact"
+        },
+        {
+          "type": "p",
+          "text": "For legal enquiries: khalid@khalidfarhan.com"
+        }
+      ]
+    }
+  ]
+}

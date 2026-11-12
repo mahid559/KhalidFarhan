@@ -1,0 +1,158 @@
+{
+  "route": "/work/testimonials",
+  "title": "Testimonials, Client Reviews | Khalid Farhan",
+  "metaDesc": "Real reviews from real clients across Ireland, the UK, and Bangladesh. SEO, Google Ads, Meta Ads, and more.",
+  "h1": "WHAT CLIENTS SAY.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "oc-head",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "OUR CLIENTS"
+        },
+        {
+          "type": "p",
+          "text": "400+ clients across 10+ countries over the last 12 years."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "WORK / TESTIMONIALS"
+        },
+        {
+          "type": "h1",
+          "text": "WHAT CLIENTS SAY."
+        },
+        {
+          "type": "p",
+          "text": "Unfiltered feedback from businesses we've worked with across Ireland, the UK, Bangladesh, and globally."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "blockquote",
+          "text": "“Khalid's team completely transformed our online presence. Organic bookings are up significantly and we're now ranking for searches we never thought possible.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“The results speak for themselves — over 200% growth in organic traffic within nine months. The team is professional, transparent, and genuinely invested in our success.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“Our cost per lead dropped dramatically while lead quality went up. Khalid's approach to Google Ads is data-first and results-driven.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“We went from struggling to fill spots to having a waiting list. Meta Ads handled by this team are a different level.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“Local SEO results were almost immediate. We're now the top result for roofing in Galway and the phone hasn't stopped.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“ROAS improved by over 3x after switching to Khalid's team. They understand e-commerce deeply.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“Highly recommend for any professional services firm looking to build a serious organic presence.”\n\nClient Testimonial"
+        },
+        {
+          "type": "blockquote",
+          "text": "“Bookings up year on year since working with Khalid's team. They understand local tourism marketing better than anyone.”\n\nClient Testimonial"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "OUR STANDARD"
+        },
+        {
+          "type": "h2",
+          "text": "WE ONLY WORK WITH CLIENTS WE CAN GENUINELY HELP."
+        },
+        {
+          "type": "p",
+          "text": "Before any engagement, we do a free audit to understand whether there’s a real opportunity. If we don’t think we can deliver meaningful results, we say so, and refer you to someone who can. That approach is why our clients stay, and why they talk about us."
+        },
+        {
+          "type": "p",
+          "text": "120+"
+        },
+        {
+          "type": "p",
+          "text": "CLIENTS SERVED"
+        },
+        {
+          "type": "p",
+          "text": "4"
+        },
+        {
+          "type": "p",
+          "text": "COUNTRIES"
+        },
+        {
+          "type": "p",
+          "text": "8+"
+        },
+        {
+          "type": "p",
+          "text": "YEARS"
+        },
+        {
+          "type": "p",
+          "text": "0"
+        },
+        {
+          "type": "p",
+          "text": "FAKE REVIEWS"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "oc halftone",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "OUR CLIENTS"
+        },
+        {
+          "type": "p",
+          "text": "400+ clients across 10+ countries over the last 12 years."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "READY TO BECOME A SUCCESS STORY?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "route": "/founders-den",
+  "title": "Founder's Den — We Buy Real Businesses | Khalid Farhan",
+  "metaDesc": "Founder's Den is Khalid Farhan's fund. We buy strong businesses outright — send us your numbers and get a real offer. Or put your capital to work alongside us. Watch every episode.",
+  "h1": "FOUNDER’S\nDEN",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "FOUNDER’S\nDEN"
+        },
+        {
+          "type": "p",
+          "text": "Talent is everywhere. We support today’s builders and founders with our fund."
+        },
+        {
+          "type": "text",
+          "text": "↓ SCROLL"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE DEN WORKS"
+        },
+        {
+          "type": "p",
+          "text": "Two doors. Sell us the business you built, or put your capital behind the ones we buy."
+        },
+        {
+          "type": "text",
+          "text": "OUR MAIN FOCUS"
+        },
+        {
+          "type": "h3",
+          "text": "SELL YOUR BUSINESS"
+        },
+        {
+          "type": "p",
+          "text": "Want out? We buy strong businesses outright — up to 100%. Send us the numbers and we’ll make you a real offer."
+        },
+        {
+          "type": "button",
+          "text": "Sell your business →"
+        },
+        {
+          "type": "h3",
+          "text": "INVEST WITH KHALID FARHAN"
+        },
+        {
+          "type": "p",
+          "text": "Have capital to put to work? Back Founder’s Den. We buy and manage businesses, and return the gains to you."
+        },
+        {
+          "type": "button",
+          "text": "Invest with us →"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "INSIDE THE DEN"
+        },
+        {
+          "type": "p",
+          "text": "Should we invest in this restaurant?"
+        },
+        {
+          "type": "p",
+          "text": "A marketplace for turf — worth millions?"
+        },
+        {
+          "type": "p",
+          "text": "Building a perfume brand from Bangladesh — Rivore"
+        },
+        {
+          "type": "p",
+          "text": "৳3 lakh a month importing from China"
+        },
+        {
+          "type": "p",
+          "text": "A laptop skin business — do we back it?"
+        },
+        {
+          "type": "p",
+          "text": "Should we invest in this restaurant?"
+        },
+        {
+          "type": "p",
+          "text": "A marketplace for turf — worth millions?"
+        },
+        {
+          "type": "p",
+          "text": "Building a perfume brand from Bangladesh — Rivore"
+        },
+        {
+          "type": "p",
+          "text": "৳3 lakh a month importing from China"
+        },
+        {
+          "type": "p",
+          "text": "A laptop skin business — do we back it?"
+        },
+        {
+          "type": "p",
+          "text": "Making money with Bangladeshi board games"
+        },
+        {
+          "type": "p",
+          "text": "An unusual tea business — should we invest?"
+        },
+        {
+          "type": "p",
+          "text": "A lakh-taka business from just renting a rooftop"
+        },
+        {
+          "type": "p",
+          "text": "Building a small delivery business from scratch"
+        },
+        {
+          "type": "p",
+          "text": "Should we invest in this clothing business?"
+        },
+        {
+          "type": "p",
+          "text": "Making money with Bangladeshi board games"
+        },
+        {
+          "type": "p",
+          "text": "An unusual tea business — should we invest?"
+        },
+        {
+          "type": "p",
+          "text": "A lakh-taka business from just renting a rooftop"
+        },
+        {
+          "type": "p",
+          "text": "Building a small delivery business from scratch"
+        },
+        {
+          "type": "p",
+          "text": "Should we invest in this clothing business?"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "PORTFOLIO"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor"
+        },
+        {
+          "type": "text",
+          "text": "Rivore"
+        },
+        {
+          "type": "text",
+          "text": "Mad Koffee"
+        },
+        {
+          "type": "text",
+          "text": "OnlyPasta"
+        },
+        {
+          "type": "text",
+          "text": "Diceymio"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa"
+        },
+        {
+          "type": "text",
+          "text": "Stickify"
+        },
+        {
+          "type": "text",
+          "text": "CampusPro"
+        },
+        {
+          "type": "text",
+          "text": "Jalsha Bangla"
+        },
+        {
+          "type": "text",
+          "text": "White Cloud"
+        },
+        {
+          "type": "text",
+          "text": "First Global Visa"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        },
+        {
+          "type": "text",
+          "text": "Flexfume"
+        },
+        {
+          "type": "text",
+          "text": "Vibee"
+        },
+        {
+          "type": "text",
+          "text": "FurryGhor Cafe"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "PICK YOUR DOOR"
+        },
+        {
+          "type": "p",
+          "text": "Sell to us, or invest alongside us — and we’ll take it from there."
+        },
+        {
+          "type": "text",
+          "text": "OUR MAIN FOCUS"
+        },
+        {
+          "type": "h3",
+          "text": "SELL YOUR BUSINESS"
+        },
+        {
+          "type": "p",
+          "text": "Want out? We buy strong businesses outright — up to 100%. Send us the numbers and we’ll make you a real offer."
+        },
+        {
+          "type": "button",
+          "text": "Sell your business →"
+        },
+        {
+          "type": "h3",
+          "text": "INVEST WITH KHALID FARHAN"
+        },
+        {
+          "type": "p",
+          "text": "Have capital to put to work? Back Founder’s Den. We buy and manage businesses, and return the gains to you."
+        },
+        {
+          "type": "button",
+          "text": "Invest with us →"
+        }
+      ]
+    }
+  ]
+}

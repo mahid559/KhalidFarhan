@@ -1,0 +1,367 @@
+{
+  "route": "/insights/email-marketing-2026",
+  "title": "Email Marketing in 2026: What Still Works and What to Stop Doing | Khalid Farhan",
+  "metaDesc": "Email has been 'dead' for 20 years and still delivers the highest ROI of any channel. Here's what's working in 2026 and what's a waste of time.",
+  "h1": "Email Marketing in 2026: What Still Works and What to Stop Doing",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "DIGITAL MARKETING"
+        },
+        {
+          "type": "h1",
+          "text": "Email Marketing in 2026: What Still Works and What to Stop Doing"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "10 February 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "8 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Email has been 'dead' for 20 years and still delivers the highest ROI of any channel. Here's what's working in 2026 and what's a waste of time."
+        },
+        {
+          "type": "p",
+          "text": "Email has been declared dead by marketing commentators roughly every other year since 2005. In 2026, it continues to deliver the highest ROI of any marketing channel, consistently cited at around €36-42 return for every €1 spent in industry benchmarks from sources including Litmus and DMA. The \"death of email\" narrative says more about the people predicting it than about the channel."
+        },
+        {
+          "type": "p",
+          "text": "That said, what works in email has changed significantly. The strategies that worked in 2018 are actively counterproductive now. Here is what to do and what to stop doing."
+        },
+        {
+          "type": "h2",
+          "text": "What's Changed: Apple Mail Privacy Protection and Gmail Tabs"
+        },
+        {
+          "type": "p",
+          "text": "Two developments have materially changed how email performance is measured and executed:"
+        },
+        {
+          "type": "p",
+          "text": "Apple Mail Privacy Protection (MPP): Introduced in 2021, this prevents senders from knowing when an Apple Mail user has opened an email. Apple's servers pre-fetch emails (triggering open tracking pixels) regardless of whether the user actually opened the message. The result: open rates for Apple Mail users are inflated and unreliable. Since Apple Mail is used by a large proportion of email users (particularly on mobile in markets like Ireland and the UK), open rates as a primary metric have become substantially less trustworthy across the board."
+        },
+        {
+          "type": "p",
+          "text": "Gmail tabs: Gmail separates promotional emails into a \"Promotions\" tab, away from the primary inbox. For businesses sending marketing emails, this reduces visibility and open rates compared to landing in the primary inbox. This is not fully avoidable, but email that feels like a genuine one-to-one communication (plain text, personalised, relevant to the specific recipient) is more likely to land in the primary inbox."
+        },
+        {
+          "type": "h2",
+          "text": "What Works Now"
+        },
+        {
+          "type": "h3",
+          "text": "Segmentation"
+        },
+        {
+          "type": "p",
+          "text": "Sending the same email to your entire list is increasingly ineffective. Different segments of your audience have different interests, different levels of engagement, and different stages of relationship with your business. A new subscriber needs something very different from a customer who's bought three times."
+        },
+        {
+          "type": "p",
+          "text": "Minimum viable segmentation: separate active subscribers (opened or clicked in the last 90 days) from inactive ones. Send different content to customers vs prospects. Segment by interest or product category where you have enough data. Even basic segmentation meaningfully improves engagement rates and reduces unsubscribe rates."
+        },
+        {
+          "type": "h3",
+          "text": "Personalisation beyond first name"
+        },
+        {
+          "type": "p",
+          "text": "Inserting [First Name] into subject lines is table stakes now and has minimal impact on its own. Real personalisation uses behavioural data: what they've browsed, what they've bought, what content they've engaged with. An email that says \"You downloaded our guide to Irish pension planning three months ago, here's an update on what's changed\" is personal in a meaningful way. First-name merge tags alone are not."
+        },
+        {
+          "type": "h3",
+          "text": "Plain-text style emails"
+        },
+        {
+          "type": "p",
+          "text": "Heavily designed HTML emails with lots of images and branded headers look like marketing. They land in the Promotions tab. They trigger spam filters more readily. They also render poorly across many email clients."
+        },
+        {
+          "type": "p",
+          "text": "Emails that look like they came from a person, plain text or minimal design, a conversational tone, no image-heavy headers, consistently outperform highly designed emails for engagement and deliverability, particularly for B2B audiences and for relationship-building communications."
+        },
+        {
+          "type": "h3",
+          "text": "Welcome sequences"
+        },
+        {
+          "type": "p",
+          "text": "The highest-performing email automation any business can have is a well-designed welcome sequence. When someone joins your list, they're at peak interest. This is the moment to make an impression. An immediate welcome email confirming their subscription, followed by a series of two to five emails over the following week to two weeks that deliver value, introduce your expertise, and guide them toward the next step, will outperform any other automated email you send."
+        },
+        {
+          "type": "p",
+          "text": "Welcome sequence emails consistently have the highest open rates and click rates of any email type. Most businesses either don't have one or have one that's essentially a single \"thanks for subscribing\" email followed by silence. Build a proper sequence."
+        },
+        {
+          "type": "h3",
+          "text": "Value before ask"
+        },
+        {
+          "type": "p",
+          "text": "The businesses with the most engaged email lists are the ones that consistently give more than they ask. Every email should deliver something useful: an insight, a framework, a short guide, a useful resource. The ask (book a call, buy a product, take an action) comes after trust is established, not as the opening statement of every email."
+        },
+        {
+          "type": "h2",
+          "text": "What to Stop Doing"
+        },
+        {
+          "type": "h3",
+          "text": "Buying email lists"
+        },
+        {
+          "type": "p",
+          "text": "Bought lists are almost universally low quality. The people on them did not consent to hear from you. Your emails will have high bounce rates and spam complaint rates, damaging your sender reputation. Under GDPR (discussed below), it's also a compliance risk. There is no legitimate shortcut to building a quality email list."
+        },
+        {
+          "type": "h3",
+          "text": "Batch-and-blast campaigns"
+        },
+        {
+          "type": "p",
+          "text": "Sending the same promotional email to your entire list on the same day is the old model. It produces diminishing returns, high unsubscribe rates, and damages deliverability. Replace batch-and-blast with targeted segments, triggered automations, and campaigns relevant to where different groups are in their relationship with you."
+        },
+        {
+          "type": "h3",
+          "text": "Image-heavy emails"
+        },
+        {
+          "type": "p",
+          "text": "Emails that are primarily images (with little text) have poor deliverability, don't display well when images are blocked by default (common on corporate email clients), and are not accessible to screen reader users. Use images sparingly and always include meaningful alt text."
+        },
+        {
+          "type": "h2",
+          "text": "Metrics to Track Instead of Open Rate"
+        },
+        {
+          "type": "p",
+          "text": "Given that open rates are now partially unreliable due to Apple MPP, weight these metrics more heavily:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Click rate: The percentage who clicked a link. This is a genuine engagement signal that MPP doesn't affect.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Click-to-open rate (CTOR): Clicks as a percentage of opens. Measures content relevance for those who did open.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Unsubscribe rate: If this spikes after a particular email, that email missed the mark for your audience.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Conversions from email: Use UTM parameters on all email links so you can track what email traffic does on your website in GA4.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "List growth rate: Net new subscribers vs unsubscribes over time.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Revenue per subscriber: For e-commerce, the single most important email metric.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "List Building That Actually Works"
+        },
+        {
+          "type": "p",
+          "text": "Organic list building through genuinely valuable lead magnets outperforms any other method in the long run. The key is that the lead magnet needs to be something your specific target audience genuinely wants, not a generic ebook no one will read."
+        },
+        {
+          "type": "p",
+          "text": "What works: practical tools (templates, calculators, checklists), specific guides that solve a real problem, exclusive data or research, access to a webinar or event. What doesn't work: generic \"subscribe for updates\" with no clear reason why, lead magnets that over-promise and under-deliver."
+        },
+        {
+          "type": "p",
+          "text": "For Irish businesses: include a specific, relevant reason to subscribe that connects to your Irish market context. \"Join 800 Irish business owners who get our weekly marketing insight\" is more compelling than \"subscribe to our newsletter.\""
+        },
+        {
+          "type": "h2",
+          "text": "GDPR and Email Marketing in Ireland"
+        },
+        {
+          "type": "p",
+          "text": "GDPR applies to all businesses marketing to people in Ireland and the EU. For email marketing, the key requirements are:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "You must have a lawful basis for sending marketing emails. For most businesses, this means explicit consent (the person opted in, knowingly and freely).",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You must be clear about what they're signing up for at the point of signup.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Every marketing email must include an easy unsubscribe mechanism.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You must honour unsubscribe requests promptly.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "You must be able to demonstrate consent if challenged.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Pre-checked opt-in boxes, consent buried in terms and conditions, and adding customers to marketing lists without explicit consent are all GDPR violations. The practical steps: use a proper double opt-in (subscriber confirms their email after signing up), store consent records in your email platform, and don't email people who haven't actively opted in to receive marketing from you."
+        },
+        {
+          "type": "p",
+          "text": "Email marketing done properly, with quality content, proper segmentation, and genuine respect for your subscribers' time and attention, is still one of the most effective marketing channels available. If you'd like help setting up a proper email marketing programme, including welcome sequences, segmentation, and GDPR-compliant list building, get in touch."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Email Marketing"
+        },
+        {
+          "type": "text",
+          "text": "Newsletter"
+        },
+        {
+          "type": "text",
+          "text": "2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Digital Marketing\n\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Digital Marketing\n\nGoogle Analytics 4: A Practical Guide for Marketers in 2026",
+          "href": "/insights/google-analytics-4-guide",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?\n\nThe honest breakdown of when to hire a marketing agency, when to go with a freelancer, and when to try to do it in-house.\n\n15 Feb 2026\n·\n7 min read",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nGoogle Analytics 4: A Practical Guide for Marketers in 2026\n\nGA4 is still confusing people two years after the switch. Here's the practical guide to making sense of your data.\n\n28 Nov 2025\n·\n10 min read",
+          "href": "/insights/google-analytics-4-guide",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1093 @@
+{
+  "route": "/businessschool",
+  "title": "Business School: Courses, Live Challenges and Business Ideas | Khalid Farhan",
+  "metaDesc": "Learn to build a business online with Khalid Farhan. Hear from members who did it, then get every course, live challenge and monthly business idea report for ৳5,000 a year.",
+  "h1": "BECOME AN INTERNET ENTREPRENEUR",
+  "sections": [
+    {
+      "index": 1,
+      "className": "bs-wrap bs-hero",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Business School"
+        },
+        {
+          "type": "text",
+          "text": "by"
+        },
+        {
+          "type": "img",
+          "src": "/kf-logo.png",
+          "alt": ""
+        },
+        {
+          "type": "h1",
+          "text": "BECOME AN INTERNET ENTREPRENEUR"
+        },
+        {
+          "type": "p",
+          "text": "Hands-on courses, no theory. 8 programmes and 57 lessons inside today, 2 to 3 new ones every year, and a 50+ page business idea report every month."
+        },
+        {
+          "type": "link",
+          "text": "Join for 5,000 BDT a year",
+          "href": "#join-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See member results",
+          "href": "#stories",
+          "imgs": []
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/my-story.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/khalid.webp",
+          "alt": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started freelancing at 16, writing articles for $1 each. Today I have 1.9M subscribers on YouTube, an MSc from Trinity College Dublin and my own marketing agency in Ireland."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "bs-wrap bs-hero",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Business School"
+        },
+        {
+          "type": "text",
+          "text": "by"
+        },
+        {
+          "type": "img",
+          "src": "/kf-logo.png",
+          "alt": ""
+        },
+        {
+          "type": "h1",
+          "text": "BECOME AN INTERNET ENTREPRENEUR"
+        },
+        {
+          "type": "p",
+          "text": "Hands-on courses, no theory. 8 programmes and 57 lessons inside today, 2 to 3 new ones every year, and a 50+ page business idea report every month."
+        },
+        {
+          "type": "link",
+          "text": "Join for 5,000 BDT a year",
+          "href": "#join-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See member results",
+          "href": "#stories",
+          "imgs": []
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/my-story.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/khalid.webp",
+          "alt": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started freelancing at 16, writing articles for $1 each. Today I have 1.9M subscribers on YouTube, an MSc from Trinity College Dublin and my own marketing agency in Ireland."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "bs-press",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Featured in"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/prothom-alo.svg",
+                  "alt": "Prothom Alo"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/daily-star.svg",
+                  "alt": "The Daily Star"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/jamuna-tv.svg",
+                  "alt": "Jamuna TV"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/channel-i.png",
+                  "alt": "Channel I"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/new-age.png",
+                  "alt": "New Age Bangladesh"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/niche-pursuits.jpg",
+                  "alt": "Niche Pursuits"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/press/search-engine-journal.png",
+                  "alt": "Search Engine Journal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "bs-clients",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Our clients"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/grameenphone.svg",
+                  "alt": "Grameenphone"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/teletalk.png",
+                  "alt": "Teletalk"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/taptapsend.png",
+                  "alt": "Taptap Send"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/shanta-holdings.svg",
+                  "alt": "Shanta Holdings"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/hostinger-wordmark.svg",
+                  "alt": "Hostinger"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/notion.svg",
+                  "alt": "Notion"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/hatil.svg",
+                  "alt": "Hatil"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/logos/clients/skybuy.svg",
+                  "alt": "Skybuy BD"
+                }
+              ]
+            },
+            {
+              "text": "and many more",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "bs-wrap bs-paths",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THREE WAYS MEMBERS EARN, AND THE COURSES FOR EACH"
+        },
+        {
+          "type": "p",
+          "text": "8 programmes and 57 lessons today. Hands-on, no theory. 2 to 3 new ones every year, and AI courses from January 2027."
+        },
+        {
+          "type": "h3",
+          "text": "FREELANCE AND WIN CLIENTS"
+        },
+        {
+          "type": "p",
+          "text": "Fiverr, Upwork and direct clients abroad. This is how most of the members below started."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Lead Generation\nCourse, 11 lessons\nLearn to generate leads and sell them to businesses.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/lead-generation.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "Proposal Masterclass\nMasterclass, 1 session\nHow to write a proposal that wins the work.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/proposal.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "Sales Masterclass\nMasterclass, 1 session\nHow to sell anything to anyone.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/sales.webp",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "START YOUR OWN BUSINESS"
+        },
+        {
+          "type": "p",
+          "text": "An f-commerce or online business of your own, with a new researched idea every month."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "2026 Challenge\nChallenge, 10 lessons\nStart an f-commerce business in Bangladesh that makes 50,000 BDT a month.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/challenge-2026.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "Project 2024\nProject, 23 lessons\nBuild an internet business from zero: the idea, the domain, the website and the content.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/project-2024.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "How to Find Business Ideas\nMasterclass, 1 session\nWhere good business ideas come from, and how to choose one.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/ideas.webp",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "BUILD AN AUDIENCE THAT PAYS"
+        },
+        {
+          "type": "p",
+          "text": "A newsletter or brand that earns from the people who follow it."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Start a Newsletter Business\nCourse, 9 lessons\nPick a topic, launch on Beehiiv, get your first 100 subscribers, then grow with Meta ads.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/newsletter.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "How to Tell a Good Story\nMasterclass, 1 session\nTell the story behind your product so people want to buy.",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/courses/story.webp",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "bs-stories",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MEMBERS WHO DID IT"
+        },
+        {
+          "type": "p",
+          "text": "Three members came on my podcast to tell their story. Pick one and press play."
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/masud-face.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/barishal-face.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/agency-face.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/masud-wide.webp",
+          "alt": ""
+        },
+        {
+          "type": "link",
+          "text": "Full episode on YouTube",
+          "href": "https://youtu.be/VkbolcPCcX0",
+          "imgs": []
+        },
+        {
+          "type": "blockquote",
+          "text": "এরপর আর আমাকে কখনো পেছন ফিরে তাকাতে হয় নাই।\n\n“After that, I never had to look back.”\n\nMasud, SEO writer, Gaibandha"
+        },
+        {
+          "type": "text",
+          "text": "BEFORE"
+        },
+        {
+          "type": "text",
+          "text": "2021. A Master's degree, no job, and a family living on his father's ৳8,500 pension. He borrowed money and joined the day before his wedding."
+        },
+        {
+          "type": "text",
+          "text": "AFTER"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Feb 2022\nFirst paid job, ৳30,000 a month",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Dec 2022\nEarning 10 to 12 times his father's pension",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "2023\nPaid off the ৳5 lakh mortgage on the family ponds",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "bs-board",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "AND 1,000+ MORE SUCCESS STORIES"
+        },
+        {
+          "type": "p",
+          "text": "From 30,000+ members since 2018: freelancing income, new jobs, clients and their own businesses. These are their own posts. Tap any to read it in full."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "MONIRUDDIN, 2024\nStarted his own digital marketing agency",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/263-768x389-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "SADEK, 2024\nAlmost ৳70k in one month",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/265-768x426-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "ASIF, 2024\n৳26,000 from a client in Ireland",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/330-768x315-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "YASSER, 2024\nPaid $1,344 for one research project",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/299-768x442-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "A MEMBER, 2024\nJoined a US agency, $1,000 paid in advance",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/324-768x415-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "NAVID, 2023\nGot a job as an SEO Executive",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/180-768x316-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "TUHIN, 2023\n৳32,400 for September, from one SEO client",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/220-768x369-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "WALIULLAH, 2023\nLaunched his own SaaS, sold the first subscription",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/236-768x388-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "ABDULLAH, 2023\nSells leads to clients in Dublin, from Rajshahi",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/131-768x374-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "RAHAD, 2023\nTop Rated on Upwork, $10K+ earned",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/187-768x371-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "ROHIT, 2023\n£400 from a client, no marketplace needed",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/203-768x436-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "AJJUL, 2023\nFrom graphic design to 2 SEO and Meta clients",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/107-768x325-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "TOUQUIAR, 2023\n$537 in 8 days, with five-star feedback",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/163-768x446-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "MOBARAK, 2023\n£166 for one SEO project",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/196-768x428-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "SABBIR, 2023\nFeatured on Jagonews24 for his web design work",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/155-768x346-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "ABDUS, 2023\nPaid $35 for a 30-minute consultancy call",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/146-768x376-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "NIGAR, 2022\n$14,938.30 net income on Fiverr",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/47-768x333-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "PRITOM, 2022\n$1,500+ in 4 months, at 18",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/35-768x380-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "REZA, 2022\nGot a job within a month of starting",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/62-768x372-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "SIJAN, 2022\n$3,068.50 net income on Fiverr",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/50-768x265-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "ZANNAT, 2022\nFiverr Level 2, $604 in October",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/31-768x415-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "AL AMIN, 2022\n$3K on Upwork, 100% Job Success",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/21-768x784-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "FAHIM, 2022\nJoined 24 October, first order 14 December",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/66-768x591-1.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "text": "SOLYMAN\nGot a part-time Meta ads job in Dhaka",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/testimonials/30-768x655-1.webp",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Read the reviews on Facebook",
+          "href": "https://www.facebook.com/chandlerbingforlife/posts/pfbid0UmZyfkbpEyjKqtNXYPiJyQyeLAuK3ANp245mosBmTyXoKZgDHxiNCHwSD2C3entml",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "bs-offer",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "EVERYTHING, FOR 5,000 BDT A YEAR"
+        },
+        {
+          "type": "p",
+          "text": "Business School is not a magic pill. It shows you the path, and you still have to walk it and work hard to learn and, hopefully, earn. We have more successful members than anyone in the country, and we have failures too."
+        },
+        {
+          "type": "text",
+          "text": "BUSINESS SCHOOL"
+        },
+        {
+          "type": "text",
+          "text": "ক্যাশ মেমো"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "01\nEvery course inside\n8 programmes and 57 lessons today, with 2 to 3 new ones every year\nIncluded",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "02\nHands-on, no theory\nStep-by-step guides you follow while you build\nIncluded",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "03\nLive challenges and projects\nBuild a real business on a deadline, step by step\nIncluded",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "04\nA business idea report, every month\n50 to 64 pages, researched for Bangladesh\nIncluded",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "05\n1-on-1 help by email\nAnswered by me, not a support team\nIncluded",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "06\nAI courses, from January 2027\nIncluded in your membership\nIncluded",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "TOTAL FOR 12 MONTHS"
+        },
+        {
+          "type": "text",
+          "text": "5,000 BDT"
+        },
+        {
+          "type": "p",
+          "text": "That is about 14 BDT a day."
+        },
+        {
+          "type": "text",
+          "text": "NO AUTO-CHARGE"
+        },
+        {
+          "type": "h3",
+          "text": "JOIN BUSINESS SCHOOL"
+        },
+        {
+          "type": "p",
+          "text": "Full access from day one."
+        },
+        {
+          "type": "text",
+          "text": "Yearly"
+        },
+        {
+          "type": "text",
+          "text": "/year"
+        },
+        {
+          "type": "text",
+          "text": "Every course, challenge and idea report for 12 months."
+        },
+        {
+          "type": "button",
+          "text": "Bangladesh\nbKash, Nagad, Rocket, card"
+        },
+        {
+          "type": "button",
+          "text": "Outside Bangladesh\nInternational card"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "Your name",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "you@email.com",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "",
+              "placeholder": "+880 1…",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Have a coupon code?"
+        },
+        {
+          "type": "p",
+          "text": "Your login arrives by email the moment you pay."
+        },
+        {
+          "type": "p",
+          "text": "Secure payment by SSLCommerz. I email you before each year ends."
+        },
+        {
+          "type": "p",
+          "text": "Questions before you join? Email masud@khalidfarhan.com"
+        },
+        {
+          "type": "link",
+          "text": "Already a member? Log in",
+          "href": "https://course.khalidfarhan.com",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "className": "bs-ideas",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "A NEW BUSINESS IDEA, FULLY RESEARCHED, EVERY MONTH"
+        },
+        {
+          "type": "p",
+          "text": "Every month I take one business idea and research it for Bangladesh: who buys, what it costs to start, who you would compete with, three years of numbers and a week-by-week plan for the first 120 days. Each report runs 50 to 64 pages, and it tells you plainly when the obvious version of the idea would lose money."
+        },
+        {
+          "type": "text",
+          "text": "course.khalidfarhan.com/ideas"
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/ideas-dashboard.webp",
+          "alt": "The Ideas section inside Business School, showing business idea reports on AI mental health, a hotel directory, pet supplies and more"
+        },
+        {
+          "type": "h3",
+          "text": "Inside one report: Pet Supplies Business for Bangladesh"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Page one gives the verdict, before you spend a taka",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/report-0001.webp",
+                  "alt": "Page one gives the verdict, before you spend a taka"
+                }
+              ]
+            },
+            {
+              "text": "22 sections, from market size to when to stop",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/report-0002.webp",
+                  "alt": "22 sections, from market size to when to stop"
+                }
+              ]
+            },
+            {
+              "text": "Three years of numbers, in three scenarios",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/report-0040.webp",
+                  "alt": "Three years of numbers, in three scenarios"
+                }
+              ]
+            },
+            {
+              "text": "A week-by-week plan for the first 120 days",
+              "href": null,
+              "imgs": [
+                {
+                  "src": "/businessschool/report-0046.webp",
+                  "alt": "A week-by-week plan for the first 120 days"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Join for 5,000 BDT a year",
+          "href": "#join-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "className": "bs-faq",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS, ANSWERED"
+        },
+        {
+          "type": "button",
+          "text": "How does the price work?\n+"
+        },
+        {
+          "type": "button",
+          "text": "What happens if I stop paying?\n+"
+        },
+        {
+          "type": "button",
+          "text": "What is in a business idea report?\n+"
+        },
+        {
+          "type": "button",
+          "text": "Who is Business School for?\n+"
+        },
+        {
+          "type": "button",
+          "text": "What happens after I pay?\n+"
+        },
+        {
+          "type": "button",
+          "text": "How many devices can I use?\n+"
+        },
+        {
+          "type": "button",
+          "text": "Do I need any experience?\n+"
+        },
+        {
+          "type": "button",
+          "text": "What new courses are coming?\n+"
+        },
+        {
+          "type": "button",
+          "text": "Do I get a certificate?\n+"
+        },
+        {
+          "type": "button",
+          "text": "Do coupon codes work?\n+"
+        },
+        {
+          "type": "button",
+          "text": "Is there a refund?\n+"
+        },
+        {
+          "type": "button",
+          "text": "I was a Passive Journal member. Do I need to join again?\n+"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "className": "bs-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/masud-face.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/barishal-face.webp",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/businessschool/podcasts/agency-face.webp",
+          "alt": ""
+        },
+        {
+          "type": "h2",
+          "text": "JOIN 30,000+ PEOPLE LEARNING TO BUILD A BUSINESS ONLINE"
+        },
+        {
+          "type": "p",
+          "text": "Start with 5,000 BDT this year. Everything opens the moment you pay."
+        },
+        {
+          "type": "link",
+          "text": "Join for 5,000 BDT a year",
+          "href": "#join-form",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

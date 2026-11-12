@@ -1,0 +1,115 @@
+{
+  "route": "/challenge/live-build/week-1",
+  "title": "Live Build Week 1 — Starting from Zero — Picking a Model | Khalid Farhan",
+  "metaDesc": "Watch Khalid start a real business from scratch. No prior setup, no shortcuts. Week 1 covers model selection and the first steps.",
+  "h1": "Starting from Zero — Picking a Model",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LIVE BUILD · WEEK 1"
+        },
+        {
+          "type": "h1",
+          "text": "Starting from Zero — Picking a Model"
+        },
+        {
+          "type": "p",
+          "text": "Published 2026-01-15"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Members only"
+        },
+        {
+          "type": "p",
+          "text": "Join the 2026 Challenge to watch this episode."
+        },
+        {
+          "type": "link",
+          "text": "Join Now",
+          "href": "/challenge",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "WATCH KHALID START A REAL BUSINESS FROM SCRATCH. NO PRIOR SETUP, NO SHORTCUTS. WEEK 1 COVERS MODEL SELECTION AND THE FIRST STEPS."
+        },
+        {
+          "type": "h3",
+          "text": "WHAT’S COVERED"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Business model selection process",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Setting up essential accounts",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "First market research session",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Day-one action plan",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-sm",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "Week 2: Finding the Niche — Live Validation →",
+          "href": "/challenge/live-build/week-2",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE"
+        },
+        {
+          "type": "h2",
+          "text": "Watch every episode. Do every task. Build income."
+        },
+        {
+          "type": "p",
+          "text": "5,000 BDT. Join the 12 month journey — all episodes, classes, and content included."
+        },
+        {
+          "type": "link",
+          "text": "Join the 2026 Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

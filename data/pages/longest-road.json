@@ -1,0 +1,333 @@
+{
+  "route": "/longest-road",
+  "title": "Longest Road: free iPhone app to track your Catan wins | Khalid Farhan",
+  "metaDesc": "Keep the win record for your Catan group: tribes, standings, rivalries, seasons and badges. Log a game in two taps. Free, no ads, by Khalid Farhan.",
+  "h1": "Longest Road",
+  "sections": [
+    {
+      "index": 1,
+      "className": "lrp-hero",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/longest-road/icon.png",
+          "alt": ""
+        },
+        {
+          "type": "h1",
+          "text": "Longest Road"
+        },
+        {
+          "type": "p",
+          "text": "Who really has the longest road? A free iPhone app that keeps the win record for your Catan group."
+        },
+        {
+          "type": "link",
+          "text": "Get it on the App Store",
+          "href": "https://apps.apple.com/app/id6825272474",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "Friday Settlers"
+        },
+        {
+          "type": "text",
+          "text": "Wins"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "A\nAoife\n11",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "T\nTom\n6",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "P\nPriya\n4",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "C\nCiarán\n1",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Who won game 23?"
+        },
+        {
+          "type": "button",
+          "text": "A\nAoife"
+        },
+        {
+          "type": "button",
+          "text": "T\nTom"
+        },
+        {
+          "type": "button",
+          "text": "P\nPriya"
+        },
+        {
+          "type": "button",
+          "text": "C\nCiarán"
+        },
+        {
+          "type": "button",
+          "text": "Save"
+        },
+        {
+          "type": "p",
+          "text": "An example tribe. Try it: pick a winner, then save."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "lrp-chapters",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Before game 1"
+        },
+        {
+          "type": "h2",
+          "text": "Played for years? Keep the record."
+        },
+        {
+          "type": "p",
+          "text": "Your long-time champion keeps the bragging rights. You see everything before it is saved, and you can undo any import for 30 days."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Rough win totals\nAll you remember is who has won about how many.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Past games\nAdd them one by one, with their dates.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A spreadsheet\nA CSV from Excel, Numbers or Google Sheets.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Lines from Notes\nPaste lines like “12/03/2025 Tom”.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A notebook photo\nScan the page where you kept score.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "BG Stats\nBring in an export from the app.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Game 1"
+        },
+        {
+          "type": "h2",
+          "text": "One link. The same standings on every phone."
+        },
+        {
+          "type": "p",
+          "text": "Make a tribe of 3 to 6 players and send one invite link. There is no sign-up: it uses your Apple ID through iCloud."
+        },
+        {
+          "type": "p",
+          "text": "After a game, pick the winner and save. The date and time fill themselves in. Victory points, the expansion, a board photo and a note are there if you want them."
+        },
+        {
+          "type": "p",
+          "text": "I play with two groups, so each tribe keeps its own players, games and standings."
+        },
+        {
+          "type": "img",
+          "src": "/longest-road/01-standings.webp",
+          "alt": "The Standings screen for an example tribe called Friday Settlers, with the leaders on a green road sign"
+        },
+        {
+          "type": "img",
+          "src": "/longest-road/02-log-game.webp",
+          "alt": "The Log a game screen: pick who won, who played, and the date and time are already filled in"
+        },
+        {
+          "type": "img",
+          "src": "/longest-road/04-rivals.webp",
+          "alt": "The Rivals screen: head-to-head records between every pair of players"
+        },
+        {
+          "type": "text",
+          "text": "Game 10"
+        },
+        {
+          "type": "h2",
+          "text": "Who beats who, and how often."
+        },
+        {
+          "type": "p",
+          "text": "Tom\n6 - 4\nPriya"
+        },
+        {
+          "type": "p",
+          "text": "Tom beats Priya 60% of the time."
+        },
+        {
+          "type": "p",
+          "text": "Every pair in the tribe gets a head-to-head record, and every player gets a win rate and a current and longest streak. The argument at the table now has an answer."
+        },
+        {
+          "type": "text",
+          "text": "Game 15"
+        },
+        {
+          "type": "h2",
+          "text": "Wins earn badges. Losing runs earn the robber."
+        },
+        {
+          "type": "p",
+          "text": "The robber sits on whoever has lost four or more in a row, until they win it back."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "First Settlement\nWon a game for the first time.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "City Builder\nWon three games in a row.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Longest Road\nWon five games in a row. Nobody could cut it.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Rolled a Seven\nWon after losing five or more in a row.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Largest Army\nTurned up for the most games in a season.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Seasoned Settler\nPlayed 100 games.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Season Champion\nFinished a season with the most wins.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Game 22"
+        },
+        {
+          "type": "h2",
+          "text": "Every game, kept for good."
+        },
+        {
+          "type": "p",
+          "text": "Each game keeps its number, winner, date and players, and you can filter the list by player or expansion. Tap anyone to see their record and badges."
+        },
+        {
+          "type": "img",
+          "src": "/longest-road/05-games.webp",
+          "alt": "The Games screen: every game numbered, with its winner, date and player count"
+        },
+        {
+          "type": "img",
+          "src": "/longest-road/03-player.webp",
+          "alt": "A player's page with win rate, streaks, average victory points and badges"
+        },
+        {
+          "type": "h2",
+          "text": "Questions"
+        },
+        {
+          "type": "faq",
+          "summary": "Is it really free?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Is there an Android version?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Who can log a game?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "I logged the wrong winner. Can I fix it?",
+          "body": ""
+        },
+        {
+          "type": "faq",
+          "summary": "Can I get my data out?",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "lrp-final",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "End of the season"
+        },
+        {
+          "type": "h2",
+          "text": "Someone gets crowned. Then it starts again."
+        },
+        {
+          "type": "p",
+          "text": "Seasons run three months, a year, or until you end them. The winner goes in the hall of champions and all-time records stay. Share the standings to your group chat, or keep the leader on your home screen."
+        },
+        {
+          "type": "link",
+          "text": "Get it on the App Store",
+          "href": "https://apps.apple.com/app/id6825272474",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "Free, made by Khalid Farhan. Support and privacy. The tribe and names on this page are an example. Longest Road is not affiliated with or endorsed by CATAN GmbH."
+        }
+      ]
+    }
+  ]
+}

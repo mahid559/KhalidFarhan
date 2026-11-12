@@ -1,0 +1,278 @@
+{
+  "route": "/work/case-studies/removals-company-ireland-seo",
+  "title": "Quote requests up 175% at 41% lower cost — Case Study | Khalid Farhan",
+  "metaDesc": "Search, paid search and a better quote form for a removals company that lived on referrals.",
+  "h1": "QUOTE REQUESTS UP 175% AT 41% LOWER COST",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A removals company in Ireland · Dublin and Leinster"
+        },
+        {
+          "type": "h1",
+          "text": "QUOTE REQUESTS UP 175% AT 41% LOWER COST"
+        },
+        {
+          "type": "p",
+          "text": "Search, paid search and a better quote form for a removals company that lived on referrals."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Services"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "7 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "+175%"
+        },
+        {
+          "type": "text",
+          "text": "Quote requests"
+        },
+        {
+          "type": "text",
+          "text": "-41%"
+        },
+        {
+          "type": "text",
+          "text": "Cost per quote"
+        },
+        {
+          "type": "text",
+          "text": "19%"
+        },
+        {
+          "type": "text",
+          "text": "Form completion, from 4%"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Quote requests a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Quote requests a month",
+              "48",
+              "132"
+            ],
+            [
+              "Cost per quote (ads)",
+              "€39",
+              "€23"
+            ],
+            [
+              "Form completion",
+              "4%",
+              "19%"
+            ],
+            [
+              "Page-one keywords",
+              "9",
+              "67"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "removals.ie/house-removals-dublin"
+        },
+        {
+          "type": "text",
+          "text": "Get a quote in 60 seconds"
+        },
+        {
+          "type": "text",
+          "text": "19% form completion"
+        },
+        {
+          "type": "text",
+          "text": "QUOTE REQUESTS"
+        },
+        {
+          "type": "text",
+          "text": "+175%"
+        },
+        {
+          "type": "text",
+          "text": "Month 1"
+        },
+        {
+          "type": "text",
+          "text": "Month 7"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A removals company in Ireland with excellent reviews, a van fleet and a website that produced two or three quote requests a week."
+        },
+        {
+          "type": "p",
+          "text": "The quote form asked for a full inventory before giving a price. Most people left. Google Ads was running on 'removals' alone, in competition with every man with a van in the country."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Pages for every move type: house, apartment, office, piano, international",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A two-step quote form: rooms and date first, inventory later",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Ads on specific moves and areas, not the generic term",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Reviews pulled onto every page, with a live count",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Call tracking and a same-hour callback promise",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Quote requests rose 175% in seven months and the cost per quote from ads fell 41%."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "HOSPITALITY\nCORK, IRELAND\n\n+180%\nOrganic traffic\n\nFrom invisible to fully booked\n\nA boutique B&B in Cork\n\nRead the case study",
+          "href": "/work/case-studies/cork-bnb-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "EDUCATION\nDUBLIN, IRELAND\n\n+213%\nOrganic traffic in 9 months\n\nFrom +213% organic traffic to a waiting list\n\nA music school in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/dublin-music-school-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

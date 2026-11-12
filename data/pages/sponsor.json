@@ -1,0 +1,48 @@
+{
+  "route": "/sponsor",
+  "title": "Sponsor a Video | Khalid Farhan",
+  "metaDesc": "Get your product in front of a highly engaged audience through a native 2-minute video integration on Khalid Farhan's YouTube and Facebook channels.",
+  "h1": "",
+  "sections": [
+    {
+      "index": 1,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "BRANDS"
+        },
+        {
+          "type": "h2",
+          "text": "ARE YOU A BRAND LOOKING TO SPONSOR ONE OF OUR VIDEOS?"
+        },
+        {
+          "type": "p",
+          "text": "Drop your email and we’ll send you our full media kit — reach across YouTube, Facebook and Instagram, brands we’ve worked with, and exactly how the integration works."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "Enter your work email",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "Yes, get media kit →"
+        }
+      ]
+    }
+  ]
+}

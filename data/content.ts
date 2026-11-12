@@ -335,9 +335,9 @@ export const KF_DATA = {
     businessSchoolCol: {
       title: "Business School",
       links: [
-        { label: "Join Business School", href: "/learn" },
-        { label: "EnglishAi", href: "https://englishai.com" },
-        { label: "Affiliate Programme", href: "/affiliate" },
+        { label: "Join Business School", href: "/businessschool" },
+        { label: "EnglishAi", href: "/english" },
+        { label: "Affiliate Programme", href: "/affiliates" },
       ],
     },
     resourcesCol: {
@@ -347,7 +347,7 @@ export const KF_DATA = {
         { label: "Blog", href: "/insights" },
         { label: "YouTube Channel", href: "https://www.youtube.com/channel/UCb-d2dCbEt_T-d3qf3oMICw" },
         { label: "Sponsor a Video", href: "/sponsor" },
-        { label: "Yapcorder", href: "https://yapcorder.com" },
+        { label: "Yapcorder", href: "/yapcorder" },
         { label: "About Khalid", href: "/about" },
         { label: "Press / Featured In", href: "/press" },
         { label: "Careers", href: "/careers" },
@@ -356,7 +356,7 @@ export const KF_DATA = {
     },
     copyright: "© 2026 Khalid Farhan. All rights reserved.",
     legalLinks: [
-      { label: "Privacy Policy", href: "/privacy" },
+      { label: "Privacy Policy", href: "/privacy-policy" },
       { label: "Cookie Policy", href: "/cookie-policy" },
       { label: "Terms", href: "/terms" },
     ],

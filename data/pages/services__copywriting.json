@@ -1,0 +1,552 @@
+{
+  "route": "/services/copywriting",
+  "title": "Copywriting Agency Ireland — Website & Ad Copy Dublin | Khalid Farhan",
+  "metaDesc": "Professional copywriting agency in Dublin. Website copy, ad copy, email, landing pages. Conversion-focused writing based on customer research.",
+  "h1": "Copywriting\nWords that move people to act",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Copywriting",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Copywriting\nWords that move people to act"
+        },
+        {
+          "type": "p",
+          "text": "Copywriting is the writing of website pages, ads, emails and landing pages that persuade people to act. Khalid Farhan is a Dublin agency whose copy is based on customer research and tested against real traffic, for businesses in Ireland, the UK and beyond that need words which sell rather than words which fill space."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Businesses launching or relaunching a website",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Advertisers whose ads get clicks but not conversions",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies with a complex offer that needs explaining simply",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Copywriting audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Copywriting results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Copywriting audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current copywriting set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Copywriting audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT COPYWRITING HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "LEGAL\nDUBLIN, IRELAND\n\nPage 1\nFor 8 target keywords\n\nFirst-page authority for a specialist law firm\n\nA specialist family law firm\n\nRead the case study",
+          "href": "/work/case-studies/family-law-firm-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SOFTWARE AND HOSTING\nGLOBAL\n\n+310%\nOrganic traffic to the hub\n\nA content hub that brings 1.2 million visits a year\n\nA global web hosting company\n\nRead the case study",
+          "href": "/work/case-studies/global-web-hosting-content",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR COPYWRITING SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Great copy is the difference between a website that gets visitors and one that gets customers. We write conversion-focused copy for websites, landing pages, ads, emails, and sales materials — based on your audience's real language, fears, and desires."
+        },
+        {
+          "type": "p",
+          "text": "Quoted per project after a free review. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Website Copy"
+        },
+        {
+          "type": "text",
+          "text": "Homepage, service pages, about page, and product descriptions."
+        },
+        {
+          "type": "text",
+          "text": "Ad Copy"
+        },
+        {
+          "type": "text",
+          "text": "Google Ads, Meta Ads, LinkedIn Ads — headlines and body copy that stop the scroll."
+        },
+        {
+          "type": "text",
+          "text": "Email Copy"
+        },
+        {
+          "type": "text",
+          "text": "Subject lines, sequences, broadcast campaigns."
+        },
+        {
+          "type": "text",
+          "text": "Landing Pages"
+        },
+        {
+          "type": "text",
+          "text": "Long-form sales pages and short-form lead gen pages."
+        },
+        {
+          "type": "text",
+          "text": "Brand Voice Guide"
+        },
+        {
+          "type": "text",
+          "text": "Documented voice and tone guidelines your whole team can use."
+        },
+        {
+          "type": "text",
+          "text": "Customer Research"
+        },
+        {
+          "type": "text",
+          "text": "Interviews and surveys to extract the language your customers actually use."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nResearch: customer interviews, reviews and competitor messaging",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nDraft copy for the agreed pages, ads or emails",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nRevisions, then live with tracking so the copy can be judged on results",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Copywriting, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Research"
+        },
+        {
+          "type": "p",
+          "text": "customer interviews, competitor analysis, review mining"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Strategy"
+        },
+        {
+          "type": "p",
+          "text": "messaging hierarchy and unique value proposition"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Write"
+        },
+        {
+          "type": "p",
+          "text": "first draft based on research and brief"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Refine"
+        },
+        {
+          "type": "p",
+          "text": "revisions based on feedback"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Test"
+        },
+        {
+          "type": "p",
+          "text": "A/B test headline variants on high-traffic pages"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY COPYWRITING CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR COPYWRITING"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "Do you write SEO copy?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. All website copy is optimised for target keywords without compromising readability or conversion."
+        },
+        {
+          "type": "button",
+          "text": "How many revision rounds are included?"
+        },
+        {
+          "type": "text",
+          "text": "Two rounds of revisions are included in all copywriting projects. Additional rounds are available."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with Copywriting"
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Landing Page Design",
+          "href": "/services/landing-page-design",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Email Marketing",
+          "href": "/services/email-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT COPYWRITING COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Copywriting audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

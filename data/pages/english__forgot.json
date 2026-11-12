@@ -1,0 +1,32 @@
+{
+  "route": "/english/forgot",
+  "title": "EnglishAi",
+  "metaDesc": "প্রতিদিন 20 মিনিট পার্সোনাল টিচারের সাথে ইংরেজি বলার প্র্যাকটিস। আগে লেভেল টেস্ট দিন।",
+  "h1": "পাসওয়ার্ড রিসেট",
+  "sections": [
+    {
+      "index": 1,
+      "className": "en-wrap en-page",
+      "blocks": [
+        {
+          "type": "h1",
+          "text": "পাসওয়ার্ড রিসেট"
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "placeholder": "",
+              "required": true,
+              "options": []
+            }
+          ],
+          "submitText": "লিংক পাঠান"
+        }
+      ]
+    }
+  ]
+}

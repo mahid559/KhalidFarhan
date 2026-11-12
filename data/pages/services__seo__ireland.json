@@ -1,0 +1,656 @@
+{
+  "route": "/services/seo/ireland",
+  "title": "SEO Agency in Ireland — Search Engine Optimisation | Khalid Farhan",
+  "metaDesc": "Search Engine Optimisation for businesses in Ireland. Dublin-based SEO agency delivering organic growth for businesses across Ireland, the UK, and globally. Technical SEO, content strategy, link building.",
+  "h1": "Search Engine Optimisation in Ireland\nSEO that turns search into revenue",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Search Engine Optimisation\n/",
+              "href": "/services/seo",
+              "imgs": []
+            },
+            {
+              "text": "Ireland",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Search Engine Optimisation in Ireland\nSEO that turns search into revenue"
+        },
+        {
+          "type": "p",
+          "text": "Search engine optimisation (SEO) is the work of making a website rank higher on Google for the searches your customers type. Khalid Farhan is a Dublin-based SEO agency that fixes technical problems, writes and improves pages, and earns links, so businesses in Ireland and abroad get more enquiries from organic search without paying for every click. We work with businesses in Ireland and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Service businesses that depend on Google enquiries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "E-commerce stores with a catalogue that is not ranking",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies spending on ads who want a cheaper second channel",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Sites that lost traffic after a redesign or algorithm update",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free SEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See SEO results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free SEO audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current seo set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free SEO audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT SEO HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "HOSPITALITY\nCORK, IRELAND\n\n+180%\nOrganic traffic\n\nFrom invisible to fully booked\n\nA boutique B&B in Cork\n\nRead the case study",
+          "href": "/work/case-studies/cork-bnb-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "EDUCATION\nDUBLIN, IRELAND\n\n+213%\nOrganic traffic in 9 months\n\nFrom +213% organic traffic to a waiting list\n\nA music school in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/dublin-music-school-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "LEGAL\nDUBLIN, IRELAND\n\nPage 1\nFor 8 target keywords\n\nFirst-page authority for a specialist law firm\n\nA specialist family law firm\n\nRead the case study",
+          "href": "/work/case-studies/family-law-firm-seo",
+          "imgs": []
+        },
+        {
+          "type": "blockquote",
+          "text": "“Khalid's team completely transformed our online presence. Organic bookings are up significantly and we're now ranking for searches we never thought possible.”"
+        },
+        {
+          "type": "text",
+          "text": "Owner, a boutique b&b in cork"
+        },
+        {
+          "type": "blockquote",
+          "text": "“The results speak for themselves — over 200% growth in organic traffic within nine months. The team is professional, transparent, and genuinely invested in our success.”"
+        },
+        {
+          "type": "text",
+          "text": "Director, a music school in dublin"
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR SEO SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "We build organic search programmes that drive qualified traffic and convert visitors into customers. Our SEO work covers technical audits, on-page optimisation, content strategy, link acquisition, and measurement — delivered with radical transparency at every step."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Technical SEO Audit"
+        },
+        {
+          "type": "text",
+          "text": "Full crawl analysis covering site architecture, Core Web Vitals, indexation, and schema markup."
+        },
+        {
+          "type": "text",
+          "text": "Keyword Strategy"
+        },
+        {
+          "type": "text",
+          "text": "Intent-mapped keyword research across commercial, informational, and navigational queries."
+        },
+        {
+          "type": "text",
+          "text": "On-Page Optimisation"
+        },
+        {
+          "type": "text",
+          "text": "Title tags, meta descriptions, heading structure, internal linking, and content depth."
+        },
+        {
+          "type": "text",
+          "text": "Link Acquisition"
+        },
+        {
+          "type": "text",
+          "text": "White-hat link building via digital PR, content partnerships, and industry directories."
+        },
+        {
+          "type": "text",
+          "text": "Monthly Reporting"
+        },
+        {
+          "type": "text",
+          "text": "Clear dashboards showing rankings, organic traffic, conversions, and revenue attribution."
+        },
+        {
+          "type": "text",
+          "text": "Core Web Vitals"
+        },
+        {
+          "type": "text",
+          "text": "LCP, INP, and CLS improvements to satisfy Google's page experience signals."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nTechnical and content audit, then the fixes that unblock rankings",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nKeyword map and the first batch of rewritten or new pages live",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nRank tracking and a monthly report tied to enquiries, not just traffic",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to SEO, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "deep technical and content audit to find quick wins and long-term opportunities"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Strategy"
+        },
+        {
+          "type": "p",
+          "text": "keyword map and content plan aligned to your commercial goals"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Execute"
+        },
+        {
+          "type": "p",
+          "text": "on-page, technical, and off-page work delivered in monthly sprints"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Measure"
+        },
+        {
+          "type": "p",
+          "text": "weekly rank tracking, monthly traffic and revenue attribution reports"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Optimise"
+        },
+        {
+          "type": "p",
+          "text": "continuous A/B testing of title tags and content to improve CTR and conversions"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY SEO CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR SEO"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does SEO cost in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Retainers from €1,500 a month. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Ireland and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "How long does SEO take to show results?"
+        },
+        {
+          "type": "text",
+          "text": "Most clients see meaningful ranking movements within 3–6 months. Significant traffic and revenue impact typically comes at the 6–12 month mark, depending on domain authority, competition, and how aggressively we execute."
+        },
+        {
+          "type": "button",
+          "text": "Do you guarantee first-page rankings?"
+        },
+        {
+          "type": "text",
+          "text": "No ethical SEO agency can guarantee specific rankings — Google's algorithm is outside anyone's control. What we guarantee is a rigorous, transparent process and measurable progress. We track dozens of KPIs beyond rankings, including organic traffic, conversions, and revenue."
+        },
+        {
+          "type": "button",
+          "text": "How much does SEO cost?"
+        },
+        {
+          "type": "text",
+          "text": "Our SEO retainers start at €1,500/month for smaller businesses and scale based on the size of the opportunity, competition level, and the volume of work required. We offer a free audit before quoting so the investment is always justified."
+        },
+        {
+          "type": "button",
+          "text": "Can you work with our existing website?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with most platforms including WordPress, Webflow, Shopify, and custom-built sites. Our technical audit identifies platform-specific issues and we work with your development team or handle fixes directly."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "SEO across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "SEO, all of Ireland",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO in Dublin",
+          "href": "/services/seo/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO in Cork",
+          "href": "/services/seo/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO in Galway",
+          "href": "/services/seo/galway",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO in Limerick",
+          "href": "/services/seo/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO in Waterford",
+          "href": "/services/seo/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO in Kilkenny",
+          "href": "/services/seo/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with SEO"
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation",
+          "href": "/services/geo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Technical SEO Audits",
+          "href": "/services/technical-seo-audits",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE SEO AUDIT FOR YOUR IRELAND BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free SEO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

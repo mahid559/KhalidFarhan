@@ -1,0 +1,627 @@
+{
+  "route": "/services/conversion-rate-optimisation/ireland",
+  "title": "CRO Agency in Ireland — Conversion Rate Optimisation | Khalid Farhan",
+  "metaDesc": "Conversion Rate Optimisation for businesses in Ireland. Conversion rate optimisation agency in Dublin. A/B testing, heatmaps, user research. Turn more of your existing traffic into customers.",
+  "h1": "Conversion Rate Optimisation in Ireland\nConvert more of the traffic you already have",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Conversion Rate Optimisation\n/",
+              "href": "/services/conversion-rate-optimisation",
+              "imgs": []
+            },
+            {
+              "text": "Ireland",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Conversion Rate Optimisation in Ireland\nConvert more of the traffic you already have"
+        },
+        {
+          "type": "p",
+          "text": "Conversion rate optimisation (CRO) is the process of increasing the share of website visitors who enquire or buy, using analytics, user research, heatmaps and A/B testing. Khalid Farhan is a Dublin agency that runs CRO programmes for e-commerce and lead-generation sites, which multiplies the return on every other marketing channel. We work with businesses in Ireland and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Sites with good traffic and disappointing enquiries or sales",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "E-commerce stores with high cart abandonment",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Advertisers who want more from the same budget",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free CRO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See CRO results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free CRO audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current cro set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free CRO audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT CRO HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "MANUFACTURING AND RETAIL\nDHAKA, BANGLADESH\n\n+240%\nShowroom enquiries\n\nShowroom visits booked online, 240% more of them\n\nA furniture manufacturer in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/furniture-manufacturer-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "RETAIL\nDUBLIN, IRELAND\n\n5.1x\nGoogle Ads ROAS\n\n5.1x ROAS and an email list that buys\n\nAn independent wine shop in Dublin\n\nRead the case study",
+          "href": "/work/case-studies/wine-shop-dublin-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SERVICES\nDUBLIN AND LEINSTER\n\n+175%\nQuote requests\n\nQuote requests up 175% at 41% lower cost\n\nA removals company in Ireland\n\nRead the case study",
+          "href": "/work/case-studies/removals-company-ireland-seo",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR CRO SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "CRO is the systematic process of increasing the percentage of your website visitors who take the action you want. We use a research-led approach — heatmaps, session recordings, user testing, and A/B experiments — to remove friction and increase conversions."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "CRO Audit"
+        },
+        {
+          "type": "text",
+          "text": "Quantitative and qualitative research to identify the biggest conversion blockers."
+        },
+        {
+          "type": "text",
+          "text": "Test Design"
+        },
+        {
+          "type": "text",
+          "text": "Hypothesis-driven A/B and multivariate test designs."
+        },
+        {
+          "type": "text",
+          "text": "Test Implementation"
+        },
+        {
+          "type": "text",
+          "text": "Google Optimize, VWO, or Convert implementation."
+        },
+        {
+          "type": "text",
+          "text": "User Research"
+        },
+        {
+          "type": "text",
+          "text": "Surveys, user testing, and session replay analysis."
+        },
+        {
+          "type": "text",
+          "text": "Funnel Analysis"
+        },
+        {
+          "type": "text",
+          "text": "Full funnel mapping from entry point to conversion — finding where users drop off."
+        },
+        {
+          "type": "text",
+          "text": "Test Roadmap"
+        },
+        {
+          "type": "text",
+          "text": "Prioritised experiment backlog based on impact vs effort scoring."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nAnalytics and heatmap review to find where visitors drop off",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nPrioritised test plan and the first tests live",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nWinning changes shipped and a monthly report on conversion rate",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to CRO, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Research"
+        },
+        {
+          "type": "p",
+          "text": "quantitative (analytics) and qualitative (heatmaps, sessions, surveys) analysis"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Hypothesize"
+        },
+        {
+          "type": "p",
+          "text": "turn research insights into testable hypotheses"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Prioritise"
+        },
+        {
+          "type": "p",
+          "text": "score hypotheses by potential impact vs implementation effort"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Test"
+        },
+        {
+          "type": "p",
+          "text": "run experiments to statistical significance"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Learn"
+        },
+        {
+          "type": "p",
+          "text": "document learnings and inform next iteration"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY CRO CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR CRO"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does CRO cost in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Retainers from €1,500 a month. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Ireland?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Ireland and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "How much traffic do I need for CRO?"
+        },
+        {
+          "type": "text",
+          "text": "Reliable A/B testing requires at least 1,000 conversions per month to reach statistical significance in a reasonable timeframe. Below this, we focus on qualitative research and UX best practices."
+        },
+        {
+          "type": "button",
+          "text": "How long do tests run?"
+        },
+        {
+          "type": "text",
+          "text": "Each test runs until statistical significance is reached — typically 2–8 weeks depending on traffic volume."
+        },
+        {
+          "type": "button",
+          "text": "What's a typical conversion lift?"
+        },
+        {
+          "type": "text",
+          "text": "Results vary widely, but our clients typically see 15–40% uplift on tested pages. The compound effect across multiple tests is significant."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "CRO across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "CRO, all of Ireland",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CRO in Dublin",
+          "href": "/services/conversion-rate-optimisation/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CRO in Cork",
+          "href": "/services/conversion-rate-optimisation/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CRO in Galway",
+          "href": "/services/conversion-rate-optimisation/galway",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CRO in Limerick",
+          "href": "/services/conversion-rate-optimisation/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CRO in Waterford",
+          "href": "/services/conversion-rate-optimisation/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CRO in Kilkenny",
+          "href": "/services/conversion-rate-optimisation/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with CRO"
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Landing Page Design",
+          "href": "/services/landing-page-design",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Web Development",
+          "href": "/services/web-development",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE CRO AUDIT FOR YOUR IRELAND BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free CRO audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

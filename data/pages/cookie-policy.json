@@ -1,0 +1,132 @@
+{
+  "route": "/cookie-policy",
+  "title": "Cookie Policy — Khalid Farhan | Khalid Farhan",
+  "metaDesc": "Cookie policy for khalidfarhan.com. What cookies we use and how to control them.",
+  "h1": "COOKIE POLICY.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "LEGAL"
+        },
+        {
+          "type": "h1",
+          "text": "COOKIE POLICY."
+        },
+        {
+          "type": "p",
+          "text": "Last updated: 16 April 2026"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "What are cookies?"
+        },
+        {
+          "type": "p",
+          "text": "Cookies are small text files stored in your browser when you visit a website. They help websites remember your preferences and understand how you use them."
+        },
+        {
+          "type": "h2",
+          "text": "Cookies we use"
+        },
+        {
+          "type": "h3",
+          "text": "Strictly necessary cookies"
+        },
+        {
+          "type": "p",
+          "text": "These cookies are essential for the website to function. They cannot be disabled."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "affiliate_ref: Stores your affiliate referral code for 30 days to attribute commissions correctly.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "affiliate_token: Authentication token for affiliate dashboard access.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Analytics cookies"
+        },
+        {
+          "type": "p",
+          "text": "These cookies help us understand how visitors use the site. Data is anonymised."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Google Analytics 4: Page views, session data, traffic sources. We use IP anonymisation. Data is retained for 14 months.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Marketing cookies"
+        },
+        {
+          "type": "p",
+          "text": "Set by third-party advertising platforms to measure campaign performance."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Facebook Pixel: Tracks conversions from Meta Ads campaigns.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Google Ads: Tracks conversions from Google Ads campaigns.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Managing cookies"
+        },
+        {
+          "type": "p",
+          "text": "You can control cookies through your browser settings. Most browsers allow you to view, block, and delete cookies. Note that blocking some cookies may affect website functionality."
+        },
+        {
+          "type": "p",
+          "text": "To opt out of Google Analytics: Google Analytics Opt-out"
+        },
+        {
+          "type": "p",
+          "text": "To manage Facebook Pixel: Facebook Privacy Settings"
+        },
+        {
+          "type": "h2",
+          "text": "Contact"
+        },
+        {
+          "type": "p",
+          "text": "Cookie questions: khalid@khalidfarhan.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "route": "/insights/conversion-rate-optimisation-basics",
+  "title": "Conversion Rate Optimisation: Where to Start and What Actually Works | Khalid Farhan",
+  "metaDesc": "CRO sounds complex but the biggest wins usually come from simple changes. Here's where to start.",
+  "h1": "Conversion Rate Optimisation: Where to Start and What Actually Works",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "BUSINESS GROWTH"
+        },
+        {
+          "type": "h1",
+          "text": "Conversion Rate Optimisation: Where to Start and What Actually Works"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "20 November 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "9 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "CRO sounds complex but the biggest wins usually come from simple changes. Here's where to start."
+        },
+        {
+          "type": "p",
+          "text": "Most businesses focus almost entirely on getting more traffic. More ad spend, more SEO, more social media posts. The assumption is that traffic is the constraint, and more of it produces more revenue. Often this is not true. The bigger constraint is what happens when people arrive."
+        },
+        {
+          "type": "p",
+          "text": "If your website converts at 1% and you're getting 1,000 visitors a month, you're generating 10 enquiries. If you improve your conversion rate to 2%, without changing your traffic at all, you're generating 20 enquiries. The same budget, the same SEO effort, the same ad spend, twice the output."
+        },
+        {
+          "type": "p",
+          "text": "This is what CRO is about. And the reason most businesses ignore it is that it's less visible than traffic metrics and takes more analytical thinking than simply spending more on ads."
+        },
+        {
+          "type": "h2",
+          "text": "What CRO Is and Why Most Businesses Ignore It"
+        },
+        {
+          "type": "p",
+          "text": "Conversion Rate Optimisation is the systematic process of improving the percentage of website visitors who take a desired action: submitting a form, making a purchase, calling a number, downloading something."
+        },
+        {
+          "type": "p",
+          "text": "Businesses ignore it for a few reasons. Traffic metrics are easy to understand and easy to buy (more ad spend = more traffic). Conversion optimisation requires understanding user behaviour, forming hypotheses, running tests, and interpreting results. It's less immediate and less intuitive. It also requires honest confrontation with the fact that your website might not be very good at its job, which is uncomfortable."
+        },
+        {
+          "type": "p",
+          "text": "The businesses that take CRO seriously, and there are many in Ireland that don't, end up with a compounding advantage. Every pound of ad spend or effort put into traffic generation produces more output because the destination is better at converting visitors."
+        },
+        {
+          "type": "h2",
+          "text": "Understanding Your Baseline"
+        },
+        {
+          "type": "p",
+          "text": "Before you can improve your conversion rate, you need to know what it is. This sounds obvious but a surprising number of businesses don't have this number accurately tracked."
+        },
+        {
+          "type": "p",
+          "text": "For a service business, the conversion rate is typically: enquiries divided by sessions. For an e-commerce business, it's purchases divided by sessions. Google Analytics 4 will show you this if goal tracking is set up correctly."
+        },
+        {
+          "type": "p",
+          "text": "Once you know your overall conversion rate, segment it. Mobile vs desktop conversion rates are almost always different. Traffic from different sources converts differently. Direct traffic typically converts better than social traffic. Organic search traffic from people who searched a specific buying-intent term converts better than organic traffic from people who searched a broad informational term."
+        },
+        {
+          "type": "p",
+          "text": "Understanding these segments tells you where to focus first. If mobile conversion rate is 0.5% vs desktop at 2.5%, fixing the mobile experience is your priority."
+        },
+        {
+          "type": "h2",
+          "text": "The Tools"
+        },
+        {
+          "type": "p",
+          "text": "Google Analytics 4: The foundation. Shows you where traffic comes from, which pages people visit, where they leave, and (if set up correctly) what actions they take. The Funnel Exploration feature is particularly useful: it shows you where in a multi-step process people are dropping out."
+        },
+        {
+          "type": "p",
+          "text": "Hotjar or Microsoft Clarity: Heatmaps show you where people click (and where they don't). Scroll maps show how far down pages people read. Session recordings let you watch real user sessions to see exactly where frustration or confusion occurs. Clarity is free and handles most use cases adequately."
+        },
+        {
+          "type": "p",
+          "text": "Google Search Console: Tells you what search queries are bringing people to which pages. If people are arriving from queries that don't match what the page offers, conversion will be poor regardless of how good the page is."
+        },
+        {
+          "type": "h2",
+          "text": "Quick Wins to Start With"
+        },
+        {
+          "type": "h3",
+          "text": "Above the fold"
+        },
+        {
+          "type": "p",
+          "text": "The area visible before scrolling needs to immediately communicate: what you do, who it's for, and why they should care. If someone lands on your homepage and can't answer those three questions within three seconds, you're losing conversions. Look at your homepage on a phone. What do you see before you scroll? Is it immediately compelling and clear?"
+        },
+        {
+          "type": "h3",
+          "text": "CTA clarity"
+        },
+        {
+          "type": "p",
+          "text": "Your call to action needs to be obvious and specific. \"Click here\" is weak. \"Book a Free 30-Minute Call\" is better. \"Get My Free SEO Audit\" is better still. The CTA should tell people exactly what they're going to get and reduce any anxiety about what clicking means."
+        },
+        {
+          "type": "p",
+          "text": "Make sure your CTA is visible without scrolling on both desktop and mobile. If the primary action you want people to take is submitting a contact form, that form (or a prominent link to it) should be in the hero section of your key pages."
+        },
+        {
+          "type": "h3",
+          "text": "Form length"
+        },
+        {
+          "type": "p",
+          "text": "Every additional field in a form reduces completion rates. Ask yourself: do I genuinely need every field I'm asking for? If the goal is to get an enquiry, name, email, and a brief description of what they need is usually sufficient. Phone number, company name, how did you hear about us, size of project, preferred callback time, and five other fields is not a form, it's a questionnaire, and most people won't finish it."
+        },
+        {
+          "type": "h3",
+          "text": "Page speed"
+        },
+        {
+          "type": "p",
+          "text": "A page that takes four seconds to load on mobile loses a significant percentage of visitors before they've even seen your content. Google's research shows that as page load time goes from one to three seconds, the probability of a visitor leaving increases by 32%. Use PageSpeed Insights to check your key pages and fix the most impactful speed issues."
+        },
+        {
+          "type": "h3",
+          "text": "Trust signals"
+        },
+        {
+          "type": "p",
+          "text": "Reviews, testimonials, client logos, professional credentials, association memberships, and guarantees all increase conversion by reducing perceived risk. If your contact page or service pages don't have any trust signals, add them. Real reviews from real clients (with names and ideally photos) are particularly powerful."
+        },
+        {
+          "type": "h2",
+          "text": "The CRO Process"
+        },
+        {
+          "type": "p",
+          "text": "Good CRO follows a cycle:"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Research: Look at your analytics and heatmaps to identify where users are dropping off or struggling. Watch session recordings. Talk to customers about what information they wanted when they were deciding.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Hypothesis: Form a specific, testable hypothesis. Not \"I think we should change the button\" but \"I believe changing the CTA button text from 'Submit' to 'Get My Free Quote' will increase form completions because it communicates value rather than commitment.\"",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Test: Run an A/B test where one group sees the original and another sees the change. Let it run until you have statistical significance (typically a few hundred conversions per variant, not just a few days).",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Measure: Analyse the results. Did the change improve conversion? By how much? With what level of confidence?",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Iterate: Implement the winner. Form the next hypothesis. Repeat.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "What A/B Testing Actually Requires"
+        },
+        {
+          "type": "p",
+          "text": "Most businesses that try A/B testing give up too soon or draw conclusions from insufficient data. A test with 50 conversions per variant is not statistically valid for most conversion rate ranges. You typically need at least 100-200 conversions per variant, and ideally more, before results are reliable."
+        },
+        {
+          "type": "p",
+          "text": "For businesses with lower traffic volumes, focusing on \"qualitative\" CRO (session recordings, user testing, customer interviews) to inform changes you implement directly (rather than test) is more practical than trying to run rigorous A/B tests that don't have enough traffic to be meaningful."
+        },
+        {
+          "type": "h2",
+          "text": "Landing Page vs Website CRO"
+        },
+        {
+          "type": "p",
+          "text": "Dedicated landing pages (for specific ad campaigns or specific offers) should be optimised independently from your main website. A landing page for a Google Ads campaign should be stripped of navigation (so people can't wander off), laser-focused on one offer, and have one call to action. This is very different from your homepage, which has to serve multiple visitor types with different intents."
+        },
+        {
+          "type": "p",
+          "text": "Don't try to use your homepage as a landing page for paid campaigns. The conversion rate will almost always be lower than a dedicated page because the homepage isn't designed to convert a specific type of visitor with a specific intent."
+        },
+        {
+          "type": "h2",
+          "text": "Common CRO Mistakes"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Redesigning based on aesthetics rather than data: \"The website looks dated\" is not a CRO insight. What does the data say about where users are leaving?",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Testing too many things at once: If you change five elements simultaneously and conversions improve, you don't know which change made the difference.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Stopping tests too early: Drawing conclusions from a week of data is almost always premature unless your traffic is very high.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Optimising for conversions without considering quality: Making your contact form so easy to complete that you get enquiries from people who aren't real prospects is not an improvement.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If your website is currently converting at under 2% for service business enquiries, or under 1.5% for e-commerce purchases, there is almost certainly meaningful room for improvement through CRO. A free audit can identify the most impactful starting points for your specific site."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "CRO"
+        },
+        {
+          "type": "text",
+          "text": "Conversion"
+        },
+        {
+          "type": "text",
+          "text": "Website Optimisation"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Business Growth\n\nHow to Set a Digital Marketing Budget for Your Irish Business in 2026",
+          "href": "/insights/digital-marketing-budget-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Business Growth\n\nB2B Digital Marketing in Ireland: A Complete 2026 Guide",
+          "href": "/insights/b2b-digital-marketing-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "BUSINESS GROWTH\nHow to Set a Digital Marketing Budget for Your Irish Business in 2026\n\nThe practical guide to allocating your marketing budget across channels — with real benchmarks from Irish businesses.\n\n15 Dec 2025\n·\n9 min read",
+          "href": "/insights/digital-marketing-budget-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "BUSINESS GROWTH\nB2B Digital Marketing in Ireland: A Complete 2026 Guide\n\nB2B marketing in Ireland has its own dynamics. Here's the complete guide from LinkedIn to intent-based search.\n\n10 Nov 2025\n·\n11 min read",
+          "href": "/insights/b2b-digital-marketing-ireland",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

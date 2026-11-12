@@ -1,0 +1,278 @@
+{
+  "route": "/work/case-studies/damp-proofing-contractor-google-ads",
+  "title": "Surveys booked at €24 a lead, down from €61 — Case Study | Khalid Farhan",
+  "metaDesc": "Search ads and one very good landing page for a specialist contractor.",
+  "h1": "SURVEYS BOOKED AT €24 A LEAD, DOWN FROM €61",
+  "sections": [
+    {
+      "index": 1,
+      "className": "csp-hero",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A damp-proofing contractor in Ireland · Leinster, Ireland"
+        },
+        {
+          "type": "h1",
+          "text": "SURVEYS BOOKED AT €24 A LEAD, DOWN FROM €61"
+        },
+        {
+          "type": "p",
+          "text": "Search ads and one very good landing page for a specialist contractor."
+        },
+        {
+          "type": "text",
+          "text": "INDUSTRY"
+        },
+        {
+          "type": "text",
+          "text": "Construction and trades"
+        },
+        {
+          "type": "text",
+          "text": "TIMEFRAME"
+        },
+        {
+          "type": "text",
+          "text": "4 months"
+        },
+        {
+          "type": "text",
+          "text": "WHAT WE DID"
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Landing Page Design",
+          "href": "/services/landing-page-design",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "csp-metrics",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "€24"
+        },
+        {
+          "type": "text",
+          "text": "Cost per lead, from €61"
+        },
+        {
+          "type": "text",
+          "text": "5.8x"
+        },
+        {
+          "type": "text",
+          "text": "Surveys booked"
+        },
+        {
+          "type": "text",
+          "text": "-18%"
+        },
+        {
+          "type": "text",
+          "text": "Monthly ad spend"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "csp-work",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "BEFORE AND AFTER"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "BEFORE",
+            "AFTER",
+            "Surveys booked a month"
+          ],
+          "rows": [
+            [
+              "",
+              "BEFORE",
+              "AFTER"
+            ],
+            [
+              "Surveys booked a month",
+              "9",
+              "52"
+            ],
+            [
+              "Cost per lead",
+              "€61",
+              "€24"
+            ],
+            [
+              "Out-of-area calls",
+              "48%",
+              "6%"
+            ],
+            [
+              "Landing page conversion",
+              "2.1%",
+              "11.8%"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "dampcontractor.ie/rising-damp-survey"
+        },
+        {
+          "type": "text",
+          "text": "Book a free damp survey"
+        },
+        {
+          "type": "text",
+          "text": "11.8% conversion"
+        },
+        {
+          "type": "text",
+          "text": "COST PER LEAD"
+        },
+        {
+          "type": "text",
+          "text": "−61%"
+        },
+        {
+          "type": "text",
+          "text": "5.8x"
+        },
+        {
+          "type": "text",
+          "text": "6%"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "csp-story",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "THE SITUATION"
+        },
+        {
+          "type": "p",
+          "text": "A damp-proofing contractor whose Google Ads delivered a handful of expensive enquiries a month and a lot of calls from people outside its area."
+        },
+        {
+          "type": "p",
+          "text": "A single campaign, one ad group, broad match, landing on the home page. Half the calls were from counties the contractor did not cover."
+        },
+        {
+          "type": "h2",
+          "text": "WHAT WE CHANGED"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Campaigns by problem: rising damp, condensation, basement tanking, each with its own page",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Strict location targeting with county-level bid adjustments",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "A survey booking page with a three-step form and before-and-after photos",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Call tracking with a short qualifying script for the office",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Negative keyword lists rebuilt weekly from search terms",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "WHAT HAPPENED"
+        },
+        {
+          "type": "p",
+          "text": "Cost per lead fell from €61 to €24 and the contractor books nearly six times more surveys a month on a smaller budget."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "csp-related",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "MORE LIKE THIS"
+        },
+        {
+          "type": "link",
+          "text": "All case studies →",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PET CARE\nDUBLIN, IRELAND\n\n4.1x\nMeta Ads ROAS\n\nFrom empty spaces to a waiting list\n\nA premium dog daycare\n\nRead the case study",
+          "href": "/work/case-studies/dog-daycare-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "CONSTRUCTION AND TRADES\nGALWAY, IRELAND\n\n#1\nFor 'roofer Galway'\n\nNumber one roofer in Galway, organically\n\nA Galway-based roofer\n\nRead the case study",
+          "href": "/work/case-studies/galway-roofer-local-seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET RESULTS LIKE THESE."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

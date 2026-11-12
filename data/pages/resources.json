@@ -1,0 +1,66 @@
+{
+  "route": "/resources",
+  "title": "Free Resources — SEO Checklist, Marketing Templates & More | Khalid Farhan",
+  "metaDesc": "Free SEO checklist, GEO checklist, marketing glossary, and templates from Khalid Farhan's agency.",
+  "h1": "FREE TOOLS AND GUIDES.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "RESOURCES"
+        },
+        {
+          "type": "h1",
+          "text": "FREE TOOLS AND GUIDES."
+        },
+        {
+          "type": "p",
+          "text": "Everything here is free. No email required for the glossary. Checklists require your email so we can send you the PDF."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "link",
+          "text": "PDF / CHECKLIST\nFREE\nFree SEO Checklist\n\nA comprehensive 50-point SEO checklist covering technical, on-page, and off-page factors. Used by our agency for every new client audit.\n\nGet it free →",
+          "href": "/resources/free-seo-checklist",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PDF / CHECKLIST\nFREE\nFree GEO Checklist\n\nGenerative Engine Optimisation checklist for 2026. Get your brand cited in ChatGPT, Perplexity, and Google AI Overviews.\n\nGet it free →",
+          "href": "/resources/free-geo-checklist",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "REFERENCE\nFREE\nDigital Marketing Glossary\n\n200+ terms explained in plain English. From CPL to ROAS, GEO to Core Web Vitals — the reference guide for marketers.\n\nGet it free →",
+          "href": "/resources/marketing-glossary",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT A FREE MARKETING AUDIT?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

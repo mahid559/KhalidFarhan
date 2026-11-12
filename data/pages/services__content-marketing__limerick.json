@@ -1,0 +1,632 @@
+{
+  "route": "/services/content-marketing/limerick",
+  "title": "Content Agency in Limerick — Content Marketing | Khalid Farhan",
+  "metaDesc": "Content Marketing for businesses in Limerick. Content marketing agency in Dublin. SEO content strategy, long-form articles, pillar pages. Build topical authority and organic traffic that compounds.",
+  "h1": "Content Marketing in Limerick\nContent that ranks, engages, and converts",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Content Marketing\n/",
+              "href": "/services/content-marketing",
+              "imgs": []
+            },
+            {
+              "text": "Limerick",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Content Marketing in Limerick\nContent that ranks, engages, and converts"
+        },
+        {
+          "type": "p",
+          "text": "Content marketing is the planning and production of articles, guides and pages that rank on Google, get cited by AI tools and bring in leads over time. Khalid Farhan is a Dublin agency that runs content programmes built around keyword research and topical authority, with every piece measured by the traffic and enquiries it produces. We work with businesses in Limerick and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Companies that want organic traffic that compounds",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "B2B firms with expertise nobody has written down",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "E-commerce brands competing for informational searches",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Businesses that need to be the source AI tools cite",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Content audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Content results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Content audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current content set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Content audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT CONTENT HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "LEGAL\nDUBLIN, IRELAND\n\nPage 1\nFor 8 target keywords\n\nFirst-page authority for a specialist law firm\n\nA specialist family law firm\n\nRead the case study",
+          "href": "/work/case-studies/family-law-firm-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TOURISM\nWEST OF IRELAND\n\nYoY+\nOrganic bookings, three seasons\n\nBookings up year on year, every year\n\nAn Irish caravan park and tourism business\n\nRead the case study",
+          "href": "/work/case-studies/irish-caravan-park-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR CONTENT SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Content marketing is a long game — but it's the most durable competitive advantage you can build. We create content programmes that align with your keyword strategy, demonstrate expertise, and build the topical authority that earns rankings and trust."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Content Strategy"
+        },
+        {
+          "type": "text",
+          "text": "Pillar-cluster content architecture mapped to search intent and buyer journey."
+        },
+        {
+          "type": "text",
+          "text": "Keyword Research"
+        },
+        {
+          "type": "text",
+          "text": "Deep keyword research to identify the topics your audience is searching for."
+        },
+        {
+          "type": "text",
+          "text": "Content Creation"
+        },
+        {
+          "type": "text",
+          "text": "Long-form articles, guides, case studies, and resource pages written by experts."
+        },
+        {
+          "type": "text",
+          "text": "Content Promotion"
+        },
+        {
+          "type": "text",
+          "text": "Distribution and link acquisition to amplify content performance."
+        },
+        {
+          "type": "text",
+          "text": "Content Audit"
+        },
+        {
+          "type": "text",
+          "text": "Analysis of existing content — what to update, consolidate, or remove."
+        },
+        {
+          "type": "text",
+          "text": "Editorial Calendar"
+        },
+        {
+          "type": "text",
+          "text": "12-week rolling content calendar aligned to SEO and commercial goals."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nTopic map built from keyword research and your sales conversations",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nFirst articles and pillar pages published and interlinked",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nMonthly reporting on rankings, traffic and leads per piece",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Content, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "review existing content for gaps and opportunities"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Strategy"
+        },
+        {
+          "type": "p",
+          "text": "build a content architecture around your commercial keywords"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Calendar"
+        },
+        {
+          "type": "p",
+          "text": "plan 90-day rolling editorial content"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Create"
+        },
+        {
+          "type": "p",
+          "text": "produce high-quality, expert-written content"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Promote"
+        },
+        {
+          "type": "p",
+          "text": "distribute and build links to each piece"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY CONTENT CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR CONTENT"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does Content cost in Limerick?"
+        },
+        {
+          "type": "text",
+          "text": "Retainers from €1,500 a month. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Limerick?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Limerick and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "How long before content starts ranking?"
+        },
+        {
+          "type": "text",
+          "text": "New content typically takes 3–6 months to rank meaningfully. Well-optimised content on authoritative domains can rank faster."
+        },
+        {
+          "type": "button",
+          "text": "Do you write the content or do we?"
+        },
+        {
+          "type": "text",
+          "text": "We do. Our content is written by subject matter experts with SEO briefs, not AI-generated and barely edited copy."
+        },
+        {
+          "type": "button",
+          "text": "How many pieces per month?"
+        },
+        {
+          "type": "text",
+          "text": "Our retainers typically include 4–12 pieces per month depending on budget and goals. Quality always beats quantity."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Content across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "Content, all of Ireland",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content in Dublin",
+          "href": "/services/content-marketing/dublin",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content in Cork",
+          "href": "/services/content-marketing/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content in Galway",
+          "href": "/services/content-marketing/galway",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content in Waterford",
+          "href": "/services/content-marketing/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content in Kilkenny",
+          "href": "/services/content-marketing/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Content in Ireland",
+          "href": "/services/content-marketing/ireland",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with Content"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Generative Engine Optimisation",
+          "href": "/services/geo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Copywriting",
+          "href": "/services/copywriting",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE CONTENT AUDIT FOR YOUR LIMERICK BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Content audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

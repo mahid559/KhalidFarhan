@@ -1,0 +1,552 @@
+{
+  "route": "/services/youtube-channel-management",
+  "title": "YouTube Channel Management Agency Ireland — YouTube Growth | Khalid Farhan",
+  "metaDesc": "YouTube channel management agency in Dublin. Video SEO, content strategy, channel optimisation. Grow your YouTube audience strategically.",
+  "h1": "YouTube Channel Management\nGrow your YouTube channel strategically",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "YouTube Channel Management",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "YouTube Channel Management\nGrow your YouTube channel strategically"
+        },
+        {
+          "type": "p",
+          "text": "YouTube channel management is the strategy, optimisation and growth of a brand or creator's YouTube channel: video SEO, titles, thumbnails, publishing cadence and community. Khalid Farhan has grown a large YouTube channel of his own, and the agency applies the same system to client channels."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Brands with video content that gets few views",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Founders and experts building an audience",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies in Ireland and the UK using video to sell",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free YouTube audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See YouTube results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free YouTube audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current youtube set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free YouTube audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT YOUTUBE HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "MANUFACTURING AND RETAIL\nDHAKA, BANGLADESH\n\n+240%\nShowroom enquiries\n\nShowroom visits booked online, 240% more of them\n\nA furniture manufacturer in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/furniture-manufacturer-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "B2B SOFTWARE\nIRELAND AND THE UK\n\n+190%\nDemo requests\n\nDemo requests up 190% and cited by AI search\n\nA workforce management SaaS\n\nRead the case study",
+          "href": "/work/case-studies/workforce-saas-linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR YOUTUBE SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "YouTube is the world's second-largest search engine and a powerful long-form content channel. We help businesses and personal brands grow their YouTube presence with a combination of video SEO, content strategy, and community management."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Video SEO"
+        },
+        {
+          "type": "text",
+          "text": "Title, description, tags, chapters, and thumbnail optimisation."
+        },
+        {
+          "type": "text",
+          "text": "Keyword Research"
+        },
+        {
+          "type": "text",
+          "text": "YouTube-specific keyword research for your niche."
+        },
+        {
+          "type": "text",
+          "text": "Content Strategy"
+        },
+        {
+          "type": "text",
+          "text": "Video ideas, upload schedule, and content pillar framework."
+        },
+        {
+          "type": "text",
+          "text": "Channel Optimisation"
+        },
+        {
+          "type": "text",
+          "text": "Channel art, about section, playlists, and featured content."
+        },
+        {
+          "type": "text",
+          "text": "Analytics"
+        },
+        {
+          "type": "text",
+          "text": "YouTube Analytics review and growth reporting."
+        },
+        {
+          "type": "text",
+          "text": "Community Management"
+        },
+        {
+          "type": "text",
+          "text": "Comment moderation and community engagement."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nChannel audit and content plan built around search demand",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nTitles, thumbnails and descriptions reworked across existing videos",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nPublishing cadence running with monthly views, subscribers and leads reported",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to YouTube, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "review current channel performance, SEO, and content strategy"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Keyword map"
+        },
+        {
+          "type": "p",
+          "text": "identify the search opportunities in your niche"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Content plan"
+        },
+        {
+          "type": "p",
+          "text": "build a 90-day video content calendar"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Optimise"
+        },
+        {
+          "type": "p",
+          "text": "apply SEO to existing videos and new uploads"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Grow"
+        },
+        {
+          "type": "p",
+          "text": "consistent execution and monthly performance review"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY YOUTUBE CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR YOUTUBE"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "Do you produce the videos?"
+        },
+        {
+          "type": "text",
+          "text": "We focus on strategy, SEO, and management. For video production, we can connect you with our network of videographers and editors."
+        },
+        {
+          "type": "button",
+          "text": "How long to grow a channel?"
+        },
+        {
+          "type": "text",
+          "text": "YouTube is a long-term investment. Consistent, well-optimised content typically sees meaningful subscriber growth within 6–12 months."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with YouTube"
+        },
+        {
+          "type": "link",
+          "text": "Content Marketing",
+          "href": "/services/content-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "YouTube Ads",
+          "href": "/services/youtube-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation",
+          "href": "/services/seo",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT YOUTUBE COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free YouTube audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

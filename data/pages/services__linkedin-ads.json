@@ -1,0 +1,560 @@
+{
+  "route": "/services/linkedin-ads",
+  "title": "LinkedIn Ads Agency Ireland — B2B LinkedIn Advertising | Khalid Farhan",
+  "metaDesc": "LinkedIn advertising agency in Dublin. B2B campaigns targeting decision-makers. Lead gen, sponsored content, account-based marketing.",
+  "h1": "LinkedIn Ads\nReach decision-makers on LinkedIn",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "LinkedIn Ads",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "LinkedIn Ads\nReach decision-makers on LinkedIn"
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn Ads management is the planning and running of B2B campaigns that reach people by job title, company, industry and seniority. Khalid Farhan is a Dublin agency that builds LinkedIn lead-generation and account-based campaigns for software, professional services and other B2B companies where one client is worth thousands."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "B2B software and SaaS companies with a defined buyer",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Professional services selling to specific roles or industries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Companies running account-based sales that need air cover",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free LinkedIn Ads audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See LinkedIn Ads results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free LinkedIn Ads audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current linkedin ads set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free LinkedIn Ads audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT LINKEDIN ADS HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "B2B SOFTWARE\nIRELAND AND THE UK\n\n+190%\nDemo requests\n\nDemo requests up 190% and cited by AI search\n\nA workforce management SaaS\n\nRead the case study",
+          "href": "/work/case-studies/workforce-saas-linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "FINANCIAL SERVICES\nBERLIN, GERMANY\n\n-40%\nCost per lead\n\nHigh-quality leads at a fraction of the previous cost\n\nAn educational fintech company in Germany\n\nRead the case study",
+          "href": "/work/case-studies/german-fintech-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "PET CARE\nDUBLIN, IRELAND\n\n4.1x\nMeta Ads ROAS\n\nFrom empty spaces to a waiting list\n\nA premium dog daycare\n\nRead the case study",
+          "href": "/work/case-studies/dog-daycare-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR LINKEDIN ADS SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "LinkedIn is the highest-quality B2B advertising platform — and the most expensive to waste. We build LinkedIn campaigns with surgical targeting, compelling creative, and conversion-optimised lead gen forms to deliver qualified pipeline at a predictable cost."
+        },
+        {
+          "type": "p",
+          "text": "Management from €1,500 a month, ad spend separate. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Targeting Strategy"
+        },
+        {
+          "type": "text",
+          "text": "Job title, seniority, industry, company size, and skills-based audience construction."
+        },
+        {
+          "type": "text",
+          "text": "Ad Formats"
+        },
+        {
+          "type": "text",
+          "text": "Sponsored Content, Message Ads, Dynamic Ads, and Lead Gen Forms."
+        },
+        {
+          "type": "text",
+          "text": "Account-Based Marketing"
+        },
+        {
+          "type": "text",
+          "text": "Company list targeting for ABM campaigns against named accounts."
+        },
+        {
+          "type": "text",
+          "text": "Pipeline Reporting"
+        },
+        {
+          "type": "text",
+          "text": "CPL, MQL rate, and pipeline revenue attribution reporting."
+        },
+        {
+          "type": "text",
+          "text": "Lead Gen Forms"
+        },
+        {
+          "type": "text",
+          "text": "Native LinkedIn Lead Gen Forms that capture leads without friction."
+        },
+        {
+          "type": "text",
+          "text": "Website Retargeting"
+        },
+        {
+          "type": "text",
+          "text": "LinkedIn Insight Tag setup and retargeting audiences from website visitors."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nAudience built from your ideal customer profile and target accounts",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nLead-gen forms and landing pages live with CRM tracking",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nCreative and offer tests, then a monthly cost-per-qualified-lead report",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to LinkedIn Ads, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Define ICP"
+        },
+        {
+          "type": "p",
+          "text": "build precise ideal customer profiles for targeting"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Campaign structure"
+        },
+        {
+          "type": "p",
+          "text": "separate campaigns by audience type and funnel stage"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Creative"
+        },
+        {
+          "type": "p",
+          "text": "message-first ad creative matched to LinkedIn's native format"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Launch"
+        },
+        {
+          "type": "p",
+          "text": "controlled budget rollout to identify top-performing combinations"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Optimise"
+        },
+        {
+          "type": "p",
+          "text": "bid adjustments, audience refinements, and creative rotation"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY LINKEDIN ADS CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR LINKEDIN ADS"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "Is LinkedIn Ads worth it for my business?"
+        },
+        {
+          "type": "text",
+          "text": "LinkedIn works best for B2B businesses targeting decision-makers with higher-value products or services. If your customer is a C-suite, VP, manager, or specific job function, LinkedIn's targeting is unmatched."
+        },
+        {
+          "type": "button",
+          "text": "What budget do I need?"
+        },
+        {
+          "type": "text",
+          "text": "LinkedIn has a minimum daily budget of €10/day. We recommend €2,000+/month to generate enough data for proper optimisation. CPCs are higher than Google or Meta but lead quality is typically significantly higher for B2B."
+        },
+        {
+          "type": "button",
+          "text": "Can you target specific companies?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. LinkedIn's Matched Audiences feature lets us upload company lists and target named accounts — perfect for ABM programmes."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with LinkedIn Ads"
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Email Marketing",
+          "href": "/services/email-marketing",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT LINKEDIN ADS COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free LinkedIn Ads audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

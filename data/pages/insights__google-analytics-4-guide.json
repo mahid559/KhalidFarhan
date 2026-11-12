@@ -1,0 +1,405 @@
+{
+  "route": "/insights/google-analytics-4-guide",
+  "title": "Google Analytics 4: A Practical Guide for Marketers in 2026 | Khalid Farhan",
+  "metaDesc": "GA4 is still confusing people two years after the switch. Here's the practical guide to making sense of your data.",
+  "h1": "Google Analytics 4: A Practical Guide for Marketers in 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "DIGITAL MARKETING"
+        },
+        {
+          "type": "h1",
+          "text": "Google Analytics 4: A Practical Guide for Marketers in 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "28 November 2025"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "10 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GA4 is still confusing people two years after the switch. Here's the practical guide to making sense of your data."
+        },
+        {
+          "type": "p",
+          "text": "Google Analytics 4 became the mandatory standard in July 2023 when Universal Analytics stopped processing data. Two years later, many business owners and marketers are still frustrated by it. The interface is different. Key metrics have changed. Reports they relied on in UA have moved or been replaced. GA4 is genuinely more powerful than UA for some use cases, and genuinely worse for others. This is the practical guide to making sense of what you have."
+        },
+        {
+          "type": "h2",
+          "text": "The Key Differences From Universal Analytics"
+        },
+        {
+          "type": "p",
+          "text": "The biggest conceptual change is the move from a session-based model to an event-based model. In Universal Analytics, a \"session\" was the unit of measurement: a user visits your site, does various things, and that's one session. Events in UA were a special category of things you had to explicitly set up and tag."
+        },
+        {
+          "type": "p",
+          "text": "In GA4, everything is an event. A page view is an event. A scroll is an event. A click is an event. A purchase is an event. This is more flexible and more granular, but it also means the numbers you're used to reading (sessions, pageviews) have changed in meaning and calculation, which is why your GA4 numbers look different from your old UA numbers even for the same time periods."
+        },
+        {
+          "type": "p",
+          "text": "Other important differences:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Sessions are calculated differently: GA4 sessions don't expire at midnight the way UA sessions did. GA4 uses engagement-based session definitions. Don't compare GA4 session counts directly to UA session counts.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Bounce rate replaced by Engagement Rate: GA4's engagement rate measures the percentage of sessions that lasted more than 10 seconds, had a conversion, or had 2+ page views. It's a better proxy for genuine engagement than UA's bounce rate, but it's not directly comparable.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Cross-device tracking: GA4 is designed for cross-device measurement, using a combination of cookies, user IDs, and Google Signals to stitch together journeys across devices where possible. This is more sophisticated than UA's cookie-only approach.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "No data views: UA had Views, which allowed you to create filtered versions of your data (e.g., a view that excluded internal traffic). GA4 doesn't have Views. Instead, it uses data filters at the property level and comparisons within reports.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "How GA4's Event-Based Model Works"
+        },
+        {
+          "type": "p",
+          "text": "GA4 has three types of events:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Automatically collected events: GA4 tracks these without any configuration: page views, first visits, session starts, user engagement.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Enhanced measurement events: Enabled by a toggle in GA4 settings: scroll depth (90% scroll), outbound link clicks, site search, video engagement, file downloads.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Custom events: You define and implement these for your specific business needs: form submissions, phone call clicks, button clicks, purchase completions with custom parameters.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The most important custom events to set up for most businesses:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Form submission (mark as a conversion)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Phone number click (mark as a conversion)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Purchase (for e-commerce, mark as a conversion with transaction value)",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Key page views (e.g., pricing page visit as a micro-conversion signal)",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Setting Up Essential Conversions"
+        },
+        {
+          "type": "p",
+          "text": "In GA4, \"conversions\" are events you've designated as important business actions. This is different from UA's Goals. Here's the setup for the most common conversions:"
+        },
+        {
+          "type": "p",
+          "text": "Form submission: If your website sends users to a thank-you page after form submission, create a custom event that fires when that specific page path is viewed. In GA4, go to Configure, Conversions, and mark that event as a conversion."
+        },
+        {
+          "type": "p",
+          "text": "Phone clicks: If your phone number is a clickable tel: link, GA4's enhanced measurement may already track these as outbound clicks. Mark the click event with your phone number as a conversion."
+        },
+        {
+          "type": "p",
+          "text": "E-commerce purchases: These require the standard GA4 ecommerce implementation, typically through a Google Tag Manager data layer push when a purchase completes. This provides transaction ID, revenue, product details, and more to GA4."
+        },
+        {
+          "type": "h2",
+          "text": "Explorations: The Most Useful Reports Most People Haven't Found"
+        },
+        {
+          "type": "p",
+          "text": "GA4's Exploration reports are genuinely more powerful than anything that was in UA's standard interface. Located under the Explore section, these allow you to create custom analyses with your specific questions."
+        },
+        {
+          "type": "p",
+          "text": "The most useful Exploration types for most businesses:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Funnel Exploration: Define a multi-step funnel (e.g., land on pricing page, view contact page, submit contact form) and see how many users complete each step and where they drop out. This is invaluable for understanding conversion barriers.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Path Exploration: See the actual paths users take through your site, what pages they visit before and after key pages. Useful for understanding user behaviour patterns.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Segment Overlap: See how different user segments overlap. For example: users who came from organic search AND visited your pricing page AND didn't convert. This kind of segment defines a remarketing audience worth targeting.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Connecting GA4 to Google Search Console and Google Ads"
+        },
+        {
+          "type": "p",
+          "text": "GA4's Search Console integration brings organic search query data into GA4, so you can see which search terms drove traffic and how that traffic behaved (engagement rate, conversions). This integration is set up in GA4's property settings under Product Links."
+        },
+        {
+          "type": "p",
+          "text": "The Google Ads integration brings ad campaign data into GA4 and sends GA4 conversion data back to Google Ads for bidding optimisation. This is essential if you're running Google Ads. The conversion data GA4 exports to Ads should be the primary conversion source for your Ads bidding strategies."
+        },
+        {
+          "type": "h2",
+          "text": "The Most Important Reports for a Business Owner"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Traffic Acquisition: Shows where your users are coming from (organic search, direct, paid, social, referral). This is the top-level view of your marketing channel performance.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Conversions: Shows your conversion events over time, segmented by traffic source. This connects your marketing channels to actual business outcomes.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Landing Pages: Shows which pages users first land on, with engagement rate and conversion data. Identifies your best and worst performing entry points.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Search Console insights (if linked): Shows which Google search queries bring visitors and what happens when they arrive.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "GA4 Gotchas"
+        },
+        {
+          "type": "h3",
+          "text": "Direct traffic mystery"
+        },
+        {
+          "type": "p",
+          "text": "GA4, like UA, has a \"Direct\" traffic channel that often contains more than people who typed your URL directly. Traffic where GA4 can't determine the source (missing UTM parameters, referral stripping, app visits, certain social platforms) falls into Direct. A spike in Direct traffic might not mean people are visiting your site directly: it might mean a campaign is running without UTM parameters and GA4 can't attribute it correctly."
+        },
+        {
+          "type": "h3",
+          "text": "Session vs Users discrepancy"
+        },
+        {
+          "type": "p",
+          "text": "GA4 reports can show different numbers depending on whether you're looking at user-level or session-level data. One user can have multiple sessions. Switching between user-scope and session-scope in a report changes the numbers. Make sure you know which scope you're viewing when comparing reports."
+        },
+        {
+          "type": "h3",
+          "text": "Sampling on large datasets"
+        },
+        {
+          "type": "p",
+          "text": "Free GA4 properties sample data (use a subset of data to estimate totals) for complex queries on large datasets. If you see a warning icon in your Exploration reports, the data may be sampled. GA4 360 (paid) reduces sampling limits. For most Irish SMEs, sampling is rarely an issue due to traffic volumes, but larger sites should be aware of it."
+        },
+        {
+          "type": "h2",
+          "text": "What to Do About GA4 Data Being Different From Old UA Numbers"
+        },
+        {
+          "type": "p",
+          "text": "Accept that they are different and stop trying to make them match. UA and GA4 measure things differently. Your GA4 baseline is the new baseline. Establish it, track it over time, and make decisions based on trends in GA4 rather than comparing current GA4 numbers to historical UA numbers."
+        },
+        {
+          "type": "p",
+          "text": "The exception: if you exported your UA data before it was deleted, you can reference historical UA data for context. But for ongoing reporting and decision-making, GA4 is the standard now and comparisons to UA are rarely productive."
+        },
+        {
+          "type": "p",
+          "text": "GA4 has a steeper learning curve than UA, but once you understand its model, the data available is genuinely richer. If you need help setting up GA4 with proper conversion tracking, or interpreting your GA4 data to make better marketing decisions, get in touch."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "GA4"
+        },
+        {
+          "type": "text",
+          "text": "Analytics"
+        },
+        {
+          "type": "text",
+          "text": "Google Analytics"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "Digital Marketing\n\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Digital Marketing\n\nEmail Marketing in 2026: What Still Works and What to Stop Doing",
+          "href": "/insights/email-marketing-2026",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Measure Content Marketing ROI (The Right Way)",
+          "href": "/insights/content-marketing-roi",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?\n\nThe honest breakdown of when to hire a marketing agency, when to go with a freelancer, and when to try to do it in-house.\n\n15 Feb 2026\n·\n7 min read",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nEmail Marketing in 2026: What Still Works and What to Stop Doing\n\nEmail has been 'dead' for 20 years and still delivers the highest ROI of any channel. Here's what's working in 2026 and what's a waste of time.\n\n10 Feb 2026\n·\n8 min read",
+          "href": "/insights/email-marketing-2026",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Measure Content Marketing ROI (The Right Way)\n\nMost businesses track page views and stop there. Here's how to properly attribute business outcomes to your content marketing investment.\n\n20 Jan 2026\n·\n8 min read",
+          "href": "/insights/content-marketing-roi",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

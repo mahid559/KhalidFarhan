@@ -1,0 +1,350 @@
+{
+  "route": "/insights/chatgpt-for-marketing",
+  "title": "How to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool) | Khalid Farhan",
+  "metaDesc": "Most marketers use AI tools for writing. But there are far more powerful use cases — here's how I use ChatGPT across my agency and my content work.",
+  "h1": "How to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GEO & AI SEARCH"
+        },
+        {
+          "type": "h1",
+          "text": "How to Actually Use ChatGPT for Marketing (Not Just as a Writing Tool)"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "28 February 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "8 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Most marketers use AI tools for writing. But there are far more powerful use cases — here's how I use ChatGPT across my agency and my content work."
+        },
+        {
+          "type": "p",
+          "text": "The first wave of AI marketing content was largely about using ChatGPT to write things faster. Blog posts, ad copy, social media captions, email subject lines. And yes, it can do all of those things. But after using AI tools daily in my agency work for the past two years, the writing use cases are actually not the most valuable ones. The more interesting applications are the ones that help you think more clearly, research faster, and systematise work that previously relied entirely on senior judgment."
+        },
+        {
+          "type": "p",
+          "text": "Here is how I actually use ChatGPT across my marketing work, beyond the obvious writing applications."
+        },
+        {
+          "type": "h2",
+          "text": "Competitor Research and Positioning Analysis"
+        },
+        {
+          "type": "p",
+          "text": "When I'm trying to understand a client's competitive landscape quickly, ChatGPT is a useful starting point. I'll ask it to describe the positioning and messaging of named competitors based on its training data, then I'll verify and supplement that with my own research. The value is in the speed of getting an initial framework, not in treating the output as ground truth."
+        },
+        {
+          "type": "p",
+          "text": "More useful: I'll paste competitor homepage copy or key messaging and ask ChatGPT to identify their implied positioning, the customer pain points they're addressing, and any gaps in their messaging that my client could exploit. This is a task that previously required a senior strategist to spend hours. With good prompting, ChatGPT can produce a useful first draft analysis in minutes that a strategist then refines."
+        },
+        {
+          "type": "p",
+          "text": "Prompt structure that works: \"Here is the homepage copy from [competitor]. What customer problems are they positioning against? What is their implied ideal customer? What claims are they making that could be questioned or differentiated against? What is absent from their messaging that a customer in this space might care about?\""
+        },
+        {
+          "type": "h2",
+          "text": "Keyword Research and Content Ideation"
+        },
+        {
+          "type": "p",
+          "text": "ChatGPT doesn't have access to real search volume data, so it can't replace dedicated keyword research tools. But it's excellent for expanding keyword lists, generating semantic variations, and identifying related topics you might not have thought of."
+        },
+        {
+          "type": "p",
+          "text": "I use it this way: I have a seed list of core terms from proper keyword research tools. I then paste that list into ChatGPT and ask it to: identify related long-tail variations, suggest question-format versions of these keywords (useful for FAQ content and featured snippet targeting), identify topics a potential customer would research before and after these keywords (useful for content funnel planning), and suggest subtopics that could expand any of the main topics into multiple pieces."
+        },
+        {
+          "type": "p",
+          "text": "This turns a 20-keyword seed list into a 100+ item content planning document in 15 minutes. You still need to validate search volumes and difficulty with real tools, but the ideation phase is dramatically faster."
+        },
+        {
+          "type": "h2",
+          "text": "Brief Templates and SOPs"
+        },
+        {
+          "type": "p",
+          "text": "One of the highest-leverage uses of ChatGPT in an agency context is creating templates and standard operating procedures. Briefing a writer, briefing a designer, onboarding a new client, conducting a competitor analysis, reviewing ad copy. All of these tasks have a \"right way\" to do them, and that right way can be documented and templated."
+        },
+        {
+          "type": "p",
+          "text": "I'll describe a task I do repeatedly, tell ChatGPT the context (what it's for, who does it, what the output should be), and ask it to produce a structured template or SOP. The first draft is usually 70-80% usable with some editing. This has allowed me to systematise parts of my workflow that previously relied on implicit knowledge."
+        },
+        {
+          "type": "p",
+          "text": "The value compounds over time. Every template and SOP you create reduces the cognitive load of repeated tasks and makes it easier to delegate or train others."
+        },
+        {
+          "type": "h2",
+          "text": "Customer Persona Development from Real Data"
+        },
+        {
+          "type": "p",
+          "text": "Generic personas built from assumptions are almost useless. Personas built from real customer data are genuinely valuable. ChatGPT can help bridge the gap when you have real customer language but need to structure it into usable frameworks."
+        },
+        {
+          "type": "p",
+          "text": "My approach: I'll aggregate customer feedback, testimonials, and sales call notes (anonymised), paste them into ChatGPT, and ask it to identify common themes in customer language, recurring pain points, what customers say triggered them to seek a solution, how they describe their situation before hiring us, and what outcomes they most often mention. This produces a persona grounded in real customer language rather than marketing assumptions."
+        },
+        {
+          "type": "p",
+          "text": "This is particularly useful for ad copy, because the best ad copy uses the customer's exact words and phrases to describe their problem. If your customers consistently say \"I was drowning in paperwork\" rather than \"I had inefficient administrative processes,\" the first phrase belongs in your headlines."
+        },
+        {
+          "type": "h2",
+          "text": "Ad Copy Variations at Scale"
+        },
+        {
+          "type": "p",
+          "text": "This is one of the more straightforward ChatGPT marketing applications, but it's genuinely useful. Creating 15-20 headline variations for a Google Ads campaign, or 10 different introductory hooks for a Facebook ad, used to take a meaningful chunk of a copywriter's time. ChatGPT can produce a large volume of variations quickly, which a human then edits and curates."
+        },
+        {
+          "type": "p",
+          "text": "The key to this working well is specificity in the prompt. \"Write some Facebook ad headlines for our software\" produces generic output. \"Write 15 Facebook ad headlines for an Irish accountancy software aimed at sole traders who find VAT returns stressful. The core offer is that it automates VAT calculations and takes 5 minutes per quarter. Avoid the words 'simple' and 'easy'. Focus on pain relief and time saving.\" produces usable material."
+        },
+        {
+          "type": "h2",
+          "text": "Email Subject Line Testing"
+        },
+        {
+          "type": "p",
+          "text": "Email subject lines have an enormous impact on open rates. Testing them properly requires sending to large enough segments to get statistically valid results, which isn't always feasible. ChatGPT can help by generating a large volume of subject line variations quickly, which you then filter based on your knowledge of your audience."
+        },
+        {
+          "type": "p",
+          "text": "Useful prompt: \"Generate 20 email subject lines for a newsletter about [topic] targeting [audience]. Include variations that use: curiosity gaps, specific numbers and data, direct questions, counterintuitive statements, social proof references, and urgency. Mark which technique each uses so I can see the range.\""
+        },
+        {
+          "type": "h2",
+          "text": "What ChatGPT Is Bad At"
+        },
+        {
+          "type": "p",
+          "text": "Being honest about limitations matters if you're going to integrate AI tools properly:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Making up data: ChatGPT will confidently cite statistics that don't exist or attribute quotes to people who never said them. Any factual claim in ChatGPT output needs independent verification before publishing.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Strategic judgment about your specific market: ChatGPT doesn't know your customers, your competitive context, or the nuances of your particular market. It can generate frameworks but can't make the judgment calls that require real-world experience and context.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Knowing current events and recent data: The training cutoff means ChatGPT's knowledge of recent developments, current pricing, recent algorithm updates, and current market conditions may be outdated. Use it with Browse enabled or supplement with current research.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Your brand voice: Generic ChatGPT output sounds like generic ChatGPT output. Getting it to match a specific, distinctive brand voice requires extensive prompting and usually significant editing anyway. The more distinctive your voice, the less useful raw ChatGPT output is for final copy.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The AI Tool Stack in a Marketing Agency in 2026"
+        },
+        {
+          "type": "p",
+          "text": "The agency tool landscape has evolved significantly. What I'm currently using:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "ChatGPT (with Browse/o1): Research, analysis, copywriting drafts, ideation",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Claude: Long-form content drafts, document analysis, tasks requiring more nuanced reasoning",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Perplexity: Research where I need cited, current sources",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Midjourney or Ideogram: Ad creative concepts and image generation for testing",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Descript or similar: Video content editing and transcription",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Zapier AI or Make: Workflow automation connecting tools",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The pattern is that different tools are better suited to different tasks. Using one AI tool for everything produces mediocre results. Knowing which tool is best for which task is itself a valuable skill."
+        },
+        {
+          "type": "p",
+          "text": "The businesses that will have an advantage in 2026 are not the ones using AI tools the most, but the ones using them most thoughtfully. AI amplifies capability. It doesn't replace judgment. The judgment about which tasks are worth doing, which outputs are good enough, and where human expertise is irreplaceable, still has to come from the humans."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "AI"
+        },
+        {
+          "type": "text",
+          "text": "ChatGPT"
+        },
+        {
+          "type": "text",
+          "text": "Marketing"
+        },
+        {
+          "type": "text",
+          "text": "Productivity"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI Search\n\nHow to Get Your Brand Cited in Perplexity AI",
+          "href": "/insights/perplexity-seo-guide",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Digital Marketing\n\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nWhat Is Generative Engine Optimisation (GEO) And Why It Matters in 2026\n\nGEO is the most important marketing concept most businesses haven't heard of. Here's what it is, why it matters, and how to start doing it.\n\n10 Apr 2026\n·\n8 min read",
+          "href": "/insights/what-is-generative-engine-optimisation",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "GEO & AI SEARCH\nHow to Get Your Brand Cited in Perplexity AI\n\nPerplexity is one of the fastest-growing AI search engines. Here's the practical guide to getting your brand cited as a source.\n\n20 Feb 2026\n·\n9 min read",
+          "href": "/insights/perplexity-seo-guide",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "DIGITAL MARKETING\nAgency vs Freelancer: What's Right for Your Marketing in Ireland?\n\nThe honest breakdown of when to hire a marketing agency, when to go with a freelancer, and when to try to do it in-house.\n\n15 Feb 2026\n·\n7 min read",
+          "href": "/insights/digital-marketing-agency-vs-freelancer",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "route": "/services/marketing-automation",
+  "title": "Marketing Automation Agency Ireland — CRM & Automation Setup | Khalid Farhan",
+  "metaDesc": "Marketing automation agency in Dublin. Email flows, CRM integration, lead nurture. Klaviyo, ActiveCampaign, HubSpot specialists.",
+  "h1": "Marketing Automation\nAutomate your marketing. Not your relationships.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Automation",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Marketing Automation\nAutomate your marketing. Not your relationships."
+        },
+        {
+          "type": "p",
+          "text": "Marketing automation is the set-up of systems that nurture leads, onboard customers and recover lost revenue automatically through email, SMS and your CRM. Khalid Farhan is a Dublin agency that designs and builds these flows in HubSpot, Klaviyo, ActiveCampaign and similar platforms so sales teams spend time only on warm leads."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "B2B companies with leads that need weeks of follow-up",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Subscription and e-commerce businesses fighting churn",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Teams doing by hand what a sequence could do for them",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Automation audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Automation results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Automation audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current automation set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Automation audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT AUTOMATION HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "MANUFACTURING AND RETAIL\nDHAKA, BANGLADESH\n\n+240%\nShowroom enquiries\n\nShowroom visits booked online, 240% more of them\n\nA furniture manufacturer in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/furniture-manufacturer-google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "B2B SOFTWARE\nIRELAND AND THE UK\n\n+190%\nDemo requests\n\nDemo requests up 190% and cited by AI search\n\nA workforce management SaaS\n\nRead the case study",
+          "href": "/work/case-studies/workforce-saas-linkedin-ads",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR AUTOMATION SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Marketing automation done well feels personal, not robotic. We build automation workflows that respond to real customer behaviour — converting leads who need nurturing, recovering abandoned purchases, and delighting customers post-sale."
+        },
+        {
+          "type": "p",
+          "text": "Retainers from €1,500 a month. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Automation Architecture"
+        },
+        {
+          "type": "text",
+          "text": "Full workflow mapping from lead capture to customer advocacy."
+        },
+        {
+          "type": "text",
+          "text": "Lead Nurture Flows"
+        },
+        {
+          "type": "text",
+          "text": "Multi-touch email and SMS sequences triggered by behaviour."
+        },
+        {
+          "type": "text",
+          "text": "E-commerce Flows"
+        },
+        {
+          "type": "text",
+          "text": "Abandoned cart, browse abandonment, post-purchase, and win-back."
+        },
+        {
+          "type": "text",
+          "text": "CRM Integration"
+        },
+        {
+          "type": "text",
+          "text": "Connecting your marketing automation with your CRM and sales tools."
+        },
+        {
+          "type": "text",
+          "text": "Attribution"
+        },
+        {
+          "type": "text",
+          "text": "Revenue attribution across automated flows."
+        },
+        {
+          "type": "text",
+          "text": "Lead Scoring"
+        },
+        {
+          "type": "text",
+          "text": "Behavioural and demographic lead scoring to prioritise sales follow-up."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nMap of your customer journey and the gaps in it",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nLead nurture, onboarding and win-back flows built and tested",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nCRM integration and reporting so you see what each flow produces",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Automation, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Map"
+        },
+        {
+          "type": "p",
+          "text": "document the full customer journey from awareness to advocacy"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Identify"
+        },
+        {
+          "type": "p",
+          "text": "find the highest-value automation opportunities"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Build"
+        },
+        {
+          "type": "p",
+          "text": "set up workflows, triggers, and content"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Test"
+        },
+        {
+          "type": "p",
+          "text": "quality assurance across all email clients and devices"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Optimise"
+        },
+        {
+          "type": "p",
+          "text": "A/B test messages and timing; monthly performance review"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY AUTOMATION CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR AUTOMATION"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "What platforms do you use for automation?"
+        },
+        {
+          "type": "text",
+          "text": "Klaviyo, ActiveCampaign, HubSpot, Mailchimp, and Make (formerly Integromat) for cross-platform automation."
+        },
+        {
+          "type": "button",
+          "text": "Do you integrate with our CRM?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We connect your marketing automation to HubSpot, Salesforce, Pipedrive, or your CRM of choice."
+        },
+        {
+          "type": "button",
+          "text": "Can you audit our existing automation?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. Automation audits are available as standalone engagements or as part of a broader marketing retainer."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Often paired with Automation"
+        },
+        {
+          "type": "link",
+          "text": "Email Marketing",
+          "href": "/services/email-marketing",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Conversion Rate Optimisation",
+          "href": "/services/conversion-rate-optimisation",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FIND OUT WHAT AUTOMATION COULD DO FOR YOU. FREE, WITHIN ONE BUSINESS DAY."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Automation audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

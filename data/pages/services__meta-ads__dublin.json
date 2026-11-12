@@ -1,0 +1,656 @@
+{
+  "route": "/services/meta-ads/dublin",
+  "title": "Meta Ads Agency in Dublin — Meta Ads | Khalid Farhan",
+  "metaDesc": "Meta Ads for businesses in Dublin. Meta Ads management agency in Dublin. Facebook and Instagram advertising for businesses across Ireland and the UK. Full-funnel campaigns, creative strategy, ROAS focus.",
+  "h1": "Meta Ads in Dublin\nMeta Ads that scale your business",
+  "sections": [
+    {
+      "index": 1,
+      "className": "svh",
+      "blocks": [
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Home\n/",
+              "href": "/",
+              "imgs": []
+            },
+            {
+              "text": "Marketing Services\n/",
+              "href": "/services",
+              "imgs": []
+            },
+            {
+              "text": "Meta Ads\n/",
+              "href": "/services/meta-ads",
+              "imgs": []
+            },
+            {
+              "text": "Dublin",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h1",
+          "text": "Meta Ads in Dublin\nMeta Ads that scale your business"
+        },
+        {
+          "type": "p",
+          "text": "Meta Ads management covers Facebook and Instagram advertising: audience strategy, creative, campaign setup and ongoing optimisation. Khalid Farhan is a Dublin agency that runs Meta campaigns for local businesses, e-commerce brands and apps, with pixel and Conversions API tracking in place so results are measured in leads and purchases rather than likes. We work with businesses in Dublin and across Ireland; most of the work is remote, and we meet Dublin clients in person."
+        },
+        {
+          "type": "p",
+          "text": "A good fit if you are"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "E-commerce brands scaling with a tested creative pipeline",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Local businesses that want bookings and footfall",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Apps and consumer services acquiring users at a target cost",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Businesses whose Meta results dropped and need a rebuild",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Get a free Meta Ads audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "See Meta Ads results",
+          "href": "/work/case-studies",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Get a free Meta Ads audit"
+        },
+        {
+          "type": "p",
+          "text": "We look at your site, your competitors and your current meta ads set-up, then tell you what we would do and what it would cost. No sales call unless you want one."
+        },
+        {
+          "type": "form",
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "company_url",
+              "placeholder": "",
+              "required": false,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name",
+              "placeholder": "Jane Murphy",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "placeholder": "jane@company.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "website",
+              "placeholder": "yourcompany.ie",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "placeholder": "+353 87 123 4567",
+              "required": true,
+              "options": []
+            },
+            {
+              "tag": "select",
+              "type": "text",
+              "name": "budget",
+              "placeholder": "",
+              "required": false,
+              "options": [
+                "Choose a range",
+                "Under €1,000",
+                "€1,000 – €3,000",
+                "€3,000 – €7,500",
+                "€7,500 – €15,000",
+                "€15,000+"
+              ]
+            },
+            {
+              "tag": "textarea",
+              "type": "text",
+              "name": "message",
+              "placeholder": "A sentence or two is plenty.",
+              "required": false,
+              "options": []
+            }
+          ],
+          "submitText": "Request my free Meta Ads audit"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": "Prothom Alo"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": "The Daily Star"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": "Jamuna TV"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": "Channel I"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": "New Age Bangladesh"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": "Niche Pursuits"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": "Search Engine Journal"
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/prothom-alo.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/daily-star.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/jamuna-tv.svg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/channel-i.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/new-age.png",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/niche-pursuits.jpg",
+          "alt": ""
+        },
+        {
+          "type": "img",
+          "src": "/logos/press/search-engine-journal.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sp-wrap",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT META ADS HAS DONE FOR BUSINESSES LIKE YOURS"
+        },
+        {
+          "type": "p",
+          "text": "Real engagements, described by industry and place rather than name, because our clients would rather their competitors did not know who they work with."
+        },
+        {
+          "type": "link",
+          "text": "PET CARE\nDUBLIN, IRELAND\n\n4.1x\nMeta Ads ROAS\n\nFrom empty spaces to a waiting list\n\nA premium dog daycare\n\nRead the case study",
+          "href": "/work/case-studies/dog-daycare-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "E-COMMERCE\nDHAKA, BANGLADESH\n\n4.2x\nMeta Ads ROAS\n\n3x ROAS on Meta, without increasing spend\n\nA premium beauty e-commerce brand\n\nRead the case study",
+          "href": "/work/case-studies/beauty-ecommerce-meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TELECOM\nDHAKA, BANGLADESH\n\n4.1M\nViews in 6 months\n\n4.1 million views for a youth data campaign\n\nA telecom operator in Bangladesh\n\nRead the case study",
+          "href": "/work/case-studies/telecom-operator-bangladesh-video",
+          "imgs": []
+        },
+        {
+          "type": "blockquote",
+          "text": "“We went from struggling to fill spots to having a waiting list. Meta Ads handled by this team are a different level.”"
+        },
+        {
+          "type": "text",
+          "text": "Owner, a premium dog daycare"
+        },
+        {
+          "type": "blockquote",
+          "text": "“ROAS improved by over 3x after switching to Khalid's team. They understand e-commerce deeply.”"
+        },
+        {
+          "type": "text",
+          "text": "Founder, a premium beauty e-commerce brand"
+        },
+        {
+          "type": "p",
+          "text": "See all 24 case studies"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "svd",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WHAT IS INCLUDED IN OUR META ADS SERVICE"
+        },
+        {
+          "type": "p",
+          "text": "Meta's advertising platform is one of the most powerful customer acquisition channels available — when it's managed properly. We build full-funnel Meta campaigns that attract new customers at the top, nurture them through the middle, and convert them at the bottom — with creative that actually stops the scroll."
+        },
+        {
+          "type": "p",
+          "text": "Management from €1,500 a month, ad spend separate. Every engagement starts with a free audit, so you see the plan before you pay for anything."
+        },
+        {
+          "type": "text",
+          "text": "Campaign Strategy"
+        },
+        {
+          "type": "text",
+          "text": "Full-funnel strategy covering awareness, consideration, and conversion objectives."
+        },
+        {
+          "type": "text",
+          "text": "Creative Direction"
+        },
+        {
+          "type": "text",
+          "text": "Ad creative briefs and feedback to produce scroll-stopping images and video."
+        },
+        {
+          "type": "text",
+          "text": "Audience Build"
+        },
+        {
+          "type": "text",
+          "text": "Lookalike audiences, custom audiences, and interest targeting layered for precision."
+        },
+        {
+          "type": "text",
+          "text": "Catalogue Ads"
+        },
+        {
+          "type": "text",
+          "text": "Dynamic product catalogue ads for e-commerce — highly personalised at scale."
+        },
+        {
+          "type": "text",
+          "text": "Retargeting"
+        },
+        {
+          "type": "text",
+          "text": "Multi-touch retargeting sequences for website visitors, video viewers, and engagers."
+        },
+        {
+          "type": "text",
+          "text": "ROAS Reporting"
+        },
+        {
+          "type": "text",
+          "text": "Weekly performance snapshots and monthly deep-dive attribution reports."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "svw",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "HOW THE FIRST 90 DAYS GO"
+        },
+        {
+          "type": "ol",
+          "items": [
+            {
+              "text": "Days 1–30\nPixel, Conversions API and audiences set up correctly",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 31–60\nFirst creative batch tested, winners scaled, losers cut",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Days 61–90\nRetargeting and catalogue campaigns live, monthly return-on-spend report",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Our approach to Meta Ads, step by step"
+        },
+        {
+          "type": "text",
+          "text": "01"
+        },
+        {
+          "type": "h4",
+          "text": "Audit"
+        },
+        {
+          "type": "p",
+          "text": "assess existing pixel health, audience quality, and creative performance"
+        },
+        {
+          "type": "text",
+          "text": "02"
+        },
+        {
+          "type": "h4",
+          "text": "Build"
+        },
+        {
+          "type": "p",
+          "text": "structure campaigns across awareness, traffic, and conversion objectives"
+        },
+        {
+          "type": "text",
+          "text": "03"
+        },
+        {
+          "type": "h4",
+          "text": "Creative"
+        },
+        {
+          "type": "p",
+          "text": "brief and guide creative production aligned to proven formats"
+        },
+        {
+          "type": "text",
+          "text": "04"
+        },
+        {
+          "type": "h4",
+          "text": "Launch"
+        },
+        {
+          "type": "p",
+          "text": "controlled rollout with holdout testing to establish baseline"
+        },
+        {
+          "type": "text",
+          "text": "05"
+        },
+        {
+          "type": "h4",
+          "text": "Scale"
+        },
+        {
+          "type": "p",
+          "text": "incrementally increase budgets on winning ad sets and creatives"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "fc-wrap",
+      "blocks": [
+        {
+          "type": "img",
+          "src": "/team/khalid.jpg",
+          "alt": "Khalid Farhan, founder of the agency"
+        },
+        {
+          "type": "h2",
+          "text": "EVERY META ADS CLIENT TALKS TO ME, NOT AN ACCOUNT MANAGER."
+        },
+        {
+          "type": "p",
+          "text": "I am Khalid Farhan. I started this agency 12 years ago and I still set the strategy on every account. My team does the daily work; I review the numbers and I am the person you message when something matters. If you would rather check me out first, my LinkedIn is open, and so is my inbox."
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "400+\nClients served",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "10+\nCountries",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "12\nYears in business",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "or request the free audit",
+          "href": "#audit-form",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "svf",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "QUESTIONS PEOPLE ASK BEFORE HIRING US FOR META ADS"
+        },
+        {
+          "type": "p",
+          "text": "Answers written and reviewed by Khalid Farhan, founder. Last reviewed November 2026."
+        },
+        {
+          "type": "button",
+          "text": "How much does Meta Ads cost in Dublin?"
+        },
+        {
+          "type": "text",
+          "text": "Management from €1,500 a month, ad spend separate. The exact figure depends on the size of the opportunity and the amount of work, so we do a free audit first and quote from that. There is no charge for the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you work with businesses in Dublin?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We work with businesses in Dublin and across Ireland. Most of the work is done remotely with regular calls and a monthly report; Dublin-based clients can meet us in person."
+        },
+        {
+          "type": "button",
+          "text": "What budget do I need for Meta Ads?"
+        },
+        {
+          "type": "text",
+          "text": "We recommend a minimum of €1,500/month ad spend. Below this level, it's difficult to generate enough data for meaningful optimisation."
+        },
+        {
+          "type": "button",
+          "text": "Do I need to provide creative?"
+        },
+        {
+          "type": "text",
+          "text": "We provide creative direction and briefs. You can produce the assets (we'll guide you) or we can arrange production through our network of content creators."
+        },
+        {
+          "type": "button",
+          "text": "Can you set up the Meta Pixel?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. Pixel installation, event tracking, and Conversions API setup are all included in onboarding."
+        },
+        {
+          "type": "button",
+          "text": "How is your reporting different?"
+        },
+        {
+          "type": "text",
+          "text": "We use multi-touch attribution models and cross-reference Meta data with Google Analytics and CRM data to give you an accurate picture of Meta's true contribution to revenue."
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "className": "sva",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Meta Ads across Ireland"
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads, all of Ireland",
+          "href": "/services/meta-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads in Cork",
+          "href": "/services/meta-ads/cork",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads in Galway",
+          "href": "/services/meta-ads/galway",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads in Limerick",
+          "href": "/services/meta-ads/limerick",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads in Waterford",
+          "href": "/services/meta-ads/waterford",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads in Kilkenny",
+          "href": "/services/meta-ads/kilkenny",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads in Ireland",
+          "href": "/services/meta-ads/ireland",
+          "imgs": []
+        },
+        {
+          "type": "h2",
+          "text": "Often paired with Meta Ads"
+        },
+        {
+          "type": "link",
+          "text": "Google Ads",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "TikTok Ads",
+          "href": "/services/tiktok-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Analytics & Tracking",
+          "href": "/services/analytics-and-tracking",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "GET A FREE META ADS AUDIT FOR YOUR DUBLIN BUSINESS."
+        },
+        {
+          "type": "link",
+          "text": "Get my free Meta Ads audit",
+          "href": "#audit-form",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Message Khalid on LinkedIn",
+          "href": "https://www.linkedin.com/in/khalidf/",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

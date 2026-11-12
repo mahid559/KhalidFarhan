@@ -1,0 +1,144 @@
+{
+  "route": "/industries/music-education",
+  "title": "Music & Education Marketing Agency Ireland | Khalid Farhan",
+  "metaDesc": "Education businesses need to be found when parents and students are searching. We deliver the organic and paid visibility that keeps your classes full. Working with music & education businesses across Ireland.",
+  "h1": "SEO AND PAID MEDIA FOR MUSIC SCHOOLS AND TUTORS",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "INDUSTRIES / MUSIC & EDUCATION"
+        },
+        {
+          "type": "h1",
+          "text": "SEO AND PAID MEDIA FOR MUSIC SCHOOLS AND TUTORS"
+        },
+        {
+          "type": "p",
+          "text": "Education businesses need to be found when parents and students are searching. We deliver the organic and paid visibility that keeps your classes full."
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "HOW WE HELP"
+        },
+        {
+          "type": "h2",
+          "text": "MARKETING BUILT FOR MUSIC & EDUCATION BUSINESSES"
+        },
+        {
+          "type": "p",
+          "text": "Education businesses need to be found when parents and students are searching. We deliver the organic and paid visibility that keeps your classes full."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SERVICES FOR MUSIC & EDUCATION"
+        },
+        {
+          "type": "link",
+          "text": "Search Engine Optimisation\n\nFrom technical foundations to content strategy, we build sustainable organic growth that compounds over time.",
+          "href": "/services/seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Google Ads\n\nSearch, Shopping, Performance Max, and YouTube campaigns built for measurable return — not vanity metrics.",
+          "href": "/services/google-ads",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Local SEO\n\nGoogle Business Profile, local citations, review management, and geo-targeted content — all in one programme.",
+          "href": "/services/local-seo",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "Meta Ads\n\nFacebook and Instagram advertising built for real results — new customer acquisition, retargeting, and catalogue campaigns.",
+          "href": "/services/meta-ads",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "blockquote",
+          "text": "“The results speak for themselves — over 200% growth in organic traffic within nine months. The team is professional, transparent, and genuinely invested in our success.”\n\nA music school in Dublin\n\nDirector, Music education"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "FAQS"
+        },
+        {
+          "type": "button",
+          "text": "What digital marketing services work best for music & education businesses?"
+        },
+        {
+          "type": "text",
+          "text": "For music & education businesses, we typically recommend seo, google-ads, local-seo. The right mix depends on your specific goals, budget, and competitive landscape — which is why we start every engagement with a free audit."
+        },
+        {
+          "type": "button",
+          "text": "How long before we see results?"
+        },
+        {
+          "type": "text",
+          "text": "For paid channels (Google Ads, Meta Ads), you can expect to see results within 4–8 weeks. For SEO and content, meaningful results typically come within 3–6 months. We'll give you realistic, channel-specific projections during the audit."
+        },
+        {
+          "type": "button",
+          "text": "Do you specialise in music & education?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have hands-on experience with music & education businesses, including a music school in Dublin. This means we understand the specific challenges, customer journey, and competitive dynamics in your sector."
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "READY TO GROW YOUR MUSIC & EDUCATION BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

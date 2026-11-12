@@ -1,0 +1,438 @@
+{
+  "route": "/insights/local-seo-google-business-profile",
+  "title": "The Complete Google Business Profile Optimisation Guide for 2026 | Khalid Farhan",
+  "metaDesc": "GBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches.",
+  "h1": "The Complete Google Business Profile Optimisation Guide for 2026",
+  "sections": [
+    {
+      "index": 1,
+      "className": "",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "SEO & CONTENT"
+        },
+        {
+          "type": "h1",
+          "text": "The Complete Google Business Profile Optimisation Guide for 2026"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "link",
+          "text": "Khalid Farhan",
+          "href": "/insights/author/khalid-farhan",
+          "imgs": []
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "5 March 2026"
+        },
+        {
+          "type": "text",
+          "text": "·"
+        },
+        {
+          "type": "text",
+          "text": "14 min read"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "GBP is the single highest-ROI thing most local businesses can do. Here's how to optimise it properly — not the basics everyone else teaches."
+        },
+        {
+          "type": "p",
+          "text": "If you have a local business in Ireland and you're not in the Google map pack for your main service keywords, you're invisible to a large portion of people actively looking to hire you right now. That map pack, those three business listings that appear under a map before the organic results, is driven primarily by your Google Business Profile."
+        },
+        {
+          "type": "p",
+          "text": "I've seen GBP optimisation drive more leads for local Irish businesses than entire paid advertising campaigns. And unlike ads, once you've built a well-optimised profile with genuine reviews, it keeps working without ongoing spend."
+        },
+        {
+          "type": "p",
+          "text": "This is the complete guide. Not the basics everyone knows, but everything you need to actually compete."
+        },
+        {
+          "type": "h2",
+          "text": "Why GBP Is the Highest-ROI Local Marketing Activity"
+        },
+        {
+          "type": "p",
+          "text": "When someone searches \"solicitor Galway\" or \"plumber Dublin 8\" or \"accountant Cork city,\" Google shows a map pack before anything else. The businesses in those three spots get the vast majority of clicks. Getting into that pack is not about website SEO alone. It's about Google Business Profile strength, combined with local website signals and review quality."
+        },
+        {
+          "type": "p",
+          "text": "The return on investment is exceptional because the traffic is free and the intent is extremely high. Someone searching \"emergency boiler repair Dublin\" is actively trying to hire someone right now. If your GBP appears in the map pack for that search, and you have strong reviews and a professional profile, the conversion rate from that enquiry is very high."
+        },
+        {
+          "type": "h2",
+          "text": "Setting Up and Verifying Your Profile"
+        },
+        {
+          "type": "p",
+          "text": "If you haven't claimed your profile yet, go to business.google.com and claim it. Google typically verifies by sending a postcard to your business address with a verification code. This can take a week or two. If your business has a physical location customers visit, get this done immediately if it isn't already."
+        },
+        {
+          "type": "p",
+          "text": "Service area businesses (where you go to the customer's location) work slightly differently. You can set a service area without displaying your exact address. Tradespeople, cleaning services, and mobile businesses typically set up this way. You can still appear in local search results for the areas you serve."
+        },
+        {
+          "type": "h2",
+          "text": "Choosing the Right Business Categories"
+        },
+        {
+          "type": "p",
+          "text": "This is one of the most impactful and most often poorly done aspects of GBP. Your primary category is the single most important category signal in local search. Getting it wrong limits your visibility for the searches that matter most."
+        },
+        {
+          "type": "p",
+          "text": "Be as specific as possible. Don't choose \"Lawyer\" when \"Commercial Real Estate Attorney\" or \"Employment Law Solicitor\" is available. Don't choose \"Restaurant\" when \"Irish Restaurant\" or \"Seafood Restaurant\" applies. Google has hundreds of categories. Look through the options carefully."
+        },
+        {
+          "type": "p",
+          "text": "You can also add secondary categories. A dental practice might have \"Dentist\" as primary but add \"Cosmetic Dentist,\" \"Emergency Dental Service,\" and \"Teeth Whitening Service\" as secondaries. Each additional relevant category expands the searches your profile can appear for."
+        },
+        {
+          "type": "p",
+          "text": "A practical way to research this: search for your main service keyword in Google and look at what categories the top-ranking competitors show in their GBPs. This tells you what Google considers relevant for your type of business."
+        },
+        {
+          "type": "h2",
+          "text": "Writing a Compelling Business Description"
+        },
+        {
+          "type": "p",
+          "text": "You have 750 characters for your business description. This is not just an SEO field. It's often the first thing a potential customer reads about you."
+        },
+        {
+          "type": "p",
+          "text": "The description should clearly state what you do, who you serve, where you operate, and what distinguishes you from alternatives. Use natural language. Include important service terms and location terms, but write for a human reading it, not just for Google indexing it."
+        },
+        {
+          "type": "p",
+          "text": "For example, for a Dublin-based accountancy firm: \"We're a Dublin accountancy firm specialising in small business accounting, tax returns, and payroll for Irish SMEs. Based in Drumcondra, we serve clients across Dublin and remotely throughout Ireland. We focus on making accounting genuinely stress-free for business owners who want a proactive, plain-English service rather than just annual accounts.\""
+        },
+        {
+          "type": "p",
+          "text": "This description is specific, includes relevant terms (Dublin, small business, accounting, tax, payroll, Irish SMEs), communicates a value proposition, and reads naturally."
+        },
+        {
+          "type": "h2",
+          "text": "Photos: What to Upload, How Many, What Works"
+        },
+        {
+          "type": "p",
+          "text": "Google Business Profiles with more photos receive significantly more clicks and direction requests than profiles with few or no photos. The data is clear on this."
+        },
+        {
+          "type": "p",
+          "text": "What to upload:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Cover photo: This is the main image that represents your brand. Use a professional, high-quality image. For a service business, your team photo or office/shopfront works well.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Logo: Upload a clean, high-resolution version of your logo.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Interior photos: If you have a physical space, show it. Customers want to know what they're walking into.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Exterior photos: Help people identify your location when they arrive.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Team photos: People hire people. Showing faces builds trust.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Work/portfolio photos: Before/after for tradespeople. Case photos for professionals. Product photos for retail.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Aim for at least 15-20 photos to start. Ongoing, add new photos monthly. Google rewards profiles that show activity and freshness. Do not use stock photos. Real, genuine images of your actual business perform better and are more honest."
+        },
+        {
+          "type": "p",
+          "text": "Video is also supported. A 30-60 second business introduction video, even filmed on a phone with good lighting, can significantly enhance your profile."
+        },
+        {
+          "type": "h2",
+          "text": "Reviews: Getting Them and Managing Them"
+        },
+        {
+          "type": "p",
+          "text": "Reviews are the single biggest factor in whether a potential customer chooses you over a competitor in the map pack. The volume of reviews, the rating, and the recency of reviews all matter for both customer trust and search ranking."
+        },
+        {
+          "type": "h3",
+          "text": "Getting reviews ethically"
+        },
+        {
+          "type": "p",
+          "text": "Ask every satisfied customer. This sounds obvious but most businesses do it inconsistently or not at all. Make it standard practice."
+        },
+        {
+          "type": "p",
+          "text": "Get a direct review link (Google provides one in your GBP dashboard under \"Ask for reviews\") and make it easy. Embed it in a follow-up email. Put it in your email signature. Send it as a text message after a successful job. The fewer steps between \"I want to leave a review\" and \"review submitted,\" the higher the completion rate."
+        },
+        {
+          "type": "p",
+          "text": "Do not offer incentives for reviews. Google prohibits this and it can result in your reviews being removed. Do not ask for reviews in bulk from friends or family who aren't real customers. Fake reviews can be removed by Google and are not worth the risk."
+        },
+        {
+          "type": "p",
+          "text": "Timing matters. Ask when the experience is fresh and the customer is happy, not weeks later when the enthusiasm has faded."
+        },
+        {
+          "type": "h3",
+          "text": "Responding to reviews"
+        },
+        {
+          "type": "p",
+          "text": "Respond to every review, positive and negative. For positive reviews, a genuine, specific response (not a copy-pasted template) shows that real people are behind the business. For negative reviews, a calm, professional, and empathetic response often does more for your reputation than the negative review damages."
+        },
+        {
+          "type": "p",
+          "text": "When responding to negative reviews: acknowledge the concern, apologise for the experience (even if you believe the complaint is unfair), and offer to resolve it offline. Never argue publicly. Never be defensive. Future potential customers are reading your responses, not just the reviews."
+        },
+        {
+          "type": "h2",
+          "text": "Google Posts"
+        },
+        {
+          "type": "p",
+          "text": "Google Posts are short updates (similar to social media posts) that appear on your Google Business Profile. They can include text, photos, and a call to action button."
+        },
+        {
+          "type": "p",
+          "text": "Use them for: new services or products, special offers, events, important announcements, and regular business updates. Posts expire after seven days, so to maintain ongoing visibility, post at least once a week."
+        },
+        {
+          "type": "p",
+          "text": "Google Posts are an underused tool. Most of your local competitors are not posting regularly. Regular, relevant posts signal an active business to both Google and to potential customers browsing your profile."
+        },
+        {
+          "type": "h2",
+          "text": "The Q&A Section"
+        },
+        {
+          "type": "p",
+          "text": "Anyone can ask a question on your Google Business Profile. Anyone, including your competitors, can answer those questions. Most businesses don't realise this and leave questions either unanswered or answered by random strangers."
+        },
+        {
+          "type": "p",
+          "text": "Take control of this section. First, populate it yourself. Post the questions your customers most commonly ask and provide thorough, helpful answers. \"What are your opening hours?\" \"Do you offer free estimates?\" \"What areas do you cover?\" \"How quickly can you respond to an emergency?\" These are legitimate, useful entries that help potential customers and add keyword-rich content to your profile."
+        },
+        {
+          "type": "p",
+          "text": "Monitor the section regularly and answer any new questions promptly. Set up notifications in your GBP dashboard so you're alerted when new questions are posted."
+        },
+        {
+          "type": "h2",
+          "text": "Products and Services"
+        },
+        {
+          "type": "p",
+          "text": "The services section allows you to list and describe your specific services, which can improve your visibility for those specific service terms in local search."
+        },
+        {
+          "type": "p",
+          "text": "For each service: use a clear, descriptive name, write a detailed description (up to 300 characters), and add a price if relevant. This is particularly valuable for businesses with multiple distinct services, as each service listing can contribute to visibility for different search terms."
+        },
+        {
+          "type": "h2",
+          "text": "Tracking GBP Performance"
+        },
+        {
+          "type": "p",
+          "text": "GBP provides basic performance insights: how many people found your profile through direct searches (searching your business name) versus discovery searches (finding you while searching for a category or service), how many people called from your profile, requested directions, or clicked through to your website."
+        },
+        {
+          "type": "p",
+          "text": "Track these monthly. Direction requests and phone calls are the most valuable metrics because they represent high-intent actions. If these are growing, your profile is working. If they're flat despite optimisation, look at your review volume and category choices."
+        },
+        {
+          "type": "h2",
+          "text": "Common GBP Mistakes"
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "text": "Keyword stuffing the business name: Adding keywords to your business name field (\"Brennan Solicitors Dublin SEO Legal Services\") violates Google's guidelines and can result in your profile being suspended. Use your actual business name.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Inconsistent NAP: Your business Name, Address, and Phone number must be identical across your GBP, website, and all online directories. Even minor inconsistencies (Ltd vs Limited, Street vs St) can dilute your local authority signals.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Ignoring the profile after setup: GBP is not a set-and-forget asset. Regular photos, posts, and review responses signal an active business. Dormant profiles lose ranking over time.",
+              "href": null,
+              "imgs": []
+            },
+            {
+              "text": "Not adding business hours: Missing or incorrect hours are frustrating for customers and a missed opportunity. Add your hours accurately and keep them updated for holidays and special closures.",
+              "href": null,
+              "imgs": []
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Local SEO Beyond Google Business Profile"
+        },
+        {
+          "type": "p",
+          "text": "GBP is the foundation but it works best as part of a broader local SEO effort. Your website should have clear location signals: the city or area you serve should appear naturally in your page titles, headings, and content. Location-specific pages (if you serve multiple areas) should be specific and genuinely useful, not just the same content with the city name swapped."
+        },
+        {
+          "type": "p",
+          "text": "Local citations, consistent mentions of your business name, address, and phone number on reputable directories (Golden Pages, Yelp Ireland, local chamber directories, industry-specific directories), support your GBP strength. Getting mentioned and linked from local news sites and community websites provides powerful local authority signals."
+        },
+        {
+          "type": "p",
+          "text": "The local SEO formula is not complicated: strong GBP, consistent NAP across the web, genuine reviews, relevant website content, and local links. The businesses that do all of this consistently are the ones in the map pack. If you're not there yet, this is the roadmap to get there."
+        },
+        {
+          "type": "p",
+          "text": "TAGS"
+        },
+        {
+          "type": "text",
+          "text": "Local SEO"
+        },
+        {
+          "type": "text",
+          "text": "Google Business Profile"
+        },
+        {
+          "type": "text",
+          "text": "GMB"
+        },
+        {
+          "type": "text",
+          "text": "KF"
+        },
+        {
+          "type": "p",
+          "text": "Khalid Farhan"
+        },
+        {
+          "type": "p",
+          "text": "Founder of khalidfarhan.com. Agency owner, content creator, and host of the 2026 Challenge. Based in Ireland."
+        },
+        {
+          "type": "p",
+          "text": "FREE AUDIT"
+        },
+        {
+          "type": "p",
+          "text": "Get a free marketing audit for your business."
+        },
+        {
+          "type": "link",
+          "text": "Book Now",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        },
+        {
+          "type": "p",
+          "text": "RELATED ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nSEO for Small Businesses in Ireland: A Practical Guide for 2026",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & Content\n\nCore Web Vitals in 2026: LCP, INP, CLS Explained and How to Fix Them",
+          "href": "/insights/core-web-vitals-guide-2026",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "MORE ARTICLES"
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nHow to Choose an SEO Agency in Ireland (Without Getting Burned)\n\nThe Irish market is flooded with SEO agencies making big promises. Here's exactly what to look for, what to avoid, and the questions to ask before you sign.\n\n5 Apr 2026\n·\n10 min read",
+          "href": "/insights/seo-agency-ireland-how-to-choose",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nSEO for Small Businesses in Ireland: A Practical Guide for 2026\n\nYou don't need a massive budget to win at SEO as a small Irish business. Here's a practical, step-by-step approach that works.\n\n15 Mar 2026\n·\n12 min read",
+          "href": "/insights/seo-for-small-business-ireland",
+          "imgs": []
+        },
+        {
+          "type": "link",
+          "text": "SEO & CONTENT\nCore Web Vitals in 2026: LCP, INP, CLS Explained and How to Fix Them\n\nGoogle's page experience signals are more important than ever. Here's the complete practical guide to understanding and improving your Core Web Vitals.\n\n30 Jan 2026\n·\n11 min read",
+          "href": "/insights/core-web-vitals-guide-2026",
+          "imgs": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "className": "",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "WANT HELP GROWING YOUR BUSINESS?"
+        },
+        {
+          "type": "link",
+          "text": "Get a Free Marketing Audit",
+          "href": "/agency/free-marketing-audit",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}

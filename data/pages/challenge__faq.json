@@ -1,0 +1,124 @@
+{
+  "route": "/challenge/faq",
+  "title": "2026 Challenge, FAQ | Khalid Farhan",
+  "metaDesc": "Frequently asked questions about the 2026 Challenge. Everything you need to know before joining.",
+  "h1": "QUESTIONS ANSWERED.",
+  "sections": [
+    {
+      "index": 1,
+      "className": "hero-centered",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026 CHALLENGE / FAQ"
+        },
+        {
+          "type": "h1",
+          "text": "QUESTIONS ANSWERED."
+        },
+        {
+          "type": "p",
+          "text": "Everything you need to know before joining the 2026 Challenge. Still unsure? Email us."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "className": "sec-lg",
+      "blocks": [
+        {
+          "type": "button",
+          "text": "Who is the 2026 Challenge for?"
+        },
+        {
+          "type": "text",
+          "text": "Anyone who wants to build a real online income in 2026. Most of our members are in Bangladesh but we have members from around the world. You don't need any prior business experience — just the willingness to do the work."
+        },
+        {
+          "type": "button",
+          "text": "What happens after I pay?"
+        },
+        {
+          "type": "text",
+          "text": "You'll receive a confirmation email within a few minutes with instructions to join the private Facebook community and access your classes. If you don't receive it, check your spam folder or contact us."
+        },
+        {
+          "type": "button",
+          "text": "Is this a subscription? Will I be charged again?"
+        },
+        {
+          "type": "text",
+          "text": "No. It's a one-time payment of 5,000 BDT (or $40 USD for international members). You get lifetime access to all content — current and future."
+        },
+        {
+          "type": "button",
+          "text": "What's the difference between the Challenge and a normal course?"
+        },
+        {
+          "type": "text",
+          "text": "A course gives you information. The Challenge is about doing. Each month there's a task you must complete. The live build shows you a real business being built in real time. The community holds you accountable. It's the difference between watching and working."
+        },
+        {
+          "type": "button",
+          "text": "Do I need any prior knowledge?"
+        },
+        {
+          "type": "text",
+          "text": "No. We start from the basics and build up. You do need a smartphone, an internet connection, and ideally a laptop — though some members do everything from their phone."
+        },
+        {
+          "type": "button",
+          "text": "What language are the classes in?"
+        },
+        {
+          "type": "text",
+          "text": "All classes are in Bangla. Some supplementary materials are in English."
+        },
+        {
+          "type": "button",
+          "text": "Is there a refund policy?"
+        },
+        {
+          "type": "text",
+          "text": "No refunds. This is a commitment-based programme. Only join if you're serious about building something. If you're unsure, reach out to us before joining and we'll help you decide if this is right for you."
+        },
+        {
+          "type": "button",
+          "text": "How do I contact support?"
+        },
+        {
+          "type": "text",
+          "text": "Email us at khalid@khalidfarhan.com or message us through the Facebook community. We respond within 24 hours during business days."
+        },
+        {
+          "type": "button",
+          "text": "Can I join if I'm outside Bangladesh?"
+        },
+        {
+          "type": "text",
+          "text": "Yes. We have members in Ireland, the UK, Canada, Australia, and across the Middle East. Pay with your card via Stripe (USD). The content is in Bangla but the business strategies are universal."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "className": "sec",
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "STILL HAVE QUESTIONS?"
+        },
+        {
+          "type": "p",
+          "text": "Email us at khalid@khalidfarhan.com and we’ll get back to you within 24 hours."
+        },
+        {
+          "type": "link",
+          "text": "Join the Challenge",
+          "href": "/challenge",
+          "imgs": []
+        }
+      ]
+    }
+  ]
+}
