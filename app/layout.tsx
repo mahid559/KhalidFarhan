@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Anton, Fraunces } from "next/font/google";
 import "./globals.css";
+import SmoothScrollProvider from "@/components/SmoothScrollProvider";
 
 const anton = Anton({
   variable: "--font-anton",
@@ -33,10 +34,10 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${anton.variable} ${fraunces.variable} scroll-smooth antialiased`}
+      className={`${anton.variable} ${fraunces.variable} antialiased`}
     >
       <body className="min-h-screen bg-[#F9F6F3] text-[#1B1624] selection:bg-[#5DCDF1]/30 selection:text-[#1B1624]">
-        {children}
+        <SmoothScrollProvider>{children}</SmoothScrollProvider>
       </body>
     </html>
   );

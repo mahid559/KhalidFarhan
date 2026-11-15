@@ -214,7 +214,7 @@ export default function EnglishLandingClient() {
                   key={logo.alt}
                   src={logo.src}
                   alt={logo.alt}
-                  className="h-[28px] max-w-[120px] w-auto object-contain opacity-85 hover:opacity-100 transition-opacity"
+                  className="h-[28px] max-w-[120px] w-auto object-contain transition-transform hover:scale-105"
                 />
               ))}
               <span className="text-[13px] text-[#76737C]">and many more</span>

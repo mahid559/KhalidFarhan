@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 import { Menu, X, ChevronDown } from "lucide-react";
 import { KF_DATA } from "@/data/content";
 
@@ -91,11 +92,19 @@ export default function Navbar() {
   const [activeMenu, setActiveMenu] = useState<ActiveMenu>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [mobileSection, setMobileSection] = useState<ActiveMenu>(null);
+  const [scrolled, setScrolled] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
+  const pathname = usePathname();
 
   const { header } = KF_DATA;
 
   useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 8);
+    };
+    handleScroll();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "Escape") setActiveMenu(null);
     };
@@ -107,6 +116,7 @@ export default function Navbar() {
     window.addEventListener("keydown", handleKeyDown);
     document.addEventListener("mousedown", handleClickOutside);
     return () => {
+      window.removeEventListener("scroll", handleScroll);
       window.removeEventListener("keydown", handleKeyDown);
       document.removeEventListener("mousedown", handleClickOutside);
     };
@@ -120,12 +130,26 @@ export default function Navbar() {
     <header
       ref={headerRef}
       onMouseLeave={() => setActiveMenu(null)}
-      className="relative z-50 w-full bg-[#F9F6F3] transition-colors"
+      className={`sticky top-0 z-[900] w-full backdrop-blur-md border-b transition-colors ${
+        scrolled
+          ? "bg-[#F9F6F3]/98 border-[#ECE5E1]"
+          : "bg-[#F9F6F3]/90 border-[#ECE5E1]/60"
+      }`}
     >
       <div className="max-w-[1400px] mx-auto px-6 sm:px-10 lg:px-12">
         <div className="flex items-center justify-between h-24">
           {/* Logo with Ali Abdaal curved doodle underline */}
-          <Link href="/" className="flex items-center gap-3 group" onClick={() => setActiveMenu(null)}>
+          <Link
+            href="/"
+            className="flex items-center gap-3 group"
+            onClick={(e) => {
+              setActiveMenu(null);
+              if (pathname === "/") {
+                e.preventDefault();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+              }
+            }}
+          >
             <div className="relative">
               <span className="text-2xl sm:text-[26px] font-bold tracking-tight text-[#1B1624]">
                 {header.brand}

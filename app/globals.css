@@ -248,24 +248,21 @@ button {
   background-color: #5DCDF1 !important;
 }
 
-/* Client Wall Logo Marks - Dark monochrome on light canvas */
+/* Client Wall Logo Marks - Full brand color, no opacity or grayscale */
 .oc-mark {
   display: inline-block;
-  background-color: #1B1624;
-  opacity: 0.65;
+  opacity: 1;
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
   -webkit-mask-size: contain;
   mask-size: contain;
-  transition: background-color 200ms ease, opacity 200ms ease, transform 200ms ease;
+  transition: transform 200ms ease;
 }
 
 .oc-mark:hover {
-  background-color: #FD976D;
-  opacity: 1;
-  transform: scale(1.08);
+  transform: scale(1.05);
 }
 
 /* Ali Abdaal Pill Button System */

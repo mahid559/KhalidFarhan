@@ -41,25 +41,29 @@ export default function PressBar() {
             Featured Partners
           </div>
           <div className="flex flex-wrap items-center justify-center md:justify-between gap-8 sm:gap-10">
-            {ourClients.leadLogos.map((client) => (
-              <div
-                key={client.name}
-                className="flex items-center justify-center p-2"
-                title={client.name}
-              >
-                <span
-                  role="img"
-                  aria-label={client.name}
-                  className="oc-mark cursor-pointer"
-                  style={{
-                    width: `${Math.round(client.width * 1.05)}px`,
-                    height: `${Math.round(client.height * 1.05)}px`,
-                    WebkitMaskImage: `url(/logos/wall/${client.file})`,
-                    maskImage: `url(/logos/wall/${client.file})`,
-                  }}
-                />
-              </div>
-            ))}
+            {ourClients.leadLogos.map((client) => {
+              const targetW = Math.round(client.width * 1.05);
+              const targetH = Math.round(client.height * 1.05);
+              return (
+                <div
+                  key={client.name}
+                  className="flex items-center justify-center p-2"
+                  title={client.name}
+                >
+                  <img
+                    src={client.src || `/logos/clients/${client.file}`}
+                    alt={client.name}
+                    className="cursor-pointer transition-transform duration-200 hover:scale-105 object-contain"
+                    style={{
+                      width: `${targetW}px`,
+                      height: `${targetH}px`,
+                      maxWidth: `${targetW}px`,
+                      maxHeight: `${targetH}px`,
+                    }}
+                  />
+                </div>
+              );
+            })}
           </div>
         </motion.div>
 
@@ -76,25 +80,51 @@ export default function PressBar() {
           </div>
           <div className="bg-white border border-[#ECE5E1] rounded-[28px] p-8 sm:p-12 shadow-2xs">
             <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-9">
-              {ourClients.restLogos.map((client) => (
-                <div
-                  key={client.name}
-                  className="flex items-center justify-center p-1.5"
-                  title={client.name}
-                >
-                  <span
-                    role="img"
-                    aria-label={client.name}
-                    className="oc-mark cursor-pointer"
-                    style={{
-                      width: `${Math.round(client.width * 0.85)}px`,
-                      height: `${Math.round(client.height * 0.85)}px`,
-                      WebkitMaskImage: `url(/logos/wall/${client.file})`,
-                      maskImage: `url(/logos/wall/${client.file})`,
-                    }}
-                  />
-                </div>
-              ))}
+              {ourClients.restLogos.map((client) => {
+                const targetW = Math.round(client.width * 0.85);
+                const targetH = Math.round(client.height * 0.85);
+                return (
+                  <div
+                    key={client.name}
+                    className="flex items-center justify-center p-1.5"
+                    title={client.name}
+                  >
+                    {client.src ? (
+                      <img
+                        src={client.src}
+                        alt={client.name}
+                        className="cursor-pointer transition-transform duration-200 hover:scale-105 object-contain"
+                        style={{
+                          width: `${targetW}px`,
+                          height: `${targetH}px`,
+                          maxWidth: `${targetW}px`,
+                          maxHeight: `${targetH}px`,
+                        }}
+                      />
+                    ) : (
+                      <span
+                        role="img"
+                        aria-label={client.name}
+                        className="cursor-pointer transition-transform duration-200 hover:scale-105 inline-block"
+                        style={{
+                          width: `${targetW}px`,
+                          height: `${targetH}px`,
+                          backgroundColor: client.color || "#1B1624",
+                          opacity: 1,
+                          WebkitMaskImage: `url(/logos/wall/${client.file})`,
+                          maskImage: `url(/logos/wall/${client.file})`,
+                          WebkitMaskRepeat: "no-repeat",
+                          maskRepeat: "no-repeat",
+                          WebkitMaskPosition: "center",
+                          maskPosition: "center",
+                          WebkitMaskSize: "contain",
+                          maskSize: "contain",
+                        }}
+                      />
+                    )}
+                  </div>
+                );
+              })}
             </div>
           </div>
         </motion.div>
