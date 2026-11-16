@@ -318,34 +318,23 @@
   border-radius: 12px;
   overflow: hidden;
   opacity: 1;
-  transform: none;
-  transition: background-color 320ms cubic-bezier(0.16, 1, 0.3, 1),
-              border-color 320ms cubic-bezier(0.16, 1, 0.3, 1),
-              box-shadow 320ms cubic-bezier(0.16, 1, 0.3, 1),
-              transform 320ms cubic-bezier(0.16, 1, 0.3, 1) !important;
+  transform: none !important;
+  transition: border-color 220ms ease, box-shadow 220ms ease !important;
   box-shadow: 0 4px 20px -8px rgba(27, 22, 36, 0.06);
 }
 .rw-tile:hover {
-  background-color: #1e3a6e !important;
   border-color: #1e3a6e !important;
-  transform: translateY(-8px);
-  box-shadow: 0 20px 35px -10px rgba(14, 31, 74, 0.4);
+  box-shadow: 0 12px 28px -6px rgba(30, 58, 110, 0.15) !important;
+  transform: none !important;
 }
 
-.rw-tile:hover .rw-what,
-.rw-tile:hover .rw-client,
-.rw-tile:hover .rw-cap,
-.rw-tile:hover .rw-metrics,
-.rw-tile:hover .rw-stat-num,
-.rw-tile:hover .rw-stat-label,
-.rw-tile:hover .rw-kw,
-.rw-tile:hover .rw-to,
-.rw-tile:hover .rw-arrow,
-.rw-tile:hover .rw-axis,
-.rw-tile:hover span,
-.rw-tile:hover p,
-.rw-tile:hover div {
-  color: #FFFFFF !important;
+.rw-tile:hover .rw-what {
+  color: #1e3a6e !important;
+}
+
+.rw-tile:hover .rw-what svg {
+  transform: translate(2px, -2px);
+  transition: transform 200ms ease;
 }
 
 .rw-shot {
@@ -770,15 +759,6 @@ line.rw-grid {
   animation: rw-dash 1400ms cubic-bezier(0.22, 0.61, 0.36, 1) 200ms forwards;
 }
 
-/* Hover sub-elements readability */
-.rw-tile:hover .rw-flow li,
-.rw-tile:hover .rw-chips span {
-  background: #FFFFFF;
-  border-color: rgba(27, 22, 36, 0.15);
-}
-.rw-tile:hover .rw-map {
-  background: rgba(255, 255, 255, 0.4);
-}
 
 @keyframes rw-dash { to { stroke-dashoffset: 0; } }
 @keyframes rw-grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }

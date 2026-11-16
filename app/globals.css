@@ -191,9 +191,9 @@ button {
 
 .ali-card:hover,
 .is-style-clickable-card:hover {
-  transform: translateY(-12px);
-  box-shadow: 0px 30px 40px -15px rgba(194, 179, 164, 0.6);
-  background-color: #FDD46B;
+  transform: translateY(-8px);
+  box-shadow: 0px 24px 35px -12px rgba(30, 58, 110, 0.18);
+  border-color: #1e3a6e;
 }
 
 .ali-card.hover-highlight-orange:hover,
@@ -213,8 +213,8 @@ button {
 .ali-card.hover-highlight-yellow:hover,
 .is-style-clickable-card.hover-highlight-yellow:hover,
 .hover-yellow:hover {
-  background-color: #FDD46B !important;
-  border-color: #FDD46B !important;
+  background-color: #1e3a6e !important;
+  border-color: #1e3a6e !important;
 }
 
 .ali-card.hover-highlight-blue:hover,

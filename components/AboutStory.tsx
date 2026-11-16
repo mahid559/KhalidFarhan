@@ -10,12 +10,6 @@ import { KF_DATA } from "@/data/content";
 export default function AboutStory() {
   const { agencyStory } = KF_DATA;
 
-  const statThemes = [
-    { hoverBg: "hover:bg-[#1e3a6e]", hoverBorder: "hover:border-[#1e3a6e]", textAccent: "text-[#1e3a6e]" },
-    { hoverBg: "hover:bg-[#C9B1FB]", hoverBorder: "hover:border-[#C9B1FB]", textAccent: "text-[#C9B1FB]" },
-    { hoverBg: "hover:bg-[#FDD46B]", hoverBorder: "hover:border-[#FDD46B]", textAccent: "text-[#FDD46B]" },
-  ];
-
   return (
     <section className="bg-[#F9F6F3] py-20 sm:py-28 border-b border-[#ECE5E1]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -89,33 +83,30 @@ export default function AboutStory() {
 
         </div>
 
-        {/* 3 Stats Row (Exact KF numbers in Ali Abdaal Stat Cards with pastel hovers) */}
+        {/* 3 Stats Row (Clean stat cards matching reference behavior) */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 lg:gap-8">
-          {agencyStory.stats.map((s, idx) => {
-            const theme = statThemes[idx % statThemes.length];
-            return (
-              <motion.div
-                key={idx}
-                initial={{ opacity: 0, y: 24 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, amount: 0.2 }}
-                transition={{ duration: 0.5, delay: idx * 0.12, ease: [0.16, 1, 0.3, 1] }}
-                className={`ali-card bg-white border border-[#ECE5E1] rounded-[24px] p-8 sm:p-10 text-center space-y-2 transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_20px_35px_-10px_rgba(194,179,164,0.5)] ${theme.hoverBg} ${theme.hoverBorder}`}
-              >
-                <div className="ledger-num text-4xl sm:text-5xl font-normal text-[#1B1624] tracking-tight flex items-baseline justify-center">
-                  <span>{s.num}</span>
-                  {s.suffix && (
-                    <span className="text-[#1B1624] text-[1.35em] leading-none inline-block align-baseline ml-1">
-                      {s.suffix}
-                    </span>
-                  )}
-                </div>
-                <div className="text-sm font-semibold text-[#54505B]">
-                  {s.label}
-                </div>
-              </motion.div>
-            );
-          })}
+          {agencyStory.stats.map((s, idx) => (
+            <motion.div
+              key={idx}
+              initial={{ opacity: 0, y: 24 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, amount: 0.2 }}
+              transition={{ duration: 0.5, delay: idx * 0.12, ease: [0.16, 1, 0.3, 1] }}
+              className="bg-white border border-[#ECE5E1] rounded-[24px] p-8 sm:p-10 text-center space-y-2 shadow-2xs"
+            >
+              <div className="ledger-num text-4xl sm:text-5xl font-normal text-[#1B1624] tracking-tight flex items-baseline justify-center">
+                <span>{s.num}</span>
+                {s.suffix && (
+                  <span className="text-[#1B1624] text-[1.35em] leading-none inline-block align-baseline ml-1">
+                    {s.suffix}
+                  </span>
+                )}
+              </div>
+              <div className="text-sm font-semibold text-[#54505B]">
+                {s.label}
+              </div>
+            </motion.div>
+          ))}
         </div>
 
       </div>

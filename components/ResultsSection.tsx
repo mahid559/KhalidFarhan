@@ -42,7 +42,7 @@ export default function ResultsSection() {
         <div className="rw-grid">
           {/* Tile 1 (rw-a, span 5): Cork B&B SEO */}
           <Link
-            className="rw-tile rw-a rw-color-orange"
+            className="rw-tile rw-a"
             style={{ transitionDelay: "0ms" }}
             href="/work/case-studies/cork-bnb-seo"
           >
@@ -83,7 +83,7 @@ export default function ResultsSection() {
 
           {/* Tile 2 (rw-b, span 4): Galway Roofer Local SEO */}
           <Link
-            className="rw-tile rw-b rw-color-purple"
+            className="rw-tile rw-b"
             style={{ transitionDelay: "70ms" }}
             href="/work/case-studies/galway-roofer-local-seo"
           >
@@ -132,7 +132,7 @@ export default function ResultsSection() {
 
           {/* Tile 3 (rw-c, span 3): Premium Dog Daycare */}
           <Link
-            className="rw-tile rw-c rw-color-yellow"
+            className="rw-tile rw-c"
             style={{ transitionDelay: "140ms" }}
             href="/work/case-studies/dog-daycare-meta-ads"
           >
@@ -171,7 +171,7 @@ export default function ResultsSection() {
 
           {/* Tile 4 (rw-d, span 4): Educational Fintech in Germany */}
           <Link
-            className="rw-tile rw-d rw-color-orange"
+            className="rw-tile rw-d"
             style={{ transitionDelay: "210ms" }}
             href="/work/case-studies/german-fintech-google-ads"
           >
@@ -211,7 +211,7 @@ export default function ResultsSection() {
 
           {/* Tile 5 (rw-e, span 5): Dublin Music School */}
           <Link
-            className="rw-tile rw-e rw-color-purple"
+            className="rw-tile rw-e"
             style={{ transitionDelay: "0ms" }}
             href="/work/case-studies/dublin-music-school-seo"
           >
@@ -259,7 +259,7 @@ export default function ResultsSection() {
 
           {/* Tile 6 (rw-f, span 3): Roofer Google Reviews */}
           <Link
-            className="rw-tile rw-f rw-color-yellow"
+            className="rw-tile rw-f"
             style={{ transitionDelay: "70ms" }}
             href="/work/case-studies/galway-roofer-local-seo"
           >
@@ -283,7 +283,7 @@ export default function ResultsSection() {
 
           {/* Tile 7 (rw-g, span 7): Beauty Brand Email Flows */}
           <Link
-            className="rw-tile rw-g rw-color-orange"
+            className="rw-tile rw-g"
             style={{ transitionDelay: "140ms" }}
             href="/work/case-studies/beauty-ecommerce-meta-ads"
           >
@@ -323,7 +323,7 @@ export default function ResultsSection() {
 
           {/* Tile 8 (rw-h, span 5): Beauty Brand ROAS */}
           <Link
-            className="rw-tile rw-h rw-color-purple"
+            className="rw-tile rw-h"
             style={{ transitionDelay: "210ms" }}
             href="/work/case-studies/beauty-ecommerce-meta-ads"
           >
