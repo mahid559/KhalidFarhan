@@ -56,7 +56,7 @@ export default function TestimonialsPage() {
               {QUOTES.map((quote, idx) => (
                 <blockquote
                   key={idx}
-                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-8 flex flex-col justify-between transition-colors hover:border-[#FD976D]"
+                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-8 flex flex-col justify-between transition-colors hover:border-[#1e3a6e]"
                 >
                   <p className="text-[17px] leading-relaxed text-[#1B1624]">{quote}</p>
                   <footer className="mt-6 pt-4 border-t border-[#ECE5E1] text-[13px] font-semibold text-[#76737C]">
@@ -89,7 +89,7 @@ export default function TestimonialsPage() {
                   key={stat.label}
                   className="rounded-[20px] border border-[#ECE5E1] bg-white p-7"
                 >
-                  <div className="ledger-num text-[42px] leading-none text-[#FD976D]">
+                  <div className="ledger-num text-[42px] leading-none text-[#1e3a6e]">
                     {stat.num}
                   </div>
                   <div className="mt-2 text-[12px] font-bold uppercase tracking-[0.08em] text-[#54505B]">
@@ -116,7 +116,7 @@ export default function TestimonialsPage() {
               <div className="mt-7">
                 <Link
                   href="/agency/free-marketing-audit"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Get a Free Marketing Audit →
                 </Link>

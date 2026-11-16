@@ -44,7 +44,7 @@ export default function ShobdoClient() {
         <section className="border-b border-[#ECE5E1] py-14 sm:py-20">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-6">
-              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
                 SHOBDO
               </p>
               <h1 className="display-l mt-3 text-[44px] sm:text-[56px] lg:text-[62px] text-[#1B1624]">
@@ -58,7 +58,7 @@ export default function ShobdoClient() {
                 <button
                   type="button"
                   onClick={() => setNotice("Download for Mac (v1.2 · Apple Silicon & Intel) started.")}
-                  className="ali-pill-btn rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 text-left transition-all hover:-translate-y-0.5 cursor-pointer"
+                  className="ali-pill-btn rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 text-left transition-all hover:-translate-y-0.5 cursor-pointer"
                 >
                   <div className="text-[15px] font-bold">Download for Mac</div>
                   <div className="text-[12px] text-[#1B1624]/80">v1.2 · Apple Silicon &amp; Intel</div>
@@ -125,7 +125,7 @@ export default function ShobdoClient() {
                   key={step.num}
                   className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-8"
                 >
-                  <div className="ledger-num text-[34px] leading-none text-[#FD976D]">
+                  <div className="ledger-num text-[34px] leading-none text-[#1e3a6e]">
                     {step.num}
                   </div>
                   <h3 className="mt-4 text-[20px] font-bold text-[#1B1624]">{step.title}</h3>
@@ -173,7 +173,7 @@ export default function ShobdoClient() {
                 return (
                   <div
                     key={item.q}
-                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#FD976D]"
+                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#1e3a6e]"
                   >
                     <button
                       type="button"
@@ -211,7 +211,7 @@ export default function ShobdoClient() {
               <button
                 type="button"
                 onClick={() => setNotice("Download for Mac (v1.2 · Apple Silicon & Intel) started.")}
-                className="ali-pill-btn rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                className="ali-pill-btn rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
               >
                 Download for Mac
               </button>

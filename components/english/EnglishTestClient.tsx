@@ -47,8 +47,8 @@ export default function EnglishTestClient() {
                     }}
                     className={`rounded-[14px] border px-4 py-3.5 text-left text-[14px] font-semibold transition-colors cursor-pointer ${
                       goal === "daily"
-                        ? "border-[#FD976D] bg-[#FD976D]/15 text-[#1B1624]"
-                        : "border-[#ECE5E1] bg-[#F9F6F3] text-[#54505B] hover:border-[#FD976D]/60"
+                        ? "border-[#1e3a6e] bg-[#1e3a6e]/15 text-[#1B1624]"
+                        : "border-[#ECE5E1] bg-[#F9F6F3] text-[#54505B] hover:border-[#1e3a6e]/60"
                     }`}
                   >
                     কাজ, ক্যারিয়ার আর প্রতিদিনের ইংরেজি
@@ -62,8 +62,8 @@ export default function EnglishTestClient() {
                     }}
                     className={`rounded-[14px] border px-4 py-3.5 text-left text-[14px] font-semibold transition-colors cursor-pointer ${
                       goal === "ielts"
-                        ? "border-[#FD976D] bg-[#FD976D]/15 text-[#1B1624]"
-                        : "border-[#ECE5E1] bg-[#F9F6F3] text-[#54505B] hover:border-[#FD976D]/60"
+                        ? "border-[#1e3a6e] bg-[#1e3a6e]/15 text-[#1B1624]"
+                        : "border-[#ECE5E1] bg-[#F9F6F3] text-[#54505B] hover:border-[#1e3a6e]/60"
                     }`}
                   >
                     উচ্চশিক্ষা আর IELTS
@@ -82,7 +82,7 @@ export default function EnglishTestClient() {
                   id="english-age"
                   value={age}
                   onChange={(e) => setAge(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 >
                   <option value="18 বা তার বেশি">18 বা তার বেশি</option>
                   <option value="13 থেকে 17">13 থেকে 17</option>
@@ -93,7 +93,7 @@ export default function EnglishTestClient() {
               <button
                 type="button"
                 onClick={() => setStarted(true)}
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
               >
                 টেস্ট শুরু করুন
               </button>

@@ -45,7 +45,7 @@ export default function FoundersDenClient() {
             <div className="mt-10">
               <a
                 href="#doors"
-                className="text-[13px] font-bold uppercase tracking-[0.14em] text-[#76737C] hover:text-[#FD976D]"
+                className="text-[13px] font-bold uppercase tracking-[0.14em] text-[#76737C] hover:text-[#1e3a6e]"
               >
                 ↓ SCROLL
               </a>
@@ -63,7 +63,7 @@ export default function FoundersDenClient() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="rounded-[28px] border border-[#ECE5E1] bg-white p-8 sm:p-10 flex flex-col justify-between">
                 <div>
-                  <span className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#FD976D]">
+                  <span className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#1e3a6e]">
                     OUR MAIN FOCUS
                   </span>
                   <h3 className="heading-lg mt-3 text-[28px] sm:text-[34px] text-[#1B1624]">
@@ -77,7 +77,7 @@ export default function FoundersDenClient() {
                   <button
                     type="button"
                     onClick={() => openModal("sell")}
-                    className="ali-pill-btn rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 text-[15px] font-semibold cursor-pointer"
+                    className="ali-pill-btn rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 text-[15px] font-semibold cursor-pointer"
                   >
                     Sell your business →
                   </button>
@@ -86,7 +86,7 @@ export default function FoundersDenClient() {
 
               <div className="rounded-[28px] border border-[#ECE5E1] bg-[#1B1624] text-white p-8 sm:p-10 flex flex-col justify-between">
                 <div>
-                  <span className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#FD976D]">
+                  <span className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#1e3a6e]">
                     CO-INVEST
                   </span>
                   <h3 className="heading-lg mt-3 text-[28px] sm:text-[34px] text-white">
@@ -100,7 +100,7 @@ export default function FoundersDenClient() {
                   <button
                     type="button"
                     onClick={() => openModal("invest")}
-                    className="ali-pill-btn rounded-full bg-white hover:bg-[#FD976D] text-[#1B1624] px-7 py-3.5 text-[15px] font-semibold cursor-pointer"
+                    className="ali-pill-btn rounded-full bg-white hover:bg-[#1e3a6e] hover:text-white px-7 py-3.5 text-[15px] font-semibold cursor-pointer"
                   >
                     Invest with us →
                   </button>
@@ -120,10 +120,10 @@ export default function FoundersDenClient() {
               {EPISODES.map((title, idx) => (
                 <div
                   key={title}
-                  className="rounded-[20px] border border-[#ECE5E1] bg-white p-6 flex items-center justify-between gap-4 hover:border-[#FD976D] transition-colors"
+                  className="rounded-[20px] border border-[#ECE5E1] bg-white p-6 flex items-center justify-between gap-4 hover:border-[#1e3a6e] transition-colors"
                 >
                   <div className="flex items-center gap-4">
-                    <span className="ledger-num text-[24px] text-[#FD976D] w-7">
+                    <span className="ledger-num text-[24px] text-[#1e3a6e] w-7">
                       {String(idx + 1).padStart(2, "0")}
                     </span>
                     <span className="text-[16px] font-bold text-[#1B1624]">{title}</span>
@@ -164,7 +164,7 @@ export default function FoundersDenClient() {
               <button
                 type="button"
                 onClick={() => openModal("sell")}
-                className="ali-pill-btn rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 text-[15px] font-semibold cursor-pointer"
+                className="ali-pill-btn rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 text-[15px] font-semibold cursor-pointer"
               >
                 Sell your business →
               </button>
@@ -237,7 +237,7 @@ export default function FoundersDenClient() {
                 />
                 <button
                   type="submit"
-                  className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3 text-[14px] font-semibold cursor-pointer"
+                  className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3 text-[14px] font-semibold cursor-pointer"
                 >
                   Submit business →
                 </button>
@@ -292,7 +292,7 @@ export default function FoundersDenClient() {
                 />
                 <button
                   type="submit"
-                  className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3 text-[14px] font-semibold cursor-pointer"
+                  className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3 text-[14px] font-semibold cursor-pointer"
                 >
                   Register my interest →
                 </button>

@@ -41,7 +41,7 @@ export default function MasterclassPortalLoginClient() {
                   placeholder="you@example.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
@@ -54,13 +54,13 @@ export default function MasterclassPortalLoginClient() {
                   required
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
               <button
                 type="submit"
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
               >
                 Sign in
               </button>
@@ -80,7 +80,7 @@ export default function MasterclassPortalLoginClient() {
                   setMode("reset");
                   setSubmitted(false);
                 }}
-                className="font-semibold text-[#1B1624] underline hover:text-[#FD976D] cursor-pointer"
+                className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e] cursor-pointer"
               >
                 Email me a new one
               </button>
@@ -106,13 +106,13 @@ export default function MasterclassPortalLoginClient() {
                   placeholder="you@example.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
               <button
                 type="submit"
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
               >
                 Send new password
               </button>
@@ -131,7 +131,7 @@ export default function MasterclassPortalLoginClient() {
                   setMode("signin");
                   setSubmitted(false);
                 }}
-                className="font-semibold text-[#1B1624] underline hover:text-[#FD976D] cursor-pointer"
+                className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e] cursor-pointer"
               >
                 ← Back to sign in
               </button>
@@ -142,7 +142,7 @@ export default function MasterclassPortalLoginClient() {
         <div className="mt-5 border-t border-[#ECE5E1] pt-4 text-[13px]">
           <Link
             href="/masterclass"
-            className="font-medium text-[#54505B] hover:text-[#FD976D] transition-colors"
+            className="font-medium text-[#54505B] hover:text-[#1e3a6e] transition-colors"
           >
             ← Back to class page
           </Link>

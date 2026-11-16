@@ -36,7 +36,7 @@ export default function EnglishLoginClient() {
                   required
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
@@ -49,13 +49,13 @@ export default function EnglishLoginClient() {
                   required
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
               <button
                 type="submit"
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
               >
                 লগইন
               </button>
@@ -71,7 +71,7 @@ export default function EnglishLoginClient() {
               <div>
                 <Link
                   href="/english/forgot"
-                  className="font-medium text-[#1B1624] underline hover:text-[#FD976D]"
+                  className="font-medium text-[#1B1624] underline hover:text-[#1e3a6e]"
                 >
                   পাসওয়ার্ড ভুলে গেছেন?
                 </Link>
@@ -80,7 +80,7 @@ export default function EnglishLoginClient() {
                 নতুন?{" "}
                 <Link
                   href="/english/test"
-                  className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]"
+                  className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]"
                 >
                   আগে লেভেল টেস্ট দিন
                 </Link>

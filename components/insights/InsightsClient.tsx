@@ -66,20 +66,20 @@ export default function InsightsClient({
                 <Link
                   key={post.href}
                   href={post.href}
-                  className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#FD976D] hover:border-[#FD976D]"
+                  className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#1e3a6e] hover:border-[#1e3a6e] hover:text-white"
                 >
                   <div>
-                    <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#FD976D] group-hover:text-[#1B1624]/80">
+                    <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#1e3a6e] group-hover:text-white/80">
                       {post.category}
                     </div>
                     <h2 className="mt-3 text-[20px] font-bold leading-snug text-[#1B1624]">
                       {post.title}
                     </h2>
-                    <p className="mt-3 text-[14px] leading-relaxed text-[#54505B] group-hover:text-[#1B1624]/85">
+                    <p className="mt-3 text-[14px] leading-relaxed text-[#54505B] group-hover:text-white/85">
                       {post.excerpt}
                     </p>
                   </div>
-                  <div className="mt-6 pt-4 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/15 text-[12px] font-semibold text-[#76737C] group-hover:text-[#1B1624]">
+                  <div className="mt-6 pt-4 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/15 text-[12px] font-semibold text-[#76737C] group-hover:text-white">
                     {post.meta}
                   </div>
                 </Link>
@@ -104,7 +104,7 @@ export default function InsightsClient({
                     className={`rounded-full px-4 py-1.5 text-[12px] font-semibold transition-colors cursor-pointer ${
                       activeCat === cat
                         ? "bg-[#1B1624] text-white"
-                        : "bg-white border border-[#ECE5E1] text-[#54505B] hover:border-[#FD976D]"
+                        : "bg-white border border-[#ECE5E1] text-[#54505B] hover:border-[#1e3a6e]"
                     }`}
                   >
                     {cat}
@@ -118,20 +118,20 @@ export default function InsightsClient({
                 <Link
                   key={post.href}
                   href={post.href}
-                  className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#FD976D] hover:border-[#FD976D]"
+                  className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#1e3a6e] hover:border-[#1e3a6e] hover:text-white"
                 >
                   <div>
-                    <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#76737C] group-hover:text-[#1B1624]/80">
+                    <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#76737C] group-hover:text-white/80">
                       {post.category}
                     </div>
                     <h3 className="mt-3 text-[19px] font-bold leading-snug text-[#1B1624]">
                       {post.title}
                     </h3>
-                    <p className="mt-2.5 text-[14px] leading-relaxed text-[#54505B] group-hover:text-[#1B1624]/85">
+                    <p className="mt-2.5 text-[14px] leading-relaxed text-[#54505B] group-hover:text-white/85">
                       {post.excerpt}
                     </p>
                   </div>
-                  <div className="mt-6 pt-4 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/15 text-[12px] font-semibold text-[#76737C] group-hover:text-[#1B1624]">
+                  <div className="mt-6 pt-4 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/15 text-[12px] font-semibold text-[#76737C] group-hover:text-white">
                     {post.meta}
                   </div>
                 </Link>

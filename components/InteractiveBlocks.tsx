@@ -43,7 +43,7 @@ export function InteractiveFormBlock({
                 type={inp.type}
                 name={inp.name || `field-${idx}`}
                 required={inp.required}
-                className="accent-[#FD976D]"
+                className="accent-[#1e3a6e]"
               />
               <span>{inp.placeholder || inp.name || "Select option"}</span>
             </label>
@@ -90,7 +90,7 @@ export function InteractiveFormBlock({
       })}
       <button
         type="submit"
-        className="w-full ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] font-semibold text-sm px-6 py-3.5 cursor-pointer"
+        className="w-full ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white font-semibold text-sm px-6 py-3.5 cursor-pointer"
       >
         {submitText || "Submit"}
       </button>
@@ -134,7 +134,7 @@ export function InteractiveChecklist({ items }: { items: string[] }) {
         <div className="flex items-center gap-3 flex-1 max-w-md">
           <div className="flex-1 h-2.5 bg-[#F3EDE9] rounded-full overflow-hidden">
             <div
-              className="h-full bg-[#FD976D] transition-all duration-300"
+              className="h-full bg-[#1e3a6e] transition-all duration-300"
               style={{ width: `${pct}%` }}
             />
           </div>
@@ -152,8 +152,8 @@ export function InteractiveChecklist({ items }: { items: string[] }) {
               onClick={() => setChecked((prev) => ({ ...prev, [idx]: !prev[idx] }))}
               className={`text-left p-4 rounded-[16px] border transition-all cursor-pointer flex items-start gap-3 ${
                 isDone
-                  ? "bg-[#FD976D]/15 border-[#FD976D] text-[#1B1624]"
-                  : "bg-white border-[#ECE5E1] text-[#1B1624] hover:border-[#FD976D]"
+                  ? "bg-[#1e3a6e]/15 border-[#1e3a6e] text-[#1B1624]"
+                  : "bg-white border-[#ECE5E1] text-[#1B1624] hover:border-[#1e3a6e]"
               }`}
             >
               <span
@@ -204,7 +204,7 @@ export function CaseStudyFilterGrid({
             className={`ali-pill-btn text-xs sm:text-sm px-5 py-2.5 border cursor-pointer ${
               filter === tab
                 ? "bg-[#1B1624] text-white border-[#1B1624]"
-                : "bg-white text-[#1B1624] border-[#ECE5E1] hover:border-[#FD976D]"
+                : "bg-white text-[#1B1624] border-[#ECE5E1] hover:border-[#1e3a6e]"
             }`}
           >
             {tab}
@@ -226,7 +226,7 @@ export function CaseStudyFilterGrid({
               <div className="space-y-2">
                 <h3 className="text-xl font-bold text-[#1B1624] leading-snug">{headline}</h3>
                 {rest.map((line, lIdx) => (
-                  <p key={lIdx} className="text-sm text-[#54505B] group-hover:text-[#1B1624]/85 leading-relaxed">
+                  <p key={lIdx} className="text-sm text-[#54505B] group-hover:text-white/85 leading-relaxed">
                     {line}
                   </p>
                 ))}

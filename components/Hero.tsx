@@ -182,7 +182,7 @@ export default function Hero() {
             <div className="pt-2 flex flex-wrap items-center gap-3.5 sm:gap-4">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] font-semibold text-sm px-7 py-3.5 shadow-sm transition-all inline-flex items-center justify-center hover:-translate-y-0.5"
+                className="ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white font-semibold text-sm px-7 py-3.5 shadow-sm transition-all inline-flex items-center justify-center hover:-translate-y-0.5"
               >
                 <span>Get a free marketing audit</span>
               </Link>

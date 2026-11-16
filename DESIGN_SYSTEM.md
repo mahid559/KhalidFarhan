@@ -11,7 +11,7 @@ This document is the single source of truth for visual styling across all pages,
 - **Text Secondary**: `#54505B` (`--text-secondary`)
 - **Text Muted**: `#76737C` (`--text-muted`)
 - **Brand Accents**:
-  - Orange (Primary CTA & Card Hover): `#FD976D` (hover `#FC8555`)
+  - Orange (Primary CTA & Card Hover): `#1e3a6e` (hover `#162c54`)
   - Blue (Brand Doodle Underline): `#5DCDF1`
   - Yellow: `#FDD46B`
   - Purple: `#C9B1FB`
@@ -37,12 +37,12 @@ This document is the single source of truth for visual styling across all pages,
 ## 4. Cards, Buttons & Hover Animations (Measured at 1440px)
 - **Standard Card (`.ali-card`)**:
   - Default: `bg-white`, `border: 0.8px solid #ECE5E1`, `rounded-[20px]` (cards) to `rounded-[28px]` / `rounded-[32px]` (video/portrait), `p-6 sm:p-10` (stat cards `384×174px` with `40px` padding, `gap-8`)
-  - Hover (`.ali-article-card`, `.ali-video-card`, `.rw-tile`, `.hover-orange`): `background-color: #FD976D`, `border-color: #FD976D`, `320ms cubic-bezier(0.16, 1, 0.3, 1)`, subtle lift (`hover:-translate-y-1.5`), inner text `#1B1624`
+  - Hover (`.ali-article-card`, `.ali-video-card`, `.rw-tile`, `.hover-orange`): `background-color: #1e3a6e`, `border-color: #1e3a6e`, `320ms cubic-bezier(0.16, 1, 0.3, 1)`, subtle lift (`hover:-translate-y-1.5`), inner text `#1B1624`
 - **Pill Buttons (`.ali-pill-btn`)**:
   - `rounded-full`, `font-semibold`, `14px`, `hover:-translate-y-0.5`
-  - Primary Coral: `bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624]` (`padding: 14px 28px`, header CTA `10px 24px`)
+  - Primary Coral: `bg-[#1e3a6e] hover:bg-[#162c54] text-white` (`padding: 14px 28px`, header CTA `10px 24px`)
   - Dark Contrast: `bg-[#1B1624] hover:bg-[#2D2638] text-white` (`padding: 14px 28px`)
   - Outline White: `bg-white hover:bg-[#1B1624] text-[#1B1624] hover:text-white border border-[#ECE5E1]` (`padding: 12px 26px`)
 - **Bottom CTA Banner (`ConversationCta`)**:
-  - `bg-white text-[#1B1624] border border-[#ECE5E1] rounded-[36px] py-16 sm:py-20 px-6 sm:px-12 text-center hover:border-[#FD976D]`
+  - `bg-white text-[#1B1624] border border-[#ECE5E1] rounded-[36px] py-16 sm:py-20 px-6 sm:px-12 text-center hover:border-[#1e3a6e]`
 

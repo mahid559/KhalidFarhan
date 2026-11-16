@@ -61,7 +61,7 @@ export default function CaseStudiesClient({
 
             <div className="lg:col-span-5">
               <div className="rounded-[24px] border border-[#ECE5E1] bg-white p-7 sm:p-8 shadow-sm">
-                <div className="ledger-num text-[44px] leading-none text-[#FD976D]">24</div>
+                <div className="ledger-num text-[44px] leading-none text-[#1e3a6e]">24</div>
                 <div className="mt-2 text-[18px] font-bold text-[#1B1624]">
                   Verified client transformations
                 </div>
@@ -88,7 +88,7 @@ export default function CaseStudiesClient({
                       className={`rounded-full px-5 py-2 text-[14px] font-semibold transition-colors cursor-pointer ${
                         active
                           ? "bg-[#1B1624] text-white"
-                          : "bg-white border border-[#ECE5E1] text-[#54505B] hover:border-[#FD976D]"
+                          : "bg-white border border-[#ECE5E1] text-[#54505B] hover:border-[#1e3a6e]"
                       }`}
                     >
                       {tab}
@@ -108,7 +108,7 @@ export default function CaseStudiesClient({
                   id="cs-industry"
                   value={industry}
                   onChange={(e) => setIndustry(e.target.value)}
-                  className="rounded-full border border-[#ECE5E1] bg-white px-4 py-2 text-[14px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                  className="rounded-full border border-[#ECE5E1] bg-white px-4 py-2 text-[14px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                 >
                   {industries.map((ind) => (
                     <option key={ind} value={ind}>
@@ -128,10 +128,10 @@ export default function CaseStudiesClient({
                 <Link
                   key={item.href}
                   href={item.href}
-                  className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#FD976D] hover:border-[#FD976D]"
+                  className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#1e3a6e] hover:border-[#1e3a6e] hover:text-white"
                 >
                   <div>
-                    <div className="flex items-center justify-between gap-2 text-[11px] font-bold uppercase tracking-[0.08em] text-[#76737C] group-hover:text-[#1B1624]/80">
+                    <div className="flex items-center justify-between gap-2 text-[11px] font-bold uppercase tracking-[0.08em] text-[#76737C] group-hover:text-white/80">
                       <span>{item.industry}</span>
                       <span>{item.location}</span>
                     </div>
@@ -140,7 +140,7 @@ export default function CaseStudiesClient({
                       <div className="ledger-num text-[38px] leading-none text-[#1B1624]">
                         {item.metric}
                       </div>
-                      <div className="mt-1 text-[13px] font-semibold text-[#54505B] group-hover:text-[#1B1624]/85">
+                      <div className="mt-1 text-[13px] font-semibold text-[#54505B] group-hover:text-white/85">
                         {item.metricLabel}
                       </div>
                     </div>
@@ -148,7 +148,7 @@ export default function CaseStudiesClient({
                     <h2 className="mt-5 text-[20px] font-bold leading-snug text-[#1B1624]">
                       {item.headline}
                     </h2>
-                    <p className="mt-2 text-[14px] text-[#54505B] group-hover:text-[#1B1624]/85">
+                    <p className="mt-2 text-[14px] text-[#54505B] group-hover:text-white/85">
                       {item.clientType}
                     </p>
                   </div>
@@ -171,7 +171,7 @@ export default function CaseStudiesClient({
             <div className="mt-8">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Get a Free Marketing Audit →
               </Link>

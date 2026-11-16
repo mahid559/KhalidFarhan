@@ -89,7 +89,7 @@ export default function MuggleMemoClient() {
                 <br />
                 MEMO
               </h1>
-              <div className="mt-4 h-1 w-12 bg-[#FD976D] rounded-full" />
+              <div className="mt-4 h-1 w-12 bg-[#1e3a6e] rounded-full" />
 
               <p className="mt-6 text-[18px] leading-[1.65] text-[#54505B] max-w-xl">
                 Every Friday I send one email about the most useful thing I found that week. One week it is a business idea, the next it is AI, a marketing strategy or a habit worth building. For people who want to start something and keep getting better.
@@ -200,7 +200,7 @@ export default function MuggleMemoClient() {
                       required
                       value={name}
                       onChange={(e) => setName(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                     />
                   </div>
                   <div>
@@ -212,13 +212,13 @@ export default function MuggleMemoClient() {
                       required
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                     />
                   </div>
 
                   <button
                     type="submit"
-                    className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                    className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
                   >
                     {region === "bd" ? "Join for 100 BDT a year" : "Join for 1 USD a year"}
                   </button>
@@ -280,7 +280,7 @@ export default function MuggleMemoClient() {
 
               <div className="mt-8 space-y-6">
                 {TOPICS.map((topic) => (
-                  <div key={topic.title} className="border-l-2 border-[#FD976D] pl-5">
+                  <div key={topic.title} className="border-l-2 border-[#1e3a6e] pl-5">
                     <h3 className="text-[14px] font-bold uppercase tracking-[0.08em] text-[#1B1624]">
                       {topic.title}
                     </h3>
@@ -311,7 +311,7 @@ export default function MuggleMemoClient() {
                 <div className="mt-5 space-y-4 text-[15px] leading-relaxed text-[#54505B]">
                   <p className="text-[#1B1624] font-medium">Heloo! Happy Friday.</p>
 
-                  <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#FD976D]">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#1e3a6e]">
                     STORY
                   </div>
                   <p>
@@ -326,7 +326,7 @@ export default function MuggleMemoClient() {
                     <li>Launch more things if you are new.</li>
                   </ul>
 
-                  <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#FD976D] pt-2">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#1e3a6e] pt-2">
                     TECH
                   </div>
                   <p>Perplexity received 780 million queries last month.</p>
@@ -357,7 +357,7 @@ export default function MuggleMemoClient() {
               <div className="mt-7">
                 <a
                   href="#join"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Join Muggle Memo
                 </a>

@@ -94,7 +94,7 @@ export default function FreeAuditClient() {
                     required
                     value={name}
                     onChange={(e) => setName(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
                 <div>
@@ -103,7 +103,7 @@ export default function FreeAuditClient() {
                     type="text"
                     value={company}
                     onChange={(e) => setCompany(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function FreeAuditClient() {
                     required
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
                 <div>
@@ -126,7 +126,7 @@ export default function FreeAuditClient() {
                     required
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
               </div>
@@ -139,7 +139,7 @@ export default function FreeAuditClient() {
                   placeholder="https://yourcompany.com"
                   value={website}
                   onChange={(e) => setWebsite(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
@@ -159,7 +159,7 @@ export default function FreeAuditClient() {
                         className={`rounded-full border px-3.5 py-1.5 text-[12px] font-semibold transition-colors cursor-pointer ${
                           active
                             ? "border-[#1B1624] bg-[#1B1624] text-white"
-                            : "border-[#ECE5E1] bg-[#F9F6F3] text-[#54505B] hover:border-[#FD976D]"
+                            : "border-[#ECE5E1] bg-[#F9F6F3] text-[#54505B] hover:border-[#1e3a6e]"
                         }`}
                       >
                         {s}
@@ -212,13 +212,13 @@ export default function FreeAuditClient() {
                   rows={3}
                   value={goals}
                   onChange={(e) => setGoals(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
               <button
                 type="submit"
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold cursor-pointer"
               >
                 Request Free Audit
               </button>

@@ -45,7 +45,7 @@ export default function ContactClient() {
                 </div>
                 <a
                   href="mailto:khalid@khalidfarhan.com"
-                  className="mt-2 block text-[15px] font-bold text-[#1B1624] hover:text-[#FD976D]"
+                  className="mt-2 block text-[15px] font-bold text-[#1B1624] hover:text-[#1e3a6e]"
                 >
                   khalid@khalidfarhan.com
                 </a>
@@ -71,7 +71,7 @@ export default function ContactClient() {
                 </p>
                 <Link
                   href="/agency/free-marketing-audit"
-                  className="mt-2 inline-block text-[14px] font-bold text-[#1B1624] underline hover:text-[#FD976D]"
+                  className="mt-2 inline-block text-[14px] font-bold text-[#1B1624] underline hover:text-[#1e3a6e]"
                 >
                   Request a Free Audit →
                 </Link>
@@ -89,7 +89,7 @@ export default function ContactClient() {
               </div>
               <Link
                 href="/sponsor"
-                className="text-[14px] font-bold text-[#1B1624] underline hover:text-[#FD976D]"
+                className="text-[14px] font-bold text-[#1B1624] underline hover:text-[#1e3a6e]"
               >
                 View Sponsorship Options →
               </Link>
@@ -111,7 +111,7 @@ export default function ContactClient() {
                   required
                   value={name}
                   onChange={(e) => setName(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
@@ -124,7 +124,7 @@ export default function ContactClient() {
                   required
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
@@ -135,7 +135,7 @@ export default function ContactClient() {
                 <select
                   value={topic}
                   onChange={(e) => setTopic(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 >
                   <option>Agency / Marketing Services</option>
                   <option>Business School</option>
@@ -154,13 +154,13 @@ export default function ContactClient() {
                   rows={4}
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
 
               <button
                 type="submit"
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold cursor-pointer"
               >
                 Send Message
               </button>

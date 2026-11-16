@@ -48,33 +48,33 @@ export default function ArticlesSection() {
           >
             <Link
               href={articles.lead.href}
-              className="group ali-card ali-article-card flex flex-col justify-between p-8 sm:p-12 bg-white hover:bg-[#FD976D] text-[#1B1624] rounded-[32px] border border-[#ECE5E1] hover:border-[#FD976D] hover:shadow-[0_20px_35px_-10px_rgba(253,151,109,0.35)] hover:-translate-y-1.5 w-full shadow-2xs"
+              className="group ali-card ali-article-card flex flex-col justify-between p-8 sm:p-12 bg-white hover:bg-[#1e3a6e] hover:text-white rounded-[32px] border border-[#ECE5E1] hover:border-[#1e3a6e] hover:shadow-[0_20px_35px_-10px_rgba(14, 31, 74, 0.28)] hover:-translate-y-1.5 w-full shadow-2xs"
             >
               <div className="space-y-6">
                 <div className="flex flex-wrap items-center gap-3 text-xs">
-                  <span className="font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
+                  <span className="font-bold uppercase tracking-wider text-[#1e3a6e] group-hover:text-white transition-colors duration-300">
                     {articles.lead.cat}
                   </span>
-                  <span className="text-[#76737C] group-hover:text-[#1B1624]/60 transition-colors duration-300">•</span>
-                  <span className="text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300">{articles.lead.date}</span>
-                  <span className="text-[#76737C] group-hover:text-[#1B1624]/60 transition-colors duration-300">•</span>
-                  <span className="text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300 flex items-center gap-1">
+                  <span className="text-[#76737C] group-hover:text-white/60 transition-colors duration-300">•</span>
+                  <span className="text-[#76737C] group-hover:text-white/80 transition-colors duration-300">{articles.lead.date}</span>
+                  <span className="text-[#76737C] group-hover:text-white/60 transition-colors duration-300">•</span>
+                  <span className="text-[#76737C] group-hover:text-white/80 transition-colors duration-300 flex items-center gap-1">
                     <Clock className="w-3 h-3" /> {articles.lead.readTime}
                   </span>
                 </div>
 
-                <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors duration-300 leading-tight">
+                <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#1B1624] group-hover:text-white transition-colors duration-300 leading-tight">
                   {articles.lead.title}
                 </h3>
 
-                <p className="text-sm sm:text-base text-[#54505B] group-hover:text-[#1B1624]/85 transition-colors duration-300 leading-relaxed max-w-xl">
+                <p className="text-sm sm:text-base text-[#54505B] group-hover:text-white/85 transition-colors duration-300 leading-relaxed max-w-xl">
                   {articles.lead.excerpt}
                 </p>
               </div>
 
-              <div className="pt-8 mt-6 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/20 flex items-center gap-2 text-sm font-semibold text-[#1B1624] group-hover:text-[#1B1624] transition-colors duration-300">
+              <div className="pt-8 mt-6 border-t border-[#ECE5E1] group-hover:border-[#1B1624]/20 flex items-center gap-2 text-sm font-semibold text-[#1B1624] group-hover:text-white transition-colors duration-300">
                 <span>{articles.lead.readText}</span>
-                <ArrowRight className="w-4 h-4 text-[#FD976D] group-hover:text-[#1B1624] transition-all duration-300 group-hover:translate-x-1.5" />
+                <ArrowRight className="w-4 h-4 text-[#1e3a6e] group-hover:text-white transition-all duration-300 group-hover:translate-x-1.5" />
               </div>
             </Link>
           </motion.div>
@@ -92,20 +92,20 @@ export default function ArticlesSection() {
               >
                 <Link
                   href={art.href}
-                  className="group ali-card ali-article-card w-full p-6 sm:p-7 bg-white hover:bg-[#FD976D] border border-[#ECE5E1] hover:border-[#FD976D] rounded-[24px] flex flex-col justify-between space-y-3 shadow-2xs hover:shadow-lg hover:-translate-y-1"
+                  className="group ali-card ali-article-card w-full p-6 sm:p-7 bg-white hover:bg-[#1e3a6e] border border-[#ECE5E1] hover:border-[#1e3a6e] rounded-[24px] flex flex-col justify-between space-y-3 shadow-2xs hover:shadow-lg hover:-translate-y-1"
                 >
                   <div className="space-y-2">
                     <div className="flex items-center gap-2 text-xs">
-                      <span className="font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
+                      <span className="font-bold uppercase tracking-wider text-[#1e3a6e] group-hover:text-white transition-colors duration-300">
                         {art.cat}
                       </span>
-                      <span className="text-[#76737C] group-hover:text-[#1B1624]/60 transition-colors duration-300">•</span>
-                      <span className="text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300 flex items-center gap-1">
+                      <span className="text-[#76737C] group-hover:text-white/60 transition-colors duration-300">•</span>
+                      <span className="text-[#76737C] group-hover:text-white/80 transition-colors duration-300 flex items-center gap-1">
                         <Clock className="w-3 h-3" /> {art.readTime}
                       </span>
                     </div>
 
-                    <h4 className="text-lg sm:text-xl font-bold text-[#1B1624] group-hover:text-[#1B1624] transition-colors duration-300 leading-snug">
+                    <h4 className="text-lg sm:text-xl font-bold text-[#1B1624] group-hover:text-white transition-colors duration-300 leading-snug">
                       {art.title}
                     </h4>
                   </div>

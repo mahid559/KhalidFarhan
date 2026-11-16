@@ -287,13 +287,13 @@ export default function BusinessSchoolClient() {
               <div className="mt-8 flex flex-wrap items-center gap-5">
                 <a
                   href="#join-form"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Join for 5,000 BDT a year →
                 </a>
                 <a
                   href="#stories"
-                  className="text-[15px] font-semibold text-[#1B1624] underline decoration-[#ECE5E1] underline-offset-4 hover:text-[#FD976D] hover:decoration-[#FD976D] transition-colors"
+                  className="text-[15px] font-semibold text-[#1B1624] underline decoration-[#ECE5E1] underline-offset-4 hover:text-[#1e3a6e] hover:decoration-[#1e3a6e] transition-colors"
                 >
                   See member results ↓
                 </a>
@@ -312,7 +312,7 @@ export default function BusinessSchoolClient() {
                   alt="How I Became A Millionaire By Age 27 (Step by Step): Khalid Farhan"
                   className="w-full h-auto aspect-video object-cover transition-transform duration-300 group-hover:scale-[1.02]"
                 />
-                <span className="absolute bottom-4 left-4 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-[13px] font-bold text-[#1B1624] shadow-md group-hover:bg-[#FD976D] transition-colors">
+                <span className="absolute bottom-4 left-4 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-[13px] font-bold text-[#1B1624] shadow-md group-hover:bg-[#1e3a6e] transition-colors">
                   ▶ Watch my story: $0 to $1M
                 </span>
               </a>
@@ -384,7 +384,7 @@ export default function BusinessSchoolClient() {
               {EARNING_PATHS.map((path) => (
                 <div
                   key={path.title}
-                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 sm:p-8 flex flex-col justify-between transition-all hover:border-[#FD976D]"
+                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 sm:p-8 flex flex-col justify-between transition-all hover:border-[#1e3a6e]"
                 >
                   <div>
                     <h3 className="text-[16px] font-bold uppercase tracking-[0.04em] text-[#1B1624]">
@@ -439,8 +439,8 @@ export default function BusinessSchoolClient() {
                     onClick={() => setActiveStory(idx)}
                     className={`flex items-center gap-3.5 rounded-[18px] border p-4 text-left transition-all cursor-pointer ${
                       active
-                        ? "border-[#FD976D] bg-white shadow-sm"
-                        : "border-[#ECE5E1] bg-white/70 hover:bg-white hover:border-[#FD976D]/60"
+                        ? "border-[#1e3a6e] bg-white shadow-sm"
+                        : "border-[#ECE5E1] bg-white/70 hover:bg-white hover:border-[#1e3a6e]/60"
                     }`}
                   >
                     <img
@@ -464,7 +464,7 @@ export default function BusinessSchoolClient() {
                   href={story.videoUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ali-pill-btn inline-flex items-center gap-2 rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-5 py-2.5 text-[14px] font-semibold"
+                  className="ali-pill-btn inline-flex items-center gap-2 rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-5 py-2.5 text-[14px] font-semibold"
                 >
                   ▶ {story.playLabel}
                 </a>
@@ -482,7 +482,7 @@ export default function BusinessSchoolClient() {
                   <p className="mt-2 text-[15px] leading-relaxed text-[#54505B]">{story.before}</p>
                 </div>
                 <div>
-                  <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#FD976D]">
+                  <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#1e3a6e]">
                     AFTER
                   </div>
                   <ul className="mt-2 space-y-2 text-[14px] text-[#1B1624]">
@@ -528,7 +528,7 @@ export default function BusinessSchoolClient() {
                 <button
                   type="button"
                   onClick={() => setShowAllResults(true)}
-                  className="ali-pill-btn rounded-full border border-white/25 bg-white/10 hover:bg-[#FD976D] hover:text-[#1B1624] hover:border-[#FD976D] text-white px-7 py-3 text-[14px] font-semibold transition-all cursor-pointer"
+                  className="ali-pill-btn rounded-full border border-white/25 bg-white/10 hover:bg-[#1e3a6e] hover:text-[#1B1624] hover:border-[#1e3a6e] text-white px-7 py-3 text-[14px] font-semibold transition-all cursor-pointer"
                 >
                   Show 18 more results
                 </button>
@@ -537,7 +537,7 @@ export default function BusinessSchoolClient() {
                 href="https://www.facebook.com/chandlerbingforlife/posts/pfbid0UmZyfkbpEyjKqtNXYPiJyQyeLAuK3ANp245mosBmTyXoKZgDHxiNCHwSD2C3entml"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[15px] font-semibold text-white underline decoration-white/40 underline-offset-4 hover:text-[#FD976D]"
+                className="text-[15px] font-semibold text-white underline decoration-white/40 underline-offset-4 hover:text-[#1e3a6e]"
               >
                 Read the reviews on Facebook →
               </a>
@@ -623,7 +623,7 @@ export default function BusinessSchoolClient() {
                     className={`rounded-[12px] border px-3 py-2.5 text-[12px] font-semibold transition-colors cursor-pointer ${
                       region === "bd"
                         ? "border-[#1B1624] bg-[#1B1624] text-white"
-                        : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#FD976D]"
+                        : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#1e3a6e]"
                     }`}
                   >
                     Bangladesh (bKash, Nagad, Rocket, card)
@@ -637,7 +637,7 @@ export default function BusinessSchoolClient() {
                     className={`rounded-[12px] border px-3 py-2.5 text-[12px] font-semibold transition-colors cursor-pointer ${
                       region === "intl"
                         ? "border-[#1B1624] bg-[#1B1624] text-white"
-                        : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#FD976D]"
+                        : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#1e3a6e]"
                     }`}
                   >
                     Outside Bangladesh (International card)
@@ -654,7 +654,7 @@ export default function BusinessSchoolClient() {
                       required
                       value={fullName}
                       onChange={(e) => setFullName(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                     />
                   </div>
                   <div>
@@ -666,7 +666,7 @@ export default function BusinessSchoolClient() {
                       required
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                     />
                   </div>
                   <div>
@@ -677,7 +677,7 @@ export default function BusinessSchoolClient() {
                       type="tel"
                       value={phone}
                       onChange={(e) => setPhone(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                     />
                   </div>
 
@@ -686,7 +686,7 @@ export default function BusinessSchoolClient() {
                       <button
                         type="button"
                         onClick={() => setShowCoupon(true)}
-                        className="text-[13px] font-semibold text-[#54505B] underline hover:text-[#FD976D] cursor-pointer"
+                        className="text-[13px] font-semibold text-[#54505B] underline hover:text-[#1e3a6e] cursor-pointer"
                       >
                         Have a coupon code?
                       </button>
@@ -697,7 +697,7 @@ export default function BusinessSchoolClient() {
                           placeholder="Coupon code"
                           value={coupon}
                           onChange={(e) => setCoupon(e.target.value)}
-                          className="flex-1 rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-3 py-2 text-[14px] focus:border-[#FD976D] focus:outline-none"
+                          className="flex-1 rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-3 py-2 text-[14px] focus:border-[#1e3a6e] focus:outline-none"
                         />
                         <button
                           type="button"
@@ -711,7 +711,7 @@ export default function BusinessSchoolClient() {
 
                   <button
                     type="submit"
-                    className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                    className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
                   >
                     {region === "bd" ? "Pay 5,000 BDT and join" : "Pay $50 and join"}
                   </button>
@@ -734,7 +734,7 @@ export default function BusinessSchoolClient() {
                     Questions before you join? Email{" "}
                     <a
                       href="mailto:masud@khalidfarhan.com"
-                      className="underline hover:text-[#FD976D]"
+                      className="underline hover:text-[#1e3a6e]"
                     >
                       masud@khalidfarhan.com
                     </a>
@@ -744,7 +744,7 @@ export default function BusinessSchoolClient() {
                       href="https://course.khalidfarhan.com/"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]"
+                      className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]"
                     >
                       Already a member? Log in
                     </a>
@@ -792,7 +792,7 @@ export default function BusinessSchoolClient() {
             <div className="mt-10 text-center">
               <a
                 href="#join-form"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Join for 5,000 BDT a year
               </a>
@@ -813,7 +813,7 @@ export default function BusinessSchoolClient() {
                 return (
                   <div
                     key={item.q}
-                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#FD976D]"
+                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#1e3a6e]"
                   >
                     <button
                       type="button"
@@ -841,7 +841,7 @@ export default function BusinessSchoolClient() {
         {/* 10. BOTTOM CTA */}
         <section className="py-16 sm:py-24">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="rounded-[36px] border border-[#ECE5E1] bg-white py-14 sm:py-20 px-6 sm:px-12 text-center hover:border-[#FD976D] transition-colors">
+            <div className="rounded-[36px] border border-[#ECE5E1] bg-white py-14 sm:py-20 px-6 sm:px-12 text-center hover:border-[#1e3a6e] transition-colors">
               <h2 className="heading-xl text-[32px] sm:text-[46px] text-[#1B1624] max-w-3xl mx-auto">
                 JOIN 30,000+ PEOPLE LEARNING TO BUILD A BUSINESS ONLINE
               </h2>
@@ -851,7 +851,7 @@ export default function BusinessSchoolClient() {
               <div className="mt-8">
                 <a
                   href="#join-form"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Join for 5,000 BDT a year
                 </a>

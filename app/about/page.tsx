@@ -53,7 +53,7 @@ export default function AboutPage() {
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-2 lg:grid-cols-4 gap-6 text-center">
             {STATS.map((s) => (
               <div key={s.label}>
-                <div className="ledger-num text-[38px] sm:text-[46px] leading-none text-[#FD976D]">
+                <div className="ledger-num text-[38px] sm:text-[46px] leading-none text-[#1e3a6e]">
                   {s.num}
                 </div>
                 <div className="mt-2 text-[12px] font-bold uppercase tracking-[0.08em] text-white/75">
@@ -68,7 +68,7 @@ export default function AboutPage() {
         <section className="border-b border-[#ECE5E1] py-16 sm:py-24">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
             <div className="lg:col-span-6 space-y-5">
-              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
                 THE STORY
               </p>
               <h2 className="heading-xl text-[32px] sm:text-[42px] text-[#1B1624]">
@@ -141,7 +141,7 @@ export default function AboutPage() {
             <div className="mt-8">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Get a Free Marketing Audit →
               </Link>

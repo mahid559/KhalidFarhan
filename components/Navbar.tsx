@@ -238,7 +238,7 @@ export default function Navbar() {
             <Link
               href="/agency/free-marketing-audit"
               onClick={() => setActiveMenu(null)}
-              className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] font-semibold text-sm px-6 py-2.5 rounded-full shadow-2xs hover:shadow-xs transition-all hover:-translate-y-0.5"
+              className="ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white font-semibold text-sm px-6 py-2.5 rounded-full shadow-2xs hover:shadow-xs transition-all hover:-translate-y-0.5"
             >
               <span>Get a Free Marketing Audit</span>
             </Link>
@@ -275,7 +275,7 @@ export default function Navbar() {
                         <Link
                           href={item.href}
                           onClick={() => setActiveMenu(null)}
-                          className="block text-sm font-medium text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                          className="block text-sm font-medium text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                         >
                           {item.label}
                         </Link>
@@ -295,7 +295,7 @@ export default function Navbar() {
                         <Link
                           href={item.href}
                           onClick={() => setActiveMenu(null)}
-                          className="block text-sm font-medium text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                          className="block text-sm font-medium text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                         >
                           {item.label}
                         </Link>
@@ -316,7 +316,7 @@ export default function Navbar() {
                           <Link
                             href={item.href}
                             onClick={() => setActiveMenu(null)}
-                            className="block text-sm font-medium text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                            className="block text-sm font-medium text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                           >
                             {item.label}
                           </Link>
@@ -329,7 +329,7 @@ export default function Navbar() {
                           <Link
                             href={item.href}
                             onClick={() => setActiveMenu(null)}
-                            className="block text-sm font-medium text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                            className="block text-sm font-medium text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                           >
                             {item.label}
                           </Link>
@@ -353,7 +353,7 @@ export default function Navbar() {
                             onClick={() => setActiveMenu(null)}
                             className="group block"
                           >
-                            <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#FD976D] transition-colors">
+                            <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#1e3a6e] transition-colors">
                               {item.label}
                             </div>
                             <div className="text-xs text-[#76737C]">{item.desc}</div>
@@ -373,7 +373,7 @@ export default function Navbar() {
                     <Link
                       href="/services"
                       onClick={() => setActiveMenu(null)}
-                      className="inline-block text-xs font-semibold text-[#FD976D] hover:underline transition-colors"
+                      className="inline-block text-xs font-semibold text-[#1e3a6e] hover:underline transition-colors"
                     >
                       View all services →
                     </Link>
@@ -392,7 +392,7 @@ export default function Navbar() {
                       onClick={() => setActiveMenu(null)}
                       className="group block p-3 rounded-xl hover:bg-[#F9F6F3] transition-colors"
                     >
-                      <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#FD976D] transition-colors">
+                      <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#1e3a6e] transition-colors">
                         {item.label}
                       </div>
                       <div className="text-xs text-[#76737C] mt-0.5">{item.desc}</div>
@@ -406,7 +406,7 @@ export default function Navbar() {
                   <Link
                     href={MEGA_MENU_DATA.learn.featured.href}
                     onClick={() => setActiveMenu(null)}
-                    className="inline-block text-xs font-bold text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                    className="inline-block text-xs font-bold text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                   >
                     {MEGA_MENU_DATA.learn.featured.cta}
                   </Link>
@@ -424,7 +424,7 @@ export default function Navbar() {
                       onClick={() => setActiveMenu(null)}
                       className="group block p-3 rounded-xl hover:bg-[#F9F6F3] transition-colors"
                     >
-                      <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#FD976D] transition-colors">
+                      <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#1e3a6e] transition-colors">
                         {item.label}
                       </div>
                       <div className="text-xs text-[#76737C] mt-0.5">{item.desc}</div>
@@ -438,7 +438,7 @@ export default function Navbar() {
                   <Link
                     href={MEGA_MENU_DATA.projects.featured.href}
                     onClick={() => setActiveMenu(null)}
-                    className="inline-block text-xs font-bold text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                    className="inline-block text-xs font-bold text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                   >
                     {MEGA_MENU_DATA.projects.featured.cta}
                   </Link>
@@ -456,7 +456,7 @@ export default function Navbar() {
                       onClick={() => setActiveMenu(null)}
                       className="group block p-3 rounded-xl hover:bg-[#F9F6F3] transition-colors"
                     >
-                      <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#FD976D] transition-colors">
+                      <div className="text-sm font-semibold text-[#1B1624] group-hover:text-[#1e3a6e] transition-colors">
                         {item.label}
                       </div>
                       <div className="text-xs text-[#76737C] mt-0.5">{item.desc}</div>
@@ -470,7 +470,7 @@ export default function Navbar() {
                   <Link
                     href={MEGA_MENU_DATA.about.featured.href}
                     onClick={() => setActiveMenu(null)}
-                    className="inline-block text-xs font-bold text-[#1B1624] hover:text-[#FD976D] transition-colors"
+                    className="inline-block text-xs font-bold text-[#1B1624] hover:text-[#1e3a6e] transition-colors"
                   >
                     {MEGA_MENU_DATA.about.featured.cta}
                   </Link>

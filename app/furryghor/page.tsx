@@ -45,7 +45,7 @@ export default function FurryGhorPage() {
                   href="https://furryghor.com"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Book a Stay →
                 </a>
@@ -172,13 +172,13 @@ export default function FurryGhorPage() {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="rounded-[24px] border border-white/15 bg-white/5 p-8">
-                <h3 className="text-[22px] font-bold text-[#FD976D]">Banani Branch</h3>
+                <h3 className="text-[22px] font-bold text-[#1e3a6e]">Banani Branch</h3>
                 <p className="mt-2 text-[15px] text-white/80">
                   Serving Gulshan, Banani, Baridhara, and North Dhaka pet parents.
                 </p>
               </div>
               <div className="rounded-[24px] border border-white/15 bg-white/5 p-8">
-                <h3 className="text-[22px] font-bold text-[#FD976D]">Dhanmondi Branch</h3>
+                <h3 className="text-[22px] font-bold text-[#1e3a6e]">Dhanmondi Branch</h3>
                 <p className="mt-2 text-[15px] text-white/80">
                   Serving Dhanmondi, Lalmatia, Mohammadpur, and Central Dhaka.
                 </p>
@@ -199,7 +199,7 @@ export default function FurryGhorPage() {
                   href="https://furryghor.com"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ali-pill-btn mt-6 inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold"
+                  className="ali-pill-btn mt-6 inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold"
                 >
                   Visit furryghor.com →
                 </a>

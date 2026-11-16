@@ -79,7 +79,7 @@ export default function SecondPassportClient() {
         <section className="border-b border-[#ECE5E1] py-14 sm:py-20">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-6">
-              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
                 SECONDPASSPORT
               </p>
               <h1 className="display-l mt-3 text-[44px] sm:text-[56px] lg:text-[62px] text-[#1B1624]">
@@ -91,7 +91,7 @@ export default function SecondPassportClient() {
               <div className="mt-8">
                 <a
                   href="#qualify"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Check if I qualify →
                 </a>
@@ -130,7 +130,7 @@ export default function SecondPassportClient() {
                   key={s.num}
                   className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7"
                 >
-                  <div className="ledger-num text-[34px] leading-none text-[#FD976D]">{s.num}</div>
+                  <div className="ledger-num text-[34px] leading-none text-[#1e3a6e]">{s.num}</div>
                   <h3 className="mt-4 text-[18px] font-bold text-[#1B1624]">{s.title}</h3>
                   <p className="mt-2 text-[14px] leading-relaxed text-[#54505B]">{s.desc}</p>
                 </div>
@@ -176,7 +176,7 @@ export default function SecondPassportClient() {
                   key={tier.label}
                   className="rounded-[24px] border border-[#ECE5E1] bg-white p-8"
                 >
-                  <div className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#FD976D]">
+                  <div className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#1e3a6e]">
                     {tier.label}
                   </div>
                   <p className="mt-3 text-[15px] leading-relaxed text-[#54505B]">{tier.desc}</p>
@@ -241,7 +241,7 @@ export default function SecondPassportClient() {
                 return (
                   <div
                     key={item.q}
-                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#FD976D]"
+                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#1e3a6e]"
                   >
                     <button
                       type="button"
@@ -285,7 +285,7 @@ export default function SecondPassportClient() {
                   required
                   value={name}
                   onChange={(e) => setName(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
               <div>
@@ -295,7 +295,7 @@ export default function SecondPassportClient() {
                   required
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
               <div>
@@ -307,12 +307,12 @@ export default function SecondPassportClient() {
                   value={cgpa}
                   onChange={(e) => setCgpa(e.target.value)}
                   placeholder="e.g. BSc in CSE, 3.45"
-                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                  className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
                 />
               </div>
               <button
                 type="submit"
-                className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all cursor-pointer"
+                className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all cursor-pointer"
               >
                 Check if I qualify
               </button>

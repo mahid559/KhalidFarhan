@@ -29,7 +29,7 @@ function HeroSection({ section }: { section: PageSection }) {
           {/* Left Column: Eyebrow, H1, Summary */}
           <div className="lg:col-span-7 space-y-5">
             {paragraphs[0] && (
-              <p className="text-sm font-bold text-[#FD976D]">{paragraphs[0].text}</p>
+              <p className="text-sm font-bold text-[#1e3a6e]">{paragraphs[0].text}</p>
             )}
             {h1 && (
               <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
@@ -60,7 +60,7 @@ function HeroSection({ section }: { section: PageSection }) {
                       <Link
                         key={lIdx}
                         href={l.href}
-                        className="ali-pill-btn bg-[#F9F6F3] hover:bg-[#FD976D] text-[#1B1624] border border-[#ECE5E1] hover:border-[#FD976D] text-xs px-3.5 py-1.5"
+                        className="ali-pill-btn bg-[#F9F6F3] hover:bg-[#1e3a6e] hover:text-white border border-[#ECE5E1] hover:border-[#1e3a6e] text-xs px-3.5 py-1.5"
                       >
                         {l.text}
                       </Link>
@@ -154,7 +154,7 @@ function BeforeAfterSection({ section }: { section: PageSection }) {
                     <span className="text-xs font-bold uppercase tracking-wider text-[#76737C]">
                       {texts[0]?.text}
                     </span>
-                    {texts[1] && <span className="ledger-num text-3xl text-[#FD976D]">{texts[1].text}</span>}
+                    {texts[1] && <span className="ledger-num text-3xl text-[#1e3a6e]">{texts[1].text}</span>}
                   </div>
                   {texts.length > 2 && (
                     <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-[#76737C] pt-2 border-t border-[#ECE5E1]/60">
@@ -223,7 +223,7 @@ function StorySection({ section }: { section: PageSection }) {
             return (
               <blockquote
                 key={idx}
-                className="bg-white border-l-4 border-[#FD976D] rounded-r-2xl p-6 text-base sm:text-lg text-[#1B1624] italic leading-relaxed shadow-2xs"
+                className="bg-white border-l-4 border-[#1e3a6e] rounded-r-2xl p-6 text-base sm:text-lg text-[#1B1624] italic leading-relaxed shadow-2xs"
               >
                 {b.text}
               </blockquote>
@@ -270,7 +270,7 @@ function RelatedSection({ section }: { section: PageSection }) {
                 <div className="space-y-2">
                   <h3 className="text-lg font-bold text-[#1B1624] leading-snug">{lines[0]}</h3>
                   {lines.slice(1).map((line, rIdx) => (
-                    <p key={rIdx} className="text-sm text-[#54505B] group-hover:text-[#1B1624]/85">
+                    <p key={rIdx} className="text-sm text-[#54505B] group-hover:text-white/85">
                       {line}
                     </p>
                   ))}
@@ -292,13 +292,13 @@ function BottomCtaSection({ section }: { section: PageSection }) {
   return (
     <section className="py-16 sm:py-20 bg-[#F9F6F3]">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-white border border-[#ECE5E1] rounded-[36px] p-10 sm:p-14 text-center space-y-6 shadow-xs hover:border-[#FD976D] transition-colors">
+        <div className="bg-white border border-[#ECE5E1] rounded-[36px] p-10 sm:p-14 text-center space-y-6 shadow-xs hover:border-[#1e3a6e] transition-colors">
           {h2 && <h2 className="heading-lg text-3xl sm:text-4xl text-[#1B1624]">{h2.text}</h2>}
           {link && (
             <div>
               <Link
                 href={link.href}
-                className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-7 py-3.5"
+                className="ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-7 py-3.5"
               >
                 {link.text}
               </Link>

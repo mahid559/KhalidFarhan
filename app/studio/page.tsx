@@ -65,7 +65,7 @@ export default function StudioPage() {
         <section className="bg-[#1B1624] text-white py-16 sm:py-24">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-6">
-              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
                 THE ROOM OF RECORDING · DHAKA
               </p>
               <h1 className="display-l mt-4 text-[46px] sm:text-[58px] lg:text-[66px] text-white">
@@ -80,7 +80,7 @@ export default function StudioPage() {
                   href={WHATSAPP_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Book via WhatsApp →
                 </a>
@@ -95,7 +95,7 @@ export default function StudioPage() {
 
             <div className="lg:col-span-6">
               <div className="rounded-[28px] border border-white/15 bg-white/5 p-8 sm:p-10 space-y-5">
-                <div className="text-[12px] font-bold uppercase tracking-[0.14em] text-[#FD976D]">
+                <div className="text-[12px] font-bold uppercase tracking-[0.14em] text-[#1e3a6e]">
                   GULSHAN 1, DHAKA
                 </div>
                 <div className="grid grid-cols-2 gap-5 pt-2 border-t border-white/15">
@@ -131,7 +131,7 @@ export default function StudioPage() {
               {FORMATS.map((f) => (
                 <div
                   key={f.title}
-                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 transition-colors hover:border-[#FD976D]"
+                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 transition-colors hover:border-[#1e3a6e]"
                 >
                   <h3 className="text-[20px] font-bold text-[#1B1624]">{f.title}</h3>
                   <p className="mt-2.5 text-[15px] leading-relaxed text-[#54505B]">{f.desc}</p>
@@ -174,7 +174,7 @@ export default function StudioPage() {
                   href={`https://www.youtube.com/watch?v=${c.id}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group overflow-hidden rounded-[24px] border border-[#ECE5E1] bg-white transition-all hover:border-[#FD976D]"
+                  className="group overflow-hidden rounded-[24px] border border-[#ECE5E1] bg-white transition-all hover:border-[#1e3a6e]"
                 >
                   <div className="aspect-video overflow-hidden bg-black">
                     <img
@@ -185,7 +185,7 @@ export default function StudioPage() {
                   </div>
                   <div className="p-6 flex items-center justify-between">
                     <div>
-                      <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#FD976D]">
+                      <div className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#1e3a6e]">
                         {c.creator}
                       </div>
                       <div className="mt-1 text-[18px] font-bold text-[#1B1624]">{c.guest}</div>
@@ -202,7 +202,7 @@ export default function StudioPage() {
         <section className="bg-[#1B1624] text-white py-16 sm:py-24">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-6 space-y-5">
-              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
                 RENT OUR PODCAST STUDIO IN DHAKA
               </p>
               <h2 className="heading-xl text-[34px] sm:text-[46px] text-white">
@@ -217,7 +217,7 @@ export default function StudioPage() {
                     href="https://www.facebook.com/theroomofrecording"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="underline hover:text-[#FD976D]"
+                    className="underline hover:text-[#1e3a6e]"
                   >
                     facebook.com/theroomofrecording
                   </a>
@@ -228,7 +228,7 @@ export default function StudioPage() {
                   href={WHATSAPP_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold"
                 >
                   Chat on WhatsApp →
                 </a>
@@ -245,7 +245,7 @@ export default function StudioPage() {
                   key={s.num}
                   className="rounded-[20px] border border-white/15 bg-white/5 p-6 flex items-start gap-4"
                 >
-                  <span className="ledger-num text-[28px] leading-none text-[#FD976D]">
+                  <span className="ledger-num text-[28px] leading-none text-[#1e3a6e]">
                     {s.num}
                   </span>
                   <div>

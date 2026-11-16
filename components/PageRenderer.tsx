@@ -182,7 +182,7 @@ function SplitFormSection({ section }: { section: PageSection }) {
                   <div key={idx} className="pt-1">
                     <SmartLink
                       href={b.href}
-                      className="text-sm font-semibold text-[#1B1624] underline underline-offset-4 hover:text-[#FD976D]"
+                      className="text-sm font-semibold text-[#1B1624] underline underline-offset-4 hover:text-[#1e3a6e]"
                     >
                       {b.text}
                     </SmartLink>
@@ -273,7 +273,7 @@ function SplitMediaSection({
               href={l.href}
               className={`ali-pill-btn text-sm px-6 py-3 ${
                 lIdx === 0
-                  ? "bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624]"
+                  ? "bg-[#1e3a6e] hover:bg-[#162c54] text-white"
                   : "bg-white hover:bg-[#F3EDE9] text-[#1B1624] border border-[#ECE5E1]"
               }`}
             >
@@ -427,7 +427,7 @@ function SectionView({
     return (
       <section className="py-14 sm:py-20 border-b border-[#ECE5E1] bg-[#F9F6F3]">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="bg-white border border-[#ECE5E1] rounded-[36px] py-12 sm:py-16 px-6 sm:px-12 text-center space-y-6 shadow-xs hover:border-[#FD976D] transition-colors">
+          <div className="bg-white border border-[#ECE5E1] rounded-[36px] py-12 sm:py-16 px-6 sm:px-12 text-center space-y-6 shadow-xs hover:border-[#1e3a6e] transition-colors">
             {h2 && <h2 className="heading-lg text-3xl sm:text-4xl text-[#1B1624]">{h2.text}</h2>}
             {pBlocks.map((p, idx) => (
               <p key={idx} className="text-sm sm:text-base text-[#54505B] max-w-xl mx-auto leading-relaxed">
@@ -441,7 +441,7 @@ function SectionView({
                   href={l.href}
                   className={`ali-pill-btn text-sm px-7 py-3.5 ${
                     idx === 0
-                      ? "bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624]"
+                      ? "bg-[#1e3a6e] hover:bg-[#162c54] text-white"
                       : "bg-[#F9F6F3] hover:bg-[#ECE5E1] text-[#1B1624] border border-[#ECE5E1]"
                   }`}
                 >
@@ -641,7 +641,7 @@ function SectionView({
                           {rest.map((line, rIdx) => (
                             <p
                               key={rIdx}
-                              className="text-xs sm:text-sm text-[#54505B] group-hover:text-[#1B1624]/85 leading-relaxed"
+                              className="text-xs sm:text-sm text-[#54505B] group-hover:text-white/85 leading-relaxed"
                             >
                               {line}
                             </p>
@@ -664,7 +664,7 @@ function SectionView({
                       href={l.href}
                       className={`ali-pill-btn text-sm px-6 py-3 ${
                         isPrimary
-                          ? "bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624]"
+                          ? "bg-[#1e3a6e] hover:bg-[#162c54] text-white"
                           : "bg-white hover:bg-[#F3EDE9] text-[#1B1624] border border-[#ECE5E1]"
                       }`}
                     >
@@ -771,7 +771,7 @@ function SectionView({
                         (item.href ? (
                           <SmartLink
                             href={item.href}
-                            className="text-xs sm:text-sm font-medium text-[#1B1624] underline hover:text-[#FD976D]"
+                            className="text-xs sm:text-sm font-medium text-[#1B1624] underline hover:text-[#1e3a6e]"
                           >
                             {item.text}
                           </SmartLink>
@@ -797,7 +797,7 @@ function SectionView({
                 {b.items.map((item, iIdx) => (
                   <li key={iIdx}>
                     {item.href ? (
-                      <SmartLink href={item.href} className="text-[#1B1624] underline hover:text-[#FD976D]">
+                      <SmartLink href={item.href} className="text-[#1B1624] underline hover:text-[#1e3a6e]">
                         {item.text}
                       </SmartLink>
                     ) : (

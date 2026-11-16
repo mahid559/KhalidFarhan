@@ -11,7 +11,7 @@ export default function AboutStory() {
   const { agencyStory } = KF_DATA;
 
   const statThemes = [
-    { hoverBg: "hover:bg-[#FD976D]", hoverBorder: "hover:border-[#FD976D]", textAccent: "text-[#FD976D]" },
+    { hoverBg: "hover:bg-[#1e3a6e]", hoverBorder: "hover:border-[#1e3a6e]", textAccent: "text-[#1e3a6e]" },
     { hoverBg: "hover:bg-[#C9B1FB]", hoverBorder: "hover:border-[#C9B1FB]", textAccent: "text-[#C9B1FB]" },
     { hoverBg: "hover:bg-[#FDD46B]", hoverBorder: "hover:border-[#FDD46B]", textAccent: "text-[#FDD46B]" },
   ];
@@ -37,7 +37,7 @@ export default function AboutStory() {
               <span className="relative inline-block text-[#1B1624]">
                 <span className="relative z-10">customers.</span>
                 <svg
-                  className="absolute -bottom-1.5 left-0 w-full h-3 text-[#FD976D] -z-0"
+                  className="absolute -bottom-1.5 left-0 w-full h-3 text-[#1e3a6e] -z-0"
                   viewBox="0 0 140 12"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"

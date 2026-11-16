@@ -10,8 +10,15 @@
   --text-secondary: #54505B;
   --text-muted: #76737C;
   
-  --accent-blue: #5DCDF1;
-  --accent-orange: #FD976D;
+  --primary-blue: #1e3a6e;
+  --primary-blue-hover: #162c54;
+  --primary-blue-wave: #3d6bb5;
+  --primary-blue-soft: #5b7cb8;
+  --primary-blue-faint: #a9bddd;
+  --primary-blue-abyss: #0e1f4a;
+
+  --accent-blue: #1e3a6e;
+  --accent-orange: #1e3a6e;
   --accent-yellow: #FDD46B;
   --accent-purple: #C9B1FB;
   --accent-green: #79D287;
@@ -26,8 +33,15 @@
   --color-ink-muted: #54505B;
   --color-ink-faint: #76737C;
 
-  --color-accent-blue: #5DCDF1;
-  --color-accent-orange: #FD976D;
+  --color-primary-blue: #1e3a6e;
+  --color-primary-blue-hover: #162c54;
+  --color-primary-blue-wave: #3d6bb5;
+  --color-primary-blue-soft: #5b7cb8;
+  --color-primary-blue-faint: #a9bddd;
+  --color-primary-blue-abyss: #0e1f4a;
+
+  --color-accent-blue: #1e3a6e;
+  --color-accent-orange: #1e3a6e;
   --color-accent-yellow: #FDD46B;
   --color-accent-purple: #C9B1FB;
   --color-accent-green: #79D287;
@@ -185,8 +199,8 @@ button {
 .ali-card.hover-highlight-orange:hover,
 .is-style-clickable-card.hover-highlight-orange:hover,
 .hover-orange:hover {
-  background-color: #FD976D !important;
-  border-color: #FD976D !important;
+  background-color: #1e3a6e !important;
+  border-color: #1e3a6e !important;
 }
 
 .ali-card.hover-highlight-purple:hover,
@@ -229,8 +243,16 @@ button {
 }
 
 .ali-pillar-card.hover-orange:hover {
-  border-color: #FD976D;
-  background-color: #FD976D !important;
+  border-color: #1e3a6e;
+  background-color: #1e3a6e !important;
+}
+
+.ali-pillar-card.hover-orange:hover h3,
+.ali-pillar-card.hover-orange:hover p,
+.ali-pillar-card.hover-orange:hover span,
+.ali-pillar-card.hover-orange:hover a,
+.ali-pillar-card.hover-orange:hover div {
+  color: #FFFFFF !important;
 }
 
 .ali-pillar-card.hover-purple:hover {

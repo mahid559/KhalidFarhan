@@ -112,7 +112,7 @@ export default function MasterclassClient() {
                   LIVE CLASS · FRIDAY, 27 NOVEMBER · 8 PM BANGLADESH TIME
                 </p>
                 <h1 className="display-l mt-4 text-[46px] sm:text-[58px] lg:text-[64px] text-[#1B1624]">
-                  MAKE YOUR FIRST <span className="text-[#FD976D]">$1K ONLINE</span>
+                  MAKE YOUR FIRST <span className="text-[#1e3a6e]">$1K ONLINE</span>
                 </h1>
                 <p className="mt-5 text-[17px] sm:text-[18px] leading-[1.65] text-[#54505B]">
                   A class where I show you, step by step, how to find people who need your skill, message them, and get them to pay you. Then how to do the work fast with AI. You don&apos;t need an agency or any experience.
@@ -129,13 +129,13 @@ export default function MasterclassClient() {
                 <div className="mt-7 flex flex-wrap items-center gap-5">
                   <a
                     href="#join-form"
-                    className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                    className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                   >
                     Book My Seat for {region === "bd" ? "৳2,000" : "$20"} →
                   </a>
                   <Link
                     href="/masterclass/portal/login"
-                    className="text-[15px] font-medium text-[#1B1624] underline decoration-[#ECE5E1] underline-offset-4 hover:text-[#FD976D] hover:decoration-[#FD976D] transition-colors"
+                    className="text-[15px] font-medium text-[#1B1624] underline decoration-[#ECE5E1] underline-offset-4 hover:text-[#1e3a6e] hover:decoration-[#1e3a6e] transition-colors"
                   >
                     Already joined? Log in
                   </Link>
@@ -147,7 +147,7 @@ export default function MasterclassClient() {
                     href="https://www.facebook.com/chandlerbingforlife/posts/pfbid0UmZyfkbpEyjKqtNXYPiJyQyeLAuK3ANp245mosBmTyXoKZgDHxiNCHwSD2C3entml"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]"
+                    className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]"
                   >
                     Read their reviews ↗
                   </a>
@@ -179,7 +179,7 @@ export default function MasterclassClient() {
                       "You have one or two clients and want more",
                     ].map((item) => (
                       <li key={item} className="flex items-start gap-2.5">
-                        <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                        <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                         <span>{item}</span>
                       </li>
                     ))}
@@ -215,10 +215,10 @@ export default function MasterclassClient() {
                   {STEPS.map((step) => (
                     <div
                       key={step.num}
-                      className="rounded-[20px] border border-[#ECE5E1] bg-white p-6 transition-colors hover:border-[#FD976D]"
+                      className="rounded-[20px] border border-[#ECE5E1] bg-white p-6 transition-colors hover:border-[#1e3a6e]"
                     >
                       <div className="flex items-baseline gap-3">
-                        <span className="ledger-num text-[28px] leading-none text-[#FD976D]">
+                        <span className="ledger-num text-[28px] leading-none text-[#1e3a6e]">
                           {step.num}
                         </span>
                         <h3 className="text-[18px] font-bold text-[#1B1624]">{step.title}</h3>
@@ -267,7 +267,7 @@ export default function MasterclassClient() {
                     return (
                       <div
                         key={item.q}
-                        className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#FD976D]"
+                        className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#1e3a6e]"
                       >
                         <button
                           type="button"
@@ -356,7 +356,7 @@ export default function MasterclassClient() {
                       className={`rounded-[12px] border py-2.5 text-[14px] font-semibold transition-colors cursor-pointer ${
                         region === "bd"
                           ? "border-[#1B1624] bg-[#1B1624] text-white"
-                          : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#FD976D]"
+                          : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#1e3a6e]"
                       }`}
                     >
                       Bangladesh
@@ -370,7 +370,7 @@ export default function MasterclassClient() {
                       className={`rounded-[12px] border py-2.5 text-[14px] font-semibold transition-colors cursor-pointer ${
                         region === "intl"
                           ? "border-[#1B1624] bg-[#1B1624] text-white"
-                          : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#FD976D]"
+                          : "border-[#ECE5E1] bg-white text-[#54505B] hover:border-[#1e3a6e]"
                       }`}
                     >
                       Outside BD
@@ -389,7 +389,7 @@ export default function MasterclassClient() {
                       placeholder="Your name"
                       value={name}
                       onChange={(e) => setName(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                     />
                   </div>
 
@@ -403,7 +403,7 @@ export default function MasterclassClient() {
                       placeholder="you@email.com"
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
-                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                      className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                     />
                     <p className="mt-1 text-[12px] text-[#76737C]">
                       We will send your login to this email.
@@ -420,14 +420,14 @@ export default function MasterclassClient() {
                         placeholder="01XXXXXXXXX"
                         value={phone}
                         onChange={(e) => setPhone(e.target.value)}
-                        className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                        className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-2.5 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                       />
                     </div>
                   )}
 
                   <button
                     type="submit"
-                    className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                    className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
                   >
                     Book My Seat
                   </button>
@@ -461,7 +461,7 @@ export default function MasterclassClient() {
             <div className="mt-7">
               <a
                 href="#join-form"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Book My Seat
               </a>
@@ -483,7 +483,7 @@ export default function MasterclassClient() {
         </div>
         <a
           href="#join-form"
-          className="ali-pill-btn rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-6 py-2.5 text-[14px] font-semibold"
+          className="ali-pill-btn rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-6 py-2.5 text-[14px] font-semibold"
         >
           Book My Seat
         </a>

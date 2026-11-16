@@ -103,7 +103,7 @@ export default function VideoSection() {
               href={allVideos[currentIndex].href}
               target="_blank"
               rel="noopener noreferrer"
-              className="group ali-video-card block bg-white hover:bg-[#FD976D] border border-[#ECE5E1] hover:border-[#FD976D] rounded-[28px] overflow-hidden p-4 sm:p-6 transition-all duration-300 shadow-xs hover:shadow-xl hover:-translate-y-1.5"
+              className="group ali-video-card block bg-white hover:bg-[#1e3a6e] border border-[#ECE5E1] hover:border-[#1e3a6e] rounded-[28px] overflow-hidden p-4 sm:p-6 transition-all duration-300 shadow-xs hover:shadow-xl hover:-translate-y-1.5"
             >
               <div className="relative aspect-video w-full rounded-[20px] overflow-hidden bg-black/5 mb-5">
                 <Image
@@ -123,13 +123,13 @@ export default function VideoSection() {
               </div>
 
               <div className="space-y-3 px-1 pb-1">
-                <div className="text-xs font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
+                <div className="text-xs font-bold uppercase tracking-wider text-[#1e3a6e] group-hover:text-white transition-colors duration-300">
                   {allVideos[currentIndex].guest}
                 </div>
-                <h3 className="text-2xl sm:text-3xl font-bold text-[#1B1624] leading-snug group-hover:text-[#1B1624] transition-colors duration-300">
+                <h3 className="text-2xl sm:text-3xl font-bold text-[#1B1624] leading-snug group-hover:text-white transition-colors duration-300">
                   {allVideos[currentIndex].title}
                 </h3>
-                <div className="text-xs text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300">
+                <div className="text-xs text-[#76737C] group-hover:text-white/80 transition-colors duration-300">
                   {allVideos[currentIndex].date}
                 </div>
               </div>
@@ -148,9 +148,9 @@ export default function VideoSection() {
                   viewport={{ once: true, amount: 0.15 }}
                   transition={{ duration: 0.5, delay: idx * 0.1, ease: [0.16, 1, 0.3, 1] }}
                   onClick={() => setCurrentIndex(idx)}
-                  className={`group ali-video-card flex flex-col sm:flex-row gap-4 p-4 sm:p-5 cursor-pointer rounded-[24px] border transition-all duration-300 hover:bg-[#FD976D] hover:border-[#FD976D] hover:shadow-lg hover:-translate-y-1 ${
+                  className={`group ali-video-card flex flex-col sm:flex-row gap-4 p-4 sm:p-5 cursor-pointer rounded-[24px] border transition-all duration-300 hover:bg-[#1e3a6e] hover:border-[#1e3a6e] hover:text-white hover:shadow-lg hover:-translate-y-1 ${
                     isActive
-                      ? "bg-white border-[#FD976D] shadow-md -translate-y-1"
+                      ? "bg-white border-[#1e3a6e] shadow-md -translate-y-1"
                       : "bg-white border-[#ECE5E1]"
                   }`}
                 >
@@ -167,7 +167,7 @@ export default function VideoSection() {
                     <div className="absolute inset-0 flex items-center justify-center">
                       <div className={`w-9 h-9 rounded-full flex items-center justify-center shadow-md transition-all duration-300 ${
                         isActive
-                          ? "bg-[#FD976D] text-white scale-110 group-hover:bg-[#1B1624]"
+                          ? "bg-[#1e3a6e] text-white scale-110 group-hover:bg-[#1B1624]"
                           : "bg-white/95 text-[#1B1624] group-hover:scale-110 group-hover:bg-[#1B1624] group-hover:text-white"
                       }`}>
                         <Play className="w-4 h-4 fill-current ml-0.5" />
@@ -177,21 +177,21 @@ export default function VideoSection() {
 
                   <div className="flex flex-col justify-between py-1 space-y-2">
                     <div className="space-y-1.5">
-                      <div className="text-[11px] font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624] transition-colors duration-300">
+                      <div className="text-[11px] font-bold uppercase tracking-wider text-[#1e3a6e] group-hover:text-white transition-colors duration-300">
                         {vid.guest}
                       </div>
-                      <h4 className="text-base sm:text-lg font-bold text-[#1B1624] leading-snug group-hover:text-[#1B1624] transition-colors duration-300">
+                      <h4 className="text-base sm:text-lg font-bold text-[#1B1624] leading-snug group-hover:text-white transition-colors duration-300">
                         {vid.title}
                       </h4>
                     </div>
-                    <div className="flex items-center justify-between text-xs text-[#76737C] group-hover:text-[#1B1624]/80 transition-colors duration-300">
+                    <div className="flex items-center justify-between text-xs text-[#76737C] group-hover:text-white/80 transition-colors duration-300">
                       <span>{vid.date}</span>
                       <a
                         href={vid.href}
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={(e) => e.stopPropagation()}
-                        className="text-[#FD976D] group-hover:text-[#1B1624] font-semibold hover:underline transition-colors duration-300"
+                        className="text-[#1e3a6e] group-hover:text-white font-semibold hover:underline transition-colors duration-300"
                       >
                         Watch on YouTube →
                       </a>

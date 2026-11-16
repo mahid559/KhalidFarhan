@@ -39,7 +39,7 @@ export default function PressPage() {
               Press mentions, media kit, and information for journalists. For press enquiries, email{" "}
               <a
                 href="mailto:press@khalidfarhan.com"
-                className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]"
+                className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]"
               >
                 press@khalidfarhan.com
               </a>
@@ -76,7 +76,7 @@ export default function PressPage() {
         <section className="border-b border-[#ECE5E1] bg-[#F3EDE9]/60 py-16 sm:py-24">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
             <div className="lg:col-span-7 space-y-4">
-              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+              <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
                 MEDIA KIT
               </p>
               <h2 className="heading-xl text-[32px] sm:text-[42px] text-[#1B1624]">
@@ -86,7 +86,7 @@ export default function PressPage() {
                 Our media kit includes logos, headshots, approved biography text, and brand guidelines. Available on request. Email{" "}
                 <a
                   href="mailto:press@khalidfarhan.com"
-                  className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]"
+                  className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]"
                 >
                   press@khalidfarhan.com
                 </a>
@@ -109,7 +109,7 @@ export default function PressPage() {
                 Email:{" "}
                 <a
                   href="mailto:press@khalidfarhan.com"
-                  className="underline hover:text-[#FD976D]"
+                  className="underline hover:text-[#1e3a6e]"
                 >
                   press@khalidfarhan.com
                 </a>
@@ -118,7 +118,7 @@ export default function PressPage() {
               <div className="pt-2">
                 <Link
                   href="/contact"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3 rounded-full text-[14px] font-semibold"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3 rounded-full text-[14px] font-semibold"
                 >
                   Contact us →
                 </Link>

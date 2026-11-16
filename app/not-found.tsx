@@ -14,7 +14,7 @@ export default function NotFound() {
           <div className="pt-2">
             <Link
               href="/"
-              className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-7 py-3.5"
+              className="ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-7 py-3.5"
             >
               Back to Home
             </Link>

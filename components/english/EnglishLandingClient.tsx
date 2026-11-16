@@ -119,7 +119,7 @@ export default function EnglishLandingClient() {
             <div className="lg:col-span-6">
               <h1 className="display-l text-[44px] sm:text-[56px] lg:text-[62px] text-[#1B1624] tracking-tight">
                 YOUR PERSONAL ENGLISH TEACHER FOR{" "}
-                <span className="text-[#FD976D] transition-opacity duration-300">
+                <span className="text-[#1e3a6e] transition-opacity duration-300">
                   {ROTATING_WORDS[wordIdx].toUpperCase()}
                 </span>
               </h1>
@@ -134,7 +134,7 @@ export default function EnglishLandingClient() {
                     e.preventDefault();
                     selectPlan("lifetime");
                   }}
-                  className="ali-pill-btn inline-flex items-center gap-2.5 bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 rounded-full text-[14px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center gap-2.5 bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 rounded-full text-[14px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   <span className="rounded-full bg-[#FDD46B] px-2.5 py-0.5 text-[11px] font-bold text-[#1B1624]">
                     Best value
@@ -156,7 +156,7 @@ export default function EnglishLandingClient() {
               <div className="mt-5">
                 <Link
                   href="/english/test"
-                  className="inline-flex items-center gap-1.5 text-[15px] font-medium text-[#1B1624] underline decoration-[#ECE5E1] underline-offset-4 hover:text-[#FD976D] hover:decoration-[#FD976D] transition-colors"
+                  className="inline-flex items-center gap-1.5 text-[15px] font-medium text-[#1B1624] underline decoration-[#ECE5E1] underline-offset-4 hover:text-[#1e3a6e] hover:decoration-[#1e3a6e] transition-colors"
                 >
                   আগে 5 মিনিটের লেভেল টেস্ট দিন →
                 </Link>
@@ -231,7 +231,7 @@ export default function EnglishLandingClient() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
               {/* Card 1 */}
-              <div className="ali-card flex flex-col justify-between rounded-[24px] border border-[#ECE5E1] bg-white p-8 sm:p-10 transition-all hover:border-[#FD976D]">
+              <div className="ali-card flex flex-col justify-between rounded-[24px] border border-[#ECE5E1] bg-white p-8 sm:p-10 transition-all hover:border-[#1e3a6e]">
                 <div>
                   <span className="inline-block rounded-full bg-[#F3EDE9] px-3.5 py-1 text-[12px] font-semibold text-[#54505B]">
                     কাজ, ফ্রিল্যান্সিং, ক্যারিয়ার
@@ -244,19 +244,19 @@ export default function EnglishLandingClient() {
                   </p>
                   <ul className="mt-6 space-y-2.5 text-[15px] text-[#1B1624]">
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>ইন্টারভিউ আর চাকরির কথা</span>
                     </li>
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>ক্লায়েন্ট কল, মেসেজ আর ইমেইল</span>
                     </li>
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>অফিস মিটিং আর সহকর্মীর সাথে কথা</span>
                     </li>
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>দোকান, ডাক্তার, ফোন, প্রতিদিনের সব</span>
                     </li>
                   </ul>
@@ -265,7 +265,7 @@ export default function EnglishLandingClient() {
                 <div className="mt-8 pt-6 border-t border-[#ECE5E1]">
                   <Link
                     href="/english/test"
-                    className="ali-pill-btn inline-flex items-center bg-[#1B1624] hover:bg-[#FD976D] text-white hover:text-[#1B1624] px-6 py-3 rounded-full text-[14px] font-semibold transition-all"
+                    className="ali-pill-btn inline-flex items-center bg-[#1B1624] hover:bg-[#162c54] text-white px-6 py-3 rounded-full text-[14px] font-semibold transition-all"
                   >
                     লেভেল টেস্ট দিন →
                   </Link>
@@ -273,7 +273,7 @@ export default function EnglishLandingClient() {
               </div>
 
               {/* Card 2 */}
-              <div className="ali-card flex flex-col justify-between rounded-[24px] border border-[#ECE5E1] bg-white p-8 sm:p-10 transition-all hover:border-[#FD976D]">
+              <div className="ali-card flex flex-col justify-between rounded-[24px] border border-[#ECE5E1] bg-white p-8 sm:p-10 transition-all hover:border-[#1e3a6e]">
                 <div>
                   <span className="inline-block rounded-full bg-[#F3EDE9] px-3.5 py-1 text-[12px] font-semibold text-[#54505B]">
                     বিদেশে পড়তে যাবেন
@@ -286,19 +286,19 @@ export default function EnglishLandingClient() {
                   </p>
                   <ul className="mt-6 space-y-2.5 text-[15px] text-[#1B1624]">
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>IELTS Speaking, এক্সামিনারের সাথে প্র্যাকটিস</span>
                     </li>
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>Listening, Reading আর Writing টাস্ক</span>
                     </li>
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>মাসে মক টেস্ট</span>
                     </li>
                     <li className="flex items-start gap-2.5">
-                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                      <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                       <span>ভার্সিটি, ভিসা ইন্টারভিউ আর বিদেশের জীবন</span>
                     </li>
                   </ul>
@@ -307,7 +307,7 @@ export default function EnglishLandingClient() {
                 <div className="mt-8 pt-6 border-t border-[#ECE5E1]">
                   <Link
                     href="/english/test?goal=ielts"
-                    className="ali-pill-btn inline-flex items-center bg-[#1B1624] hover:bg-[#FD976D] text-white hover:text-[#1B1624] px-6 py-3 rounded-full text-[14px] font-semibold transition-all"
+                    className="ali-pill-btn inline-flex items-center bg-[#1B1624] hover:bg-[#162c54] text-white px-6 py-3 rounded-full text-[14px] font-semibold transition-all"
                   >
                     IELTS লেভেল টেস্ট দিন →
                   </Link>
@@ -362,9 +362,9 @@ export default function EnglishLandingClient() {
               ].map((card) => (
                 <div
                   key={card.num}
-                  className="ali-card rounded-[20px] border border-[#ECE5E1] bg-white p-8 transition-all hover:border-[#FD976D]"
+                  className="ali-card rounded-[20px] border border-[#ECE5E1] bg-white p-8 transition-all hover:border-[#1e3a6e]"
                 >
-                  <div className="ledger-num text-[38px] leading-none text-[#FD976D]">
+                  <div className="ledger-num text-[38px] leading-none text-[#1e3a6e]">
                     {card.num}
                   </div>
                   <h3 className="mt-4 text-[22px] font-bold text-[#1B1624]">{card.title}</h3>
@@ -372,7 +372,7 @@ export default function EnglishLandingClient() {
                   <ul className="mt-5 space-y-2 border-t border-[#ECE5E1] pt-5 text-[14px] text-[#1B1624]">
                     {card.bullets.map((b) => (
                       <li key={b} className="flex items-start gap-2">
-                        <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#FD976D] shrink-0" />
+                        <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#1e3a6e] shrink-0" />
                         <span>{b}</span>
                       </li>
                     ))}
@@ -412,7 +412,7 @@ export default function EnglishLandingClient() {
                   key={stat.num}
                   className="rounded-[20px] border border-white/10 bg-white/5 p-6 sm:p-8"
                 >
-                  <div className="ledger-num text-[38px] sm:text-[44px] leading-none text-[#FD976D]">
+                  <div className="ledger-num text-[38px] sm:text-[44px] leading-none text-[#1e3a6e]">
                     {stat.num}
                   </div>
                   <p className="mt-2.5 text-[14px] sm:text-[15px] text-white/80">{stat.label}</p>
@@ -439,8 +439,8 @@ export default function EnglishLandingClient() {
                 <label
                   className={`flex items-center justify-between gap-3 rounded-[16px] border p-4 cursor-pointer transition-colors ${
                     plan === "lifetime"
-                      ? "border-[#FD976D] bg-[#FD976D]/10"
-                      : "border-[#ECE5E1] bg-white hover:border-[#FD976D]/60"
+                      ? "border-[#1e3a6e] bg-[#1e3a6e]/10"
+                      : "border-[#ECE5E1] bg-white hover:border-[#1e3a6e]/60"
                   }`}
                 >
                   <div className="flex items-center gap-3">
@@ -470,8 +470,8 @@ export default function EnglishLandingClient() {
                 <label
                   className={`flex items-center justify-between gap-3 rounded-[16px] border p-4 cursor-pointer transition-colors ${
                     plan === "monthly"
-                      ? "border-[#FD976D] bg-[#FD976D]/10"
-                      : "border-[#ECE5E1] bg-white hover:border-[#FD976D]/60"
+                      ? "border-[#1e3a6e] bg-[#1e3a6e]/10"
+                      : "border-[#ECE5E1] bg-white hover:border-[#1e3a6e]/60"
                   }`}
                 >
                   <div className="flex items-center gap-3">
@@ -501,7 +501,7 @@ export default function EnglishLandingClient() {
                     required
                     value={name}
                     onChange={(e) => setName(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
 
@@ -514,7 +514,7 @@ export default function EnglishLandingClient() {
                     required
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
 
@@ -528,13 +528,13 @@ export default function EnglishLandingClient() {
                     minLength={8}
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
-                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#FD976D] focus:outline-none"
+                    className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] text-[#1B1624] focus:border-[#1e3a6e] focus:outline-none"
                   />
                 </div>
 
                 <button
                   type="submit"
-                  className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
+                  className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold transition-all hover:-translate-y-0.5 cursor-pointer"
                 >
                   {plan === "lifetime" ? "Pay 10,000 BDT" : "Pay 900 BDT"}
                 </button>
@@ -554,7 +554,7 @@ export default function EnglishLandingClient() {
                 আগেই অ্যাকাউন্ট আছে?{" "}
                 <Link
                   href="/english/login"
-                  className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]"
+                  className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]"
                 >
                   লগইন করুন
                 </Link>
@@ -576,7 +576,7 @@ export default function EnglishLandingClient() {
                 return (
                   <div
                     key={item.q}
-                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#FD976D]"
+                    className="rounded-[20px] border border-[#ECE5E1] bg-white overflow-hidden transition-colors hover:border-[#1e3a6e]"
                   >
                     <button
                       type="button"
@@ -618,7 +618,7 @@ export default function EnglishLandingClient() {
                   e.preventDefault();
                   selectPlan("lifetime");
                 }}
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 rounded-full text-[14px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 rounded-full text-[14px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 10,000 BDT / Lifetime
               </a>
@@ -634,7 +634,7 @@ export default function EnglishLandingClient() {
               </a>
               <Link
                 href="/english/test"
-                className="inline-flex items-center text-[15px] font-medium text-white underline decoration-white/40 underline-offset-4 hover:text-[#FD976D] px-3 py-2 transition-colors"
+                className="inline-flex items-center text-[15px] font-medium text-white underline decoration-white/40 underline-offset-4 hover:text-[#1e3a6e] px-3 py-2 transition-colors"
               >
                 আগে লেভেল টেস্ট দিন
               </Link>

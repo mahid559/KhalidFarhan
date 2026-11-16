@@ -36,13 +36,13 @@ export default function YapcorderLoginClient() {
                 placeholder="you@email.com"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#FD976D] focus:outline-none"
+                className="w-full rounded-[12px] border border-[#ECE5E1] bg-[#F9F6F3] px-4 py-3 text-[15px] focus:border-[#1e3a6e] focus:outline-none"
               />
             </div>
 
             <button
               type="submit"
-              className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3.5 text-[15px] font-semibold cursor-pointer"
+              className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3.5 text-[15px] font-semibold cursor-pointer"
             >
               Send sign-in link
             </button>
@@ -55,7 +55,7 @@ export default function YapcorderLoginClient() {
           )}
 
           <div className="mt-6 text-[14px]">
-            <Link href="/yapcorder" className="font-semibold text-[#1B1624] underline hover:text-[#FD976D]">
+            <Link href="/yapcorder" className="font-semibold text-[#1B1624] underline hover:text-[#1e3a6e]">
               ← Back to Yapcorder
             </Link>
           </div>

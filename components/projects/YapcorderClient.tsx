@@ -76,7 +76,7 @@ export default function YapcorderClient() {
         {/* 1. HERO */}
         <section className="border-b border-[#ECE5E1] py-14 sm:py-20 text-center">
           <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#FD976D]">
+            <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#1e3a6e]">
               YAPCORDER
             </p>
             <h1 className="display-l mt-3 text-[44px] sm:text-[58px] lg:text-[66px] text-[#1B1624] max-w-4xl mx-auto">
@@ -89,7 +89,7 @@ export default function YapcorderClient() {
             <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
               <a
                 href="#try"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Try 60 minutes free →
               </a>
@@ -149,7 +149,7 @@ export default function YapcorderClient() {
                   className="rounded-[24px] border border-[#ECE5E1] bg-white p-6 sm:p-8"
                 >
                   <div className="flex items-baseline gap-3 mb-4">
-                    <span className="ledger-num text-[28px] text-[#FD976D]">{item.step}</span>
+                    <span className="ledger-num text-[28px] text-[#1e3a6e]">{item.step}</span>
                     <h3 className="text-[20px] font-bold text-[#1B1624]">{item.title}</h3>
                   </div>
                   <p className="text-[15px] text-[#54505B] mb-5">{item.desc}</p>
@@ -251,9 +251,9 @@ export default function YapcorderClient() {
               </div>
 
               {/* Pro */}
-              <div className="rounded-[28px] border-2 border-[#FD976D] bg-white p-8 flex flex-col justify-between shadow-sm">
+              <div className="rounded-[28px] border-2 border-[#1e3a6e] bg-white p-8 flex flex-col justify-between shadow-sm">
                 <div>
-                  <div className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#FD976D]">
+                  <div className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#1e3a6e]">
                     PRO
                   </div>
                   <div className="mt-2 flex items-baseline gap-1">
@@ -285,7 +285,7 @@ export default function YapcorderClient() {
                   />
                   <button
                     type="submit"
-                    className="ali-pill-btn w-full rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] py-3 text-[14px] font-semibold cursor-pointer"
+                    className="ali-pill-btn w-full rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white py-3 text-[14px] font-semibold cursor-pointer"
                   >
                     GET PRO FOR $10
                   </button>
@@ -364,7 +364,7 @@ export default function YapcorderClient() {
               />
               <button
                 type="submit"
-                className="ali-pill-btn rounded-full bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-7 py-3.5 text-[14px] font-semibold cursor-pointer shrink-0"
+                className="ali-pill-btn rounded-full bg-[#1e3a6e] hover:bg-[#162c54] text-white px-7 py-3.5 text-[14px] font-semibold cursor-pointer shrink-0"
               >
                 START MY FREE TRIAL
               </button>

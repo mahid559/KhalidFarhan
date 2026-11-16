@@ -23,8 +23,8 @@ const TABS: PillarTab[] = [
     id: "get-found",
     title: "Get found",
     line: "When someone searches for what you sell, on Google or in ChatGPT, they should find you first.",
-    hoverColor: "#FD976D", // Card 1: Orange
-    badgeColor: "#FD976D",
+    hoverColor: "#1e3a6e", // Card 1: Primary Blue
+    badgeColor: "#1e3a6e",
     links: [
       { label: "SEO", href: "/services/seo" },
       { label: "Generative Engine Optimisation", href: "/services/geo" },

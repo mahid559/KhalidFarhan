@@ -84,7 +84,7 @@ export default function LongestRoadClient() {
                   alt="Longest Road app icon"
                   className="h-16 w-16 rounded-[16px] border border-[#ECE5E1] shadow-sm"
                 />
-                <span className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#FD976D]">
+                <span className="text-[12px] font-bold uppercase tracking-[0.12em] text-[#1e3a6e]">
                   IOS APP FOR CATAN GROUPS
                 </span>
               </div>
@@ -101,7 +101,7 @@ export default function LongestRoadClient() {
                   href="https://apps.apple.com/app/id6825272474"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                  className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
                 >
                   Get it on the App Store →
                 </a>
@@ -150,7 +150,7 @@ export default function LongestRoadClient() {
                         className={`rounded-full px-4 py-1.5 text-[13px] font-semibold transition-colors cursor-pointer ${
                           selectedWinner === p.name
                             ? "bg-[#1B1624] text-white"
-                            : "bg-[#F3EDE9] text-[#54505B] hover:bg-[#FD976D]/30"
+                            : "bg-[#F3EDE9] text-[#54505B] hover:bg-[#1e3a6e]/30"
                         }`}
                       >
                         {p.name}
@@ -159,7 +159,7 @@ export default function LongestRoadClient() {
                     <button
                       type="button"
                       onClick={handleSaveGame}
-                      className="ml-auto rounded-full bg-[#FD976D] hover:bg-[#FC8555] px-5 py-1.5 text-[13px] font-semibold text-[#1B1624] cursor-pointer"
+                      className="ml-auto rounded-full bg-[#1e3a6e] hover:bg-[#162c54] px-5 py-1.5 text-[13px] font-semibold text-[#1B1624] cursor-pointer"
                     >
                       Save
                     </button>
@@ -340,16 +340,16 @@ export default function LongestRoadClient() {
                 href="https://apps.apple.com/app/id6825272474"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Get it on the App Store →
               </a>
             </div>
             <div className="mt-6 flex justify-center gap-6 text-[13px] text-white/70">
-              <Link href="/contact" className="underline hover:text-[#FD976D]">
+              <Link href="/contact" className="underline hover:text-[#1e3a6e]">
                 Support
               </Link>
-              <Link href="/privacy-policy" className="underline hover:text-[#FD976D]">
+              <Link href="/privacy-policy" className="underline hover:text-[#1e3a6e]">
                 Privacy
               </Link>
             </div>

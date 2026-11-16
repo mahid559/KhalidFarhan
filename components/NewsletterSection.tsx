@@ -19,7 +19,7 @@ export default function NewsletterSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.2 }}
           transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
-          className="relative bg-white border border-[#ECE5E1] rounded-[32px] p-8 sm:p-14 text-center space-y-8 overflow-hidden shadow-2xs hover:border-[#FD976D]/60 transition-colors"
+          className="relative bg-white border border-[#ECE5E1] rounded-[32px] p-8 sm:p-14 text-center space-y-8 overflow-hidden shadow-2xs hover:border-[#1e3a6e]/60 transition-colors"
         >
           
           {/* Heading & Subtitle (Exact KF Section 8 copy) */}

@@ -88,7 +88,7 @@ function HeroSection({ section }: { section: PageSection }) {
 
             <div className="space-y-3">
               {eyebrow && (
-                <p className="text-sm font-bold text-[#FD976D] tracking-wide">{eyebrow}</p>
+                <p className="text-sm font-bold text-[#1e3a6e] tracking-wide">{eyebrow}</p>
               )}
               <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight">
                 {mainHeadline}
@@ -110,7 +110,7 @@ function HeroSection({ section }: { section: PageSection }) {
                   <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm text-[#54505B]">
                     {fitList.items.map((item, idx) => (
                       <li key={idx} className="flex items-start gap-2">
-                        <span className="text-[#FD976D] font-bold">✓</span>
+                        <span className="text-[#1e3a6e] font-bold">✓</span>
                         <span>{item.text}</span>
                       </li>
                     ))}
@@ -127,8 +127,8 @@ function HeroSection({ section }: { section: PageSection }) {
                     href={l.href}
                     className={
                       idx === 0
-                        ? "ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-6 py-3"
-                        : "text-sm font-semibold text-[#1B1624] underline underline-offset-4 hover:text-[#FD976D]"
+                        ? "ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-6 py-3"
+                        : "text-sm font-semibold text-[#1B1624] underline underline-offset-4 hover:text-[#1e3a6e]"
                     }
                   >
                     {l.text}
@@ -215,7 +215,7 @@ function CaseStudyProofSection({ section }: { section: PageSection }) {
                   <div className="space-y-2">
                     <h3 className="text-xl font-bold text-[#1B1624] leading-snug">{lines[0]}</h3>
                     {lines.slice(1).map((line, i) => (
-                      <p key={i} className="text-sm text-[#54505B] group-hover:text-[#1B1624]/85">
+                      <p key={i} className="text-sm text-[#54505B] group-hover:text-white/85">
                         {line}
                       </p>
                     ))}
@@ -341,7 +341,7 @@ function ProcessSection({ section }: { section: PageSection }) {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {ol.items.map((item, idx) => (
                 <div key={idx} className="bg-white border border-[#ECE5E1] rounded-[24px] p-6 space-y-2 shadow-2xs">
-                  <div className="text-xs font-bold text-[#FD976D] uppercase tracking-wider">
+                  <div className="text-xs font-bold text-[#1e3a6e] uppercase tracking-wider">
                     0{idx + 1}
                   </div>
                   <p className="text-sm sm:text-base text-[#1B1624] leading-relaxed whitespace-pre-line">
@@ -360,7 +360,7 @@ function ProcessSection({ section }: { section: PageSection }) {
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
                 {steps.map((st, idx) => (
                   <div key={idx} className="bg-white border border-[#ECE5E1] rounded-[24px] p-6 space-y-2">
-                    <span className="ledger-num text-2xl text-[#FD976D]">{st.num}</span>
+                    <span className="ledger-num text-2xl text-[#1e3a6e]">{st.num}</span>
                     <h4 className="text-lg font-bold text-[#1B1624]">{st.title}</h4>
                     {st.desc && <p className="text-sm text-[#54505B] leading-relaxed">{st.desc}</p>}
                   </div>
@@ -416,8 +416,8 @@ function FounderAccessSection({ section }: { section: PageSection }) {
                     href={l.href}
                     className={
                       idx === 0
-                        ? "ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-6 py-3"
-                        : "text-sm font-semibold text-[#1B1624] underline underline-offset-4 hover:text-[#FD976D]"
+                        ? "ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-6 py-3"
+                        : "text-sm font-semibold text-[#1B1624] underline underline-offset-4 hover:text-[#1e3a6e]"
                     }
                   >
                     {l.text}
@@ -493,7 +493,7 @@ function LocationsAndRelatedSection({ section }: { section: PageSection }) {
                     <Link
                       key={lIdx}
                       href={l.href}
-                      className="ali-pill-btn bg-white hover:bg-[#FD976D] text-[#1B1624] border border-[#ECE5E1] hover:border-[#FD976D] text-sm px-5 py-2.5"
+                      className="ali-pill-btn bg-white hover:bg-[#1e3a6e] hover:text-white border border-[#ECE5E1] hover:border-[#1e3a6e] text-sm px-5 py-2.5"
                     >
                       {l.text}
                     </Link>
@@ -512,7 +512,7 @@ function LocationsAndRelatedSection({ section }: { section: PageSection }) {
                         <div className="space-y-2">
                           <h3 className="text-lg font-bold text-[#1B1624]">{lines[0]}</h3>
                           {lines.slice(1).map((line, rIdx) => (
-                            <p key={rIdx} className="text-sm text-[#54505B] group-hover:text-[#1B1624]/85">
+                            <p key={rIdx} className="text-sm text-[#54505B] group-hover:text-white/85">
                               {line}
                             </p>
                           ))}
@@ -538,7 +538,7 @@ function BottomCtaSection({ section }: { section: PageSection }) {
   return (
     <section className="py-16 sm:py-20 bg-[#F9F6F3]">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-white border border-[#ECE5E1] rounded-[36px] p-10 sm:p-14 text-center space-y-8 shadow-xs hover:border-[#FD976D] transition-colors">
+        <div className="bg-white border border-[#ECE5E1] rounded-[36px] p-10 sm:p-14 text-center space-y-8 shadow-xs hover:border-[#1e3a6e] transition-colors">
           {h2 && <h2 className="heading-lg text-3xl sm:text-4xl text-[#1B1624]">{h2.text}</h2>}
           <div className="flex flex-wrap justify-center gap-4">
             {links.map((l, idx) => (
@@ -547,7 +547,7 @@ function BottomCtaSection({ section }: { section: PageSection }) {
                 href={l.href}
                 className={
                   idx === 0
-                    ? "ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-7 py-3.5"
+                    ? "ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-7 py-3.5"
                     : "ali-pill-btn bg-[#F9F6F3] hover:bg-[#ECE5E1] text-[#1B1624] border border-[#ECE5E1] text-sm px-7 py-3.5"
                 }
               >

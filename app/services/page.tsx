@@ -144,7 +144,7 @@ export default function ServicesPage() {
             <div className="mt-8">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Get a Free Marketing Audit →
               </Link>
@@ -170,13 +170,13 @@ export default function ServicesPage() {
                   <Link
                     key={item.href}
                     href={item.href}
-                    className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 sm:p-8 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#FD976D] hover:border-[#FD976D]"
+                    className="group ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 sm:p-8 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:bg-[#1e3a6e] hover:border-[#1e3a6e] hover:text-white"
                   >
                     <div>
-                      <h3 className="text-[20px] font-bold text-[#1B1624] group-hover:text-[#1B1624]">
+                      <h3 className="text-[20px] font-bold text-[#1B1624] group-hover:text-white">
                         {item.title}
                       </h3>
-                      <p className="mt-3 text-[15px] leading-relaxed text-[#54505B] group-hover:text-[#1B1624]/90">
+                      <p className="mt-3 text-[15px] leading-relaxed text-[#54505B] group-hover:text-white/90">
                         {item.desc}
                       </p>
                     </div>
@@ -199,7 +199,7 @@ export default function ServicesPage() {
             <div className="mt-8">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Get a Free Marketing Audit →
               </Link>

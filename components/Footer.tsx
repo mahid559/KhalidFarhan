@@ -41,7 +41,7 @@ export default function Footer() {
                 <p>Dublin, Ireland</p>
                 <a
                   href={`mailto:${footer.email}`}
-                  className="text-[#FD976D] hover:underline font-semibold"
+                  className="text-[#1e3a6e] hover:underline font-semibold"
                 >
                   {footer.email}
                 </a>
@@ -58,7 +58,7 @@ export default function Footer() {
               {footer.partnerBadges.map((badge, idx) => (
                 <span
                   key={idx}
-                  className="inline-flex items-center gap-1.5 bg-white border border-[#ECE5E1] px-3 py-1 rounded-full text-[11px] font-bold text-[#1B1624] shadow-2xs hover:border-[#FD976D] transition-colors"
+                  className="inline-flex items-center gap-1.5 bg-white border border-[#ECE5E1] px-3 py-1 rounded-full text-[11px] font-bold text-[#1B1624] shadow-2xs hover:border-[#1e3a6e] transition-colors"
                 >
                   <Award className="w-3 h-3 text-[#5DCDF1]" />
                   <span>{badge}</span>

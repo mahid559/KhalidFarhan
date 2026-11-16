@@ -57,7 +57,7 @@ export default function ProjectsClient({
               { num: "8+", label: "YEARS EXPERIENCE" },
             ].map((s) => (
               <div key={s.label}>
-                <div className="ledger-num text-[38px] sm:text-[44px] leading-none text-[#FD976D]">
+                <div className="ledger-num text-[38px] sm:text-[44px] leading-none text-[#1e3a6e]">
                   {s.num}
                 </div>
                 <div className="mt-2 text-[12px] font-bold uppercase tracking-[0.08em] text-white/75">
@@ -82,7 +82,7 @@ export default function ProjectsClient({
                     className={`rounded-full px-4 py-1.5 text-[13px] font-semibold transition-colors cursor-pointer ${
                       active
                         ? "bg-[#1B1624] text-white"
-                        : "bg-white border border-[#ECE5E1] text-[#54505B] hover:border-[#FD976D]"
+                        : "bg-white border border-[#ECE5E1] text-[#54505B] hover:border-[#1e3a6e]"
                     }`}
                   >
                     {tag}
@@ -95,7 +95,7 @@ export default function ProjectsClient({
               {filtered.map((proj) => (
                 <div
                   key={proj.title + proj.year}
-                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-colors hover:border-[#FD976D]"
+                  className="ali-card rounded-[24px] border border-[#ECE5E1] bg-white p-7 flex flex-col justify-between transition-colors hover:border-[#1e3a6e]"
                 >
                   <div>
                     <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-[0.08em] text-[#76737C]">
@@ -134,7 +134,7 @@ export default function ProjectsClient({
             <div className="mt-6">
               <Link
                 href="/work/case-studies"
-                className="ali-pill-btn inline-flex items-center bg-[#1B1624] hover:bg-[#FD976D] text-white hover:text-[#1B1624] px-7 py-3 rounded-full text-[14px] font-semibold transition-all"
+                className="ali-pill-btn inline-flex items-center bg-[#1B1624] hover:bg-[#162c54] text-white px-7 py-3 rounded-full text-[14px] font-semibold transition-all"
               >
                 View Case Studies →
               </Link>
@@ -151,7 +151,7 @@ export default function ProjectsClient({
             <div className="mt-8">
               <Link
                 href="/agency/free-marketing-audit"
-                className="ali-pill-btn inline-flex items-center bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
+                className="ali-pill-btn inline-flex items-center bg-[#1e3a6e] hover:bg-[#162c54] text-white px-8 py-3.5 rounded-full text-[15px] font-semibold transition-all hover:-translate-y-0.5"
               >
                 Get a Free Marketing Audit →
               </Link>

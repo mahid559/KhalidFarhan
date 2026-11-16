@@ -40,7 +40,7 @@ function ArticleHeader({ section }: { section: PageSection }) {
     <section className="py-14 sm:py-20 border-b border-[#ECE5E1] bg-[#F9F6F3]">
       <div className="max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 space-y-6">
         {category && (
-          <p className="text-xs font-bold uppercase tracking-wider text-[#FD976D]">{category.text}</p>
+          <p className="text-xs font-bold uppercase tracking-wider text-[#1e3a6e]">{category.text}</p>
         )}
         {h1 && (
           <h1 className="heading-xl text-4xl sm:text-5xl lg:text-6xl text-[#1B1624] tracking-tight max-w-4xl">
@@ -52,7 +52,7 @@ function ArticleHeader({ section }: { section: PageSection }) {
             KF
           </span>
           {authorLink && (
-            <Link href={authorLink.href} className="font-semibold text-[#1B1624] hover:text-[#FD976D]">
+            <Link href={authorLink.href} className="font-semibold text-[#1B1624] hover:text-[#1e3a6e]">
               {authorLink.text}
             </Link>
           )}
@@ -158,7 +158,7 @@ function ArticleBodyWithSidebar({
                 return (
                   <blockquote
                     key={idx}
-                    className="bg-white border-l-4 border-[#FD976D] rounded-r-2xl p-6 text-base sm:text-lg text-[#1B1624] italic leading-relaxed"
+                    className="bg-white border-l-4 border-[#1e3a6e] rounded-r-2xl p-6 text-base sm:text-lg text-[#1B1624] italic leading-relaxed"
                   >
                     {b.text}
                   </blockquote>
@@ -176,7 +176,7 @@ function ArticleBodyWithSidebar({
                     {b.items.map((item, i) => (
                       <li key={i}>
                         {item.href ? (
-                          <SmartLink href={item.href} className="text-[#1B1624] underline hover:text-[#FD976D]">
+                          <SmartLink href={item.href} className="text-[#1B1624] underline hover:text-[#1e3a6e]">
                             {item.text}
                           </SmartLink>
                         ) : (
@@ -232,7 +232,7 @@ function ArticleBodyWithSidebar({
                   <div key={idx} className="pt-2">
                     <SmartLink
                       href={b.href}
-                      className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-6 py-3"
+                      className="ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-6 py-3"
                     >
                       {b.text}
                     </SmartLink>
@@ -262,7 +262,7 @@ function ArticleBodyWithSidebar({
                   KF
                 </span>
                 <div className="space-y-1">
-                  <Link href="/insights/author/khalid-farhan" className="text-base font-bold text-[#1B1624] hover:text-[#FD976D]">
+                  <Link href="/insights/author/khalid-farhan" className="text-base font-bold text-[#1B1624] hover:text-[#1e3a6e]">
                     {authorName}
                   </Link>
                   {authorBio && <p className="text-sm text-[#54505B] leading-relaxed">{authorBio}</p>}
@@ -274,13 +274,13 @@ function ArticleBodyWithSidebar({
           {/* Right 4 Cols: Sticky Sidebar (Free Audit Card + Related Articles) */}
           <aside className="lg:col-span-4 space-y-6 lg:sticky lg:top-8">
             <div className="bg-white border border-[#ECE5E1] rounded-[24px] p-6 sm:p-8 space-y-4 shadow-xs">
-              <p className="text-xs font-bold uppercase tracking-wider text-[#FD976D]">Free audit</p>
+              <p className="text-xs font-bold uppercase tracking-wider text-[#1e3a6e]">Free audit</p>
               <p className="text-lg font-bold text-[#1B1624] leading-snug">
                 {auditHeading || "Get a free marketing audit for your business."}
               </p>
               <Link
                 href={auditLink?.href || "/agency/free-marketing-audit"}
-                className="w-full ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm py-3"
+                className="w-full ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm py-3"
               >
                 {auditLink?.text || "Book Now"}
               </Link>
@@ -301,7 +301,7 @@ function ArticleBodyWithSidebar({
                         className="group ali-card ali-article-card block bg-white border border-[#ECE5E1] rounded-[20px] p-5 space-y-1.5"
                       >
                         {lines.length > 1 && (
-                          <span className="text-[11px] font-bold uppercase tracking-wider text-[#FD976D] group-hover:text-[#1B1624]">
+                          <span className="text-[11px] font-bold uppercase tracking-wider text-[#1e3a6e] group-hover:text-white">
                             {lines[0]}
                           </span>
                         )}
@@ -346,13 +346,13 @@ export default function ArticleDetailView({ page }: { page: CrawledPage }) {
         {bottomCtaSec && (
           <section className="py-16 sm:py-20 bg-[#F9F6F3]">
             <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="bg-white border border-[#ECE5E1] rounded-[36px] p-10 sm:p-14 text-center space-y-6 shadow-xs hover:border-[#FD976D] transition-colors">
+              <div className="bg-white border border-[#ECE5E1] rounded-[36px] p-10 sm:p-14 text-center space-y-6 shadow-xs hover:border-[#1e3a6e] transition-colors">
                 {ctaH2 && <h2 className="heading-lg text-3xl sm:text-4xl text-[#1B1624]">{ctaH2.text}</h2>}
                 {ctaLink && (
                   <div>
                     <Link
                       href={ctaLink.href}
-                      className="ali-pill-btn bg-[#FD976D] hover:bg-[#FC8555] text-[#1B1624] text-sm px-7 py-3.5"
+                      className="ali-pill-btn bg-[#1e3a6e] hover:bg-[#162c54] text-white text-sm px-7 py-3.5"
                     >
                       {ctaLink.text}
                     </Link>
